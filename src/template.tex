@@ -1,0 +1,48 @@
+\documentclass[letterpaper,12pt,oneside,openany]{book}
+
+% \usepackage{sbl-paper}
+
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage[hidelinks]{hyperref}
+\usepackage[hmargin=1.25in,vmargin=1in]{geometry}
+\usepackage[style=sbl,indexing=cite,backend=biber]{biblatex}
+
+\setmainfont{Linux Libertine}
+
+$for(bibliography)$
+\addbibresource{$bibliography$}
+$endfor$
+
+
+\begin{document}
+
+
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+
+% \maketitle
+
+\frontmatter
+
+\mainmatter
+\setstretch{1.9}
+
+% Pandoc injects content here
+$body$
+
+
+\backmatter
+
+\setstretch{1}
+\printbibliography[heading=bibintoc]
+
+\end{document}
