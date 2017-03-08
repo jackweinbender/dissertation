@@ -66,6 +66,7 @@ clean:
 
 format:
 	@ biber --tool --nolog --quiet \
+	--strip-comments \
 	--output-fieldcase=lower \
 	--output-field-order=[title] \
 	-O $(bib_file) \
