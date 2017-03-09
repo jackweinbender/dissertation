@@ -10,6 +10,10 @@
 
 \setmainfont{Linux Libertine}
 
+% Pandoc compatability
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  
 $for(bibliography)$
 \addbibresource{$bibliography$}
 $endfor$
