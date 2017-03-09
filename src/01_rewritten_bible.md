@@ -5,8 +5,10 @@
 
 1. Vermes and RwB [@vermes1961; vermes:2014]
     * Context and goals
-    * Texts
-    * Main argument vis-a-vis 2nd temple lit
+        * Rene Bloch?
+        * Bridge the gap between biblical and rabbinic lit
+        * Showed the continuity of tradition between the two
+    * Argument of _Scripture and Tradition_
 2. Major positions and discourses
     * Harrington [@harrington1986]
     * Crawford 
@@ -15,6 +17,8 @@
     * Bernstein
     * Segal
     * Machiela
+    * Brooke
+    * Teeter
     * Zahn
     * Campbell
 3. My move:
