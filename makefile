@@ -84,3 +84,6 @@ format-biber:
 	--output-resolve \
 	-O $(bib_file) \
 	$(bib_file)
+
+sync: 
+	git annex sync --content
