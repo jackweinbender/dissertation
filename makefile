@@ -13,7 +13,7 @@
 # Document specifics
 title = dissertation
 input_file = src/*.md
-bib_file = src/bibliography.bib
+bib_file = bib/bibliography.bib
 
 # Pandoc Commands
 pandoc=pandoc \
@@ -64,10 +64,23 @@ tex-clean:
 clean: 
 	@ rm -rf tmp*
 
-format:
+format: format-partials format-concat format-biber
+
+format-partials:
+	@ find bib -name "_*.bib" -exec \
+	biber --tool --nolog --quiet \
+	--output-align \
+	--output-fieldcase=lower \
+	-O {} {} \;
+
+format-concat:
+	@ rm -rf $(bib_file) && \
+	cat bib/*.bib > $(bib_file)
+
+format-biber: 
 	@ biber --tool --nolog --quiet \
 	--strip-comments \
 	--output-fieldcase=lower \
-	--output-field-order=[title] \
+	--output-resolve \
 	-O $(bib_file) \
 	$(bib_file)
