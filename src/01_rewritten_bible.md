@@ -18,9 +18,11 @@
 [@harrington:kraft-nickelsburg1986]
 
 ### Alexander
+
 [@alexander:carsonwilliamson1988]
 
-    <!--* Crawford 
+<!--
+    * Crawford 
     * Tov
     * Fitzmyer
     * Bernstein
@@ -29,11 +31,14 @@
     * Brooke
     * Teeter
     * Zahn
-    * Campbell-->
-<!--3. My move:
+    * Campbell
+-->
+<!--
+3. My move:
     * Limits of current discussion
         - Generic classification still lacks something (Category theory?)
         - Role of genre for reading strategy
         - What does genre tell us about a text, if not "how" to read it?
     * All of these still presuppose a *text* that is re*written* and thus focus on the relationship of these RwB texts to particular antecedents
-    * Need for different model-->
+    * Need for different model
+-->
