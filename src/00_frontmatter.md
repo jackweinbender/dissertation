@@ -1,5 +1,6 @@
 ---
 author: Jack L. Weinbender Jr.
 date: TBD
-title: Remembered Bible
+title: Remembering and Rewriting
+subtitle: Reframing Rewritten Bible through Memory Studies
 ---
