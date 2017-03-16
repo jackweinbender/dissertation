@@ -11,14 +11,14 @@
 ## Major positions and discourses
 
 ### Nicklesburg
-[@nickelsburg1984]
-[@kraftnickelsburg1986]
+[@nickelsburg:stone1984]
+[@kraft-nickelsburg1986]
 
 ### Harrington
-[@harrington1986]
+[@harrington:kraft-nickelsburg1986]
 
 ### Alexander
-[@alexander1988]
+[@alexander:carsonwilliamson1988]
 
     <!--* Crawford 
     * Tov
