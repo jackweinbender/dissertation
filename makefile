@@ -85,5 +85,16 @@ format-biber:
 	-O $(bib_file) \
 	$(bib_file)
 
-sync: 
-	git annex sync --content
+sync-push: 
+	@ echo 'Pushing files to Google Cloud Storage...' && \
+	gsutil -m rsync \
+	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
+	bib/files gs://jlw-dissertation/ && \
+	echo 'Done.'
+
+sync-pull: 
+	@ echo 'Retrieving files from Google Cloud Storage...' && \
+	gsutil -m rsync \
+	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
+	gs://jlw-dissertation/ bib/files && \
+	echo 'Done.'
