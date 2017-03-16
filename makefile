@@ -90,12 +90,12 @@ pull: git-pull gs-pull
 
 git-push:
 	@ echo 'Pushing to GitHub...' && \
-	git push origin --all && \
+	git push github --all && \
 	echo 'Done.'
 
 git-pull:
 	@ echo 'Pulling from GitHub...' && \
-	git pull origin && \
+	git pull github && \
 	echo 'Done.'
 
 gs-push: 
