@@ -85,14 +85,27 @@ format-biber:
 	-O $(bib_file) \
 	$(bib_file)
 
-sync-push: 
+push: git-push gs-push
+pull: git-pull gs-pull
+
+git-push:
+	@ echo 'Pushing to GitHub...' && \
+	git push origin --all && \
+	echo 'Done.'
+
+git-pull:
+	@ echo 'Pulling from GitHub...' && \
+	git pull origin && \
+	echo 'Done.'
+
+gs-push: 
 	@ echo 'Pushing files to Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
 	bib/files gs://jlw-dissertation/ && \
 	echo 'Done.'
 
-sync-pull: 
+gs-pull: 
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
