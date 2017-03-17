@@ -11,8 +11,10 @@
 ## Major positions and discourses
 
 ### Nicklesburg
+[@nickelsburg_stone1986]
 
 ### Harrington
+[@harrington_kraft-nickelsburg1986]
 
 ### Alexander
 
