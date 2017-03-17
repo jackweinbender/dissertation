@@ -11,24 +11,25 @@
 ## Major positions and discourses
 
 ### Nicklesburg
-[@nickelsburg:stone1984]
-[@kraft-nickelsburg1986]
 
 ### Harrington
-[@harrington:kraft-nickelsburg1986]
 
 ### Alexander
 
-[@alexander:carsonwilliamson1988]
+### Bernstein
+
+### Segal
+
+### Fitzmyer
+
+### Tov
+
+### Brooke
+
+### Crawford
 
 <!--
-    * Crawford 
-    * Tov
-    * Fitzmyer
-    * Bernstein
-    * Segal
     * Machiela
-    * Brooke
     * Teeter
     * Zahn
     * Campbell
