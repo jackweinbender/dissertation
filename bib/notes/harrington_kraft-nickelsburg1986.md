@@ -1,13 +1,5 @@
 ---
-file: harrington1986 - palestinian adaptations of biblical narratives.pdf
-bibtex: |
-    @incollection{harrington:kraft-nickelsburg1986,
-        title      = {Palestinian Adaptations of Biblical Narratives and Prophecies I: The Bible Rewritten (Narratives)},
-        shorttitle = {The Bible Rewritten (Narratives)},
-        author     = {Harrington, Daniel J.},
-        pages      = {239--247},
-        crossref   = {kraft-nickelsburg1986},
-    }
+citekey: harrington:kraft-nickelsburg1986
 ---
 
 Harrington adopts the term "rewritten bible" 
