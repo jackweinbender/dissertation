@@ -55,6 +55,7 @@ tex-pandoc:
 tex-build:
 	@ xelatex -no-pdf --output-directory=tmp tmp/$(title).tex && \
 	biber tmp/$(title) && \
+	xelatex -no-pdf --output-directory=tmp tmp/$(title).tex && \
 	xelatex --output-directory=tmp tmp/$(title).tex
 
 tex-clean:
@@ -80,6 +81,7 @@ format-concat:
 format-biber: 
 	@ biber --tool --nolog --quiet \
 	--strip-comments \
+	--output-align \
 	--output-fieldcase=lower \
 	--output-resolve \
 	-O $(bib_file) \
