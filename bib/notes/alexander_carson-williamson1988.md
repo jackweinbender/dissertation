@@ -2,9 +2,9 @@
 type:       incollection
 key:        alexander:carsonwilliamson1988
 author:     Alexander, Philip S.
-pages:      99--121
-shorttitle: Retelling the Old Testament
 title:      Retelling the Old Testament
+shorttitle: Retelling the Old Testament
+pages:      99--121
 crossref:   carson-williamson1988
 file:       [alexander_carson-williamson1988] - retelling the old testament.pdf
 ---
