@@ -1,12 +1,5 @@
 ---
-type:       incollection
-key:        alexander:carson-williamson1988
-author:     Alexander, Philip S.
-title:      Retelling the Old Testament
-shorttitle: Retelling the Old Testament
-pages:      99--121
-crossref:   carson-williamson1988
-file:       alexander_carson-williamson1988 - retelling the old testament.pdf
+citekey: alexander:carson-williamson1988
 ---
 
 Alexander's goal is to examine the use of the biblical text within the so-called RwB texts to determine whether they form a distinct genre and whether there exists a set of concrete criteria by which scholars can admit or exclude texts from the category [@99].
