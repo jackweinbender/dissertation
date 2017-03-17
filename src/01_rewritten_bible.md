@@ -11,16 +11,19 @@
 ## Major positions and discourses
 
 ### Nicklesburg
-[@nickelsburg_stone1986]
+[@nickelsburg_stone1984]
 
 ### Harrington
 [@harrington_kraft-nickelsburg1986]
 
 ### Alexander
+[@alexander_carson-williamson1988]
 
 ### Bernstein
+[@bernstein_textus2005]
 
 ### Segal
+[@segal_henze2005]
 
 ### Fitzmyer
 
