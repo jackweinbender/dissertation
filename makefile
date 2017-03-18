@@ -13,7 +13,7 @@
 # Document specifics
 title = dissertation
 input_file = src/*.md
-bib_file = bib/bibliography.bib
+bib_file = src/bib/bibliography.bib
 
 # Pandoc Commands
 pandoc=pandoc \
@@ -68,7 +68,7 @@ clean:
 format: format-partials format-concat format-biber
 
 format-partials:
-	@ find bib -name "_*.bib" -exec \
+	@ find src/bib -name "_*.bib" -exec \
 	biber --tool --nolog --quiet \
 	--output-align \
 	--output-fieldcase=lower \
@@ -76,7 +76,7 @@ format-partials:
 
 format-concat:
 	@ rm -rf $(bib_file) && \
-	cat bib/*.bib > $(bib_file)
+	cat src/bib/*.bib > $(bib_file)
 
 format-biber: 
 	@ biber --tool --nolog --quiet \
@@ -104,12 +104,12 @@ gs-push:
 	@ echo 'Pushing files to Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
-	bib/files gs://jlw-dissertation/ && \
+	src/bib/files gs://jlw-dissertation/ && \
 	echo 'Done.'
 
 gs-pull: 
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
-	gs://jlw-dissertation/ bib/files && \
+	gs://jlw-dissertation/ src/bib/files && \
 	echo 'Done.'
