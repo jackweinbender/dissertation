@@ -32,12 +32,20 @@
 ### Brooke
 
 ### Crawford
+[@crawford_eretz-israel1999]
+[@crawford2008]
 
-<!--
-    * Machiela
+### Machiela
+[@machiela_jjs2010]
+
+### Fraade
+[@fraade_bakhos2006]
+[@fraade_zsengeller2014]
+<!--* 
     * Teeter
     * Zahn
     * Campbell
+    * fraade
 -->
 <!--
 3. My move:
