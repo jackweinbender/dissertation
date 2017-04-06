@@ -106,7 +106,7 @@ Through a series of four case studies (Jubilees, Genesis Apocryphon, *Liber Anti
 
 
 
-## Emmanuel Tov (1998)[@tov_dsd1998]
+## Emmanuel Tov (1998)[@tov_dsd1998; @tov_krarrer-kraus2008]
 
 <!--Rewritten Bible Compositions and Biblical Manuscripts, with Special Attention to the Samaritan Pentateuch-->
 
