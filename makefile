@@ -87,8 +87,8 @@ format-biber:
 	-O $(bib_file) \
 	$(bib_file)
 
-push: git-push gs-push
-pull: git-pull gs-pull
+push: git-push gs-push-check gs-push
+pull: git-pull gs-pull-check gs-pull
 
 git-push:
 	@ echo 'Pushing to GitHub...' && \
@@ -100,12 +100,26 @@ git-pull:
 	git pull github master && \
 	echo 'Done.'
 
+gs-push-check: 
+	@ echo 'Checking with Google Cloud Storage...' && \
+	gsutil rsync \
+	-nrdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
+	src/bib/files gs://jlw-dissertation/ && \
+	read -p "Press enter to continue..."
+
 gs-push: 
 	@ echo 'Pushing files to Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
 	src/bib/files gs://jlw-dissertation/ && \
 	echo 'Done.'
+
+gs-pull-check: 
+	@ echo 'Retrieving files from Google Cloud Storage...' && \
+	gsutil rsync \
+	-nrdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
+	gs://jlw-dissertation/ src/bib/files && \
+	read -p "Press enter to continue..."
 
 gs-pull: 
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
