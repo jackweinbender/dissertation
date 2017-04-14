@@ -250,6 +250,13 @@ Segal offers a good starting point, but a number of his criteria/characteristics
 
 
 ### Brooke
+George Brooke offers a robust, if less specific, approach to RwB:
+
+> The term *Rewritten Bible* refers to any representation of an authoritative scriptural text that implicitly incorperates interpretive elements, large or small, in the retelling itself.
+
+While most scholars focus on the pentateuchal narrative  (and to a lesser degree the legal) material, Brooke has, perhaps more than anyone, pushed the boundary of the category to include rewritten texts from other parts of the Hebrew Bible including Rewritten Former and Latter Prophets, as well as Rewritten Writings.
+
+Brooke, therefore, takes a process-oriented approach. He does not limit the application of the term to narratives, and is more willing to accept texts of a variety of genres so long as their posture toward their "authoritative" *Vorlagen* is "centripetal" (to borrow Alexander's term') and their interpretive emendations are implicit, rather than explicit (as with the Pershers).
 
 
 ### Crawford
