@@ -247,7 +247,10 @@ Segal offers a good starting point, but a number of his criteria/characteristics
 
 ### Fitzmyer
 
+
+
 ### Brooke
+
 
 ### Crawford
 [@crawford_eretz-israel1999]
