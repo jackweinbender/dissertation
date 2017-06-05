@@ -285,6 +285,8 @@ Machiela affirms a number of important points about the term RwB. First, he make
 
 Machiela, ultimately, places himself within the "minimalists" camp, although, unlike Segal and Bernstien, he views RwB as a process, rather than a category.
 
+### Falk
+[@falk2007]
 
 ### Fraade
 [@fraade_bakhos2006]
