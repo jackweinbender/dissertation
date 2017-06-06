@@ -285,8 +285,13 @@ Machiela affirms a number of important points about the term RwB. First, he make
 
 Machiela, ultimately, places himself within the "minimalists" camp, although, unlike Segal and Bernstien, he views RwB as a process, rather than a category.
 
-### Falk
-[@falk2007]
+### Falk (2007)[@falk2007] 
+
+Daniel Falk's monograph approches the topic of Rewritten Bible from the broader category of "Parabiblical texts." While the term "Parabiblical" elsewhere has been used to designate texts related to but not derivative of some biblical text, Falk uses the term as an umbrella term in the same way the editors of the DJD series do, namely, as a category that includes any text that relates to a biblical text in some concrete way [@falk2007, 4]. 
+
+Although his focus is not specific to rewritten Bible, Falk makes a number of very helpful observations.
+
+
 
 ### Fraade
 [@fraade_bakhos2006]
