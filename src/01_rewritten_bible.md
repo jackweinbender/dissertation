@@ -259,9 +259,15 @@ While most scholars focus on the pentateuchal narrative  (and to a lesser degree
 Brooke, therefore, takes a process-oriented approach. He does not limit the application of the term to narratives, and is more willing to accept texts of a variety of genres so long as their posture toward their "authoritative" *Vorlagen* is "centripetal" (to borrow Alexander's term') and their interpretive emendations are implicit, rather than explicit (as with the Pershers).
 
 
-### Crawford
-[@crawford_eretz-israel1999]
-[@crawford2008]
+### Crawford (1999, 2008)[@crawford_eretz-israel1999; @crawford2008]
+
+Crawford offers a conventional approach to RwB and understands the term as a useful descriptor of a "group" of texts:
+
+> characterized by a close adherance to a recognizable and already authoritative base text (narrative or legal) and a recognizable degree of scribal intervention into that base text for the purpose of exegesis [@crawford2008, 12--13].
+
+Similar to Brooke's "sliding scale," Crawford imagines texts falling into a "spectrum" which has, on the one end, "authoritative" texts like the proto-MT and proto-SP text types. While these texts, (esp. SP) may exhibit some scribal interventions such as harmonization or ideological alterations, the texts that the scribes produced were intended to be text *editions*. Other texts, such as the RP represent a different location on this spectrum. While the scribe(s) of RP seem to have *intended* to produce a text that occupied the same authoritative space as the Pentateuch, the scribe overshot "by adding material not found in the base text into the reworked text" [@crawford2008, 13]. Yet, according to Crawford, there is little evidence that RP or texts like it achieved the authoritative status that they ostensibly aspired to. Further along the spectrum, Crawford places rewritten scriptural texts (her prefered term) which exhibit a recognizable scriptural origin, a clearly distinct purpose and *tendenz*, and a claim to divine inspiration or scriptural authority similar to its base text (e.g., Jubilees). Finally, at the far end of the spectrum are works that may use a scriptural base text, but whose connection to that text is more tenuous and does not seem to make any claims to scriptural authority (e.g., Genesis Apocryphon). Crawford places texts which use a scriptural text as a "jumping off point to create a new narrative or work" [@crawford2008, 14]---such as 1 Enoch or Joseph and Asanath---beyond the reach of her spectrum, labeling them "parabiblical."
+
+
 
 ### Daniel Machiela (2010)[@machiela_jjs2010]
 
