@@ -265,7 +265,23 @@ Crawford offers a conventional approach to RwB and understands the term as a use
 
 > characterized by a close adherance to a recognizable and already authoritative base text (narrative or legal) and a recognizable degree of scribal intervention into that base text for the purpose of exegesis [@crawford2008, 12--13].
 
+Her approach places the phenomenon of RwB within the context of ancient scribal practices:
+
+> focusing on two related phenomena, the process of the transmission or handling on (sic.) of what became known to later Judaism and Christianity as the "Bible" or the "biblical" text by the scribes of the Second Temple period and the methods used to interpret it for contemporary Jews [@crawford2008, 1].
+
+She ascribes the purpose of these rewritten texts to be "exegetical, that is, to explain or interpret the original text for a new (presumably later) audience, citing Deuteronomy and Chronicles as early examples of the tendency of scribes to "update" sacred texts. As for the role of scribal culture on the process, she offers a "two-fold role":
+
+> First, they had to copy te books of Scripture as exactly as ossible, with care for evey detail.... But second, they needed to make the text of Scripture adaptable and relevant to the conteporary situation [@crawford2008, 3].
+
+The changes to these scriptural texts, therefore, were "updates," and were primarily minor additions, such as glosses, but larger, more systematic adaptations, such as Deuteronomy, were also possible.
+
+#### Crawford's "Spectrum"
+
+Crawford observes the difficulties with Vermes' original term "rewritten Bible," pointing out that there was no "Bible" in the Second Temple period, and that the term "rewritten" also presumes a level of textual stability that did not exist in antiquity. Keeping in mind these caveeats, however, Crawford still finds use in grouping these texts under the (somewhat modified) rubric of "rewritten scriptural texts" or simply "Rewritten Scripture" [@crawford2008, 12].
+
 Similar to Brooke's "sliding scale," Crawford imagines texts falling into a "spectrum" which has, on the one end, "authoritative" texts like the proto-MT and proto-SP text types. While these texts, (esp. SP) may exhibit some scribal interventions such as harmonization or ideological alterations, the texts that the scribes produced were intended to be text *editions*. Other texts, such as the RP represent a different location on this spectrum. While the scribe(s) of RP seem to have *intended* to produce a text that occupied the same authoritative space as the Pentateuch, the scribe overshot "by adding material not found in the base text into the reworked text" [@crawford2008, 13]. Yet, according to Crawford, there is little evidence that RP or texts like it achieved the authoritative status that they ostensibly aspired to. Further along the spectrum, Crawford places rewritten scriptural texts (her prefered term) which exhibit a recognizable scriptural origin, a clearly distinct purpose and *tendenz*, and a claim to divine inspiration or scriptural authority similar to its base text (e.g., Jubilees). Finally, at the far end of the spectrum are works that may use a scriptural base text, but whose connection to that text is more tenuous and does not seem to make any claims to scriptural authority (e.g., Genesis Apocryphon). Crawford places texts which use a scriptural text as a "jumping off point to create a new narrative or work" [@crawford2008, 14]---such as 1 Enoch or Joseph and Asanath---beyond the reach of her spectrum, labeling them "parabiblical."
+
+I don't like Crawfords use of the "Spectrum"; but I can't quite articulate why. I think Machiela's multi-dimensional spectrum may be helpful, but still might not be enough.
 
 [@crawford_charlesworth1998; @crawford_charlesworth2000]
 <!-- Double check these refs -->
