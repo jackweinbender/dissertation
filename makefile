@@ -14,6 +14,7 @@
 title = dissertation
 input_file = src/*.md
 bib_file = src/bib/bibliography.bib
+tmp = build/.tmp
 
 # Pandoc Commands
 pandoc=pandoc \
@@ -28,7 +29,9 @@ pandoc-csl=$(pandoc) \
 
 default: format build
 
-build: setup doc odt tex clean
+build: setup doc odt
+
+build-all: setup doc odt tex clean
 
 setup:
 	@ rm -rf build &&\
@@ -47,22 +50,22 @@ tex: clean tex-pandoc tex-build tex-clean
 
 tex-pandoc:
 	@ echo "Building xelatex PDF..." && \
-	mkdir tmp && \
+	mkdir $(tmp) && \
 	$(pandoc) --biblatex --latex-engine=xelatex \
-	-o tmp/input.tex
+	-o $(tmp)/input.tex
 
 tex-build:
-	@ xelatex -no-pdf --output-directory=tmp src/$(title).tex && \
-	biber tmp/$(title) && \
-	xelatex -no-pdf --output-directory=tmp src/$(title).tex && \
-	xelatex --output-directory=tmp src/$(title).tex
+	@ xelatex -no-pdf --output-directory=$(tmp) src/$(title).tex && \
+	biber $(tmp)/$(title) && \
+	xelatex -no-pdf --output-directory=$(tmp) src/$(title).tex && \
+	xelatex --output-directory=$(tmp) src/$(title).tex
 
 tex-clean:
-	@ mv tmp/$(title).pdf build/$(title).pdf && \
-	rm -rf tmp
+	@ mv $(tmp)/$(title).pdf build/$(title).pdf && \
+	rm -rf $(tmp)
 
 clean: 
-	@ rm -rf tmp*
+	@ rm -rf $(tmp)*
 
 format: format-partials format-concat format-biber
 
