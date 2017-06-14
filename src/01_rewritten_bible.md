@@ -106,7 +106,7 @@ Through a series of four case studies (Jubilees, Genesis Apocryphon, *Liber Anti
 
 
 
-## Emmanuel Tov (1998)[@tov_dsd1998; @tov_krarrer-kraus2008]
+### Emmanuel Tov (1998)[@tov_dsd1998; @tov_krarrer-kraus2008]
 
 <!--Rewritten Bible Compositions and Biblical Manuscripts, with Special Attention to the Samaritan Pentateuch-->
 
@@ -128,7 +128,7 @@ I think it's important to think about what Tov is trying to accomplish in his ar
 
 I must say, Tov has convinced me that Bernstien was more correct than I could have imagined. I think it's best to simply not consider Tov's use of "rewritten" as a technical term; he uses it in its purely generic form, really. What Tov's articles have shown me, however, is that the issue of *intent* and authorial *purpose* really is at the heart of the distinction between text edition and RwB. Of course, this is not something that can be objectively proven, but it *must* factor into our conversation, even if we must settle for speculation. The result is that, e.g., 4QReworked Pent. should be understood as RwB insofar as we imagine the author attempting something *other* than creating a text edition of the Pentateuch. Presumably the author of GA did not imagine himself creating a new edition of Genesis; the same with Jubilees and Chronicles. The issue of whether the resultant text was used authoritatively after the fact is beside the point; what matters was weather the text was either intended to be, or from the reader's perspective, whether the text was treated as a copy of the text's *Vorlage*. And in the case of SP and LXX (and the Targums, I'd say), this seems to have been the case. Thus, it seems like these should not be treated as RwB.
 
-## Moshe Bernstein (2005)[@bernstein_textus2005]
+### Moshe Bernstein (2005)[@bernstein_textus2005]
 
 <!--Rewritten Bible: A Generic Category Which Has Outlived Its Usefulness?-->
 
@@ -144,7 +144,7 @@ Bernstein critiques scholars such as Nicklesburg[@], Harrington[@], and Brooke[@
 Bernstein, ultimately, argues that Vermes' category is worth keeping around, and admonishes the reader to maintain a narrow definition of the category, because, in his own words, "the more specific the implications of the term, the more valuable it is as a measuring device" [@bernstein_textus2005, 195], and conversely that "the loser the definition, the less precisely it classifies those items under its rubric" [@bernstein_textus2005, 195]. While his statement is true—almost axiomatically so—I am still left wondering what Bernstein sees as "at stake." In other words, "classification for *what?*" In what way should RwB texts (according to Bernstein's definition) be treated differently than, say, 1 Enoch? If we are not claiming that RwB was an acnient category, and we do not treat these texts differently than other, similar ancient texts (other than defining them as such), what value has been added? It seems to me that a process oriented definition, such as that of Harrington and Nickelsburg, is much more interesting and useful for describing and understanding ancient texts.
 
 
-## Michael Segal (2005)[@segal_henze2005]
+### Michael Segal (2005)[@segal_henze2005]
 <!--Between Bible and Rewritten Bible-->
 
 Segal seeks to enumerate a series of criteria by which scholars can distinguish between editions of biblical texts and so-called rewritten texts. He introduces a number of difficulties with making the distinction, not least among them is the relative fluidity of the biblical text(s) during the late second temple period. Broadly speaking, his goal is to delimit the "lower" boundary of the RwB phenomenon. That is to say, he wants to focus on the line between text edition, and new composition, rather than on the upper, or outer bound which defines, for example what is RwB and what is parabiblical (to use a later, poorly defined term).
@@ -163,11 +163,11 @@ And finally:
 
 Segal's treatment of textual fluidity in the 2nd temple period is worth looking at, but for our purposes, it's not terribly relevant. Instead, I will focus on the characteristics of literature that he considers RwB vis-a-vis textual editions. He breaks up his criteria into "external" and "literary" (read: internal) characteristics.
 
-### External Characteristics
+#### External Characteristics
 
  Segal's external characteristics are by far his weakest. He notes two external characteristics of RwB texts: "language" and "relationship between the source and its revision." 
 
-#### Language
+##### Language
 
 He doesn't mount much of an argument for language being categorically decisive, simply stating:
 
@@ -179,13 +179,13 @@ Yet, by this criteria, he is able to excludes Josephus's *Antiquities* as well a
 
 I think Segal is needlessly undercutting himself here, unless he just doesn't want to deal with these "non Hebrew" texts. One might wonder that if a single criterion categorically excludes several texts which meet all the other criteria, perhaps the problem is with the criterion. In his discussions of other criteria, he begins by giving the principle by which the "edition" would assert itself as equal to its *Vorlage*, then contrast that with the RwB (see, esp. Expansion v. Abridgment). His reasoning is sound for a text edition (although I think the issue of textual authority and *translation* is, perhaps, too hastily ignored in this case), and could easily be contrasted with, for example the Genesis Apocryphon, which meets nearly all of his internal criteria.
 
-#### The Textual Relationship between the Source and Its Revision,
+##### The Textual Relationship between the Source and Its Revision,
 
 His second characteristic [@segal_henze2005, 18--19] is "the textual relationship between the Source and Its Revision," which is just a convoluted way of saying that you have to be able to "see" the *Vorlage* in the rewritten text. He uses the book of Chronicles as the parade example of this relationship and notes the caveats necessary in dealing with *Vorlagen* from this period (i.e., fluid texts == difficult to say what is 'rewritten' v. just another variant in the *Vorlage*).
 
 Segal notes that both of these criteria, in fact, apply to textual editions, as well as to RwB texts [@segal_henze2005, 20]. In other words, these are not "distinguishing" criteria, so much as the baseline for consideration. Again, I think the language criterion is flawed and unnecessary.
 
-### Literary Criteria for "Rewritten Bible"
+#### Literary Criteria for "Rewritten Bible"
 
 It is the "Literary Criteria" which Segal, ultimately, argues that provide the *definition* of RwB texts. He writes:
 
@@ -193,7 +193,7 @@ It is the "Literary Criteria" which Segal, ultimately, argues that provide the *
 
 Here again, Segal emphasizes that he is not identifying the *whole* scope of RwB, but is only concerned with what I've termed the "lower bound." Segal provides six criteria:
 
-#### Scope of the Composition
+##### Scope of the Composition
 
 Segal observes that "editions" (i.e. non-rewritten) of texts cover the same material as their source. In other words, one expects an edition of Genesis to cover the same material as the book of Genesis; pluses and minuses do not stray  into other works.
 
@@ -201,7 +201,7 @@ On the other hand, rewritten texts "do not generally correspond to the scope of 
 
 >   "Chronicles presents parts of Samuel and Kings ; Jubilees rewrites Genesis--Exod 12; Pseudo-Philo's *Biblical Antiquities* begins with Adam and continues through David, but seems to be most interested in the period of the Judges. None of these works corresponds to any one biblical book, nor to any collection of works. ... In all these examples the change in the scope of the composition created a new literary unit." [@segal_henze2005, 20--21]
 
-#### New Narrative frame
+##### New Narrative frame
 
 Several of the RwB texts include a framing narrative. Segal writes, 
 
@@ -211,11 +211,11 @@ His examples include the Temple Scroll and Jubilees, both of which re-frame the 
 
 >   "at the same time, the author appeals to the authority of the Torah as it provides the evidence for this revelation" [@segal_henze2005, 22]
 
-#### Voice
+##### Voice
 
 While biblical narratives are generally written in a "detached" third person style, Segal observes that both Jubilees and the Temple Scroll "change the voice of the narrator throughout" [@segal_henze2005, 22]. As far as I can tell, what Segal means is that in these RwB texts,  certain evens which are narrated in the third person in the biblical text are re-framed as, for instance, direct discourse in the first person by an angel, or even by God. This may seem like a minor quibble, but the "narrator" has a distinct and technical meaning in narrative criticism which should be maintained. I would note, however, that this sort of reframing is not unique to RwB, since, e.g., Deut does something similar. This is a weak criteria, in my mind.
 
-#### Expansion versus Abridgment
+##### Expansion versus Abridgment
 
 Segal makes the observation that by-and-large, text editions are *additive*. That is to say, when there is a discrepancy between the amount of content (as opposed to the order), typically the shorter text is considered older. Segal is here concerned with editorial changes, and not with scribal errors, which, of course could go in both directions (through parablepsis et al.). This property, he contends, is rooted in the conviction of the scribes that in order to reproduce a text, one must reproduce the *entire* text. Segal writes:
 
@@ -227,7 +227,7 @@ Rewritten bible texts, however, felt free to add *or remove* material because th
 
 I find this to be an interesting criterion, but I wonder whether it may be importing too much from later conceptions of "the text." Furthermore, it seems like quite a statement to say that *all* ancient editions were *only* editorially expansive; there are far too little evidence in this article to sustain this position, even if it may be true.
 
-#### Tendentious Editorial Layer
+##### Tendentious Editorial Layer
 
 In differing editions of a text, according to Segal:
 
@@ -237,11 +237,11 @@ Thus, differing editions of, say, Jeremiah may differ---even evince certain "ten
 
 >   "it is possible in almost every case to identify and describe the fundamental beliefs and concepts of the rewritten works. In many cases, these beliefs differ from those found in the biblical source undergoing revision" [@segal_henze2005, 25]
 
-#### Explicit References to the Source Composition
+##### Explicit References to the Source Composition
 
 Finally, Segal notes that a work's allusion to its source text *by definition* sets apart. Conversely, a text edition *cannot* reference itself as a different text, obviously.
 
-## Other Thoughts
+#### Other Thoughts
 
 Segal offers a good starting point, but a number of his criteria/characteristics require more thinking. One category of literature which I would have liked him to address is that of translations. Not only are translations a) by definition in a different language (cf. external factors), but they may evince b) a "tendentious editorial layer" (Esther) and c) explicit references to the source text (cf. Prologue to Sirach), as well .
 
@@ -317,9 +317,7 @@ Although his focus is not specific to rewritten Bible, Falk makes a number of ve
 
 
 
-### Fraade
-[@fraade_bakhos2006]
-[@fraade_zsengeller2014]
+### Fraade[@fraade_bakhos2006; @fraade_zsengeller2014]
 <!--* 
     * Teeter
     * Zahn

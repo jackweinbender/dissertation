@@ -49,14 +49,13 @@ tex-pandoc:
 	@ echo "Building xelatex PDF..." && \
 	mkdir tmp && \
 	$(pandoc) --biblatex --latex-engine=xelatex \
-	--template=src/template.tex \
-	-so tmp/$(title).tex
+	-o tmp/input.tex
 
 tex-build:
-	@ xelatex -no-pdf --output-directory=tmp tmp/$(title).tex && \
+	@ xelatex -no-pdf --output-directory=tmp src/$(title).tex && \
 	biber tmp/$(title) && \
-	xelatex -no-pdf --output-directory=tmp tmp/$(title).tex && \
-	xelatex --output-directory=tmp tmp/$(title).tex
+	xelatex -no-pdf --output-directory=tmp src/$(title).tex && \
+	xelatex --output-directory=tmp src/$(title).tex
 
 tex-clean:
 	@ mv tmp/$(title).pdf build/$(title).pdf && \

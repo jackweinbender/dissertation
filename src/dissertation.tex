@@ -1,0 +1,60 @@
+\documentclass[letterpaper,12pt,oneside]{utexas-dissertation}
+
+\usepackage{libertine}
+\usepackage[hidelinks]{hyperref}
+\usepackage[style=sbl,indexing=cite,backend=biber]{biblatex}
+
+% Pandoc compatability
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  
+\addbibresource{../src/bib/bibliography.bib}
+
+\begin{document}
+
+%% Title Page info
+\author{Jack L. Weinbender}
+\date{May 2019}
+\title{Remembering and Rewriting}
+\subtitle{Reframing Rewritten Bible through Memory Studies}
+\doctype{Dissertation}
+\institution{The University of Texas at Austin}
+\degree{Doctor of Philosophy}
+\degreeabbr{Ph.D.}
+\date{May 2019}
+
+\frontmatter
+%% Title Page
+\maketitle
+
+
+%% Copyright Page Info
+\copyrightyear{2019}
+%%Copyright Page
+\makecopyright
+
+
+%% Signature Page Details
+\numberofmembers{4}
+\supervisor{Jonathan Kaplan}
+\memberone{Jo Ann Hackett}
+\membertwo{John Huehnergard}
+\memberthree{Steven Fraade}
+%% Signature Page
+\makesignatures
+
+\begin{abstract}
+Abstract text
+\end{abstract}
+
+\tableofcontents*
+\mainmatter
+
+\input{tmp/input.tex}
+
+\nocite{*}
+\backmatter
+
+\printbibliography[heading=bibintoc]
+
+\end{document}
