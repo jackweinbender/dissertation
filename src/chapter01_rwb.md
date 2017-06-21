@@ -17,7 +17,20 @@ In his first chapter, he notes the divergent treatment of Gen 44:18--19 among an
 
 In this second chapter, Vermes examines the way that the word "Lebanon" came to be used symbolically in the Second Temple literature and how that symbolic use continued to develop. He identifies the Song of Songs as the intermediary text which helped to establish the tradition for post-exilic Judaism, noting that it occupies the unique position as the only biblical text which clearly uses the name Lebanon symbolically for the Temple. Thus he shows that the symbolic use of Lebanon as representing Jerusalem and the Temple is rooted in *biblical* exegesis. Following up on his observations in chapter two, Vermes the proceeds to examine other words which take on symbolic meaning in later Jewish texts, and shows the relative similarity of the process between the DSS texts and the targumic and midrashic materials. Specifically, he treats the terms "lion," "Damascus," "*Meḥoqeq*," and "Man."
 
-### Part II
+The second part of *Scripture and Tradition* is titled "Rewritten Bible" and covers two chapters, both focusing on the figure Abraham and the haggadic traditions surrounding his life.
+
+In chapter four, Vermes embarks on what he calls a "retrogressive historical study" by which he means beginning with the traditions in their later, more developed forms, and working back toward thier origins. In this case, Vermes begins with *Sefer ha-Yashar* and the varied extra-biblical traditions contained therein, and works backward by identifying sections of various texts where antecedant traditions show up---in Targums, Josephus, Jubilees, (Ps.) Philo, and others. The purpose of this chapter is to demonstrate that even late texts can contain valuable information about earlier methods of exegisis and, as Vermes puts it:
+
+> manifests a direct continuity with the corresponding tradition of the time of the second Temple, but reflects also the influence of the haggadah of the Tannaim and Amoraim [@vermes1961, 95].
+
+Relating specifically to the topic of RwB, Vermes writes:
+
+> Finally, this examination of the Yashar story fully illustrates what is meant by the term "rewritten Bible." In order to anticipate questions, and to solve problems in advance, the midrashist inserts haggadic development into the biblical narrative---an exegetical process which is probably as ancient as scriptural interpretation itself [@vermes1961, 95].
+
+In chapter five, vermes proceeds with a "progressive historical study," by which he means a study beginning with the oldest materials and working forward. Still focusing on the figure Abraham, Vermes treats in detail the relation ship between Gen 12:8--15:4 and cols. 19--22 of the Genesis Apocryphon.[^ga_col]
+
+[^ga_col]: !! It is noteworthy that these columns represent some of the most "literal" of the GA stuff, if I recall correctly. I.e., it may not be the best section of GA to use as represenatative of the genre. For instance, this is all in the third person. Vermes doesn't seem to consider that the GA may be a composite text, either. !!
+
 ### Part 3
 ### Part 4
 ### Part 5
