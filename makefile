@@ -46,7 +46,7 @@ odt:
 	$(pandoc-csl) -o build/$(title).odt
 
 
-tex: clean tex-pandoc tex-build tex-clean
+tex: clean format tex-pandoc tex-build tex-clean
 
 tex-pandoc:
 	@ echo "Building xelatex PDF..." && \
