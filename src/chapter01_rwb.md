@@ -38,10 +38,11 @@ He concludes the chapter by discussing the Aqedah and the Eucharist. Just as the
 ## Beyond Scripture and Tradition
 Although rightly cited as the work that introduced the term "Rewritten Bible" to the field, it is worth noting that in *Scripture and Tradition*, the identification and definition of the phenomenon of RwB is a secondary concern to Vermes's larger thesis about the historical evolution of haggadic exegesis in antiquity. Something about the term, however, caught the attention of the field and a number of scholars have since taken up the task of studying the phenomenon of Rewritten Bible in its own right.  The scope, purpose, and meaning of the term Rewritten Bible (and the more common Rewritten Scripture) has now been the topic of scholarly discussion for some time now so it will be beneficial to map out the major positions of the past several decades before providing a brief *status quaestionis* and my own thoughts on the matter.
 
-## Early Positions
+### Early Positions
+I have selected three early contributors to the topic of RwB who are representative of distinct approaches to describing these texts: George Nickelsburg, Daniel Harrington, and Philip Alexander. While there is some overlap, Nickelsburg and Harrington represent a less rigid, non-generic, approach to RwB, while Alexander represents those who see RwB as constituting a distinct generic category.
 
-### George Nickelsburg
-<!-- 600 words -->
+#### George Nickelsburg
+<!-- 620 -->
 In his 1984 article "The Bible Rewritten and Expanded," George Nickelsburg discusses a number of texts which are "very closely related to the biblical texts, expanding and paraphrasing them and implicitly commenting on them" [@nickelsburg_stone1984, 89].  Thus, for Nickelsburg, Rewritten Bible was not a discrete category of texts. Moreover, Nickelsburg's article involves more than just "rewritten" texts (as the title indicates), and also discusses texts which introduce wholly new material into the traditions of the Bible [@nickelsburg_stone1984, 89--90]. However, he does provide a list of texts which he loosely describes as examples of biblical rewriting: 1 Enoch, Book of Giants, Jubilees, Genesis Apocryphon, Biblical Antiquities, the Books of Adam and Eve (Apocalypse of Moses, Life of Adam and Eve), and some Hellenistic Jewish Poets. The inclusion of 1 Enoch is novel, compared to Vermes's original list, and illustrates the more expansive view that Nickelsburg has toward RwB.[^nick-more]
 
 [^nick-more]: Nickelsburg also includes in his discussion a few works by hellenistic Jewish poets. These works include Philo's *On Jerusalem*, Theodotus's *On the Jews*, and the *Exagoge* by one "Ezekiel the Poet of Tragedies."
@@ -56,48 +57,64 @@ In contrast, the Genesis Apocryphon seems to have very little interest in halakh
 
 Nickelsburg differs from Vermes mainly in the way he views the Bible during the late Second Temple period. Although Nickelsburg observes that the preoccupation with certain texts suggests that they were held in high regard, he does not have the same interest in tying the exegetical practices of, for example, Jubilees, with earlier inner-biblical or later haggadic traditions.
 
-### Harrington (1986)
-Harrington adopts the term "rewritten bible"
+#### Daniel Harrington (1986)
+<!-- 360 -->
+Daniel Harrington's 1986 contribution entitled "Palestinian Adaptations of Biblical Narratives and Prophecies I: The Bible Rewritten (Narratives)," adopts the term "Rewritten Bible" to talk about texts produced around the turn of the era by Palestinian Judaism that  "take as their literary framework the flow of the biblical text itself and apparently have as their major purpose the clarification and actualization of the biblical story" [@harrington_kraft-nickelsburg1986, 239]. Compared to Vermes, he operates with a slightly expanded list of rewritten texts. In addition to Jubilees, Genesis Apocryphon, Ps. Philo's *Biblical Antiquities* and Josephus's *Jewish Antiquities*, he also includes the Assumption of Moses and 11QTemple (Temple Scroll). Furthermore, he makes a point to suggest that a number of other texts may be able to be included in the list, including *Paralipomena of Jeremiah*, *Life of Adam and Eve/Apocalypse of Moses*, and *Ascension of Isaiah*.
 
->   "simply to refer to those products of Palestinian Judaism at the turn of the era that take as their literary framework the flow of the biblical text itself and apparently have as their major purpose the clarification and actualization of the biblical story [@harrington_kraft-nickelsburg1986, 239].
-
-He constructs a slightly expanded list of texts, including:
-
-* Jubilees
-* Assumption of Moses
-* 11QTemple (Temple Scroll)
-* GenApoc
-* Ps. Philo's *Biblical Antiquities*
-* Josephus's *Jewish Antiquities*
-
-He also makes a point to suggest that a number of other texts may be able to be included in the list, including *Paraleipomena of Jeremiah*, *Life of Adam and Eve/Apocalypse of Moses*, and *Ascension of Isaiah*. He also includes the novel criterion that the works should derive from Palestinian Judaism, although he concedes that this is artificial. As an aside, he notes that this distinction is rooted in Cross' local text hypothesis. Since this is no longer *au courant*, it's probably not worth perusing. He does, however, make a very nice observation which will bolster my basic thesis, stating:
-
->   "What holds all of them [RwB texts] together is the effort to actualize a religious tradition and make it meaningful within new situations" [@harrington_kraft-nickelsburg1986, 239-40]
-
-Harrington's major break from Vermes comes in his rejection of RwB as a category or literary genre in favor of a process-oriented approach. He states:
+Harrington's major contribution is his explicit rejection of RwB as a category or literary genre in favor of a process-oriented approach. In this respect, Harrington takes a broad view of rewriting and allows, to some degree, that this process be understood similar to a reception history (although, this is my term, and not his). He states:
 
 >   Nevertheless, establishing that these books are not appropriately described as targums or midrashim is not the same as proving that they all represent a distinctive literary genre called "rewritten Bible." In fact, it seems better to view rewriting the Bible as a kind of activity or process than to see it as a distinctive literary genre of Palestinian Judaism" [@harrington_kraft-nickelsburg1986, 242--243]
 
-In this respect, Harrington takes a broad view of rewriting and allows, to some degree, that this process be understood similar to a reception history (although, this is my term, and not his). Instead, he observes that while texts such as Jubilees and *Assumption of Moses* both constitute a rewriting of the Bible, both "are formally revelations of apocalypses" [@harrington_kraft-nickelsburg1986, 243]. In other words, a single *genre*---insofar as the word describes a literary *form*---is not sufficient to subsume the varied *forms* (read: apocalypse, history, testament, etc.) which all can be described as "rewritten."
+ Instead, he observes that while texts such as Jubilees and *Assumption of Moses* both constitute a rewriting of the Bible, both "are formally revelations of apocalypses" [@harrington_kraft-nickelsburg1986, 243]. This is an important criticism of scholars who see RwB as a distinct genre. Unlike, for example, the Gospels, which arguably have the same basic "form," the texts typically described as "rewritten" come in a variety of "forms" such as narratives (Genesis Apocryphon), apocalypses (Jubilees), and, legal (Temple Scroll). In other words, a single *genre*---insofar as the word describes a literary *form*---is not sufficient to subsume the varied *forms* which all can be described as "rewritten."
 
-Harrington suggests that the intention of each work ought to be evaluated independently.
+#### Philip Alexander (1988)
+<!-- 660 -->
+While Nickelsburg and Harrington make important observations about Rewritten Bible, Philip Alexander's 1988 article, "Retelling the Old Testament," stands out as perhaps the most significant early contribution to RwB studies after *Scripture and Tradition* and remains one of the most thorough treatments of the idea of a RwB "genre." Alexander's goal is to examine the use of the biblical text within the so-called RwB texts to determine whether they form a distinct genre and whether there exists a set of concrete criteria by which scholars can admit or exclude texts from the category [@alexander_carson-williamson1988, 99].
 
-### Alexander (1988)
+Through a series of four case studies (Jubilees, Genesis Apocryphon, *Liber Antiquitatum Biblicarum*, and Josephus's *Jewish Antiquities*) Alexander determines that RwB *does* form a distinct literary genre and sets out nine "principal characteristics" of RwB, which deserve to be enumerated here:
 
-## Criticisms and Adaptations
-### Tov (1998)
-### Bernstein (2005)
-### Segal (2005)
-### Falk (2007)
-### Fraade (2006, 2010)
-### Crawford (2008)
-### Zahn (2010 et al.)
-### Brooke (2010)
-### Machiela (2010)
-### Teeter (2013?)
-### Campbell (?)
+1.  They are *narratives* which follow the order of the biblical text. He broadly refers to the texts as "histories" (as distinct from theological treatise).
 
-## Some kind of Synthesis
-### Limits of the Current Discussion
-### Genre and Process
-### Preoccupation with the written form?
+2. They are "free standing" literary works that take on the same form as the text that they rewrite. As such, they do not "comment" on the text explicitly, but weave a seamless retelling of the biblical story.
+
+3. They are not meant to replace the biblical work.
+
+4. They cover a great deal of biblical narrative. Here he also notes that certain works which are primarily "expansive" (the Book of Giants, the Book of Noah) probably should not count because their relationship to the biblical text is "centrifugal," while properly RwB texts are "centripetal" to the biblical text (more on this, below).
+
+5. They follow the biblical text's narrative order, but do not, necessarily include everything. They are "highly selective in what they represent"[@alexander_carson-williamson1988, 117], but do not omit so much that the integrity of the biblical account is compromised. He notes "A proper balance between the 'literal' and the 'non-literal' sections is probably of fundamental importance to the genre" [@alexander_carson-williamson1988, 117].
+
+6. They offer an interpretive reading of Scripture which (quoting Vermes) offer "a fuller, smoother and doctrinally more advanced form of the sacred narrative"[@alexander_carson-williamson1988, 117; citing @schurer1986, 305] and seem to functionas a sort of commentary. In this way, the text is meant to be supplementary to the biblical text (see \#3) [@alexander_carson-williamson1988, 117].
+
+7. They are limited by their particular (narrative) form and are only able to offer a *single* interpretation of the rewritten text. Alexander contrasts this with those of the Rabbis and Philo who are each able to offer multiple interpretations of the a single text, and thus, "treat the underlying text as polyvalent" [@alexander_carson-williamson1988, 117].
+
+8. They are further limited by their form which does not allow them to explain their exegetical reasoning.[^explain]
+
+[^explain]: He writes: "The methods by which they solve the problems of the original are essentially midrashic, i.e. similar to those found in the rabbinic midrashim. But unlike the midrashim (or Philo) they cannot make explicit their midrashic working."  @alexander_carson-williamson1988 [118]
+
+9. They incorporate material which is not exegetically derived from the biblical text---such as oral tradition, legends, etc.---and fuse it with the rewritten text.
+
+Although I disagree with his conclusions, Alexander's treatment is thorough and he advances the conversation in a few important ways. Perhaps the most significant contribution that he makes is the introduction of the extremely helpful terms "centrifugal" and "centripetal" to describe a text's relationship to the Bible. He writes:  
+
+> Rewritten Bible texts are centripetal: they come back to the Bible again and again. The rewritten Bible texts make use of the legendary material, but by placing that material within an extended biblical narrative (in association with passages of more or less literal retelling of the Bible), they clamp the legends firmly to the biblical framework, and reintegrate them into the biblical history." [@alexander_carson-williamson1988, 117]
+
+The major advantage to limiting RwB to texts which exhibit a centripetal relationship to the biblical text is the removal from consideration of works which merely allude to the Bible.
+
+### More Recent Criticisms and Adaptations
+The past twenty years have seen a resurgence in interest in the topic of RwB and the terminology that surrounds it.
+
+<!-- #### Tov (1998)
+#### Bernstein (2005)
+#### Segal (2005)
+#### Falk (2007)
+#### Fraade (2006, 2010)
+#### Crawford (2008)
+#### Zahn (2010 et al.)
+#### Brooke (2010)
+#### Machiela (2010)
+#### Teeter (2013?)
+#### Campbell (?)
+
+### Some kind of Synthesis
+#### Limits of the Current Discussion
+#### Genre and Process
+#### Preoccupation with the written form? -->
