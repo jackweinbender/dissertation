@@ -45,6 +45,14 @@ odt:
 	@ echo "Building OpenDocument..." && \
 	$(pandoc-csl) -o build/$(title).odt
 
+open-doc:
+	@ open build/$(title).doc
+
+open-odt:
+	@ open build/$(title).odt
+
+open-pdf:
+	@ open build/$(title).pdf
 
 tex: clean format tex-pandoc tex-build tex-clean
 
@@ -58,6 +66,7 @@ tex-build:
 	@ xelatex -no-pdf --output-directory=$(tmp) src/$(title).tex && \
 	biber $(tmp)/$(title) && \
 	xelatex -no-pdf --output-directory=$(tmp) src/$(title).tex && \
+	biber $(tmp)/$(title) && \
 	xelatex --output-directory=$(tmp) src/$(title).tex
 
 tex-clean:
