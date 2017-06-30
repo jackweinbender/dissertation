@@ -39,8 +39,49 @@ He concludes the chapter by discussing the Aqedah and the Eucharist. Just as the
 Although rightly cited as the work that introduced the term "Rewritten Bible" to the field, it is worth noting that in *Scripture and Tradition*, the identification and definition of the phenomenon of RwB is a secondary concern to Vermes's larger thesis about the historical evolution of haggadic exegesis in antiquity. Something about the term, however, caught the attention of the field and a number of scholars have since taken up the task of studying the phenomenon of Rewritten Bible in its own right.  The scope, purpose, and meaning of the term Rewritten Bible (and the more common Rewritten Scripture) has now been the topic of scholarly discussion for some time now so it will be beneficial to map out the major positions of the past several decades before providing a brief *status quaestionis* and my own thoughts on the matter.
 
 ## Early Positions
-### Nickelsburg (1984)
+
+### George Nickelsburg
+<!-- 600 words -->
+In his 1984 article "The Bible Rewritten and Expanded," George Nickelsburg discusses a number of texts which are "very closely related to the biblical texts, expanding and paraphrasing them and implicitly commenting on them" [@nickelsburg_stone1984, 89].  Thus, for Nickelsburg, Rewritten Bible was not a discrete category of texts. Moreover, Nickelsburg's article involves more than just "rewritten" texts (as the title indicates), and also discusses texts which introduce wholly new material into the traditions of the Bible [@nickelsburg_stone1984, 89--90]. However, he does provide a list of texts which he loosely describes as examples of biblical rewriting: 1 Enoch, Book of Giants, Jubilees, Genesis Apocryphon, Biblical Antiquities, the Books of Adam and Eve (Apocalypse of Moses, Life of Adam and Eve), and some Hellenistic Jewish Poets. The inclusion of 1 Enoch is novel, compared to Vermes's original list, and illustrates the more expansive view that Nickelsburg has toward RwB.[^nick-more]
+
+[^nick-more]: Nickelsburg also includes in his discussion a few works by hellenistic Jewish poets. These works include Philo's *On Jerusalem*, Theodotus's *On the Jews*, and the *Exagoge* by one "Ezekiel the Poet of Tragedies."
+
+One of the key contributions that Nickelsburg makes is his idea that rewriting followed a trajectory from smaller units of rewriting---involving short stories that deal with particular events from the biblical text---to longer, more systematic, treatments which span multiple biblical books. His treatment of 1 Enoch (which is, at least in part, the earliest text that he deals with) is illustrative of this approach. Rather than dealing with 1 Enoch as a whole, Nickelsburg addresses the various rewritings of the flood narrative throughout 1 Enoch as well as in the Book of Giants (which is not formally a part of 1 Enoch, but has a clear connection to the work). This interaction of 1 Enoch with the biblical text revolves around a single event, the flood, and its causes. The Genesis Apocryphon, on the other hand, seems to span most of Genesis; Jubilees covers Genesis through the beginning of Exodus, and *LAB* covers Genesis through the death of Saul in 1 Samuel.
+
+Although Nickelsburg generally accepts that the rewritten texts "comment" on the Bible, he notes that the posture toward the biblical text is also not uniform among even the agreed upon RwB texts. He notes, for example, that while the author of Jubilees's concerns are largely halakhic and the book makes explicit reference to the biblical text, the authority assumed by the author of Jubilees does not (at least rhetorically) originate in the exposition of the Torah, but in the "immutable heavenly tablets" [@nickelsburg_stone1984, 100--101]. Nickelsburg thus states:
+
+>   This process of transmitting and revising the biblical text reflects a remarkable view of Scripture and tradition. The pseudepigraphic ascription of the book to an angel of the presence and the attribution of laws to the heavenly tablets invest the author's interpretation of Scripture with absolute divine authority" [@nickelsburg_stone1984, 101].
+
+In contrast, the Genesis Apocryphon seems to have very little interest in halakhic matters and instead seems to just elaborate on the story by giving detailed geographic details and more dramatic characters [@nickelsburg_stone1984, 106]. Finally, he observes that *LAB* likewise differs with Jubilees in its omission of halakhic matters and its "highly selective reproduction of the text" [@nickelsburg_stone1984, 110]. This selectivity also differs from the Genesis Apocryphon, which otherwise is "characterized by the addition of lengthy non-biblical incidence" [@nickelsburg_stone1984, 110].
+
+Nickelsburg differs from Vermes mainly in the way he views the Bible during the late Second Temple period. Although Nickelsburg observes that the preoccupation with certain texts suggests that they were held in high regard, he does not have the same interest in tying the exegetical practices of, for example, Jubilees, with earlier inner-biblical or later haggadic traditions.
+
 ### Harrington (1986)
+Harrington adopts the term "rewritten bible"
+
+>   "simply to refer to those products of Palestinian Judaism at the turn of the era that take as their literary framework the flow of the biblical text itself and apparently have as their major purpose the clarification and actualization of the biblical story [@harrington_kraft-nickelsburg1986, 239].
+
+He constructs a slightly expanded list of texts, including:
+
+* Jubilees
+* Assumption of Moses
+* 11QTemple (Temple Scroll)
+* GenApoc
+* Ps. Philo's *Biblical Antiquities*
+* Josephus's *Jewish Antiquities*
+
+He also makes a point to suggest that a number of other texts may be able to be included in the list, including *Paraleipomena of Jeremiah*, *Life of Adam and Eve/Apocalypse of Moses*, and *Ascension of Isaiah*. He also includes the novel criterion that the works should derive from Palestinian Judaism, although he concedes that this is artificial. As an aside, he notes that this distinction is rooted in Cross' local text hypothesis. Since this is no longer *au courant*, it's probably not worth perusing. He does, however, make a very nice observation which will bolster my basic thesis, stating:
+
+>   "What holds all of them [RwB texts] together is the effort to actualize a religious tradition and make it meaningful within new situations" [@harrington_kraft-nickelsburg1986, 239-40]
+
+Harrington's major break from Vermes comes in his rejection of RwB as a category or literary genre in favor of a process-oriented approach. He states:
+
+>   Nevertheless, establishing that these books are not appropriately described as targums or midrashim is not the same as proving that they all represent a distinctive literary genre called "rewritten Bible." In fact, it seems better to view rewriting the Bible as a kind of activity or process than to see it as a distinctive literary genre of Palestinian Judaism" [@harrington_kraft-nickelsburg1986, 242--243]
+
+In this respect, Harrington takes a broad view of rewriting and allows, to some degree, that this process be understood similar to a reception history (although, this is my term, and not his). Instead, he observes that while texts such as Jubilees and *Assumption of Moses* both constitute a rewriting of the Bible, both "are formally revelations of apocalypses" [@harrington_kraft-nickelsburg1986, 243]. In other words, a single *genre*---insofar as the word describes a literary *form*---is not sufficient to subsume the varied *forms* (read: apocalypse, history, testament, etc.) which all can be described as "rewritten."
+
+Harrington suggests that the intention of each work ought to be evaluated independently.
+
 ### Alexander (1988)
 
 ## Criticisms and Adaptations
