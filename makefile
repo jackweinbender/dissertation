@@ -54,7 +54,7 @@ open-odt:
 open-pdf:
 	@ open build/$(title).pdf
 
-tex: clean format tex-pandoc tex-build tex-clean
+tex: clean format tex-pandoc tex-build tex-clean open-pdf
 
 tex-pandoc:
 	@ echo "Building xelatex PDF..." && \
