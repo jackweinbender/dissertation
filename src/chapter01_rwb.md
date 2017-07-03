@@ -155,16 +155,91 @@ In a more recent article, Tov returns to the topic of text editions and their re
 ##### Summary
 It is important to think about what Tov and Segal are trying to accomplish in these articles: They are trying to connect scribal practices which allowed for exegetical additions and emendations to "authoritative texts"---dramatic examples of which are provided by SP and LXX (though one wonders why the Targums aren't included here; perhaps because Tov is arguing for Hebrew *Vorlagen* of these texts, while the Targums represent a translation)---to the practices which produced the *new compositions* which scholars refer to as RwB texts. This is very similar to Vermes, albeit from a more "textual" perspective.
 
- What Tov's articles in particular demonstrate, however, is that the issue of authorial *intent* and *purpose* may be at the heart of the distinction between text edition and RwB. Of course, this is not something that can be objectively proven, but it *must* factor into our conversation, even if we must settle for speculation. The result is that, e.g., 4QReworked Pent. should be understood as RwB insofar as we imagine the author attempting something *other* than creating a text edition of the Pentateuch. Presumably the author of GA did not imagine himself creating a new edition of Genesis; the same with Jubilees and Chronicles. The issue of whether the resultant text was used authoritatively after the fact is beside the point; what matters was whether the text was either intended to be (or from the reader's perspective, whether the text was treated as) a copy of the text's *Vorlage*. And in the case of SP and LXX (and the Targums, I'd say), this seems to have been the case. Thus, it seems like these should not be treated as RwB.
+ What Tov's articles in particular demonstrate, however, is that the issue of authorial *intent* and *purpose* may be at the heart of the distinction between text edition and RwB. Of course, this is not something that can be objectively proven, but it *must* factor into the conversation, even if we must settle for speculation. The result is that, e.g., 4QReworked Pent. should be understood as RwB insofar as we imagine the author attempting something *other* than creating a text edition of the Pentateuch. Presumably the author of GA did not imagine himself creating a new edition of Genesis; the same with Jubilees and Chronicles. The issue of whether the resultant text was used authoritatively after the fact is beside the point; what matters was whether the text was either intended to be (or from the reader's perspective, whether the text was treated as) a copy of the text's *Vorlage*. And in the case of SP and LXX (and the Targums, I'd say), this seems to have been the case. Thus, it seems like these should not be treated as RwB.
+
+#### Exploring the Upper Bound
+<!-- Brooke -->
+George Brooke offers a robust, if less specific, approach to RwB:
+
+> The term *Rewritten Bible* refers to any representation of an authoritative scriptural text that implicitly incorperates interpretive elements, large or small, in the retelling itself.
+
+While most scholars focus on the pentateuchal narrative  (and to a lesser degree the legal) material, Brooke has, perhaps more than anyone, pushed the boundary of the category to include rewritten texts from other parts of the Hebrew Bible including Rewritten Former and Latter Prophets, as well as Rewritten Writings.
+
+Brooke, therefore, takes a process-oriented approach. He does not limit the application of the term to narratives, and is more willing to accept texts of a variety of genres so long as their posture toward their "authoritative" *Vorlagen* is "centripetal" (to borrow Alexander's term') and their interpretive emendations are implicit, rather than explicit (as with the Pershers).
+
+<!-- Falk -->
+
+
+#### On "Spectrums"
+<!-- Crawford, Machaeila -->
+
+[@crawford_eretz-israel1999; @crawford2008]
+
+Crawford offers a conventional approach to RwB and understands the term as a useful descriptor of a "group" of texts:
+
+> characterized by a close adherance to a recognizable and already authoritative base text (narrative or legal) and a recognizable degree of scribal intervention into that base text for the purpose of exegesis [@crawford2008, 12--13].
+
+Her approach places the phenomenon of RwB within the context of ancient scribal practices:
+
+> focusing on two related phenomena, the process of the transmission or handling on (sic.) of what became known to later Judaism and Christianity as the "Bible" or the "biblical" text by the scribes of the Second Temple period and the methods used to interpret it for contemporary Jews [@crawford2008, 1].
+
+She ascribes the purpose of these rewritten texts to be "exegetical, that is, to explain or interpret the original text for a new (presumably later) audience, citing Deuteronomy and Chronicles as early examples of the tendency of scribes to "update" sacred texts. As for the role of scribal culture on the process, she offers a "two-fold role":
+
+> First, they had to copy te books of Scripture as exactly as ossible, with care for evey detail.... But second, they needed to make the text of Scripture adaptable and relevant to the conteporary situation [@crawford2008, 3].
+
+The changes to these scriptural texts, therefore, were "updates," and were primarily minor additions, such as glosses, but larger, more systematic adaptations, such as Deuteronomy, were also possible.
+
+Crawford observes the difficulties with Vermes' original term "rewritten Bible," pointing out that there was no "Bible" in the Second Temple period, and that the term "rewritten" also presumes a level of textual stability that did not exist in antiquity. Keeping in mind these caveeats, however, Crawford still finds use in grouping these texts under the (somewhat modified) rubric of "rewritten scriptural texts" or simply "Rewritten Scripture" [@crawford2008, 12].
+
+Similar to Brooke's "sliding scale," Crawford imagines texts falling into a "spectrum" which has, on the one end, "authoritative" texts like the proto-MT and proto-SP text types. While these texts, (esp. SP) may exhibit some scribal interventions such as harmonization or ideological alterations, the texts that the scribes produced were intended to be text *editions*. Other texts, such as the RP represent a different location on this spectrum. While the scribe(s) of RP seem to have *intended* to produce a text that occupied the same authoritative space as the Pentateuch, the scribe overshot "by adding material not found in the base text into the reworked text" [@crawford2008, 13]. Yet, according to Crawford, there is little evidence that RP or texts like it achieved the authoritative status that they ostensibly aspired to. Further along the spectrum, Crawford places rewritten scriptural texts (her prefered term) which exhibit a recognizable scriptural origin, a clearly distinct purpose and *tendenz*, and a claim to divine inspiration or scriptural authority similar to its base text (e.g., Jubilees). Finally, at the far end of the spectrum are works that may use a scriptural base text, but whose connection to that text is more tenuous and does not seem to make any claims to scriptural authority (e.g., Genesis Apocryphon). Crawford places texts which use a scriptural text as a "jumping off point to create a new narrative or work" [@crawford2008, 14]---such as 1 Enoch or Joseph and Asanath---beyond the reach of her spectrum, labeling them "parabiblical."
+
+<<I don't like Crawfords use of the "Spectrum"; but I can't quite articulate why. I think Machiela's multi-dimensional spectrum may be helpful, but still might not be enough.>>
+
+[@crawford_charlesworth1998; @crawford_charlesworth2000]
+<!-- Double check these refs -->
+
+
+<!-- Machiela -->
+Daniel Machiela's article gives a brief review of three recent mongraphs that came out in the early 2000's and offers a number of very useful observations about the state of the question. He groups scholars broadly into two categories: 'minimalists,' those who seek to restrict the use of the term RwB to a relatively small number of texts which exhibit a particular set of characteristics or operate with a "loosely defined methodology by which the base text is returned to over and over again," and not distinguishing between the "text" and the "interpretation" of the text (i.e. the interpretation is woven into the narrative) [@machiela_jjs2010, 309].
+
+Machiela offers a number of good observations about the three books under review, but the main contributions that his article makes are the numerous and insightful---if generally brief---comments that he makes about the broader conversation, of which the three books are a part.
+
+#### On "Spectrums"
+Machiela critiques Crawford and others for characterizing rewritten biblical texts as falling on a spectrum which measures how closely a rewritten text follows its *Vorlage*. The problem with this characterization, according to Machiela, is that "any spectrum or sliding scale is by nature extremely restrictive, and we must be careful to explicate what feature(s) we are measuring" [@machiela_jjs2010, 312--13]. Restricting our analysis only to how closely a text resembles its *Vorlage* only measures a single dimension of texts which show a remarkable diversity in any number of other attributes. Thus, Machiela suggests that should we use the idea of a "spectrum," we should not restrict ourselves to a single dimension; other attributes such as "the level of apocalyptic or Hellenistic influence" a text may exhibit [@machiela_jjs2010, 313] and later "'popular' to 'scholastic'" [@machiela_jjs2010, 314].
+
+
+
+#### Conclusions
+
+Machiela affirms a number of important points about the term RwB. First, he makes it a point to emphasize that we are not speaking only about an abstract idea, but about particular texts which, at the outset of the conversation, lacked a meaningful descriptor. Second, RwB is a modern category. This is a point which, I feel, gets lost too often. VanderKam and others' attempt to rectify the "anachronism" of the term "Bible," I think, has obscured this fact by bringing the author's understanding of his base text to the fore.  Third, he agrees with Brooke and Falk that "genre" is not the appropriate descriptor of the term, and instead, the therm should focus on RwB as representing "an exegetical process or activity relative to an authoritative base text" [@machiela_jjs2010, 318]. Fourth, while he does not include works such as 1 Enoch among the RwB texts, he makes the observation that certain portions of, for example, the Animal Apocalypse, could be considered a "rewriting" of portions of Genesis. This is reflective of his preference toward *process* over formal attributes (cf. Segal who uses as one of his criteria the scope of the work, which categorically excludes the possibility of considering *portions* of texts).
+
+Machiela, ultimately, places himself within the "minimalists" camp, although, unlike Segal and Bernstien, he views RwB as a process, rather than a category.
+
+
+#### Generic Classification
+<!-- Zahn, Bernstein, Brooke, Fraade etc -->
+#### On Genre
+Machiela also seems to have been the first major voice to address the fact that while a number of scholars had been evoking the term "genre" when talking about RwB, few, if any, had spent any time engaging with recent literature on modern genre theory. Machiela notes in a lengthy parenthetical:
+
+>   It may be that the Russian Formalists or French Structuralists have little or nothing to add to our present discussion ... but we may do well to pursue such matters further and see what sort of cross-fertilisation occurs. At the very least it seems this field must be consulted in order to rule out the possibility of rewritten Bible/Scripture as a genre. [@machiela_jjs2010, 314]
+
+
+ <!-- Bernstein -->
+Where Tov seeks to expand the scope of RwB, Moshe Bernstein's project is to maintain the boundaries of an Alexanderian understanding of RwB. In his essay "Rewritten Bible: A Generic Category Which Has Outlived Its Usefulness?"  (), his purpose is to "examine the definition and descriptions of 'rewritten Bible'" [@bernstein_textus2005, 171--172] and evaluate how useful he varied use of the term are. His conclusion is broadly conservative, and suggests that a narrower definition better suits the term lest it lose its usefulness as a category. Notably, Bernstein never clearly articulates what it means for a category to be "useful."
+
+ Bernstein begins by addressing the few small modifications that he makes to Vermes' list, namely that Bernstein does not understand the Targums to be examples of RwB (though, neither did Vermes, as far as I can tell?). He excludes Targums from his discussion "*ab initio*," as well as "biblical" books, by which he seems to mean Chronicles and Deuteronomy. Despite this second exclusion, Bernstein acknowledges that "One group's rewritten Bible could very well be another's biblical text!" [@bernstein_textus2005, 175]. This seems particularly odd, since, and Ethiopian Christian may protest that Jubilees should be excluded as well. Bernstein concedes that "matters of canon and audience may play a role," but doesn't address the topic further.
+
+ Bernstein critiques scholars such as Nicklesburg[@nickelsburg_stone1984], Harrington[@harrington_kraft-nickelsburg1986], and Brooke[@brooke_schiffman-vanderkam2000] for excessively expanding the use of the term RwB at its "upper bound" (my term) to the point that they have weakened the term and have "not aided in focusing scholarly attention on the unifying vs. divergent traits of some of these early interpretive works" [@bernstein_textus2005, 179]. Likewise, Bernstein critiques Tov for including reworked texts (e.g., 4QRP) and therefor expanding the "lower bound" of the category. While Bernstein  avers that "rearrangement with the goal of interpretation is probably an earlier stage in the development of biblical 'commentary' than supplementation with the goal of interpretation," he nevertheless distinguishes the former from the category RwB and declares that "the definitions of 'rewritten Bible' furnished by Tov and Vermes are [not] even remotely compatible, and we need to choose between them simply for the purposes of clarity" [@bernstein_textus2005, 185].
+
+ Bernstein, ultimately, argues that Vermes' category is worth keeping around, and admonishes the reader to maintain a narrow definition of the category, because, in his own words, "the more specific the implications of the term, the more valuable it is as a measuring device" [@bernstein_textus2005, 195], and conversely that "the looser the definition, the less precisely it classifies those items under its rubric" [@bernstein_textus2005, 195]. While his statement is true—almost axiomatically so—I am still left wondering what Bernstein sees as "at stake." In other words, "classification for *what?*" In what way should RwB texts (according to Bernstein's definition) be treated differently than, say, 1 Enoch? If we are not claiming that RwB was an ancient category, and we do not treat these texts differently than other, similar ancient texts (other than defining them as such), what value has been added? It seems to me that a process oriented definition, such as that of Harrington and Nickelsburg, is much more interesting and useful for describing and understanding ancient texts.
+
+ #### Falk (2007)
 
 
 
 
 <!--
-#### Bernstein (2005)
-#### Falk (2007)
 #### Fraade (2006, 2010)
-#### Crawford (2008)
 #### Zahn (2010 et al.)
 #### Brooke (2010)
 #### Machiela (2010)
@@ -176,3 +251,6 @@ It is important to think about what Tov and Segal are trying to accomplish in th
 #### Genre and Process
 #### Preoccupation with the written form?
 -->
+
+
+#### Conclusions
