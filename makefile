@@ -46,7 +46,7 @@ odt:
 	$(pandoc-csl) -o build/$(title).odt
 
 open-doc:
-	@ open build/$(title).doc
+	@ open build/$(title).docx
 
 open-odt:
 	@ open build/$(title).odt
