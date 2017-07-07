@@ -33,7 +33,7 @@ He concludes the chapter by discussing the Aqedah and the Eucharist. Just as the
 
 > Indeed, without the help of Jewish exegesis it is impossible to perceive any Christian teaching in its true perspective.[@vermes1961, 227]
 
-The arc of Vermes's study is meant to connect the earliest traditions of biblical interpretation with the later traditions of both Rabbinic Judaism and Early Christianity.
+The arc of Vermes's study, therefore, is meant to establish a continuity between the earliest traditions of biblical interpretation with the later traditions of both Rabbinic Judaism and Early Christianity and to trace the evolution of those traditions historically.
 
 ### Vermes's Use of Rewritten Bible
 
