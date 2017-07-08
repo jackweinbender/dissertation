@@ -66,7 +66,7 @@ tex-build:
 	biber $(tmp)/$(title) && \
 	xelatex -no-pdf --output-directory=$(tmp) latex/$(title).tex && \
 	biber $(tmp)/$(title) && \
-	xelatex --output-directory=$(tmp) -output-driver='xdvipdfmx -z0' latex/$(title).tex
+	xelatex --output-directory=$(tmp) latex/$(title).tex
 
 tex-clean:
 	@ mv $(tmp)/$(title).pdf build/$(title).pdf && \
