@@ -1,4 +1,4 @@
 build
-src/bib/files
+bib/files
 .DS_Store
 tmp
