@@ -12,8 +12,8 @@
 
 # Document specifics
 title = dissertation
-input_file = src/*.md
-bib_file = src/bib/bibliography.bib
+input_files = src/*.md
+bib_file = latex/bibliography.bib
 tmp = build/.tmp
 
 # Pandoc Commands
@@ -21,13 +21,13 @@ pandoc=pandoc \
 	--top-level-division=chapter \
 	--filter pandoc-citeproc \
 	--bibliography=$(bib_file) \
-	--smart $(input_file)
+	--smart 
 
-pandoc-csl=$(pandoc) \
+pandoc-csl=$(pandoc) $(input_files) \
 	--csl="society-of-biblical-literature-fullnote-bibliography.csl" \
 	--citation-abbreviations="abbr.json"
 
-default: format build
+default: format build-all
 
 build: setup doc odt
 
@@ -58,16 +58,15 @@ tex: clean format tex-pandoc tex-build tex-clean open-pdf
 
 tex-pandoc:
 	@ echo "Building xelatex PDF..." && \
-	mkdir $(tmp) && \
-	$(pandoc) --biblatex --latex-engine=xelatex \
-	-o $(tmp)/input.tex
+	$(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
 
 tex-build:
-	@ xelatex -no-pdf --output-directory=$(tmp) src/$(title).tex && \
+	@ mkdir $(tmp) && \
+	xelatex -no-pdf --output-directory=$(tmp) latex/$(title).tex && \
 	biber $(tmp)/$(title) && \
-	xelatex -no-pdf --output-directory=$(tmp) src/$(title).tex && \
+	xelatex -no-pdf --output-directory=$(tmp) latex/$(title).tex && \
 	biber $(tmp)/$(title) && \
-	xelatex --output-directory=$(tmp) src/$(title).tex
+	xelatex --output-directory=$(tmp) -output-driver='xdvipdfmx -z0' latex/$(title).tex
 
 tex-clean:
 	@ mv $(tmp)/$(title).pdf build/$(title).pdf && \
@@ -79,7 +78,7 @@ clean:
 format: format-partials format-concat format-biber
 
 format-partials:
-	@ find src/bib -name "_*.bib" -exec \
+	@ find bib -name "_*.bib" -exec \
 	biber --tool --nolog --quiet \
 	--output-align \
 	--output-fieldcase=lower \
@@ -87,7 +86,7 @@ format-partials:
 
 format-concat:
 	@ rm -rf $(bib_file) && \
-	cat src/bib/*.bib > $(bib_file)
+	cat bib/*.bib > $(bib_file)
 
 format-biber: 
 	@ biber --tool --nolog --quiet \
@@ -96,7 +95,8 @@ format-biber:
 	--output-fieldcase=lower \
 	--output-resolve \
 	-O $(bib_file) \
-	$(bib_file)
+	$(bib_file) && \
+	cp $(bib_file) build/bibliography.bib
 
 push: git-push gs-push-check gs-push
 pull: git-pull gs-pull-check gs-pull
@@ -115,26 +115,26 @@ gs-push-check:
 	@ echo 'Checking with Google Cloud Storage...' && \
 	gsutil rsync \
 	-nrdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
-	src/bib/files gs://jlw-dissertation/ && \
+	bib/files gs://jlw-dissertation/ && \
 	read -p "Press enter to continue..."
 
 gs-push: 
 	@ echo 'Pushing files to Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
-	src/bib/files gs://jlw-dissertation/ && \
+	bib/files gs://jlw-dissertation/ && \
 	echo 'Done.'
 
 gs-pull-check: 
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
 	gsutil rsync \
 	-nrdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
-	gs://jlw-dissertation/ src/bib/files && \
+	gs://jlw-dissertation/ bib/files && \
 	read -p "Press enter to continue..."
 
 gs-pull: 
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
-	gs://jlw-dissertation/ src/bib/files && \
+	gs://jlw-dissertation/ bib/files && \
 	echo 'Done.'
