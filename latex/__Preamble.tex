@@ -1,0 +1,13 @@
+\usepackage{libertine}
+\usepackage[hidelinks]{hyperref}
+\usepackage[style=sbl,
+  indexing=cite,
+  backend=biber,
+  ibidtracker=true,
+  pagetracker=true]{biblatex}
+
+% Pandoc compatability
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  
+\addbibresource{latex/bibliography.bib}
