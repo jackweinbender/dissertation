@@ -36,10 +36,24 @@ He concludes the chapter by discussing the Aqedah and the Eucharist. Just as the
 The arc of Vermes's study, therefore, is meant to establish a continuity between the earliest traditions of biblical interpretation with the later traditions of both Rabbinic Judaism and Early Christianity and to trace the evolution of those traditions historically.
 
 ### Vermes's Use of Rewritten Bible
-
+<<TODO>>
 
 
 ## Genre and Process
+One of the central issues with the term Rewritten Bible is whether it should be treated as a "genre" or as a "process" or "activity."  Because these texts eluded categorization within traditional established text groups, such as Targums, or midrash, early treatment of RwB as a discrete group was not unreasonable. Although scholars such as Daniel Harrington, argued against the treatment of RwB as a generic category quite early,[@harrington_kraft-nickelsburg1986] a number of scholars have since argued the reverse.
+
+The parade example of this perspective is Philip Alexander's 1988 article "Retelling the Old Testament," which, although dated, remains the most widely cited exemplar of the "genre" perspective.[@alexander_carson-williamson1988] Alexander takes up four rewritten Bible texts ($jub, $ga, $lab, and $ant) to determine whether there exists a set of concrete criteria by which scholars can admit or exclude text from the category. Although I ultimately disagree with his conclusion that RwB should be treated as a literary genre, his list of nine "principle characteristics" make a number of useful observations about the nature of RwB texts generally and are summarized as follows: #4Q
+
+1. RwB texts are *narratives* which follow the order of the biblical text.
+2. RwB texts are "free standing" literary works that take on the same form as the text they rewrite. They do not comment explicitly on their *Vorlagen*, but weave interpretation into their seamless retelling.
+3. RwB texts are not meant to replace the biblical work.
+4. RwB texts cover a large portion of the biblical narrative and exhibit a "centripetal" relationship to the biblical text.
+5. RwB texts follow the biblical text's narrative ordering, but may omit certain, non-essential elements.
+6. RwB texts offer an interpretive reading of scripture which, quoting Vermes offer, "a fuller, smoother and doctrinally more advanced form of the sacred narrative"[Citing Vermes in @schurer1986, 305] and implicitly comment on the biblical text.
+7. RwB texts are limited by their literary form which only allows a single interpretation of the biblical text that they rewrite.
+8. RwB texts are limited by their literary form which does not allow them to explain their exegetical rationale.
+9. RwB texts incorporate traditions and material not derived from the biblical text.
+
 
 ## Bible and Scripture
 
