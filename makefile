@@ -32,7 +32,7 @@ default: format build-all
 
 build: setup doc odt
 
-build-all: setup doc odt tex clean
+build-all: setup doc odt tex
 
 setup:
 	@ rm -rf build &&\
@@ -55,26 +55,17 @@ open-odt:
 open-pdf:
 	@ open build/$(title).pdf
 
-tex: clean format tex-pandoc tex-build tex-clean open-pdf
+tex: format tex-pandoc tex-full-build open-pdf
 
 tex-pandoc:
-	@ echo "Building xelatex PDF..." && \
-	$(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
+	@ echo "Building xelatex PDF..."
+	@ $(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
 
 tex-build:
-	@ mkdir $(tmp) && \
-	xelatex -no-pdf --output-directory=$(tmp) latex/$(title).tex && \
-	biber $(tmp)/$(title) && \
-	xelatex -no-pdf --output-directory=$(tmp) latex/$(title).tex && \
-	biber $(tmp)/$(title) && \
-	xelatex --output-directory=$(tmp) latex/$(title).tex
+	@ cd latex && make xelatex
 
-tex-clean:
-	@ mv $(tmp)/$(title).pdf build/$(title).pdf && \
-	rm -rf $(tmp)
-
-clean: 
-	@ rm -rf $(tmp)*
+tex-full-build: 
+	@ cd latex && make
 
 format: format-partials format-concat format-biber
 
