@@ -11,7 +11,10 @@ abbreviations = {
     "jub"     : "Jubilees",
     "ga"      : "Genesis Apocryphon",
     "ant"     : "Jewish Antiquities",
-    "lab"     : "Liber antiquitatum biblicarum"
+    "lab"     : "Liber antiquitatum biblicarum",
+    "rwb"     : "RwB",
+    "RwB"     : "Rewritten Bible",
+    "rwB"     : "rewritten Bible"
 }
 abbr_emph = {
     "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
