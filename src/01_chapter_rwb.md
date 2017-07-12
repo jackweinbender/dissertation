@@ -1,11 +1,11 @@
-# The Rewritten Bible
+# The $RwB
 
 
-## Emergence of the Concept of RwB
-In his seminal work $stj-full, Geza Vermes introduced the term "rewritten Bible" to the discussion of Second Temple Jewish literature to describe an exegetical process by which "the midrashist inserts haggadic development into the biblical narrative" in order to "anticipate questions, and to solve problems in advance."[@vermes1961, 95] The authors of these texts, therefore, make use of *implicitly* those interpretive traditions which later exegetical texts make *explicit*.
+## Emergence of the Concept of $rwb
+In his seminal work $stj-full, Geza Vermes introduced the term "$rwB" to the discussion of Second Temple Jewish literature to describe an exegetical process by which "the midrashist inserts haggadic development into the biblical narrative" in order to "anticipate questions, and to solve problems in advance."[@vermes1961, 95] The authors of these texts, therefore, make use of *implicitly* those interpretive traditions which later exegetical texts make *explicit*.
 
 ### Scripture and Tradition in Judaism (1961)
-The primary purpose of *Scripture and Tradition*, however, was not to offer a clear definition of the term "rewritten Bible," but to lay the groundwork for the historical, diachronic, study of aggadic traditions, of which rewritten Bible makes only a small part. As Vermes recounts, prior to the mid-twentieth century, the prevailing approach to the study of aggadic exegesis was to treat the aggadah as originating during the Tannaitic period.  The aggadah were viewed as "the result of the adoption, and anonymous repetition, of popular interpretations by favourite preachers," [@vermes1961, 3] the earliest of which were from the second century CE and were represented by Targums Onkelos and Jonathan. Furthermore, studies of ancient Jewish literature at this time focused on texts which modern Judaism considered authentic. As a result, a good number of earlier texts---for example, the apocrypha, pseudepigrapha, and sectarian texts---were often categorically excluded from discussions of the origins of aggadic exegesis.[@vermes1961, 2]
+The primary purpose of *Scripture and Tradition*, however, was not to offer a clear definition of the term "$rwB," but to lay the groundwork for the historical, diachronic, study of aggadic traditions, of which $rwB makes only a small part. As Vermes recounts, prior to the mid-twentieth century, the prevailing approach to the study of aggadic exegesis was to treat the aggadah as originating during the Tannaitic period.  The aggadah were viewed as "the result of the adoption, and anonymous repetition, of popular interpretations by favourite preachers," [@vermes1961, 3] the earliest of which were from the second century CE and were represented by Targums Onkelos and Jonathan. Furthermore, studies of ancient Jewish literature at this time focused on texts which modern Judaism considered authentic. As a result, a good number of earlier texts---for example, the apocrypha, pseudepigrapha, and sectarian texts---were often categorically excluded from discussions of the origins of aggadic exegesis.[@vermes1961, 2]
 
 A series of publications and discoveries beginning in the 1930's, however, began to undermine the notion that these early exegetical traditions began in the second century CE. Vermes credits this broadening of aggadic studies to a series of major studies and discoveries such as Rappaport's *Agada und Exegese bei Flavius Josephus*,[@rappaport1930] Paul Kahle's Schweich Lectures at the British Academy on the Cairo Geniza (given in 1941, published 1947),[@kahle1947] Kisch's new text edition of Ps. Philo's $lab (1949),[@kisch1949] the discovery of the Dead Sea Scrolls (1948) and Codex Neofiti (1956), as well as (and perhaps especially) Renée Bloch's work on midrash [@bloch1954; @bloch1955_repr; @vermes1961, 3--7]. The overarching theme among these works was the evidence for continuity between biblical interpretive traditions prior to the second century, and later aggadah. For example, Vermes notes that Rappaport's work on $ant identified substantial overlaps between Josephus's text and Rabbinic aggadah and suggested, therefore, that Josephus had drawn from an already living tradition of interpretation. The implication of his suggestion is that the aggadah of the second century were not novel exegetical works, but were themselves products of earlier exegetical traditions.
 
@@ -13,7 +13,7 @@ Building on these recent advancements, the explicitly stated purpose of *Scriptu
 
 The first three chapters of *Scripture and Tadition* make up the first part of Vermes's study and is entitled " The Symbolism of Words." In this section, Vermes focuses on the way that individual words and ideas take on localized symbolic meanings which are then applied globally to the interpretation of the Bible. In his first chapter, he notes the divergent treatment of Gen 44:18--19 among ancient commentators and proceeds through a synoptic study of this passage in the Fragmentary Targum, Targum Neofiti, and the Tosefta of Targum Yerushalmi. He concludes that the Fragmentary Targum represents the most primitive work, whose interpretive strategy is essentially inner-biblical (by harmonizing Gen 44 and 49 with Exod 7--9), followed by the Tosefta, which seems to depend on the Fragmentary Targum but takes a different interpretive stance, and finally Targum Neofiti, which combines the two. In this second chapter, Vermes examines the way that the word "Lebanon" came to be used symbolically in the Hebrew Bible and other jewish literature and how those symbolic meanings developed, particularly the association of Lebanon with Jerusalem and the Temple. He identifies the Song of Songs as the intermediary text which helped to establish this tradition within post-exilic Judaism, noting that the book occupies the unique position as the only biblical text which clearly uses the name Lebanon symbolically for the Temple. Importantly, Vermes shows that the symbolic use of Lebanon to represent Jerusalem and the Temple is rooted in *biblical* exegesis. This is a key idea for Vermes because it establishes a continuity between the production of the biblical text and its later interpretation. In chapter three, Vermes examines other words which take on symbolic meaning in later Jewish texts ("lion," "Damascus," "*Meḥoqeq*," and "Man"), and shows the relative similarity of the process between the DSS texts and the targumic and midrashic materials.
 
-It is in the second part of *Scripture and Tradition*  that the topic of  Rewritten Bible is addressed most directly. This section---titled "The Rewritten Bible"--- covers two chapters (chapters four and five), both focusing on the figure Abraham and the aggadic traditions surrounding his life.
+It is in the second part of *Scripture and Tradition*  that the topic of  $RwB is addressed most directly. This section---titled "The $RwB"--- covers two chapters (chapters four and five), both focusing on the figure Abraham and the aggadic traditions surrounding his life.
 
 In chapter four, Vermes embarks on what he calls a "retrogressive historical study" by which he means beginning with the traditions in their later, more developed forms, and working back toward their origins. In this case, Vermes begins with the 11th century CE text *Sefer ha-Yashar* (and the varied extra-biblical traditions contained therein) then works backward to identify sections of the text which exhibit earlier traditions, for example, in Targums, Josephus, Jubilees, (Ps.) Philo, and others. The purpose of this chapter is to demonstrate that even late texts can contain valuable information about earlier methods of exegesis. As Vermes puts it, "[Sefer ha-Yashar] manifests a direct continuity with the corresponding tradition of the time of the second Temple, but reflects also the influence of the haggadah of the Tannaim and Amoraim."[@vermes1961, 95]
 
@@ -35,28 +35,32 @@ He concludes the chapter by discussing the Aqedah and the Eucharist. Just as the
 
 The arc of Vermes's study, therefore, is meant to establish a continuity between the earliest traditions of biblical interpretation with the later traditions of both Rabbinic Judaism and Early Christianity and to trace the evolution of those traditions historically.
 
-### Vermes's Use of Rewritten Bible
+### Vermes's Use of $RwB
 <<TODO>>
 
 
 ## Genre and Process
-One of the central issues with the term Rewritten Bible is whether it should be treated as a "genre" or as a "process" or "activity."  Because these texts eluded categorization within traditional established text groups such as Targums, or midrash, early treatment of RwB as a discrete group was not unreasonable. Although scholars such as Daniel Harrington, argued against the treatment of RwB as a generic category quite early,[@harrington_kraft-nickelsburg1986] a number of scholars have since argued the reverse.
+One of the central issues with the term $RwB is whether it should be treated as a "genre" or as a "process" or "activity."  Because these texts eluded categorization within traditional established text groups such as Targums, or midrash, early treatment of $rwb as a discrete group was not unreasonable. Although scholars such as Daniel Harrington, argued against the treatment of $rwb as a generic category quite early,[@harrington_kraft-nickelsburg1986] a number of scholars have since argued the reverse.
 
-The parade example of this perspective is Philip Alexander's 1988 article "Retelling the Old Testament," which, although dated, remains the most widely cited exemplar of the "genre" perspective.[@alexander_carson-williamson1988] Alexander takes up four rewritten Bible texts ($jub, $ga, $lab, and $ant) to determine whether there exists a set of concrete criteria by which scholars can admit or exclude text from the category. Although I ultimately disagree with his conclusion that RwB should be treated as a literary genre, his list of nine "principle characteristics" make a number of useful observations about the nature of RwB texts generally and are summarized as follows:
+The parade example of this perspective is Philip Alexander's 1988 article "Retelling the Old Testament," which, although dated, remains the most widely cited exemplar of the "genre" perspective.[@alexander_carson-williamson1988] Alexander takes up four $rwB texts ($jub, $ga, $lab, and $ant) to determine whether there exists a set of concrete criteria by which scholars can admit or exclude text from the category. Although I ultimately disagree with his conclusion that $rwb should be treated as a literary genre, his list of nine "principle characteristics" make a number of useful observations about the nature of $rwb texts generally and are summarized as follows:
 
-1. RwB texts are *narratives* which follow the order of the biblical text.
-2. RwB texts are "free standing" literary works that take on the same form as the text they rewrite. They do not comment explicitly on their *Vorlagen*, but weave interpretation into their seamless retelling.
-3. RwB texts are not meant to replace the biblical work.
-4. RwB texts cover a large portion of the biblical narrative and exhibit a "centripetal" relationship to the biblical text.
-5. RwB texts follow the biblical text's narrative ordering, but may omit certain, non-essential elements.
-6. RwB texts offer an interpretive reading of scripture which, quoting Vermes offer, "a fuller, smoother and doctrinally more advanced form of the sacred narrative"[Citing Vermes in @schurer1986, 305] and implicitly comment on the biblical text.
-7. RwB texts are limited by their literary form which only allows a single interpretation of the biblical text that they rewrite.
-8. RwB texts are limited by their literary form which does not allow them to explain their exegetical rationale.
-9. RwB texts incorporate traditions and material not derived from the biblical text.
+1. $rwb texts are *narratives* which follow the order of the biblical text.
+2. $rwb texts are "free standing" literary works that take on the same form as the text they rewrite. They do not comment explicitly on their *Vorlagen*, but weave interpretation into their seamless retelling.
+3. $rwb texts are not meant to replace the biblical work.
+4. $rwb texts cover a large portion of the biblical narrative and exhibit a "centripetal" relationship to the biblical text.
+5. $rwb texts follow the biblical text's narrative ordering, but may omit certain, non-essential elements.
+6. $rwb texts offer an interpretive reading of scripture which, quoting Vermes offer, "a fuller, smoother and doctrinally more advanced form of the sacred narrative"[Citing Vermes in @schurer1986, 305] and implicitly comment on the biblical text.
+7. $rwb texts are limited by their literary form which only allows a single interpretation of the biblical text that they rewrite.
+8. $rwb texts are limited by their literary form which does not allow them to explain their exegetical rationale.
+9. $rwb texts incorporate traditions and material not derived from the biblical text.
+
+Despite Alexander's emphatic conclusion affirming the genre of $RwB, a few of these criteria are unconvincing. While Vermes, too, affirmed that one characteristic of $rwb was only a narrative phenomenon,[@vermes GET THIS] texts such as the Temple Scroll q[11QT^a^] have caused some, such as Bernstein, to call this conclusion into question.[@bernstein_textus2005] This illustrates one of the flaws with Alexander's method, namely, that his conclusions were based on four texts "normally included in the genre."[@alexander_carson-williamson1988, 99]
+
+Alexander's third criteria also suffers
 
 
 ## Bible and Scripture
 
-## Text Editions v. RwB
+## Text Editions v. $rwb
 
-## Texts (Lists, etc. Parabiblical v RwB)
+## Texts (Lists, etc. Parabiblical v $rwb)
