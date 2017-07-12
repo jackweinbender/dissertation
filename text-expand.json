@@ -1,0 +1,15 @@
+{
+  "default": {
+      "jub"     : "Jubilees",
+      "ga"      : "Genesis Apocryphon",
+      "ant"     : "Jewish Antiquities",
+      "lab"     : "Liber antiquitatum biblicarum",
+      "rwb"     : "RwB",
+      "RwB"     : "Rewritten Bible",
+      "rwB"     : "rewritten Bible"
+  },
+  "emph": {
+      "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
+      "stj"     : "Scripture and Tradition"
+  }
+}|
