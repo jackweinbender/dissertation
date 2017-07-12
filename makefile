@@ -20,9 +20,8 @@ tmp = build/.tmp
 pandoc=pandoc \
 	--top-level-division=chapter \
 	--filter pandoc-citeproc \
-	--filter ./abbr.py \
 	--bibliography=$(bib_file) \
-	--smart 
+	--smart
 
 pandoc-csl=$(pandoc) $(input_files) \
 	--csl="society-of-biblical-literature-fullnote-bibliography.csl" \
@@ -64,7 +63,7 @@ tex-pandoc:
 tex-build:
 	@ cd latex && make xelatex
 
-tex-full-build: 
+tex-full-build:
 	@ cd latex && make
 
 format: format-partials format-concat format-biber
@@ -80,7 +79,7 @@ format-concat:
 	@ rm -rf $(bib_file) && \
 	cat bib/*.bib > $(bib_file)
 
-format-biber: 
+format-biber:
 	@ biber --tool --nolog --quiet \
 	--strip-comments \
 	--output-align \
@@ -103,28 +102,28 @@ git-pull:
 	git pull github master && \
 	echo 'Done.'
 
-gs-push-check: 
+gs-push-check:
 	@ echo 'Checking with Google Cloud Storage...' && \
 	gsutil rsync \
 	-nrdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
 	bib/files gs://jlw-dissertation/ && \
 	read -p "Press enter to continue..."
 
-gs-push: 
+gs-push:
 	@ echo 'Pushing files to Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
 	bib/files gs://jlw-dissertation/ && \
 	echo 'Done.'
 
-gs-pull-check: 
+gs-pull-check:
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
 	gsutil rsync \
 	-nrdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
 	gs://jlw-dissertation/ bib/files && \
 	read -p "Press enter to continue..."
 
-gs-pull: 
+gs-pull:
 	@ echo 'Retrieving files from Google Cloud Storage...' && \
 	gsutil -m rsync \
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
