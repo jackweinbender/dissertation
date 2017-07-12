@@ -1,4 +1,4 @@
 build
-bib/files
+bib/files/*.pdf
 .DS_Store
 tmp
