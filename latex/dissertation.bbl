@@ -153,6 +153,8 @@
       \field{title}{Écriture et tradition dans le Judaïsme: Aperçus sur l'origine du Midrash}
       \field{year}{1954}
       \field{dateera}{ce}
+      \field{pages}{GET PAGES}
+      \range{pages}{-1}
     \endentry
     \entry{bloch1955_repr}{incollection}{}
       \name{author}{1}{}{%
@@ -238,6 +240,8 @@
       \field{volume}{43}
       \field{year}{1955}
       \field{dateera}{ce}
+      \field{pages}{GET PAGES}
+      \range{pages}{-1}
     \endentry
     \entry{dad538f6dac197e1f48792a133d9e293}{article}{dataonly}
       \name{author}{1}{}{%
@@ -262,6 +266,8 @@
       \field{title}{Note méthodologique pour l'etude de la littérature rabbinique}
       \field{volume}{43}
       \field{year}{1955}
+      \field{pages}{GET PAGES}
+      \range{pages}{-1}
     \endentry
     \entry{brooke_dsd2010}{article}{}
       \name{author}{1}{}{%
@@ -1616,6 +1622,48 @@
       \field{title}{Scripture and Tradition in Judaism: Haggadic Studies}
       \field{year}{1961}
       \field{dateera}{ce}
+    \endentry
+    \entry{vermes_zsengeller2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
+           family={Vermes},
+           familyi={V\bibinitperiod},
+           given={Geza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{fullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authornamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorfullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJsup}
+      \field{shorttitle}{Rewritten Bible after Fifty Years}
+      \field{title}{The Genesis of the Concept of `Rewritten Bible'}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 9}
+      \range{pages}{7}
     \endentry
     \entry{weissenberg-pakkala2011}{book}{}
       \name{editor}{3}{}{%
