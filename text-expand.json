@@ -6,7 +6,9 @@
       "lab"     : "Liber antiquitatum biblicarum",
       "rwb"     : "RwB",
       "RwB"     : "Rewritten Bible",
-      "rwB"     : "rewritten Bible"
+      "rwB"     : "rewritten Bible",
+      "dss"     : "Dead Sea Scrolls",
+      "qumran"  : "Qumran"
   },
   "emph": {
       "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
