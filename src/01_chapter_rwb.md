@@ -40,7 +40,7 @@ The fact that Vermes spent so little time explaining precisely what he meant by 
 
 > The notion [of ~rwb], which over fifty years ago I thought was quite clear, seemed to the majority of the more recent practitioners nebulous and confused, and lacked methodological precision.[@vermes_zsengeller2014, 3]
 
-Only a few scholars, according to Vermes, managed to remain true to his original vision.^[He specifically references @alexander_carson-williamson1988 and @bernstein_textus2005.]
+Only a few scholars, according to Vermes, managed to remain true to his original vision.^[He specifically references @alexander_carson-williamson1988 and @bernstein_textus2005.] Instead, many subsequent studies, according to Vermes, "moved the goalposts" to better "suit the interest of their inquiry."[@vermes_zsengeller2014, 4]
 
 ## Genre and Process
 One of the central issues with the term ~RwB is whether it should be treated as a "genre" or as a "process" or "activity."  Because these texts eluded categorization within traditional established text groups such as Targums, or midrash, early treatment of ~rwb as a discrete group was not unreasonable. Although scholars such as Daniel Harrington, argued against the treatment of ~rwb as a generic category quite early,[@harrington_kraft-nickelsburg1986] a number of scholars have since argued the reverse.
