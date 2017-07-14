@@ -8,10 +8,11 @@
       "RwB"     : "Rewritten Bible",
       "rwB"     : "rewritten Bible",
       "dss"     : "Dead Sea Scrolls",
-      "qumran"  : "Qumran"
+      "qumran"  : "Qumran",
+      "sefer"   : "Sefer ha-Yashar"
   },
   "emph": {
       "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
       "stj"     : "Scripture and Tradition"
   }
-}|
+}
