@@ -9,7 +9,8 @@
       "rwB"     : "rewritten Bible",
       "dss"     : "Dead Sea Scrolls",
       "qumran"  : "Qumran",
-      "sefer"   : "Sefer ha-Yashar"
+      "sefer"   : "Sefer ha-Yashar",
+      "pTarg"   : "Palestinian Targums"
   },
   "emph": {
       "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
