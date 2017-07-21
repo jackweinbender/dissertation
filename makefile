@@ -20,6 +20,7 @@ tmp = build/.tmp
 pandoc=pandoc \
 	--top-level-division=chapter \
 	--filter pandoc-citeproc \
+	--filter ./text-expand.py \
 	--bibliography=$(bib_file) \
 	--smart
 

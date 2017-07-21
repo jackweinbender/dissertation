@@ -1,5 +1,7 @@
 {
   "default": {
+      "v"       : "Vermes",
+      "~qumran" : "Qumran",
       "jub"     : "Jubilees",
       "ga"      : "Genesis Apocryphon",
       "ant"     : "Jewish Antiquities",
@@ -10,7 +12,8 @@
       "dss"     : "Dead Sea Scrolls",
       "qumran"  : "Qumran",
       "sefer"   : "Sefer ha-Yashar",
-      "pTarg"   : "Palestinian Targums"
+      "pTarg"   : "Palestinian Targums",
+      "temple-scroll ": "Temple Scroll"
   },
   "emph": {
       "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
