@@ -1,7 +1,7 @@
 {
   "default": {
       "v"       : "Vermes",
-      "~qumran" : "Qumran",
+      "qumran" : "Qumran",
       "jub"     : "Jubilees",
       "ga"      : "Genesis Apocryphon",
       "ant"     : "Jewish Antiquities",
