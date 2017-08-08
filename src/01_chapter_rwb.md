@@ -84,7 +84,7 @@ Bernstein begins by addressing the few small modifications that he makes to Verm
 
 Bernstein critiques scholars such as Nicklesburg,[@nickelsburg_stone1984] Harrington,[@harrington_kraft-nickelsburg1986] and Brooke[@brooke_schiffman-vanderkam2000] for excessively expanding the use of the term ~rwb at its "upper bound" (my term) to the point that they have weakened the term and have "not aided in focusing scholarly attention on the unifying vs. divergent traits of some of these early interpretive works."[@bernstein_textus2005, 179] Likewise, Bernstein critiques Tov for including reworked texts (e.g., 4QRP) and therefor expanding the "lower bound" of the category. While Bernstein  avers that "Rearrangement with the goal of interpretation is probably an earlier stage in the development of biblical 'commentary' than supplementation with the goal of interpretation," he nevertheless distinguishes the former from the category ~rwb and declares that "the definitions of 'rewritten Bible' furnished by Tov and Vermes are [not] even remotely compatible, and we need to choose between them simply for the purposes of clarity."[@bernstein_textus2005, 185] Bernstein, ultimately, argues that Vermes' category is worth keeping around, and admonishes the reader to maintain a narrow definition of the category, because, in his own words, "the more specific the implications of the term, the more valuable it is as a measuring device,"[@bernstein_textus2005, 195] and conversely that "the looser the definition, the less precisely it classifies those items under its rubric." [@bernstein_textus2005, 195]
 
-### RwB as a "Process"
+### RwB as a Process
 At the other end of the spectrum, a number of important scholars have treated ~rwb as a "process" or "activity" rather than as a genre or category. These scholars also have tended to be more "expansive" when it comes to which texts should be discussed as "rewritten."
 
 <!-- #### George Nickelsburg (1984) -->
@@ -171,7 +171,7 @@ While I find Segal's characterization of RwB texts problematic, his main contrib
 
 Segal notes that both of these criteria, in fact, apply to textual editions, as well as to RwB texts [@segal_henze2005, 20]. In other words, these are not "distinguishing" criteria, so much as the baseline for consideration.
 
-### Literary (Internal) Criteria for "Rewritten Bible"
+### Literary (Internal) Criteria for Rewritten Bible
 
 It is the "Literary Criteria" which Segal, ultimately, believes provide the *definition* of RwB texts.[@segal_henze2005, 20] Segal provides six internal criteria:
 
