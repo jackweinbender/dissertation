@@ -291,6 +291,8 @@
       \field{shortjournal}{DSD}
       \field{title}{Genre Theory, Rewritten Bible and Pesher}
       \field{volume}{17}
+      \field{year}{2010}
+      \field{dateera}{ce}
       \field{pages}{332\bibrangedash 357}
       \range{pages}{26}
     \endentry
@@ -899,6 +901,8 @@
       \field{labeltitlesource}{title}
       \field{series}{The Schweich Lectures of the British Academy, 1941}
       \field{title}{The Cairo Geniza}
+      \field{year}{1947}
+      \field{dateera}{ce}
     \endentry
     \entry{krarrer-kraus2008}{book}{}
       \name{editor}{2}{}{%
@@ -963,6 +967,8 @@
       \field{shortseries}{PMS}
       \field{shorttitle}{Liber Antiquitatum Biblicarum}
       \field{title}{Pseudo-Philo's Liber Antiquitatum Biblicarum}
+      \field{year}{1949}
+      \field{dateera}{ce}
     \endentry
     \entry{koskenniemi-lindqvist_laato-ruiten2008}{incollection}{}
       \name{author}{2}{}{%
