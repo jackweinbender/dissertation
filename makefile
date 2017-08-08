@@ -26,13 +26,14 @@ pandoc=pandoc \
 
 pandoc-csl=$(pandoc) $(input_files) \
 	--csl="society-of-biblical-literature-fullnote-bibliography.csl" \
-	--citation-abbreviations="abbr.json"
+	--citation-abbreviations="abbr.json" \
+	--reference-docx=reference.docx
 
 default: format build-all
 
-build: setup doc odt
+build: setup doc
 
-build-all: setup doc odt tex
+build-all: setup doc tex
 
 setup:
 	@ rm -rf build &&\
@@ -42,15 +43,8 @@ doc:
 	@ echo "Building MS Word..." && \
 	$(pandoc-csl) -o build/$(title).docx
 
-odt:
-	@ echo "Building OpenDocument..." && \
-	$(pandoc-csl) -o build/$(title).odt
-
 open-doc:
 	@ open build/$(title).docx
-
-open-odt:
-	@ open build/$(title).odt
 
 open-pdf:
 	@ open build/$(title).pdf
