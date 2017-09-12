@@ -1,6 +1,7 @@
 {
   "default": {
       "v"       : "Vermes",
+      "vermes"  : "Vermes",
       "qumran"  : "Qumran",
       "jub"     : "Jubilees",
       "ga"      : "Genesis Apocryphon",
@@ -8,6 +9,7 @@
       "lab"     : "Liber antiquitatum biblicarum",
       "rwb"     : "RwB",
       "RwB"     : "Rewritten Bible",
+      "RWB"     : "Rewritten Bible",
       "rwB"     : "rewritten Bible",
       "dss"     : "Dead Sea Scrolls",
       "qumran"  : "Qumran",
