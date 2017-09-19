@@ -78,6 +78,10 @@ In contrast, ~ga seems to have very little interest in halakhic matters and inst
 
 Ultimately, Nickelsburg differs from ~vermes mainly in the way he views the Bible during the late ~2T period. Although Nickelsburg observes that the preoccupation with certain texts suggests that they were held in high regard, he does not have the same interest in tying the exegetical practices of, for example, ~jub, with earlier inner-biblical or later haggadic traditions. Because Nickelsburg treats ~rwb as a process, he is able to highlight the fact that, e.g., 1 Enoch does indeed "rewrite" certain pericopae from Genesis despite the fact that the whole book (which, we should note, is a composite text to begin with) does not maintain a "centripetal" relationship with the biblical narrative.
 
+Daniel Harrington's 1986 contribution entitled "Palestinian Adaptations of Biblical Narratives and Prophecies I: The Bible Rewritten (Narratives)," adopts the term ~rwb to talk about texts produced around the turn of the era by Palestinian Judaism that  "take as their literary framework the flow of the biblical text itself and apparently have as their major purpose the clarification and actualization of the biblical story."[@harrington_kraft-nickelsburg1986, 239] In this regard, he follows ~vermes closely in how he imagines ~rwb to function. Yet, compared to ~vermes, he operates with a slightly expanded list of rewritten texts. In addition to ~jub, ~ga, Ps. Philo's ~lab and Josephus's ~ant, he also includes the Assumption of Moses and 11QTemple (~temple-scroll). Furthermore, he makes a point to suggest that a number of other texts may be able to be included in the list, including *Paralipomena of Jeremiah*, *Life of Adam and Eve/Apocalypse of Moses*, and *Ascension of Isaiah*.
+
+Harrington's major contribution is his explicit rejection of RwB as a category or literary genre (more on this, below) in favor of a process-oriented approach. Because of this fact, Harrington takes a broad view of rewriting and allows, to some degree, that this process be understood similar to a reception history (although, this is my term, and not his). His inclusion of the ~temple-scroll, too, served to push the conversation of ~rwb beyond purely narrative forms of rewriting.
+
 ### The Lower Bound: Between Bible and ~RWB
 
 Another recent avenue of investigation has been to explore the boundaries between the biblical text, editions, translations, and rewritten biblical texts. ~vermes, of course, utilized the targums liberally in *Scripture and Tradition*, but his goal was to blur the line between post-biblical texts via the haggadah. Most scholars treating RwB, however, are not inclined to include the targums among RwB. But the targums---and for that matter the LXX and Samaritan Pentateuch---do uniquely represent interpretive traditions. Furthermore, the instability of the biblical text during the late ~2T period, as exhibited by the varied editions of Jeremiah found at Qumran and other liminal texts, such as 4QReworkedP, has problematized the question of what may have constituted "Bible" (or, more properly, "scripture") at the time.
@@ -178,14 +182,9 @@ Bernstein critiques scholars such as Nicklesburg,[@nickelsburg_stone1984] Harrin
 ### ~RWB as a Process
 At the other end of the spectrum, a number of important scholars have treated ~rwb as a "process" or "activity" rather than as a genre or category. These scholars also have tended to be more "expansive" when it comes to which texts should be discussed as "rewritten."
 
-<!-- #### George Nickelsburg (1984) -->
-<!-- 620 -->
 
 
-<!-- #### Daniel Harrington (1986) -->
-Daniel Harrington's 1986 contribution entitled "Palestinian Adaptations of Biblical Narratives and Prophecies I: The Bible Rewritten (Narratives)," adopts the term "Rewritten Bible" to talk about texts produced around the turn of the era by Palestinian Judaism that  "take as their literary framework the flow of the biblical text itself and apparently have as their major purpose the clarification and actualization of the biblical story."[@harrington_kraft-nickelsburg1986, 239] Compared to ~vermes, he operates with a slightly expanded list of rewritten texts. In addition to ~jub, ~ga, Ps. Philo's ~lab and Josephus's ~ant, he also includes the Assumption of Moses and 11QTemple (~temple-scroll). Furthermore, he makes a point to suggest that a number of other texts may be able to be included in the list, including *Paralipomena of Jeremiah*, *Life of Adam and Eve/Apocalypse of Moses*, and *Ascension of Isaiah*.
-
-Harrington's major contribution is his explicit rejection of RwB as a category or literary genre in favor of a process-oriented approach. In this respect, Harrington takes a broad view of rewriting and allows, to some degree, that this process be understood similar to a reception history (although, this is my term, and not his). He states:
+HARRINGTON He states:
 
 >   Nevertheless, establishing that these books are not appropriately described as targums or midrashim is not the same as proving that they all represent a distinctive literary genre called "rewritten Bible." In fact, it seems better to view rewriting the Bible as a kind of activity or process than to see it as a distinctive literary genre of Palestinian Judaism"[@harrington_kraft-nickelsburg1986, 242--243]
 
