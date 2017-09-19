@@ -49,7 +49,7 @@ open-doc:
 open-pdf:
 	@ open build/$(title).pdf
 
-tex: format tex-pandoc tex-full-build open-pdf
+tex: format tex-pandoc tex-full-build
 
 tex-pandoc:
 	@ echo "Building xelatex PDF..."
