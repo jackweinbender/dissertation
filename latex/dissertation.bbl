@@ -342,6 +342,48 @@
       \field{pages}{777\bibrangedash 781}
       \range{pages}{5}
     \endentry
+    \entry{campbell_zsengeller2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=86559d6919e5536fc425e356fda42dc7}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Jonathan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{fullhash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{authornamehash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{authorfullhash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJsup}
+      \field{shorttitle}{Rewritten Bible}
+      \field{title}{Rewritten Bible: A Terminological Reassessment}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{49\bibrangedash 81}
+      \range{pages}{33}
+    \endentry
     \entry{carson-williamson1988}{book}{}
       \name{editor}{2}{}{%
         {{hash=cf233beaa2416b7b40e1cd933347b249}{%
@@ -1189,6 +1231,38 @@
       \field{pages}{308\bibrangedash 320}
       \range{pages}{13}
     \endentry
+    \entry{mcdonald-sanders2002}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=77e6cc97752448b8b3957b2dc2ef95cb}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Lee\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=47bc1f92f63443c345988c6d3f2581a4}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Peabody, MA}%
+      }
+      \list{publisher}{1}{%
+        {Hendrickson}%
+      }
+      \strng{namehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{fullhash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editornamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editorfullhash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Canon Debate}
+      \field{title}{The Canon Debate}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
     \entry{newsome_grossman2010}{incollection}{}
       \name{author}{1}{}{%
         {{hash=c6bbfdb9dcb444599559f98ddb659459}{%
@@ -1575,6 +1649,91 @@
       \field{dateera}{ce}
       \field{pages}{369\bibrangedash 93}
       \range{pages}{25}
+    \endentry
+    \entry{ulrich_zsengeller2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{fullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authornamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authorfullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJsup}
+      \field{shorttitle}{Crossing the Borders}
+      \field{title}{Crossing the Borders from 'Pre-Scripture' to Scripture (Rewritten) to 'Rewritten Scripture'}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{83\bibrangedash 104}
+      \range{pages}{22}
+    \endentry
+    \entry{ulrich_mcdonald-sanders2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=77e6cc97752448b8b3957b2dc2ef95cb}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Lee\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=47bc1f92f63443c345988c6d3f2581a4}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Peabody, MA}%
+      }
+      \list{publisher}{1}{%
+        {Hendrickson}%
+      }
+      \strng{namehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{fullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authornamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authorfullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{editornamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editorfullhash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Canon Debate}
+      \field{title}{The Notion and Definition of Canon}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{21\bibrangedash 35}
+      \range{pages}{15}
     \endentry
     \entry{vanderkam2000}{book}{}
       \name{author}{1}{}{%
