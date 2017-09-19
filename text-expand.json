@@ -15,6 +15,7 @@
       "qumran"  : "Qumran",
       "sefer"   : "Sefer ha-Yashar",
       "pTarg"   : "Palestinian Targums",
+      "2T"      : "Second Temple",
       "temple-scroll": "Temple Scroll"
   },
   "emph": {
