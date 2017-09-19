@@ -759,6 +759,34 @@
       \field{year}{1978}
       \field{dateera}{ce}
     \endentry
+    \entry{grossman2010}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=2248464714b6a3421126cfec7796236f}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Maxine\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{2248464714b6a3421126cfec7796236f}
+      \strng{fullhash}{2248464714b6a3421126cfec7796236f}
+      \strng{editornamehash}{2248464714b6a3421126cfec7796236f}
+      \strng{editorfullhash}{2248464714b6a3421126cfec7796236f}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rediscovering the {Dead Sea Scrolls}: An Assessment of Old and New Approaches and Methods}
+      \field{shorttitle}{Rediscovering the {Dead Sea Scrolls}}
+      \field{title}{Rediscovering the {Dead Sea Scrolls}: An Assessment of Old and New Approaches and Methods}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
     \entry{harrington_kraft-nickelsburg1986}{incollection}{}
       \name{author}{1}{}{%
         {{hash=75ea9d61f6011555f36b7e29902a3fd7}{%
@@ -1169,15 +1197,36 @@
            given={Carol},
            giveni={C\bibinitperiod}}}%
       }
+      \name{editor}{1}{}{%
+        {{hash=2248464714b6a3421126cfec7796236f}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Maxine\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
       \strng{namehash}{c6bbfdb9dcb444599559f98ddb659459}
       \strng{fullhash}{c6bbfdb9dcb444599559f98ddb659459}
       \strng{authornamehash}{c6bbfdb9dcb444599559f98ddb659459}
       \strng{authorfullhash}{c6bbfdb9dcb444599559f98ddb659459}
+      \strng{editornamehash}{2248464714b6a3421126cfec7796236f}
+      \strng{editorfullhash}{2248464714b6a3421126cfec7796236f}
       \field{sortinit}{N}
       \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{GET THIS INFO}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rediscovering the {Dead Sea Scrolls}: An Assessment of Old and New Approaches and Methods}
+      \field{shorttitle}{Rhetorical Criticism}
+      \field{title}{Rhetorical Criticism and the {Dead Sea Scrolls}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{198\bibrangedash 214}
+      \range{pages}{17}
     \endentry
     \entry{nickelsburg_stone1984}{incollection}{}
       \name{author}{1}{}{%
