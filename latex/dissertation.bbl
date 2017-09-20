@@ -342,6 +342,52 @@
       \field{pages}{777\bibrangedash 781}
       \range{pages}{5}
     \endentry
+    \entry{brooke_herbert-tov2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b57f1e0c5a53e3db75ae1b2536a55da1}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Edward\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
+           family={Tov},
+           familyi={T\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New Castle, DE}%
+      }
+      \list{publisher}{2}{%
+        {British Library}%
+        {Oak Knoll Press}%
+      }
+      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{editornamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{editorfullhash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Bible as Book: The Hebrew Bible and the Judaean Desert Discoveries}
+      \field{shorttitle}{The Rewritten Law, Prophets, and Psalms}
+      \field{title}{The Rewritten Law, Prophets, and Psalms: Issues for Understanding the Text of the Bible}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{31\bibrangedash 40}
+      \range{pages}{10}
+    \endentry
     \entry{campbell_zsengeller2014}{incollection}{}
       \name{author}{1}{}{%
         {{hash=86559d6919e5536fc425e356fda42dc7}{%
@@ -904,6 +950,41 @@
       \field{shorttitle}{Biblical Interpretation at Qumran}
       \field{title}{Biblical Interpretation at Qumran}
       \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{herbert-tov2002}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=b57f1e0c5a53e3db75ae1b2536a55da1}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Edward\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
+           family={Tov},
+           familyi={T\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New Castle, DE}%
+      }
+      \list{publisher}{2}{%
+        {British Library}%
+        {Oak Knoll Press}%
+      }
+      \strng{namehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{fullhash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{editornamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{editorfullhash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Bible as Book: The Hebrew Bible and the Judaean Desert Discoveries}
+      \field{shorttitle}{The Bible as Book}
+      \field{title}{The Bible as Book: The Hebrew Bible and the Judaean Desert Discoveries}
+      \field{year}{2002}
       \field{dateera}{ce}
     \endentry
     \entry{hilhorst-puech2007}{book}{}
