@@ -226,8 +226,10 @@ Yet, it is not at all clear to me what we have gained by upholding ~rwb as a gen
 
 Based on the shortcomings of both traditional and more sophisticated treatments of ~rwb as a literary genre, I have adopted a process-oriented paradigm for my discussion of ~rwb texts.[I am in broad agreement with Campbell's treatment of the matter. See @campbell_zsengeller2014, 64--67]
 
-## Making Room for Memory Studies in ~RWB
+## Conclusion
 
+While each of these discussions has worked to expand and refine the study of ~rwb, the basic trajectory set by ~vermes---the conviction that ~rwb reflects an effort by the writer to implicitly comment on the biblical (or some "scriptural") text---has remained surprisingly consistent. This tendency to focus first and foremost on the exegetical qualities of ~rwb reflects ~vermes's original purpose for the term quite well, but given the current state of the discussion, I think it is worth reconsidering this central tenet. This is not to say, of course, that there is *no* exegetical purpose to *any* ~rwb text, rather that given a slightly broader view of the ~rwb phenomenon it is worth considering that the process of rewriting, as a literary process, was not primarily concerned with the *explication* of its *Vorlage*.
 
+Campbell, for example, has recently suggested that the practice of rewriting existed beyond scriptural *Vorlagen*.[@campbell_zsengeller2014] In his article, Campbell observes that the rewriting of non-scriptural text has by-and-large been ignored by scholars or ~rwb and offers a number compelling examples of ~2T texts which rewrite non-scriptural material following the same basic process as ~rwb. In particular, Campbell notes that while ~ant 1--11 focuses on biblical material, ~ant 13--13 offers a rewriting of the *Letter of Aristeas* and portions of 1 Macc. According to Campbell, "Josephus handles these compositions in the same way that he treats scriptural material in *Ant.* 1--11."[@campbell_zsengeller2014, 70; See also @mason2002_mcdonald-sanders2002, 126]
 
 [^non-scriptural-rewriting]: Campbell has recently suggested that the rewriting phenomenon may have been a widespread literary technique of the Late ~2T period. As such, it is worth questioning 
