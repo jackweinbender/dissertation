@@ -1312,6 +1312,49 @@
       \field{pages}{308\bibrangedash 320}
       \range{pages}{13}
     \endentry
+    \entry{mason2002_mcdonald-sanders2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=39796c2a5025c245b30db0b821d7ca44}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=77e6cc97752448b8b3957b2dc2ef95cb}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Lee\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=47bc1f92f63443c345988c6d3f2581a4}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Peabody, MA}%
+      }
+      \list{publisher}{1}{%
+        {Hendrickson}%
+      }
+      \strng{namehash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{fullhash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{authornamehash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{authorfullhash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{editornamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editorfullhash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Canon Debate}
+      \field{title}{Josephus and His Twenty-two Book Canon}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{110\bibrangedash 27}
+      \range{pages}{18}
+    \endentry
     \entry{mcdonald-sanders2002}{book}{}
       \name{editor}{2}{}{%
         {{hash=77e6cc97752448b8b3957b2dc2ef95cb}{%
