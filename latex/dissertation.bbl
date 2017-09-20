@@ -1859,6 +1859,33 @@
       \field{pages}{21\bibrangedash 35}
       \range{pages}{15}
     \endentry
+    \entry{vanderkam1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Dead Sea Discoveries}
+      \field{number}{3}
+      \field{shortjournal}{DSD}
+      \field{shorttitle}{Authoritative Literature}
+      \field{title}{Authoritative Literature in the Dead Sea Scrolls}
+      \field{volume}{5}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{382\bibrangedash 402}
+      \range{pages}{21}
+    \endentry
     \entry{vanderkam2000}{book}{}
       \name{author}{1}{}{%
         {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
