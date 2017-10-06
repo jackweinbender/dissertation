@@ -22,7 +22,7 @@ pandoc=pandoc \
 	--filter ./text-expand.py \
 	--smart
 
-pandoc-csl=$(pandoc) $(input_files) \
+pandoc-csl=$(pandoc) $(input_files) src/99_bibliography \
 	--filter pandoc-citeproc \
 	--bibliography=$(bib_file) \
 	--csl="society-of-biblical-literature-fullnote-bibliography.csl" \
@@ -54,6 +54,7 @@ tex: format tex-pandoc tex-full-build
 tex-pandoc:
 	@ echo "Building xelatex PDF..."
 	@ $(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
+	@ $(pandoc) src/05*.md --biblatex -o latex/_chapter05_chronicles.tex
 
 tex-build:
 	@ cd latex && make xelatex
