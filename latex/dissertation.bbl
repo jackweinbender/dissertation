@@ -19,6 +19,136 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
+    \entry{benzvi2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authornamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authorfullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Studia Theologica}
+      \field{shortjournal}{ST}
+      \field{title}{Chronicles and Social Memory}
+      \field{volume}{71}
+      \field{pages}{69\bibrangedash 90}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/0039338X.2017.1308718
+      \endverb
+    \endentry
+    \entry{benzvi-a_evans-williams2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d69b553f918cf8b645cfa98909ab85cb}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=66918fc2e67f224a90e8b259d8c019eb}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Tyler\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authornamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authorfullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{editornamehash}{f35b91bf9e9b92e77637381d72c89e3d}
+      \strng{editorfullhash}{f35b91bf9e9b92e77637381d72c89e3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Chronicling the Chronicler: The Book of Chronicles and Early Second Temple Historiography}
+      \field{shorttitle}{Chronicling the Chronicler}
+      \field{title}{Reading Chronicles and Reshaping the Memory of Manasseh}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{121\bibrangedash 140}
+      \range{pages}{20}
+    \endentry
+    \entry{benzvi-b_evans-williams2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d69b553f918cf8b645cfa98909ab85cb}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=66918fc2e67f224a90e8b259d8c019eb}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Tyler\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authornamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authorfullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{editornamehash}{f35b91bf9e9b92e77637381d72c89e3d}
+      \strng{editorfullhash}{f35b91bf9e9b92e77637381d72c89e3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Chronicling the Chronicler: The Book of Chronicles and Early Second Temple Historiography}
+      \field{shorttitle}{Chronicling the Chronicler}
+      \field{title}{Toward a Sense of Balance: Remembering the Catastrophe of Monarchic Judah / (Ideological) Israel and Exile through Reading Chronicles in Late Yehud}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{247\bibrangedash 265}
+      \range{pages}{19}
+    \endentry
+    \entry{blenkinsopp2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66f2e0fa73d16fdf9f6f4aa3945ed619}{%
+           family={Blenkinsopp},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{fullhash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authornamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authorfullhash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{David Remembered}
+      \field{title}{David Remembered: Kingship and National Identity in Ancient Israel}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
     \entry{braun1986}{book}{}
       \name{author}{1}{}{%
         {{hash=a2ca7c9ba70d8e71d3d3379ff5aa8357}{%
@@ -242,6 +372,34 @@
       \field{booktitle}{Prolegomena zur Geschichte Israels}
       \field{title}{Prolegomena zur Geschichte Israels}
       \field{year}{1883}
+    \endentry
+    \entry{wright2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=86fdcd1a5355a0dda097408c02fa6910}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{86fdcd1a5355a0dda097408c02fa6910}
+      \strng{fullhash}{86fdcd1a5355a0dda097408c02fa6910}
+      \strng{authornamehash}{86fdcd1a5355a0dda097408c02fa6910}
+      \strng{authorfullhash}{86fdcd1a5355a0dda097408c02fa6910}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{David, King of Israel}
+      \field{title}{David, King of Israel, and Caleb in Biblical Memory}
+      \field{year}{2014}
+      \field{dateera}{ce}
     \endentry
   \endsortlist
 \endrefsection
