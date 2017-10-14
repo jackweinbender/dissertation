@@ -16,5 +16,234 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{braun1986}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a2ca7c9ba70d8e71d3d3379ff5aa8357}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Roddy},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Waco, TX}%
+      }
+      \list{publisher}{1}{%
+        {Word Books}%
+      }
+      \strng{namehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{fullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authornamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorfullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{14}
+      \field{series}{Word Biblical Commentary}
+      \field{shortseries}{WBC}
+      \field{title}{1 Chronicles}
+      \field{year}{1986}
+      \field{dateera}{ce}
+    \endentry
+    \entry{coggins1976}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1509c9678d42a9e078b9ba01e4d6494e}{%
+           family={Coggins},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{fullhash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{authornamehash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{authorfullhash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Cambridge Biblical Commentary}
+      \field{shortseries}{CBC}
+      \field{shorttitle}{Chronicles}
+      \field{title}{The First and Second Books of the Chronicles}
+      \field{year}{1976}
+      \field{dateera}{ce}
+    \endentry
+    \entry{japhet1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louisville, KY}%
+      }
+      \list{publisher}{1}{%
+        {Westminster John Knox}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{{I \& II Chronicles}}: A Commentary}
+      \field{shorttitle}{{{I \& II Chronicles}}}
+      \field{title}{{{I \& II Chronicles}}: A Commentary}
+      \field{year}{1993}
+      \field{dateera}{ce}
+    \endentry
+    \entry{japhet2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=2ca2655e017ef5971a8b43c949b45821}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{translatornamehash}{2ca2655e017ef5971a8b43c949b45821}
+      \strng{translatorfullhash}{2ca2655e017ef5971a8b43c949b45821}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{origyear}{1989}
+      \field{shorttitle}{The Ideology of the Book of Chronicles}
+      \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{origdateera}{ce}
+    \endentry
+    \entry{knoppers2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dcfb6f7607fb286d1582ba00748d536b}{%
+           family={Knoppers},
+           familyi={K\bibinitperiod},
+           given={Gary\bibnamedelima N.},
+           giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{fullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authornamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorfullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{1 {{Chronicles}} 1--9}
+      \field{title}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wellhausen1957}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
+           family={Wellhausen},
+           familyi={W\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=fa8521caf45aaa02d8b80243bb895368}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi Southerland},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1ab2f774f7c4546c7da47fdbb01d6f5b}{%
+           family={Menzies},
+           familyi={M\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Meridian}%
+      }
+      \strng{namehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{fullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authornamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorfullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{translatornamehash}{699afb8db2838c37cd74ebc46449a07c}
+      \strng{translatorfullhash}{699afb8db2838c37cd74ebc46449a07c}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Prolegomena to the History of Ancient Israel: With a Reprint of the Article Israel from the Encyclopaedia Britannica}
+      \field{number}{6}
+      \field{relatedtype}{translationof}
+      \field{series}{Meridian Library}
+      \field{shortseries}{ML}
+      \field{shorttitle}{Prolegomena}
+      \field{title}{Prolegomena to the History of Ancient Israel}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \field{related}{544ab0cd36f5ce3c265090f3a787242e}
+    \endentry
+    \entry{544ab0cd36f5ce3c265090f3a787242e}{book}{dataonly}
+      \name{author}{1}{}{%
+        {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
+           family={Wellhausen},
+           familyi={W\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Reimer}%
+      }
+      \strng{namehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{fullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authornamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorfullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{wellhausen1883}
+      \field{booktitle}{Prolegomena zur Geschichte Israels}
+      \field{title}{Prolegomena zur Geschichte Israels}
+      \field{year}{1883}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 
