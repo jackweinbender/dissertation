@@ -19,7 +19,7 @@
 
 \refsection{0}
   \sortlist[entry]{nty/global/}
-    \entry{benzvi2017}{article}{}
+    \entry{benzvi_st2017}{article}{}
       \name{author}{1}{}{%
         {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
            family={Ben\bibnamedelima Zvi},
@@ -42,9 +42,6 @@
       \field{volume}{71}
       \field{pages}{69\bibrangedash 90}
       \range{pages}{22}
-      \verb{doi}
-      \verb 10.1080/0039338X.2017.1308718
-      \endverb
     \endentry
     \entry{benzvi-a_evans-williams2013}{incollection}{}
       \name{author}{1}{}{%
@@ -65,6 +62,12 @@
            familyi={W\bibinitperiod},
            given={Tyler\bibnamedelima F.},
            giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
       }
       \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
       \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
@@ -103,6 +106,12 @@
            familyi={W\bibinitperiod},
            given={Tyler\bibnamedelima F.},
            giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
       }
       \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
       \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
@@ -236,6 +245,38 @@
       \field{year}{1993}
       \field{dateera}{ce}
     \endentry
+    \entry{7ae4d6d711ef4709fc7a89e59f685966}{book}{dataonly,skipbib=true}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{clonesourcekey}{japhet1997}
+      \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{edition}{2nd revised ed.}
+      \field{number}{9}
+      \field{series}{Beiträge zur Erforschung des Alten Testaments und des antiken Judentums}
+      \field{shortseries}{BEATAJ}
+      \field{shorttitle}{The Ideology of the Book of Chronicles}
+      \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{year}{1997}
+    \endentry
     \entry{japhet2009}{book}{}
       \name{author}{1}{}{%
         {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
@@ -251,6 +292,12 @@
            given={Anna},
            giveni={A\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
+      }
       \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
       \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
       \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
@@ -262,12 +309,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
-      \field{origyear}{1989}
+      \field{relatedtype}{reprint}
       \field{shorttitle}{The Ideology of the Book of Chronicles}
       \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
       \field{year}{2009}
       \field{dateera}{ce}
-      \field{origdateera}{ce}
+      \field{related}{7ae4d6d711ef4709fc7a89e59f685966}
     \endentry
     \entry{knoppers2003}{book}{}
       \name{author}{1}{}{%
@@ -292,6 +339,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
+      \field{number}{12}
       \field{series}{The Anchor Bible}
       \field{shortseries}{AB}
       \field{shorttitle}{1 {{Chronicles}} 1--9}
@@ -346,7 +394,7 @@
       \field{dateera}{ce}
       \field{related}{544ab0cd36f5ce3c265090f3a787242e}
     \endentry
-    \entry{544ab0cd36f5ce3c265090f3a787242e}{book}{dataonly}
+    \entry{544ab0cd36f5ce3c265090f3a787242e}{book}{dataonly,skipbib=true}
       \name{author}{1}{}{%
         {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
            family={Wellhausen},
