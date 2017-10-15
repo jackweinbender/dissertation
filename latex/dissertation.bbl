@@ -571,6 +571,33 @@
       \field{year}{1910}
       \field{dateera}{ce}
     \endentry
+    \entry{davies2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b31eb9decfec179375cb58994828df1e}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louisville, KY}%
+      }
+      \list{publisher}{1}{%
+        {Westminster John Knox}%
+      }
+      \strng{namehash}{b31eb9decfec179375cb58994828df1e}
+      \strng{fullhash}{b31eb9decfec179375cb58994828df1e}
+      \strng{authornamehash}{b31eb9decfec179375cb58994828df1e}
+      \strng{authorfullhash}{b31eb9decfec179375cb58994828df1e}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Memories of Ancient Israel}
+      \field{title}{Memories of Ancient Israel: An Introduction to Biblical History--Ancient and Modern}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
     \entry{edelman-benzvi2013}{collection}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=0e6458b0b53926a9015ef5341da50f8f}{%
@@ -688,6 +715,62 @@
       \field{title}{Rediscovering the {Dead Sea Scrolls}: An Assessment of Old and New Approaches and Methods}
       \field{year}{2010}
       \field{dateera}{ce}
+    \endentry
+    \entry{hendel2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=41a6f72125608670ee8ca7d8ea81f33a}{%
+           family={Hendel},
+           familyi={H\bibinitperiod},
+           given={Ronald\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \strng{fullhash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \strng{authornamehash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \strng{authorfullhash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Remembering Abraham: Culture, Memory, and History in the Hebrew Bible}
+      \field{shorttitle}{Remembering Abraham}
+      \field{title}{Remembering Abraham: Culture, Memory, and History in the Hebrew Bible}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{hendel_jbl2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=41a6f72125608670ee8ca7d8ea81f33a}{%
+           family={Hendel},
+           familyi={H\bibinitperiod},
+           given={Ronald\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \strng{fullhash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \strng{authornamehash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \strng{authorfullhash}{41a6f72125608670ee8ca7d8ea81f33a}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{number}{4}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{The Exodus in Biblical Memory}
+      \field{title}{The Exodus in Biblical Memory}
+      \field{volume}{120}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{601\bibrangedash 622}
+      \range{pages}{22}
     \endentry
     \entry{henze2005}{collection}{skipbib=true}
       \name{editor}{1}{}{%
@@ -1165,6 +1248,33 @@
       \field{year}{2002}
       \field{dateera}{ce}
     \endentry
+    \entry{rogerson2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=75a0229abfe7a280c680ae0f5b60f3aa}{%
+           family={Rogerson},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{75a0229abfe7a280c680ae0f5b60f3aa}
+      \strng{fullhash}{75a0229abfe7a280c680ae0f5b60f3aa}
+      \strng{authornamehash}{75a0229abfe7a280c680ae0f5b60f3aa}
+      \strng{authorfullhash}{75a0229abfe7a280c680ae0f5b60f3aa}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{A Theology of the Old Testament}
+      \field{title}{A Theology of the Old Testament: Cultural Memory, Communication, and Being Human}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
     \entry{schiffman-vanderkam2000}{mvbook}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=97d511fe698f5e26f80bbad9015077fd}{%
@@ -1198,6 +1308,33 @@
       \field{volumes}{2}
       \field{year}{2000}
       \field{dateera}{ce}
+    \endentry
+    \entry{smith_cbq2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=293f9c534b2c1e3f8b45b13517e57f34}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{293f9c534b2c1e3f8b45b13517e57f34}
+      \strng{fullhash}{293f9c534b2c1e3f8b45b13517e57f34}
+      \strng{authornamehash}{293f9c534b2c1e3f8b45b13517e57f34}
+      \strng{authorfullhash}{293f9c534b2c1e3f8b45b13517e57f34}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Catholic Biblical Quarterly}
+      \field{number}{4}
+      \field{shortjournal}{CBQ}
+      \field{shorttitle}{Remembering God}
+      \field{title}{Remembering God: Collective Memory in Israelite Religion}
+      \field{volume}{64}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{631\bibrangedash 651}
+      \range{pages}{21}
     \endentry
     \entry{stone1984}{collection}{skipbib=true}
       \name{editor}{1}{}{%
