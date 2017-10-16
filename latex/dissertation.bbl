@@ -1232,6 +1232,58 @@
       \field{year}{2011}
       \field{dateera}{ce}
     \endentry
+    \entry{kalimi_jnes2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f4ca7d378eae34aa42487ab118044fb1}{%
+           family={Kalimi},
+           familyi={K\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{fullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authornamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorfullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Near Eastern Studies}
+      \field{shortjournal}{JNES}
+      \field{shorttitle}{Placing the Chronicler}
+      \field{title}{Placing the Chronicler in His Own Historical Context: A Closer Examination}
+      \field{volume}{68}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{179\bibrangedash 192}
+      \range{pages}{14}
+    \endentry
+    \entry{kalimi_htr1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f4ca7d378eae34aa42487ab118044fb1}{%
+           family={Kalimi},
+           familyi={K\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{fullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authornamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorfullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Harvard Theological Review}
+      \field{shortjournal}{HTR}
+      \field{shorttitle}{The Land of Moriah}
+      \field{title}{The Land of Moriah, Mount Moriah, and the Site of Solomon's Temple in Biblical Historiography}
+      \field{volume}{83}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{345\bibrangedash 362}
+      \range{pages}{18}
+    \endentry
     \entry{krarrer-kraus2008}{collection}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=668fcdb8453c9f6d76dd4b2a1fab46bf}{%
@@ -1441,6 +1493,68 @@
       \field{shorttitle}{Oxford Handbook of the Dead Sea Scrolls}
       \field{title}{Oxford Handbook of the Dead Sea Scrolls}
       \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mccarter1980}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d4e4cc6c63766da94c734f3becfc514}{%
+           family={McCarter},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi Kyle},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{fullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authornamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorfullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{I Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{{I Samuel}}
+      \field{title}{I Samuel: A New Translation with Translation, Notes, and Commentary}
+      \field{volume}{8}
+      \field{year}{1980}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mccarter1984}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d4e4cc6c63766da94c734f3becfc514}{%
+           family={McCarter},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi Kyle},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{fullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authornamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorfullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{II Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{{II Samuel}}
+      \field{title}{{II Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{volume}{9}
+      \field{year}{1984}
       \field{dateera}{ce}
     \endentry
     \entry{mcdonald-sanders2002}{collection}{skipbib=true}
