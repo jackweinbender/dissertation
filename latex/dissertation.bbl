@@ -1811,7 +1811,7 @@
       \field{year}{1984}
       \field{dateera}{ce}
     \endentry
-    \entry{ulrich-wright1992}{collection}{}
+    \entry{ulrich-wright1992}{collection}{skipbib=true}
       \name{editor}{4}{}{%
         {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
            family={Ulrich},
@@ -1856,6 +1856,63 @@
       \field{title}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
       \field{year}{1992}
       \field{dateera}{ce}
+    \endentry
+    \entry{vanderkam_ulrich-wright1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cca689e10b63be4af5a88050bde3f79c}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6891b44054e745b3a4235a4062233da0}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b31eb9decfec179375cb58994828df1e}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {JSOT Press}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{editornamehash}{b930d5413391ffa7613954ab44f38fc8}
+      \strng{editorfullhash}{2ba4fc153edab1abd4b2e7b6135354a2}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{number}{149}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortseries}{JSOTsup}
+      \field{shorttitle}{Ezra--Nehemiah or Ezra and Nehemiah}
+      \field{title}{Ezra--Nehemiah or Ezra and Nehemiah}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{55\bibrangedash 75}
+      \range{pages}{21}
     \endentry
     \entry{vanderkam2000}{collection}{skipbib=true}
       \name{author}{1}{}{%
@@ -2059,6 +2116,34 @@
       \field{booktitle}{Prolegomena zur Geschichte Israels}
       \field{title}{Prolegomena zur Geschichte Israels}
       \field{year}{1883}
+    \endentry
+    \entry{williamson1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2d4244e5f0562c1d735503cfd46be88a}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={H.\bibnamedelimi G.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{2d4244e5f0562c1d735503cfd46be88a}
+      \strng{fullhash}{2d4244e5f0562c1d735503cfd46be88a}
+      \strng{authornamehash}{2d4244e5f0562c1d735503cfd46be88a}
+      \strng{authorfullhash}{2d4244e5f0562c1d735503cfd46be88a}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{New Century Bible Commentary}
+      \field{shortseries}{NCBC}
+      \field{title}{1 and 2 Chronicles}
+      \field{year}{1982}
+      \field{dateera}{ce}
     \endentry
     \entry{wright2014}{book}{}
       \name{author}{1}{}{%
