@@ -57,7 +57,7 @@ tex-pandoc:
 	@ $(pandoc) src/05*.md --biblatex -o latex/_chapter05_chronicles.tex
 
 tex-build:
-	@ cd latex && make xelatex
+	@ cd latex && make build
 
 tex-full-build:
 	@ cd latex && make
