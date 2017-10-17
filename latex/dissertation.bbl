@@ -618,6 +618,31 @@
       \field{year}{2000}
       \field{dateera}{ce}
     \endentry
+    \entry{cogan_tarbiz1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cc4a4e0d944177ab702c2bc1c17b61ba}{%
+           family={Cogan},
+           familyi={C\bibinitperiod},
+           given={Mordechai},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc4a4e0d944177ab702c2bc1c17b61ba}
+      \strng{fullhash}{cc4a4e0d944177ab702c2bc1c17b61ba}
+      \strng{authornamehash}{cc4a4e0d944177ab702c2bc1c17b61ba}
+      \strng{authorfullhash}{cc4a4e0d944177ab702c2bc1c17b61ba}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Tarbiz}
+      \field{shorttitle}{The City that I Chose}
+      \field{title}{'The City that I Chose': The Deuteronomistic View of Jerusalem (Hebrew)}
+      \field{volume}{55}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{pages}{301\bibrangedash 309}
+      \range{pages}{9}
+    \endentry
     \entry{coggins1976}{book}{}
       \name{author}{1}{}{%
         {{hash=1509c9678d42a9e078b9ba01e4d6494e}{%
@@ -1817,6 +1842,12 @@
            familyi={W\bibinitperiod},
            given={Jaime\bibnamedelima L.},
            giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
       }
       \strng{namehash}{447a3419d42cb9c995d9114a3fb62efd}
       \strng{fullhash}{447a3419d42cb9c995d9114a3fb62efd}
