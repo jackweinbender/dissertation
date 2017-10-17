@@ -152,6 +152,32 @@
       \field{year}{2006}
       \field{dateera}{ce}
     \endentry
+    \entry{barabasi_science2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=15bacd7ddfc866c5dd96976d4b0244d5}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={Albert-László},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{fullhash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{authornamehash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{authorfullhash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Science}
+      \field{number}{5939}
+      \field{shorttitle}{Scale-Free Networks}
+      \field{title}{Scale-Free Networks: A Decade and Beyond}
+      \field{volume}{325}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{412\bibrangedash 413}
+      \range{pages}{2}
+    \endentry
     \entry{benzvi_st2017}{article}{}
       \name{author}{1}{}{%
         {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
@@ -261,6 +287,44 @@
       \field{dateera}{ce}
       \field{pages}{121\bibrangedash 140}
       \range{pages}{20}
+    \endentry
+    \entry{benzvi_edelman-benzvi2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0e6458b0b53926a9015ef5341da50f8f}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={Diana\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=769e0d8430cc7d9e936292426ca92028}{%
+           family={Zvi},
+           familyi={Z\bibinitperiod},
+           given={Ehud\bibnamedelima Ben},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authornamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authorfullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{editornamehash}{ffca15e6e537cc6034de7906468234b2}
+      \strng{editorfullhash}{ffca15e6e537cc6034de7906468234b2}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Remembering Biblical Figures in the Late Persian and Early Hellenistic Periods}
+      \field{shorttitle}{Remembering Biblical Figures in the Late Persian and Early Hellenistic Periods}
+      \field{title}{The Memory of Abraham in Late Persian/Early Hellenistic Yehud/Judah}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 37}
+      \range{pages}{37}
     \endentry
     \entry{benzvi-b_evans-williams2013}{incollection}{}
       \name{author}{1}{}{%
@@ -1619,6 +1683,35 @@
       \field{booktitle}{The Canon Debate}
       \field{title}{The Canon Debate}
       \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mckenzie2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{fullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authornamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorfullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{King David: A Biography}
+      \field{shorttitle}{King David}
+      \field{title}{King David: A Biography}
+      \field{year}{2000}
       \field{dateera}{ce}
     \endentry
     \entry{rogerson2010}{book}{}
