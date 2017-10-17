@@ -46,7 +46,7 @@ Scholars remain divided over whether *śāṭān* should be understood as a s
 
 [^diabolos]: Elsewhere the LXX renders the nominal forms of *śāṭān* with the feminine *diabolē* or, in the case of 1 Kgs 11:14, simply in transliteration as *satan*. It should be noted, however, that Esther 7:4 and 8:1 render the Hebrew √ṣrr as the masculine *diabolos* as well.
 
-Critics of this view, however, have pointed to the fact that in other cases in the Hebrew Bible, generic nouns that are treated as personal names or titles often *do* retain the definite article.[@japhet2009, 114--117; @japhet1993, 370--390] Japhet, for example notes that direct references to the Canaanite deity Baʿal are always accompanied by the definite article. In every instance, the name/title *baʿal* is made grammatically definite whether by adding the definite article, through the use of pronominal suffixes or being in construct with an explicitly definite noun.[@japhet2009, 115; citing @geseniuskautzsch1910, §126d] In such a case, *śāṭān* should simply be understood as an indefinite noun, "an accuser" and may be understood as a human antagonist of David.[@stokes_jbl2009; @japhet2009, 114--117; @japhet1993, 370--390] 
+Critics of this view, however, have pointed to the fact that in other cases in the Hebrew Bible, generic nouns that are treated as personal names or titles often *do* retain the definite article.[@japhet2009, 114--117; @japhet1993, 370--390] Japhet, for example, notes that direct references to the Canaanite deity Baʿal are always accompanied by the definite article. In every instance, the name/title *baʿal* is made grammatically definite whether by adding the definite article, through the use of pronominal suffixes or being in construct with an explicitly definite noun.[@japhet2009, 115; citing @geseniuskautzsch1910, §126d] In such a case, *śāṭān* should simply be understood as an indefinite noun, "an accuser" and may be understood as a human antagonist of David.[@stokes_jbl2009; @japhet2009, 114--117; @japhet1993, 370--390] 
 
 [^zech]: This notion is more clear in Job, where haś-śāṭān is described in the heavenly courts and is described as having supernatural powers over the health and prosperity of those on the Earth. On the other hand, the reference in Zechariah is somewhat ambiguous. Zech 3:1 reads: *way-yarʾēnı̂ ʾeṯ-yəhôšuaʿ hak-kōhēn hag-gāḏôl ʿōmēḏ lip̄nê malʾaḵ yhwh wə-haś-śāṭān ʿōmēḏ ʿal-yəmı̂nô ləśiṭnô*, "And he showed me Joshua, the high priest standing before the angel of Yahweh, and *haś-śāṭān* was standing on his right (side) to accuse him." The antecedent of "his" in "his right(side)" is unclear. If "his" refers to the *malʾaḵ yhwh*, then haś-śāṭān likely refers to some kind of spiritual being. However, it is possible that "his" refers to Joshua, and that haś-śāṭān should be understood as a human adversary.
 
@@ -54,9 +54,19 @@ Regardless of how one understands *śāṭān* to be functioning,  the author of
 
 #### The Threshing Floor of Araunah/Ornan and the Temple of Solomon
 
+The pericope in 1 Chron 21 likewise ends with a significant deviation from its hypotext preserved in 2 Sam 24. While both accounts describe the angel of Yahweh relenting from his destructive activities at the threshing floor of Araunah (=Ornan in 1 Chron 21) the Jebusite, the significance of the site as the future location of the Temple of Yahweh in Jerusalem is made explicit only in the Chronicler's account. The Chronicler makes the explicit assertion that the threshing floor of Ornan the Jebusite would become the spot for the construction of the temple of Solomon by putting it on the lips of David himself in 1 Chr 22:1, stating :
 
+> *wayyōʾmer dāwı̂ḏ zeh hûʾ bêṯ yhwh hāʾĕlōhı̂m wəzeh-mizbēaḥ ləʿōlāh ləyiśrāʾēl*
+>
+>  Then David said, "This is the Temple of Yahweh, God, and this altar for burnt offerings is for Israel"
 
+The declaration is fulfilled in 2 Chr 3:1 when Solomon begins to construct the temple:
 
+> *wayyāḥel šəlōmōh liḇnôṯ ʾeṯ-bêṯ-yhwh bı̂rûšālaim bəhar hammôrı̂ā ʾăšer nirʾāh ləḏāwı̂ḏ ʾāḇı̂hû ʾăšer hēḵı̂n bimqôm dāwı̂ḏ bəḡōren ʾornān ha-yəḇûsı̂*
+>
+> Solomon began to build the temple of Yahweh in Jerusalem on mount Moriah, where Yahweh appeared to David, his father, where David had designated, at the threshing floor of Ornan the Jebusite.
+
+The question of whether the author of the account in 2 Sam 24 understood this story to be an etiological account of the founding of the Jerusalem temple or whether this detail was the invention of the Chronicler, however, is not clear from the biblical text. In fact, unlike the book of Chronicles which gives the precise location of the temple of Solomon,  Isaac Kalimi has suggested that the reason for its neglect in the Deuteronomistic History can be attributed to the assertion that the location of the temple in Jerusalem (as well as all the other temples in the Hebrew Bible, whose locations are not specified) was common knowledge and thus such that "there was no need to mention them."[@kalimi_htr1990, 355--356]
 
 
 
