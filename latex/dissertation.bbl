@@ -836,24 +836,26 @@
       \field{year}{1997}
       \field{dateera}{ce}
     \endentry
-    \entry{geseniuskautzsch1910}{book}{}
-      \name{author}{2}{}{%
-        {{hash=752df127c78b0b18299034bfc02da409}{%
+    \entry{gkc}{book}{}
+      \name{author}{1}{}{%
+        {{hash=19d16d8c869dc84f3203cf8ee40c7550}{%
            family={Gesenius},
            familyi={G\bibinitperiod},
-           given={W.},
+           given={Wilhelm},
            giveni={W\bibinitperiod}}}%
-        {{hash=1deea391ee2f7d3e499443ee707ae1da}{%
-           family={Kautzsch},
-           familyi={K\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=c53e93f73ca67347942c6faf389f8d6c}{%
+        {{hash=5150a29fe0cfb0ff191b72a98cbbe021}{%
+           family={Kautzsch},
+           familyi={K\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=77ef7a416af973075d85f6ae500e19c0}{%
            family={Cowley},
            familyi={C\bibinitperiod},
-           given={A.\bibnamedelimi E},
+           given={Arther\bibnamedelima E.},
            giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
       \list{location}{1}{%
@@ -862,18 +864,23 @@
       \list{publisher}{1}{%
         {Clarendon}%
       }
-      \strng{namehash}{a58b579f69c94c328fa297b8c4981cff}
-      \strng{fullhash}{a58b579f69c94c328fa297b8c4981cff}
-      \strng{authornamehash}{a58b579f69c94c328fa297b8c4981cff}
-      \strng{authorfullhash}{a58b579f69c94c328fa297b8c4981cff}
-      \strng{editornamehash}{c53e93f73ca67347942c6faf389f8d6c}
-      \strng{editorfullhash}{c53e93f73ca67347942c6faf389f8d6c}
+      \strng{namehash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{fullhash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{authornamehash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{authorfullhash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{editornamehash}{5150a29fe0cfb0ff191b72a98cbbe021}
+      \strng{editorfullhash}{5150a29fe0cfb0ff191b72a98cbbe021}
+      \strng{translatornamehash}{77ef7a416af973075d85f6ae500e19c0}
+      \strng{translatorfullhash}{77ef7a416af973075d85f6ae500e19c0}
       \field{sortinit}{G}
       \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2}
+      \field{shorthand}{GKC}
       \field{title}{Gesenius' Hebrew Grammar}
+      \field{year}{1910}
+      \field{dateera}{ce}
     \endentry
     \entry{green1978}{collection}{skipbib=true}
       \name{editor}{1}{}{%
@@ -1842,6 +1849,7 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{number}{149}
       \field{series}{Journal for the Study of the Old Testament Supplement Series}
       \field{shortseries}{JSOTsup}
       \field{shorttitle}{Priests, Prophets and Scribes}
@@ -2127,6 +2135,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{number}{149}
       \field{series}{Journal for the Study of the Old Testament Supplement Series}
       \field{shortseries}{JSOTsup}
       \field{shorttitle}{From Center to Periphery}
