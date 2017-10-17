@@ -1810,6 +1810,28 @@
       \field{year}{2000}
       \field{dateera}{ce}
     \endentry
+    \entry{waters2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=447a3419d42cb9c995d9114a3fb62efd}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={Jaime\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{fullhash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{authornamehash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{authorfullhash}{447a3419d42cb9c995d9114a3fb62efd}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Threshing Floors in Ancient Israel: Their Ritual and Symbolic Significance}
+      \field{shorttitle}{Threshing Floors in Ancient Israel}
+      \field{title}{Threshing Floors in Ancient Israel: Their Ritual and Symbolic Significance}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
     \entry{weissenberg-pakkala2011}{collection}{skipbib=true}
       \name{editor}{3}{}{%
         {{hash=d894d8474926232d55967b2bd32a31fa}{%
