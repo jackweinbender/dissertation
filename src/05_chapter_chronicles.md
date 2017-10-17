@@ -74,3 +74,4 @@ Although it is not clear whether the connection was made originally by the Chron
 
 ## Social Memory and the Chronicler's Temple
 
+Having addressed the particular ways and specific rationales that the Chronicler likely employed while composing 1 Chron 21, we may now turn to the topic of social memory and the ways that this theoretical framework can be utilized to explain the phenomenon of biblical rewriting. 
