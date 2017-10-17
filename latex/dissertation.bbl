@@ -1804,6 +1804,51 @@
       \field{year}{1984}
       \field{dateera}{ce}
     \endentry
+    \entry{ulrich-wright1992}{collection}{}
+      \name{editor}{4}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cca689e10b63be4af5a88050bde3f79c}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6891b44054e745b3a4235a4062233da0}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b31eb9decfec179375cb58994828df1e}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {JSOT Press}%
+      }
+      \strng{namehash}{b930d5413391ffa7613954ab44f38fc8}
+      \strng{fullhash}{2ba4fc153edab1abd4b2e7b6135354a2}
+      \strng{editornamehash}{b930d5413391ffa7613954ab44f38fc8}
+      \strng{editorfullhash}{2ba4fc153edab1abd4b2e7b6135354a2}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortseries}{JSOTsup}
+      \field{shorttitle}{Priests, Prophets and Scribes}
+      \field{title}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{year}{1992}
+      \field{dateera}{ce}
+    \endentry
     \entry{vanderkam2000}{collection}{skipbib=true}
       \name{author}{1}{}{%
         {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
@@ -2034,6 +2079,62 @@
       \field{title}{David, King of Israel, and Caleb in Biblical Memory}
       \field{year}{2014}
       \field{dateera}{ce}
+    \endentry
+    \entry{wright_ulrich-wright1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=cca689e10b63be4af5a88050bde3f79c}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=cca689e10b63be4af5a88050bde3f79c}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6891b44054e745b3a4235a4062233da0}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b31eb9decfec179375cb58994828df1e}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {JSOT Press}%
+      }
+      \strng{namehash}{cca689e10b63be4af5a88050bde3f79c}
+      \strng{fullhash}{cca689e10b63be4af5a88050bde3f79c}
+      \strng{authornamehash}{cca689e10b63be4af5a88050bde3f79c}
+      \strng{authorfullhash}{cca689e10b63be4af5a88050bde3f79c}
+      \strng{editornamehash}{b930d5413391ffa7613954ab44f38fc8}
+      \strng{editorfullhash}{2ba4fc153edab1abd4b2e7b6135354a2}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortseries}{JSOTsup}
+      \field{shorttitle}{From Center to Periphery}
+      \field{title}{From Center to Periphery: 1 Chronicles 23--27 and the Interpretation of Chronicles in the Nineteenth Century}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{20\bibrangedash 42}
+      \range{pages}{23}
     \endentry
     \entry{zahn_lim-collins2010}{incollection}{}
       \name{author}{1}{}{%
