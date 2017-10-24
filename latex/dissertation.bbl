@@ -740,11 +740,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{{I Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{number}{8}
       \field{series}{The Anchor Bible}
       \field{shortseries}{AB}
       \field{shorttitle}{{I Samuel}}
       \field{title}{I Samuel: A New Translation with Translation, Notes, and Commentary}
-      \field{volume}{8}
       \field{year}{1980}
       \field{dateera}{ce}
     \endentry
@@ -771,11 +771,11 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{{II Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{number}{9}
       \field{series}{The Anchor Bible}
       \field{shortseries}{AB}
       \field{shorttitle}{{II Samuel}}
       \field{title}{{II Samuel}: A New Translation with Translation, Notes, and Commentary}
-      \field{volume}{9}
       \field{year}{1984}
       \field{dateera}{ce}
     \endentry
