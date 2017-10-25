@@ -34,7 +34,7 @@ At the literary level, then, the function of the pericope could---as with much o
 
 ### 1 Chronicles 21
 
-While the broad strokes of 2 Sam 24 and 1 Chr 21 remain quite similar, a few relatively small modifications found in 1 Chr 21 dramatically alter the literary and theological significance of the tale.
+While the broad strokes of 2 Sam 24 and 1 Chr 21 remain quite similar, a few relatively small differences found in 1 Chr 21 dramatically alter the literary and theological significance of the tale.
 
 <!-- JAH sees the "OLD" stuff in the above-->
 
@@ -74,7 +74,11 @@ The question of whether the author of the account in 2 Sam 24 understood this st
 
 I am not at all convinced by either of the above arguments. Instead, I suspect that the construction account in 1 Kings makes no mention of Araunah's threshing floor because, at the time of its composition, the connection had not been made. The significance of threshing floors as preferred locations for theophanies has been documented elsewhere[McCarter points to Jdgs 6:37 among other, less clear, examples from the Hebrew Bible. He also notes their significance in the Ugaritic literature (KTU 1 17.5.4ff; 19.1.19ff) @mccarter1984, 511--512; See also @waters2015] and the fact that 2 Sam 24 recounts a sort of theophany may be enough to account for its mention in the narrative. 
 
-Although it is not clear whether the connection was made originally by the Chronicler himself or whether it was an inherited tradition, the rationale for making Ornan's threshing floor the site of the temple likely grew from an uneasiness with the notion that David built and utilized an altar at a secondary location (viz., a place that was not the tabernacle). At the same time, the Chronicler understood that the future location of the temple would be in Jerusalem and had to deal with the fact that David not only made the offerings, but did so at the command of Yahweh. To resolve these tensions, the Chronicler was able to assert that David, indeed, made sacrifices outside the tabernacle, but with his offerings, he laid the groundwork for the construction of the temple.<!--Maybe add a paragraph that summarizes the passages and why exegetical approaches have not addressed the issues properly.-->
+Although it is not clear whether the connection was made originally by the Chronicler himself or whether it was an inherited tradition, the rationale for making Ornan's threshing floor the site of the temple likely grew from an uneasiness with the notion that David built and utilized an altar at a secondary location (viz., a place that was not the tabernacle). At the same time, the Chronicler understood that the future location of the temple would be in Jerusalem and had to deal with the fact that David not only made the offerings, but did so at the command of Yahweh. To resolve these tensions, the Chronicler was able to assert that David, indeed, made sacrifices outside the tabernacle, but with his offerings, he laid the groundwork for the construction of the temple.
+
+
+
+<!--Maybe add a paragraph that summarizes the passages and why exegetical approaches have not addressed the issues properly.-->
 
 ## Constructing the Memory of the Chronicler's Temple
 
@@ -86,7 +90,7 @@ In the context of social memory theory, magnetism refers to the quality of certa
 
 > Not only does he bring together Torah/the bestowal of Torah with the Exodus, but he also serves as the foundational prophet, scribe, lawgiver and so on. Even the story of Israel's rejection of YHWH and subsequent punishment and future reconciliation is directly associated with him.[@benzvi_st2017, 73--74]
 
-Using this model, the book of Deuteronomy functions as one means by which traditions become attached to Moses through the retelling process and the ability of the author to synthesize lesser sites of memory with central ideas and figures creating newer, even more significant and highly connected mnemonic sites.<!--expand and clarify-->
+Using this model, the book of Deuteronomy functions as one means by which traditions become attached to Moses through the retelling process and the ability of the author to synthesize lesser sites of memory with central ideas and figures creating newer, even more significant and highly connected mnemonic sites.<!--expand and clarify; check back with ben Zvi here. I need more--> 
 
 Both the Jerusalem temple and king David loom large in biblical memory, so it is no surprise that both of these mnemonic sites function magnetically. In the case of David, for example, it is commonly argued that one Elhanan, and not David, was the historical defeater of Goliath the Gittite, as recorded in 2 Sam 21:19b:
 
@@ -110,4 +114,6 @@ Although this is the only reference to the *mountain* of Moriah in the Hebrew Bi
 
 ## Conclusions
 
-<!--Why is this approach better?-->
+Although the author of Chronicles should be given credit for some creative invention, one cannot divorce such innovation from the social forces that surrounded and enabled the Chronicler. Traditional approaches to the book of Chronicles have focused on the sources, interpretive strategies, and ideologies that the Chronicler utilized in the composition of his work. For this reason, the Chronicler *himself* is credited (or blamed, as the case may be) for the sometimes significant differences between the stories preserved in the DH compared to their reflexes in Chronicles. Even those studies which deal extensively with the ideology of the Chronicler have tended to focus on such ideologies and their impact on the *individual* of the Chronicler. By putting so much weight upon the Chronicler as an individual, however, scholars have---it seems to me---been less open to considering the ways that the Chronicler himself may have been influenced by a body of tradition that---while perhaps rooted in the text of the DH---informed the way that he presented his history. 
+
+The memory approach, on the other hand, focuses on the the ways that traditions are transmitted over time, and how their malleability allows them to be reshaped by each successive generation, as well as their potency for affecting the contemporary cultural discourse. In the case of Chronicles, the magnetic quality of David is shown by the way he had become associated with the other core sites of memory and Judahite identity such as the building of the temple, and even (by extension) the Aqedah.
