@@ -1,3 +1,2 @@
-# The Memory and the ~RwB
+# Memory and the ~RwB
 
-Lorem Ipsum
