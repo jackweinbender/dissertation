@@ -18,16 +18,16 @@ tmp = build/.tmp
 
 # Pandoc Commands
 pandoc=pandoc \
+	-f markdown+smart \
 	--top-level-division=chapter \
-	--filter ./text-expand.py \
-	--smart
+	--filter ./text-expand.py
 
 pandoc-csl=$(pandoc) $(input_files) src/99_bibliography \
 	--filter pandoc-citeproc \
 	--bibliography=$(bib_file) \
 	--csl="society-of-biblical-literature-fullnote-bibliography.csl" \
 	--citation-abbreviations="abbr.json" \
-	--reference-docx=reference.docx
+	--reference-doc=reference.docx
 
 default: format build-all
 
