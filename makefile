@@ -54,6 +54,7 @@ tex: format tex-pandoc tex-full-build
 tex-pandoc:
 	@ echo "Building xelatex PDF..."
 	@ $(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
+	@ $(pandoc) src/02*.md --biblatex -o latex/_chapter02_memory.tex
 	@ $(pandoc) src/05*.md --biblatex -o latex/_chapter05_chronicles.tex
 
 tex-build:
