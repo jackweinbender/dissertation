@@ -1,5 +1,6 @@
 # Memory and the ~RwB
 
+<<<<<<< HEAD
 The past several decades has seen a dramatic increase in interest toward the topic of "memory" throughout the social sciences. 
 
 As Olick and Robbins note, although the topic of "memory" has been of interest philosophers and thinkers since the ancient Greeks, the modern social-scientific approaches which concern this chapter almost exclusively trace their genealogy to the early 20th century the work of sociologist Maurice Halbwachs.[@olick-robbins_ars1998, 106] Although Halbwachs' work was not limited to exploring the topic of social memory (he also made contributions to statictics and probability theory, as well as sociological work on the topic of suicide and social morphology[@coser_halbwachs1992, 13--20]), his work in this area has managed to endure and continues to find new applications and to inspire new approaches in ways that his other contributions have not. 
