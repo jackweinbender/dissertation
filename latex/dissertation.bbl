@@ -1024,6 +1024,140 @@
 
 \refsection{2}
   \sortlist[entry]{nty/global/}
+    \entry{coser_halbwachs1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
+           family={Coser},
+           familyi={C\bibinitperiod},
+           given={Lewis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
+           family={Coser},
+           familyi={C\bibinitperiod},
+           given={Lewis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
+           family={Coser},
+           familyi={C\bibinitperiod},
+           given={Lewis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{fullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{authornamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{authorfullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{editornamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{editorfullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{translatornamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{translatorfullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{On Collective Memory}
+      \field{series}{The Heritage of Sociology}
+      \field{shortseries}{HS}
+      \field{shorttitle}{Introduction}
+      \field{title}{Introduction}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+    \endentry
+    \entry{halbwachs1992}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f0d72d6c7032c8accb806b99a1556e87}{%
+           family={Halbwachs},
+           familyi={H\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
+           family={Coser},
+           familyi={C\bibinitperiod},
+           given={Lewis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
+           family={Coser},
+           familyi={C\bibinitperiod},
+           given={Lewis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{fullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authornamehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authorfullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{editornamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{editorfullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{translatornamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{translatorfullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{On Collective Memory}
+      \field{series}{The Heritage of Sociology}
+      \field{shortseries}{HS}
+      \field{shorttitle}{On Collective Memory}
+      \field{title}{On Collective Memory}
+      \field{year}{1992}
+      \field{dateera}{ce}
+    \endentry
+    \entry{olick-robbins_ars1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6c922893641f3cdb6e91614f143c83da}{%
+           family={Olick},
+           familyi={O\bibinitperiod},
+           given={Jeffrey\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9f31a6d7beeafeb7d8f7bf217a0118e4}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Joyce},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{fullhash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authornamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authorfullhash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Annual Review of Sociology}
+      \field{shortjournal}{ARS}
+      \field{shorttitle}{Social Memory Studies}
+      \field{title}{Social Memory Studies: From `Collective Memory' to the Historical Sociology of Mnemonic Practices}
+      \field{volume}{24}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{105\bibrangedash 140}
+      \range{pages}{36}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{3}
+  \sortlist[entry]{nty/global/}
     \entry{alexander_carson-williamson1988}{incollection}{}
       \name{author}{1}{}{%
         {{hash=f0b087431af559c738d6a64532db984a}{%
@@ -1452,6 +1586,7 @@
       \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memories of Ancient Israel: An Introduction to Biblical History--Ancient and Modern}
       \field{shorttitle}{Memories of Ancient Israel}
       \field{title}{Memories of Ancient Israel: An Introduction to Biblical History--Ancient and Modern}
       \field{year}{2008}
