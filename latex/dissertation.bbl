@@ -1024,6 +1024,33 @@
 
 \refsection{2}
   \sortlist[entry]{nty/global/}
+    \entry{berliner_aq2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=81fbc15d05d939325e06f2fe96498e5e}{%
+           family={Berliner},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{81fbc15d05d939325e06f2fe96498e5e}
+      \strng{fullhash}{81fbc15d05d939325e06f2fe96498e5e}
+      \strng{authornamehash}{81fbc15d05d939325e06f2fe96498e5e}
+      \strng{authorfullhash}{81fbc15d05d939325e06f2fe96498e5e}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issue}{1}
+      \field{journaltitle}{Anthropological Quarterly}
+      \field{shortjournal}{AQ}
+      \field{shorttitle}{The Abuses of Memory}
+      \field{title}{The Abuses of Memory: Reflections on the Memory Boom in Anthropology}
+      \field{volume}{78}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{197\bibrangedash 211}
+      \range{pages}{15}
+    \endentry
     \entry{coser_halbwachs1992}{incollection}{}
       \name{author}{1}{}{%
         {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
@@ -1063,11 +1090,10 @@
       \field{sortinit}{C}
       \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
+      \field{labeltitlesource}{title}
       \field{booktitle}{On Collective Memory}
       \field{series}{The Heritage of Sociology}
       \field{shortseries}{HS}
-      \field{shorttitle}{Introduction}
       \field{title}{Introduction}
       \field{year}{1992}
       \field{dateera}{ce}
@@ -1113,13 +1139,61 @@
       \field{sortinit}{H}
       \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
+      \field{labeltitlesource}{title}
       \field{booktitle}{On Collective Memory}
       \field{series}{The Heritage of Sociology}
       \field{shortseries}{HS}
-      \field{shorttitle}{On Collective Memory}
       \field{title}{On Collective Memory}
       \field{year}{1992}
+      \field{dateera}{ce}
+    \endentry
+    \entry{halbwachs1980}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f0d72d6c7032c8accb806b99a1556e87}{%
+           family={Halbwachs},
+           familyi={H\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=62efb645b9b90ed13e364e8397dd61e0}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=55d953b780d39eea1ebd52ae8110add8}{%
+           family={Jr.},
+           familyi={J\bibinitperiod},
+           given={Francis\bibnamedelimb J.\bibnamedelimi Ditter},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e1be17ba623d745a7c0b3e63ffbd4ccd}{%
+           family={Ditter},
+           familyi={D\bibinitperiod},
+           given={Vida\bibnamedelima Yazdi},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Harper \& Row}%
+      }
+      \strng{namehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{fullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authornamehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authorfullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{editornamehash}{62efb645b9b90ed13e364e8397dd61e0}
+      \strng{editorfullhash}{62efb645b9b90ed13e364e8397dd61e0}
+      \strng{translatornamehash}{4e5bdf5c361996ef6671fd1839f18915}
+      \strng{translatorfullhash}{4e5bdf5c361996ef6671fd1839f18915}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Collective Memory}
+      \field{year}{1980}
       \field{dateera}{ce}
     \endentry
     \entry{olick-robbins_ars1998}{article}{}
@@ -1152,6 +1226,118 @@
       \field{dateera}{ce}
       \field{pages}{105\bibrangedash 140}
       \range{pages}{36}
+    \endentry
+    \entry{olick_olick-etal2011}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=6c922893641f3cdb6e91614f143c83da}{%
+           family={Olick},
+           familyi={O\bibinitperiod},
+           given={Jeffrey\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=0e780bf5e6f701dbc476611b1466811a}{%
+           family={Vinitzky-Seroussi},
+           familyi={V\bibinithyphendelim S\bibinitperiod},
+           given={Vered},
+           giveni={V\bibinitperiod}}}%
+        {{hash=87281856876c2d6d5bfa00910497cd74}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=6c922893641f3cdb6e91614f143c83da}{%
+           family={Olick},
+           familyi={O\bibinitperiod},
+           given={Jeffrey\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=0e780bf5e6f701dbc476611b1466811a}{%
+           family={Vinitzky-Seroussi},
+           familyi={V\bibinithyphendelim S\bibinitperiod},
+           given={Vered},
+           giveni={V\bibinitperiod}}}%
+        {{hash=87281856876c2d6d5bfa00910497cd74}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{8a9ecc792b9a8cded138e33ac73ce608}
+      \strng{fullhash}{8a9ecc792b9a8cded138e33ac73ce608}
+      \strng{authornamehash}{8a9ecc792b9a8cded138e33ac73ce608}
+      \strng{authorfullhash}{8a9ecc792b9a8cded138e33ac73ce608}
+      \strng{editornamehash}{8a9ecc792b9a8cded138e33ac73ce608}
+      \strng{editorfullhash}{8a9ecc792b9a8cded138e33ac73ce608}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Collective Memory Reader}
+      \field{title}{Introduction}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 62}
+      \range{pages}{60}
+    \endentry
+    \entry{rosenfeld_jmh2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=110931a36a4b0232db97f2256b7cea24}{%
+           family={Rosenfeld},
+           familyi={R\bibinitperiod},
+           given={Graviel\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{110931a36a4b0232db97f2256b7cea24}
+      \strng{fullhash}{110931a36a4b0232db97f2256b7cea24}
+      \strng{authornamehash}{110931a36a4b0232db97f2256b7cea24}
+      \strng{authorfullhash}{110931a36a4b0232db97f2256b7cea24}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Journal of Modern History}
+      \field{shortjournal}{JMH}
+      \field{title}{A Looming Crash or a Soft Landing? Forcasting the Future of the Memory 'Industry'}
+      \field{volume}{81}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{122\bibrangedash 158}
+      \range{pages}{37}
+    \endentry
+    \entry{winter2006}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ffc9c8cb7cd5d7138c999bbe9049b31f}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale Univerisity Press}%
+      }
+      \strng{namehash}{ffc9c8cb7cd5d7138c999bbe9049b31f}
+      \strng{fullhash}{ffc9c8cb7cd5d7138c999bbe9049b31f}
+      \strng{authornamehash}{ffc9c8cb7cd5d7138c999bbe9049b31f}
+      \strng{authorfullhash}{ffc9c8cb7cd5d7138c999bbe9049b31f}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Remembering War}
+      \field{title}{Remembering War: The Great War between Memory and History in the 20th Century}
+      \field{year}{2006}
+      \field{dateera}{ce}
     \endentry
   \endsortlist
 \endrefsection
@@ -1844,7 +2030,7 @@
            giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {New York, NY}%
+        {New York}%
       }
       \list{publisher}{1}{%
         {Doubleday}%
@@ -1875,7 +2061,7 @@
            giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {New York, NY}%
+        {New York}%
       }
       \list{publisher}{1}{%
         {Doubleday}%
@@ -1906,7 +2092,7 @@
            giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {New York, NY}%
+        {New York}%
       }
       \list{publisher}{1}{%
         {Doubleday}%
