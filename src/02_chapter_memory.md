@@ -57,7 +57,15 @@ The inverse of this phenomenon is also observable. According to Halbwachs while 
 
 > Around Golgotha and the Holy Sepulchre, for example, we find the rock of anointing, the rock of the angel, the rock of the gardener, the place where Jesus was stripped, etc.[@halbwachs1992, 220]
 
-The proliferation of these micro-sites of memory are, according to Halbwachs, aids and reinforces the collective memory through repetition. Furthermore, the added detail serves in further "renewing and rejuvenating an ancient image."[@halbwachs1992, 220]
+The proliferation of these micro-sites of memory, according to Halbwachs, aide and reinforce the collective memory through repetition. Furthermore, the added detail serves in "renewing and rejuvenating an ancient image."[@halbwachs1992, 220]
+
+The same event may also be localized in multiple places. Halbwachs describes several traditional locations of the Cenacle (the "Upper Room" from the Gospels), including the Mount of Olives, Gethsemane, and the Grotto of Jesus's teaching. These traditions coexisted into the fourth century, yet, later, the site was moved to the Christian hill of Zion. Likewise, Halbachs notes there were two locations for Emmaus and two different mountains on which Jesus appeared in Galilee after his resurrection. While it runs counter to our modern historiographical sensibilities, the ability of  seemingly contradictory traditions to coexist is well documented. 
+
+Halbwachs points out that autobiographical memory does not allow for this kind of fragmentation. We all realize that the same event from our own past can not have happened in two locations simultaneously. Yet, Halbwachs  points out that should that same person belong to two groups who disagree on a particular remembered event (one that the individual did not personally witness), the individual is able to hold the disagreement without the need assert one or the other. the same is true of complex social entities, such as religious groups, who are composed of several subgroups with their own collective memories. Halbwachs writes:
+
+> A community must often accommodate itself to contradictions introduced by diverse groups so long as none of these groups prevails, or so long as the community itself does not find a new reason for decisively settling the issue. This is especially true when the community faces a controversy about its rites, which are an anchor for its component groups.[@halbwachs1992, 224]
+
+
 
 ### Modern Theories of Memory
 
