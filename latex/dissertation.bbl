@@ -243,6 +243,60 @@
       \field{pages}{175\bibrangedash 199}
       \range{pages}{25}
     \endentry
+    \entry{keith_ec2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f5ce36c7213955f70ffae5e335afa08}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f5ce36c7213955f70ffae5e335afa08}
+      \strng{fullhash}{0f5ce36c7213955f70ffae5e335afa08}
+      \strng{authornamehash}{0f5ce36c7213955f70ffae5e335afa08}
+      \strng{authorfullhash}{0f5ce36c7213955f70ffae5e335afa08}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Early Christianity}
+      \field{number}{3}
+      \field{shortjournal}{EC}
+      \field{shorttitle}{Social Memory Theory and Gospels Research}
+      \field{title}{Social Memory Theory and Gospels Research: The First Decade (Part One)}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{354\bibrangedash 376}
+      \range{pages}{23}
+    \endentry
+    \entry{keith_ec2015b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f5ce36c7213955f70ffae5e335afa08}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f5ce36c7213955f70ffae5e335afa08}
+      \strng{fullhash}{0f5ce36c7213955f70ffae5e335afa08}
+      \strng{authornamehash}{0f5ce36c7213955f70ffae5e335afa08}
+      \strng{authorfullhash}{0f5ce36c7213955f70ffae5e335afa08}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Early Christianity}
+      \field{number}{4}
+      \field{shortjournal}{EC}
+      \field{shorttitle}{Social Memory Theory and Gospels Research}
+      \field{title}{Social Memory Theory and Gospels Research: The First Decade (Part Two)}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{517\bibrangedash 42}
+      \range{pages}{26}
+    \endentry
     \entry{ledonne2009}{book}{}
       \name{author}{1}{}{%
         {{hash=14c1770de7984ac28229a757815c9a5f}{%
@@ -359,6 +413,35 @@
       \field{dateera}{ce}
       \field{pages}{3\bibrangedash 62}
       \range{pages}{60}
+    \endentry
+    \entry{rodriguez2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5df97de4f5e9c06142b8688601da0dc4}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {T \& T Clark}%
+      }
+      \strng{namehash}{5df97de4f5e9c06142b8688601da0dc4}
+      \strng{fullhash}{5df97de4f5e9c06142b8688601da0dc4}
+      \strng{authornamehash}{5df97de4f5e9c06142b8688601da0dc4}
+      \strng{authorfullhash}{5df97de4f5e9c06142b8688601da0dc4}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Library of New Testament Studies}
+      \field{shortseries}{LNTS}
+      \field{shorttitle}{Structuring Early Christian Memory}
+      \field{title}{Structuring Early Christian Memory: Jesus in Tradition, Performance, and Text}
+      \field{year}{2010}
+      \field{dateera}{ce}
     \endentry
     \entry{rosenfeld_jmh2009}{article}{}
       \name{author}{1}{}{%
