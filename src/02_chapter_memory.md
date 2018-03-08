@@ -69,7 +69,7 @@ Halbwachs points out that autobiographical memory does not allow for this kind o
 
 ### Modern Theories of Memory
 
-
+Halbwachs's work, while not ignored, did not make its most significant contributions until well after his death. It is frequently argued that the so-called 'memory boom,' which began in the 1980's in the wake of the 'theory boom,' picked up Halbwachs's terminology and central ideas in an attempt to deal with perceived insufficiency of traditional historiography to deal with the sorts of major, traumatic events which characterized the mid 20th Century.[@galinsky_galinsky2016, 1--2; See also @olick_olick-etal2011, 29--36] Important works such as Yerushalami's *Zakhor: Jewish History and Jewish Memory* and Pierre Nora's introduction to his *Les lieux de mémoire* are representative of this sentiment which seemed to lament the encroachment of sterile modern historical consciousness into   space formerly occupied by living memory.[@klein2011, 112--113]
 
 ## Collective Memory, and Cultural Memory, and Social Memory: A Terminological Assessment
 
