@@ -95,6 +95,46 @@
       \field{pages}{1\bibrangedash 34}
       \range{pages}{34}
     \endentry
+    \entry{galinsky_galinsky2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e46fa9a180715c536417741cee88d67b}{%
+           family={Galinsky},
+           familyi={G\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e46fa9a180715c536417741cee88d67b}{%
+           family={Galinsky},
+           familyi={G\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e46fa9a180715c536417741cee88d67b}
+      \strng{fullhash}{e46fa9a180715c536417741cee88d67b}
+      \strng{authornamehash}{e46fa9a180715c536417741cee88d67b}
+      \strng{authorfullhash}{e46fa9a180715c536417741cee88d67b}
+      \strng{editornamehash}{e46fa9a180715c536417741cee88d67b}
+      \strng{editorfullhash}{e46fa9a180715c536417741cee88d67b}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memory in Ancient Rome and Early Christianity}
+      \field{shorttitle}{Memory in Ancient Rome}
+      \field{title}{Introduction: Memory and Memory Studies}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+    \endentry
     \entry{halbwachs1992}{book}{}
       \name{author}{1}{}{%
         {{hash=f0d72d6c7032c8accb806b99a1556e87}{%
@@ -296,6 +336,32 @@
       \field{dateera}{ce}
       \field{pages}{517\bibrangedash 42}
       \range{pages}{26}
+    \endentry
+    \entry{klein2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=983f7f71342591b7d6c687be6220aeea}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Kerwin\bibnamedelima Lee},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, CA}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{fullhash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{authornamehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{authorfullhash}{983f7f71342591b7d6c687be6220aeea}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{From History to Theory}
+      \field{year}{2011}
+      \field{dateera}{ce}
     \endentry
     \entry{ledonne2009}{book}{}
       \name{author}{1}{}{%
