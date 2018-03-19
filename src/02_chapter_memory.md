@@ -67,9 +67,17 @@ Halbwachs points out that autobiographical memory does not allow for this kind o
 
 
 
-### Modern Theories of Memory
+### The Memory Boom
 
-Halbwachs's work, while not ignored, did not make its most significant contributions until well after his death. It is frequently argued that the so-called 'memory boom,' which began in the 1980's in the wake of the 'theory boom,' picked up Halbwachs's terminology and central ideas in an attempt to deal with perceived insufficiency of traditional historiography to deal with the sorts of major, traumatic events which characterized the mid 20th Century.[@galinsky_galinsky2016, 1--2; See also @olick_olick-etal2011, 29--36] Important works such as Yerushalmi's *Zakhor: Jewish History and Jewish Memory* and Pierre Nora's introduction to his *Les lieux de mémoire* are representative of this sentiment which seemed to lament the encroachment of sterile modern historical consciousness into   space formerly occupied by living memory.[@klein2011, 112--113; @yerushalmi1989]
+Halbwachs's work, while not ignored, did not make its most significant contributions until well after his death. It is frequently argued that the so-called 'memory boom,' which began in the 1980's in the wake of the 'theory boom,' picked up Halbwachs's terminology and central ideas in an attempt to deal with perceived insufficiency of traditional historiography to deal with the sorts of major, traumatic events which characterized the mid 20th Century.[@galinsky_galinsky2016, 1--2; See also @olick_olick-etal2011, 29--36. One cannot help but speculate that---at least in the English-speaking world---the translation of *The Collective Memory* in 1980 contributed to the popularity of Halbwachs's terminology.] Works such as Yosef ~yerushalmi's *Zakhor: Jewish History and Jewish Memory* and Pierre Nora's  *Les lieux de mémoire* are typically cited as the foundational works of the modern memory boom.[@klein2011, 112--113; @yerushalmi1989]
+
+In *Zakhor*, ~yerushalmi is quick to identify the tension between what traditional cultures and societies remember about their past and how the modern discipline of history treats the past. For remembering groups, what is preserved in the collective memory is what is useful for the edification of that group---whether through religious ritual, family stories, or some other combination of received traditions.  Of course, prior to the enlightenment, this was the default mode of understanding the past for most people, and remains so for many social groups, including those within modern, Western societies. In particular, ~yerushalmi addresses this tension for the Jewish historian---a vocation which, he notes, is a recent phenomenon. Although, ancient Israel and Judah, clearly, were concerned with historical matters---much of the Hebrew Bible is preoccupied with narrating events from the perceived past---these codified traditions are preserved in a plurality of socio-religious groups for a complex set of purposes spanning cultural, social, and theological modes of discourse which are fundamentally at odds with the modern discipline of history. The biblical command to "remember," is not a command to keep tedious notes of historically accurate events, but a cultural and theological imperative to maintain the foundational narratives of the community. ~yerushalmi writes:
+
+> There the fact that history has meaning does not mean that everything that happened in history is meaningful or worthy of recollection. Of Manasseh of Judha, a powerful king, who reigned for fifty-five years in Jerusalem, we hear only that "he did what was evil in the sight of the Lord" (II Kings 21:2).[@yerushalmi1989, 10]
+
+
+
+
 
 ## Collective Memory, and Cultural Memory, and Social Memory: A Terminological Assessment
 
