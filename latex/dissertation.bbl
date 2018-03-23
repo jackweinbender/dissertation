@@ -46,6 +46,32 @@
       \field{pages}{197\bibrangedash 211}
       \range{pages}{15}
     \endentry
+    \entry{childs1979}{book}{}
+      \name{author}{1}{}{%
+        {{hash=50449b69d6ad8f8bd8f3c0a93df3231f}{%
+           family={Childs},
+           familyi={C\bibinitperiod},
+           given={Brevard\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \strng{fullhash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \strng{authornamehash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \strng{authorfullhash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to the Old Testament as Scripture}
+      \field{year}{1979}
+      \field{dateera}{ce}
+    \endentry
     \entry{coser_halbwachs1992}{suppbook}{}
       \name{author}{1}{}{%
         {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
@@ -735,6 +761,7 @@
       \field{origdateera}{ce}
     \endentry
   \endsortlist
+  \missing{nora1984}
 \endrefsection
 \endinput
 
