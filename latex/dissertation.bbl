@@ -407,7 +407,7 @@
       \field{pages}{517\bibrangedash 42}
       \range{pages}{26}
     \endentry
-    \entry{klein2011}{book}{}
+    \entry{klein2011}{book}{skipbib=true}
       \name{author}{1}{}{%
         {{hash=983f7f71342591b7d6c687be6220aeea}{%
            family={Klein},
@@ -429,9 +429,74 @@
       \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{From History to Theory}
       \field{title}{From History to Theory}
       \field{year}{2011}
       \field{dateera}{ce}
+    \endentry
+    \entry{fca1bf1c313043e177fb17b2acd99541}{article}{dataonly}
+      \name{author}{1}{}{%
+        {{hash=983f7f71342591b7d6c687be6220aeea}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Kerwin\bibnamedelima Lee},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{fullhash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{authornamehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{authorfullhash}{983f7f71342591b7d6c687be6220aeea}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{klein_representations2000}
+      \field{journaltitle}{Representations}
+      \field{title}{On the Emergence of Memory in Historical Discourse}
+      \field{volume}{69}
+      \field{year}{2000}
+      \field{pages}{127\bibrangedash 150}
+      \range{pages}{24}
+    \endentry
+    \entry{klein_klein2011}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=983f7f71342591b7d6c687be6220aeea}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Kerwin\bibnamedelima Lee},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=983f7f71342591b7d6c687be6220aeea}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Kerwin\bibnamedelima Lee},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, CA}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{fullhash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{authornamehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{authorfullhash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{bookauthornamehash}{983f7f71342591b7d6c687be6220aeea}
+      \strng{bookauthorfullhash}{983f7f71342591b7d6c687be6220aeea}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{From History to Theory}
+      \field{relatedtype}{reprintof}
+      \field{title}{On the Emergence of Memory in Historical Discourse}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{related}{fca1bf1c313043e177fb17b2acd99541}
+      \field{pages}{112\bibrangedash 137}
+      \range{pages}{26}
     \endentry
     \entry{ledonne2009}{book}{}
       \name{author}{1}{}{%
