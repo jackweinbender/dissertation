@@ -72,6 +72,112 @@
       \field{year}{1979}
       \field{dateera}{ce}
     \endentry
+    \entry{coman-etal_yang-etal2012}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=fcb585842ba18e8ec7dc7a57fda521b2}{%
+           family={Coman},
+           familyi={C\bibinitperiod},
+           given={Alin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fb11f43bbfd736cd22bc8ee6bd7700c3}{%
+           family={Kolling},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8738a105b120999db84493f32e57378d}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5cf411cedf34797e8130b0df09c4f3a1}{%
+           family={Hirst},
+           familyi={H\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=a9e629c924fc805365d9d8cd6dd1403c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Shanchieh\bibnamedelima Jay},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=42d19e7d7241892846b151e01e59f9c5}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Ariel\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a5d70512976a0054642f4c61168b1a82}{%
+           family={Endsley},
+           familyi={E\bibinitperiod},
+           given={Mica},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{314a91bc365f6a93e40c1f762c390b47}
+      \strng{fullhash}{a1756bf0b64a3e15256d5507a3f9281e}
+      \strng{authornamehash}{314a91bc365f6a93e40c1f762c390b47}
+      \strng{authorfullhash}{a1756bf0b64a3e15256d5507a3f9281e}
+      \strng{editornamehash}{56911316b1ec08b8b3a801de480f27ee}
+      \strng{editorfullhash}{56911316b1ec08b8b3a801de480f27ee}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Social Computing, Behavioral--Cultural Modeling and Prediction}
+      \field{shorttitle}{Mnemonic Convergence}
+      \field{title}{Mnemonic Convergence: From Empirical Data to Large-Scale Dynamics}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{256\bibrangedash 265}
+      \range{pages}{10}
+    \endentry
+    \entry{coman-etal_pnas2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fcb585842ba18e8ec7dc7a57fda521b2}{%
+           family={Coman},
+           familyi={C\bibinitperiod},
+           given={Alin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bbd3b5a1ba399733edf00b44be07edf8}{%
+           family={Momennejad},
+           familyi={M\bibinitperiod},
+           given={Ida},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9a750b1f4672e56bba9344741dd6d549}{%
+           family={Drach},
+           familyi={D\bibinitperiod},
+           given={Rae\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a677887b5b79c4c012e3dd32bd3f1fa7}{%
+           family={Geana},
+           familyi={G\bibinitperiod},
+           given={Andra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{314a91bc365f6a93e40c1f762c390b47}
+      \strng{fullhash}{38d95f2db1dfc885a282286e8e9e617e}
+      \strng{authornamehash}{314a91bc365f6a93e40c1f762c390b47}
+      \strng{authorfullhash}{38d95f2db1dfc885a282286e8e9e617e}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{29}
+      \field{shortjournal}{PNAS}
+      \field{shorttitle}{Mnemonic Convergence in Social Networks}
+      \field{title}{Mnemonic Convergence in Social Networks: The Emergent Properties of Cognition at a Collective Level}
+      \field{volume}{113}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{8171\bibrangedash 8176}
+      \range{pages}{6}
+    \endentry
     \entry{coser_halbwachs1992}{suppbook}{}
       \name{author}{1}{}{%
         {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
@@ -696,6 +802,33 @@
       \field{pages}{122\bibrangedash 158}
       \range{pages}{37}
     \endentry
+    \entry{verovsek_pgi2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=53047f3277aae6f769d432d28cb12abf}{%
+           family={Verovšek},
+           familyi={V\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{53047f3277aae6f769d432d28cb12abf}
+      \strng{fullhash}{53047f3277aae6f769d432d28cb12abf}
+      \strng{authornamehash}{53047f3277aae6f769d432d28cb12abf}
+      \strng{authorfullhash}{53047f3277aae6f769d432d28cb12abf}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Politics, Groups, and Identities}
+      \field{number}{3}
+      \field{shortjournal}{PGI}
+      \field{shorttitle}{Collective Memory, Politics, and the Influence of the Past}
+      \field{title}{Collective Memory, Politics, and the Influence of the Past: The Politics of Memory as a Research Paradigm}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{529\bibrangedash 543}
+      \range{pages}{15}
+    \endentry
     \entry{winter2006}{book}{}
       \name{author}{1}{}{%
         {{hash=ffc9c8cb7cd5d7138c999bbe9049b31f}{%
@@ -722,6 +855,38 @@
       \field{title}{Remembering War: The Great War between Memory and History in the 20th Century}
       \field{year}{2006}
       \field{dateera}{ce}
+    \endentry
+    \entry{yamashiro-hirst_jarmc2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0fc27fcb196a7a1e1eae63e29aeb8a72}{%
+           family={Yamashiro},
+           familyi={Y\bibinitperiod},
+           given={Jeremy\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5cf411cedf34797e8130b0df09c4f3a1}{%
+           family={Hirst},
+           familyi={H\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{69e8d9b7ed01aa3cd76000d9aa042832}
+      \strng{fullhash}{69e8d9b7ed01aa3cd76000d9aa042832}
+      \strng{authornamehash}{69e8d9b7ed01aa3cd76000d9aa042832}
+      \strng{authorfullhash}{69e8d9b7ed01aa3cd76000d9aa042832}
+      \field{sortinit}{Y}
+      \field{sortinithash}{f86c10978eb0c0879609ce6a4f43da7b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Applied Research in Memory and Cognition}
+      \field{number}{4}
+      \field{shortjournal}{JARMC}
+      \field{shorttitle}{Mnemonic Convergence in a Social Network}
+      \field{title}{Mnemonic Convergence in a Social Network: Collective Memory and Extended Influence}
+      \field{volume}{3}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{272\bibrangedash 279}
+      \range{pages}{8}
     \endentry
     \entry{yerushalmi1989}{book}{}
       \name{author}{1}{}{%
