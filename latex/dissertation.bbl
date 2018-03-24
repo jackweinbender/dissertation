@@ -747,6 +747,33 @@
       \field{pages}{3\bibrangedash 62}
       \range{pages}{60}
     \endentry
+    \entry{pioske_bibint2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=21d4867daed44c1423fb919562b4ee4c}{%
+           family={Pioske},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{21d4867daed44c1423fb919562b4ee4c}
+      \strng{fullhash}{21d4867daed44c1423fb919562b4ee4c}
+      \strng{authornamehash}{21d4867daed44c1423fb919562b4ee4c}
+      \strng{authorfullhash}{21d4867daed44c1423fb919562b4ee4c}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Biblical Interpretation}
+      \field{number}{3}
+      \field{shortjournal}{BibInt}
+      \field{shorttitle}{Retracing a Remembered Past}
+      \field{title}{Retracing a Remembered Past: Methodological Remarks on Memory, History, and the Hebrew Bible}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{291\bibrangedash 315}
+      \range{pages}{25}
+    \endentry
     \entry{rodriguez2010}{book}{}
       \name{author}{1}{}{%
         {{hash=5df97de4f5e9c06142b8688601da0dc4}{%
