@@ -19,6 +19,94 @@
 
 \refsection{1}
   \sortlist[entry]{nty/global/}
+    \entry{a_assmann2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e0bcc4d244ac53b5851a83bca8eabb06}{%
+           family={Assmann},
+           familyi={A\bibinitperiod},
+           given={Aleida},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e0bcc4d244ac53b5851a83bca8eabb06}
+      \strng{fullhash}{e0bcc4d244ac53b5851a83bca8eabb06}
+      \strng{authornamehash}{e0bcc4d244ac53b5851a83bca8eabb06}
+      \strng{authorfullhash}{e0bcc4d244ac53b5851a83bca8eabb06}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{relatedtype}{translationof}
+      \field{shorttitle}{Cultural Memory and Western Civilization}
+      \field{title}{Cultural Memory and Western Civilization: Functions, Media, Archives}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{assmann2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24ecc2c1062ddd0ab2ff49c5b91936a2}{%
+           family={Assmann},
+           familyi={A\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{fullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{authornamehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{authorfullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{relatedtype}{translationof}
+      \field{shorttitle}{Cultural Memory and Early Civilization}
+      \field{title}{Cultural Memory and Early Civilization: Writing, Remembrance, and Political Imagination}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{related}{d5fc569beb8f7b6f2c405f0c52b98e11}
+    \endentry
+    \entry{d5fc569beb8f7b6f2c405f0c52b98e11}{book}{dataonly}
+      \name{author}{1}{}{%
+        {{hash=24ecc2c1062ddd0ab2ff49c5b91936a2}{%
+           family={Assmann},
+           familyi={A\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {german}%
+      }
+      \list{location}{1}{%
+        {Munich}%
+      }
+      \list{publisher}{1}{%
+        {C. H. Beck}%
+      }
+      \strng{namehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{fullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{authornamehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{authorfullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{assmann1992}
+      \field{title}{Das kulturelle Gedächtnis Schrift, Erinnerung und politische Identität in frühen Hochkulturen}
+      \field{year}{1992}
+    \endentry
     \entry{berliner_aq2005}{article}{}
       \name{author}{1}{}{%
         {{hash=81fbc15d05d939325e06f2fe96498e5e}{%
@@ -828,6 +916,111 @@
       \field{dateera}{ce}
       \field{pages}{122\bibrangedash 158}
       \range{pages}{37}
+    \endentry
+    \entry{schwartz2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5f22299c31ac35283104a867ea99f18a}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authornamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhash}{5f22299c31ac35283104a867ea99f18a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Abraham Lincoln and the Forge of National Memory}
+      \field{year}{2000}
+      \field{dateera}{ce}
+    \endentry
+    \entry{schwartz_asr1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5f22299c31ac35283104a867ea99f18a}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authornamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhash}{5f22299c31ac35283104a867ea99f18a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{2}
+      \field{shortjournal}{ASR}
+      \field{shorttitle}{Social Change and Collective Memory}
+      \field{title}{Social Change and Collective Memory: The Democratization of George Washington}
+      \field{volume}{56}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \field{pages}{221\bibrangedash 236}
+      \range{pages}{16}
+    \endentry
+    \entry{schwartz_sf1982}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5f22299c31ac35283104a867ea99f18a}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authornamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhash}{5f22299c31ac35283104a867ea99f18a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Social Forces}
+      \field{number}{2}
+      \field{shortjournal}{SF}
+      \field{shorttitle}{The Social Context of Commemoration}
+      \field{title}{The Social Context of Commemoration: A Study in Collective Memory}
+      \field{volume}{61}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \field{pages}{374\bibrangedash 402}
+      \range{pages}{29}
+    \endentry
+    \entry{thatcher2014}{collection}{skipbib=true}
+      \name{editor}{1}{}{%
+        {{hash=efa2735642ffb560e2adb4e41da5606b}{%
+           family={Thatcher},
+           familyi={T\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
+      \list{publisher}{1}{%
+        {Society of Biblical Literature}%
+      }
+      \strng{namehash}{efa2735642ffb560e2adb4e41da5606b}
+      \strng{fullhash}{efa2735642ffb560e2adb4e41da5606b}
+      \strng{editornamehash}{efa2735642ffb560e2adb4e41da5606b}
+      \strng{editorfullhash}{efa2735642ffb560e2adb4e41da5606b}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memory and Identity in Ancient Judaism and Early Christianity: A Conversation with Barry Schwartz}
+      \field{number}{78}
+      \field{series}{Semeia Studies}
+      \field{shortseries}{SemSt}
+      \field{shorttitle}{Memory and Identity in Ancient Judaism and Early Christianity}
+      \field{title}{Memory and Identity in Ancient Judaism and Early Christianity: A Conversation with Barry Schwartz}
+      \field{year}{2014}
+      \field{dateera}{ce}
     \endentry
     \entry{verovsek_pgi2016}{article}{}
       \name{author}{1}{}{%
