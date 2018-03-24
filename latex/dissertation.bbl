@@ -42,7 +42,6 @@
       \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{relatedtype}{translationof}
       \field{shorttitle}{Cultural Memory and Western Civilization}
       \field{title}{Cultural Memory and Western Civilization: Functions, Media, Archives}
       \field{year}{2011}
@@ -71,41 +70,10 @@
       \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{relatedtype}{translationof}
       \field{shorttitle}{Cultural Memory and Early Civilization}
       \field{title}{Cultural Memory and Early Civilization: Writing, Remembrance, and Political Imagination}
       \field{year}{2011}
       \field{dateera}{ce}
-      \field{related}{d5fc569beb8f7b6f2c405f0c52b98e11}
-    \endentry
-    \entry{d5fc569beb8f7b6f2c405f0c52b98e11}{book}{dataonly}
-      \name{author}{1}{}{%
-        {{hash=24ecc2c1062ddd0ab2ff49c5b91936a2}{%
-           family={Assmann},
-           familyi={A\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {german}%
-      }
-      \list{location}{1}{%
-        {Munich}%
-      }
-      \list{publisher}{1}{%
-        {C. H. Beck}%
-      }
-      \strng{namehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
-      \strng{fullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
-      \strng{authornamehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
-      \strng{authorfullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
-      \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{clonesourcekey}{assmann1992}
-      \field{title}{Das kulturelle Gedächtnis Schrift, Erinnerung und politische Identität in frühen Hochkulturen}
-      \field{year}{1992}
     \endentry
     \entry{berliner_aq2005}{article}{}
       \name{author}{1}{}{%
