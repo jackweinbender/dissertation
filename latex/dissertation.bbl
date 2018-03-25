@@ -209,6 +209,35 @@
       \field{year}{1979}
       \field{dateera}{ce}
     \endentry
+    \entry{childs1962}{book}{}
+      \name{author}{1}{}{%
+        {{hash=50449b69d6ad8f8bd8f3c0a93df3231f}{%
+           family={Childs},
+           familyi={C\bibinitperiod},
+           given={Brevard\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {SCM Press}%
+      }
+      \strng{namehash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \strng{fullhash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \strng{authornamehash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \strng{authorfullhash}{50449b69d6ad8f8bd8f3c0a93df3231f}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{37}
+      \field{series}{Studies in Biblical Theology}
+      \field{shortseries}{SBT}
+      \field{title}{Memory and Tradition in Israel}
+      \field{year}{1962}
+      \field{dateera}{ce}
+    \endentry
     \entry{coman-etal_yang-etal2012}{inproceedings}{}
       \name{author}{4}{}{%
         {{hash=fcb585842ba18e8ec7dc7a57fda521b2}{%
