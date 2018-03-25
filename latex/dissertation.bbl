@@ -19,6 +19,42 @@
 
 \refsection{1}
   \sortlist[entry]{nty/global/}
+    \entry{assmann_nikulin2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=c40f2f79be8760147d4f6e55dd629671}{%
+           family={Assman},
+           familyi={A\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2173abfe500fa4fa9ba084528f324f9c}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Dmitri},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c40f2f79be8760147d4f6e55dd629671}
+      \strng{fullhash}{c40f2f79be8760147d4f6e55dd629671}
+      \strng{authornamehash}{c40f2f79be8760147d4f6e55dd629671}
+      \strng{authorfullhash}{c40f2f79be8760147d4f6e55dd629671}
+      \strng{editornamehash}{2173abfe500fa4fa9ba084528f324f9c}
+      \strng{editorfullhash}{2173abfe500fa4fa9ba084528f324f9c}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Memory: A History}
+      \field{title}{Memory and Culture}
+      \field{pages}{325\bibrangedash 349}
+      \range{pages}{25}
+    \endentry
     \entry{a_assmann2011}{book}{}
       \name{author}{1}{}{%
         {{hash=e0bcc4d244ac53b5851a83bca8eabb06}{%
@@ -988,6 +1024,32 @@
       \field{shorttitle}{Memory and Identity in Ancient Judaism and Early Christianity}
       \field{title}{Memory and Identity in Ancient Judaism and Early Christianity: A Conversation with Barry Schwartz}
       \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{vansina1985}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c44dffd3461b3edba3a3e1173b301b37}{%
+           family={Vansina},
+           familyi={V\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madison, WI}%
+      }
+      \list{publisher}{1}{%
+        {University of Wisconsin Press}%
+      }
+      \strng{namehash}{c44dffd3461b3edba3a3e1173b301b37}
+      \strng{fullhash}{c44dffd3461b3edba3a3e1173b301b37}
+      \strng{authornamehash}{c44dffd3461b3edba3a3e1173b301b37}
+      \strng{authorfullhash}{c44dffd3461b3edba3a3e1173b301b37}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Oral Tradition as History}
+      \field{year}{1985}
       \field{dateera}{ce}
     \endentry
     \entry{verovsek_pgi2016}{article}{}
