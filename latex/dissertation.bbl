@@ -19,41 +19,48 @@
 
 \refsection{1}
   \sortlist[entry]{nty/global/}
-    \entry{assmann_nikulin2015}{incollection}{}
+    \entry{ansellpearson_radstone-schwarz2011}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=c40f2f79be8760147d4f6e55dd629671}{%
-           family={Assman},
-           familyi={A\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
+        {{hash=d35238eb40c2caf87a9ed37f2d84d429}{%
+           family={Ansell-Pearson},
+           familyi={A\bibinithyphendelim P\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=2173abfe500fa4fa9ba084528f324f9c}{%
-           family={Nikulin},
-           familyi={N\bibinitperiod},
-           given={Dmitri},
-           giveni={D\bibinitperiod}}}%
+      \name{editor}{2}{}{%
+        {{hash=b117d489cc326bc6bde810cbdb4d668f}{%
+           family={Radstone},
+           familyi={R\bibinitperiod},
+           given={Susannah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a177fa02e4356005f0e9cce02e8052e7}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
       }
       \list{publisher}{1}{%
-        {Oxford University Press}%
+        {Fordham University Press}%
       }
-      \strng{namehash}{c40f2f79be8760147d4f6e55dd629671}
-      \strng{fullhash}{c40f2f79be8760147d4f6e55dd629671}
-      \strng{authornamehash}{c40f2f79be8760147d4f6e55dd629671}
-      \strng{authorfullhash}{c40f2f79be8760147d4f6e55dd629671}
-      \strng{editornamehash}{2173abfe500fa4fa9ba084528f324f9c}
-      \strng{editorfullhash}{2173abfe500fa4fa9ba084528f324f9c}
+      \strng{namehash}{d35238eb40c2caf87a9ed37f2d84d429}
+      \strng{fullhash}{d35238eb40c2caf87a9ed37f2d84d429}
+      \strng{authornamehash}{d35238eb40c2caf87a9ed37f2d84d429}
+      \strng{authorfullhash}{d35238eb40c2caf87a9ed37f2d84d429}
+      \strng{editornamehash}{e71b9dc7a403daeb75a1e11028eeea91}
+      \strng{editorfullhash}{e71b9dc7a403daeb75a1e11028eeea91}
       \field{sortinit}{A}
       \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Memory: A History}
-      \field{title}{Memory and Culture}
-      \field{pages}{325\bibrangedash 349}
-      \range{pages}{25}
+      \field{booktitle}{Memory: Histories, Theories, Debates}
+      \field{title}{Bergson on Memory}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{61\bibrangedash 76}
+      \range{pages}{16}
     \endentry
     \entry{a_assmann2011}{book}{}
       \name{author}{1}{}{%
@@ -110,6 +117,44 @@
       \field{title}{Cultural Memory and Early Civilization: Writing, Remembrance, and Political Imagination}
       \field{year}{2011}
       \field{dateera}{ce}
+    \endentry
+    \entry{assmann_nikulin2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=24ecc2c1062ddd0ab2ff49c5b91936a2}{%
+           family={Assmann},
+           familyi={A\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2173abfe500fa4fa9ba084528f324f9c}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Dmitri},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{fullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{authornamehash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{authorfullhash}{24ecc2c1062ddd0ab2ff49c5b91936a2}
+      \strng{editornamehash}{2173abfe500fa4fa9ba084528f324f9c}
+      \strng{editorfullhash}{2173abfe500fa4fa9ba084528f324f9c}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Memory: A History}
+      \field{series}{Oxford Philosophical Concepts}
+      \field{shortseries}{OPC}
+      \field{title}{Memory and Culture}
+      \field{pages}{325\bibrangedash 349}
+      \range{pages}{25}
     \endentry
     \entry{berliner_aq2005}{article}{}
       \name{author}{1}{}{%
@@ -749,6 +794,105 @@
       \field{year}{2009}
       \field{dateera}{ce}
     \endentry
+    \entry{nora_representations1989}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issuetitle}{Special Issue: Memory and Counter-Memory}
+      \field{journaltitle}{Representations}
+      \field{number}{26}
+      \field{shorttitle}{Between Memory and History}
+      \field{title}{Between Memory and History: Les Lieux de Mémoire}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 24}
+      \range{pages}{18}
+    \endentry
+    \entry{25fe911b53d41e2425092925a0ccc44a}{mvbook}{dataonly}
+      \name{editor}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{editornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{editorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{nora1984}
+      \field{title}{Les Lieux de mémoire}
+      \field{volumes}{7}
+    \endentry
+    \entry{nora1996}{mvbook}{}
+      \name{author}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0421705d0219d4c4222c601d314de5ec}{%
+           family={Kritzman},
+           familyi={K\bibinitperiod},
+           given={Lawrence\bibnamedelima D},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=80aef52e1b2443826700803781f6d5f9}{%
+           family={Goldhammer},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{editornamehash}{0421705d0219d4c4222c601d314de5ec}
+      \strng{editorfullhash}{0421705d0219d4c4222c601d314de5ec}
+      \strng{translatornamehash}{80aef52e1b2443826700803781f6d5f9}
+      \strng{translatorfullhash}{80aef52e1b2443826700803781f6d5f9}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{relatedtype}{translationof}
+      \field{series}{European Perspectives}
+      \field{shorttitle}{Realms of Memory}
+      \field{title}{Realms of Memory: Rethinking the French Past}
+      \field{volumes}{3}
+      \field{related}{25fe911b53d41e2425092925a0ccc44a}
+    \endentry
     \entry{olick-robbins_ars1998}{article}{}
       \name{author}{2}{}{%
         {{hash=6c922893641f3cdb6e91614f143c83da}{%
@@ -995,6 +1139,49 @@
       \field{pages}{374\bibrangedash 402}
       \range{pages}{29}
     \endentry
+    \entry{terdiman_radstone-schwarz2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a959e3d7a886dbbe18cb24c405b9486c}{%
+           family={Terdiman},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b117d489cc326bc6bde810cbdb4d668f}{%
+           family={Radstone},
+           familyi={R\bibinitperiod},
+           given={Susannah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a177fa02e4356005f0e9cce02e8052e7}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Fordham University Press}%
+      }
+      \strng{namehash}{a959e3d7a886dbbe18cb24c405b9486c}
+      \strng{fullhash}{a959e3d7a886dbbe18cb24c405b9486c}
+      \strng{authornamehash}{a959e3d7a886dbbe18cb24c405b9486c}
+      \strng{authorfullhash}{a959e3d7a886dbbe18cb24c405b9486c}
+      \strng{editornamehash}{e71b9dc7a403daeb75a1e11028eeea91}
+      \strng{editorfullhash}{e71b9dc7a403daeb75a1e11028eeea91}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Memory: Histories, Theories, Debates}
+      \field{title}{Memory in Freud}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{93\bibrangedash 108}
+      \range{pages}{16}
+    \endentry
     \entry{thatcher2014}{collection}{skipbib=true}
       \name{editor}{1}{}{%
         {{hash=efa2735642ffb560e2adb4e41da5606b}{%
@@ -1176,7 +1363,6 @@
       \field{origdateera}{ce}
     \endentry
   \endsortlist
-  \missing{nora1984}
 \endrefsection
 \endinput
 
