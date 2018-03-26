@@ -1348,6 +1348,42 @@
       \field{pages}{529\bibrangedash 543}
       \range{pages}{15}
     \endentry
+    \entry{veyne1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=98b9df880c1792255b3fd1ead681d5eb}{%
+           family={Veyne},
+           familyi={V\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=807bdee31ba7814afe7580167e889dee}{%
+           family={Wissing},
+           familyi={W\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{98b9df880c1792255b3fd1ead681d5eb}
+      \strng{fullhash}{98b9df880c1792255b3fd1ead681d5eb}
+      \strng{authornamehash}{98b9df880c1792255b3fd1ead681d5eb}
+      \strng{authorfullhash}{98b9df880c1792255b3fd1ead681d5eb}
+      \strng{translatornamehash}{807bdee31ba7814afe7580167e889dee}
+      \strng{translatorfullhash}{807bdee31ba7814afe7580167e889dee}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Did the Greeks Believe in Their Myths? An Essay on the Constitutive Imagination}
+      \field{title}{Did the Greeks Believe in Their Myths? An Essay on the Constitutive Imagination}
+      \field{year}{1988}
+      \field{dateera}{ce}
+    \endentry
     \entry{winter2006}{book}{}
       \name{author}{1}{}{%
         {{hash=ffc9c8cb7cd5d7138c999bbe9049b31f}{%
