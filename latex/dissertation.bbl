@@ -1094,6 +1094,32 @@
       \field{pages}{122\bibrangedash 158}
       \range{pages}{37}
     \endentry
+    \entry{schudson_communication1989}{article}{}
+      \name{author}{1}{}{%
+        {{hash=161d56c26b46d73f0f46b97711be9190}{%
+           family={Schudson},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{161d56c26b46d73f0f46b97711be9190}
+      \strng{fullhash}{161d56c26b46d73f0f46b97711be9190}
+      \strng{authornamehash}{161d56c26b46d73f0f46b97711be9190}
+      \strng{authorfullhash}{161d56c26b46d73f0f46b97711be9190}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Communication}
+      \field{number}{2}
+      \field{shorttitle}{The Present in the Past}
+      \field{title}{The Present in the Past versus the Past in the Present}
+      \field{volume}{11}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{105\bibrangedash 113}
+      \range{pages}{9}
+    \endentry
     \entry{schwartz2000}{book}{}
       \name{author}{1}{}{%
         {{hash=5f22299c31ac35283104a867ea99f18a}{%
@@ -1392,10 +1418,6 @@
       \field{origdateera}{ce}
     \endentry
   \endsortlist
-  \missing{schwartz2005a}
-  \missing{schwartz2005}
-  \missing{schudson1989}
-  \missing{schwartz1982}
 \endrefsection
 \endinput
 
