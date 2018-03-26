@@ -344,6 +344,33 @@
       \field{pages}{8171\bibrangedash 8176}
       \range{pages}{6}
     \endentry
+    \entry{confino_ahr1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2e600f19c736879814a1b9140a947abd}{%
+           family={Confino},
+           familyi={C\bibinitperiod},
+           given={Alon},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e600f19c736879814a1b9140a947abd}
+      \strng{fullhash}{2e600f19c736879814a1b9140a947abd}
+      \strng{authornamehash}{2e600f19c736879814a1b9140a947abd}
+      \strng{authorfullhash}{2e600f19c736879814a1b9140a947abd}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{American Historical Review}
+      \field{number}{5}
+      \field{shortjournal}{AHR}
+      \field{shorttitle}{Collective Memory and Cultural History}
+      \field{title}{Collective Memory and Cultural History: Problems of Method}
+      \field{volume}{102}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{pages}{1386\bibrangedash 1403}
+      \range{pages}{18}
+    \endentry
     \entry{coser_halbwachs1992}{suppbook}{}
       \name{author}{1}{}{%
         {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
