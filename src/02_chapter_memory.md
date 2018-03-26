@@ -1,3 +1,5 @@
+
+
 # Social Memory Studies and the ~RwB
 
 The past several decades, beginning in the late 1970's, a dramatic increase in scholarly interest toward the topic of "memory" has swept throughout the social sciences. The precipitous rise in scholarly literature dealing with topics of memory coupled with its proliferation in popular media discourses has prompted some in the field to refer to the "memory industry" and to describe the ubiquity of memory discourses as a "boom" fast-approaching a bust.[@rosenfeld_jmh2009; @winter2006; @berliner_aq2005; @confino_ahr1997] Yet, as Olick et al. make very clear in their Introduction to *The Collective Memory Reader*, there remain a significant number of scholars throughout the social sciences who continue to find "memory" to a useful heuristic and a compelling theoretical basis for their various and sundry analytical applications.[@olick_olick-etal2011, 3--6] 
