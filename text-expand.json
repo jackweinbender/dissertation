@@ -14,14 +14,23 @@
       "RWB"     : "Rewritten Bible",
       "rwB"     : "rewritten Bible",
       "dss"     : "Dead Sea Scrolls",
-      "qumran"  : "Qumran",
       "sefer"   : "Sefer ha-Yashar",
       "pTarg"   : "Palestinian Targums",
       "2T"      : "Second Temple",
-      "temple-scroll": "Temple Scroll"
+      "temple-scroll": "Temple Scroll",
+      "Halbwachs": "Maurice Halbwachs",
+      "halbwachs": "Halbwachs",
+      "yerushalmi": "Yerushalmi"
+
   },
   "emph": {
       "stj-full": "Scripture and Tradition in Judaism: Haggadic Studies",
-      "stj"     : "Scripture and Tradition"
+      "stj"     : "Scripture and Tradition",
+      "Social-Frameworks": "The Social Frameworks of Memory",
+      "social-frameworks": "Social Frameworks",
+      "Legendary-Topography":"The Legendary Topography of the Holy Land",
+      "legendary-topography":"Legendary Topography of the Holy Land",
+      "Collective-Memory": "The Collective Memory",
+      "collective-memory": "The Collective Memory"
   }
 }
