@@ -225,6 +225,50 @@
       \field{pages}{119\bibrangedash 136}
       \range{pages}{18}
     \endentry
+    \entry{carruthers_radstone-schwarz2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b4d750ceaf8fbb7590ff2d9746ee1af7}{%
+           family={Carruthers},
+           familyi={C\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b117d489cc326bc6bde810cbdb4d668f}{%
+           family={Radstone},
+           familyi={R\bibinitperiod},
+           given={Susannah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a177fa02e4356005f0e9cce02e8052e7}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Fordham University Press}%
+      }
+      \strng{namehash}{b4d750ceaf8fbb7590ff2d9746ee1af7}
+      \strng{fullhash}{b4d750ceaf8fbb7590ff2d9746ee1af7}
+      \strng{authornamehash}{b4d750ceaf8fbb7590ff2d9746ee1af7}
+      \strng{authorfullhash}{b4d750ceaf8fbb7590ff2d9746ee1af7}
+      \strng{editornamehash}{e71b9dc7a403daeb75a1e11028eeea91}
+      \strng{editorfullhash}{e71b9dc7a403daeb75a1e11028eeea91}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memory: Histories, Theories, Debates}
+      \field{shorttitle}{How to Make a Composition}
+      \field{title}{How to Make a Composition: Memory-Craft in Antiquity and in the Middle Ages}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{15\bibrangedash 29}
+      \range{pages}{15}
+    \endentry
     \entry{childs1979}{book}{}
       \name{author}{1}{}{%
         {{hash=50449b69d6ad8f8bd8f3c0a93df3231f}{%
