@@ -55,6 +55,7 @@ tex-pandoc:
 	@ echo "Building xelatex PDF..."
 	@ $(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
 	@ $(pandoc) src/02*.md --biblatex -o latex/_chapter02_memory.tex
+	@ $(pandoc) src/03*.md --biblatex -o latex/_chapter03_genesis_apocryphon.tex
 	@ $(pandoc) src/05*.md --biblatex -o latex/_chapter05_chronicles.tex
 
 tex-build:
@@ -63,7 +64,7 @@ tex-build:
 tex-full-build:
 	@ cd latex && make
 
-format: format-partials format-concat format-biber
+format: setup format-partials format-concat format-biber
 
 format-partials:
 	@ find bib -name "_*.bib" -exec \
