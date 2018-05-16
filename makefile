@@ -39,7 +39,7 @@ setup:
 	@ rm -rf build &&\
 	mkdir build
 
-doc:
+doc: format
 	@ echo "Building MS Word..." && \
 	$(pandoc-csl) -o build/$(title).docx
 
