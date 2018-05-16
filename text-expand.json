@@ -21,7 +21,15 @@
       "Halbwachs": "Maurice Halbwachs",
       "halbwachs": "Halbwachs",
       "yerushalmi": "Yerushalmi",
-      "yahweh": "Yahweh"
+      "yahweh": "Yahweh",
+      "Psa":"Pseudepigrapha",
+      "psa":"pseudepigrapha",
+      "Psy":"Pseudepigraphy",
+      "psy":"pseudepigraphy",
+      "Psgraphical":"Pseudepigraphical",
+      "psgraphical":"pseudepigraphical",
+      "Psgraphic": "pseudepigraphic",
+      "psgraphic": "pseudepigraphic"
 
   },
   "emph": {
