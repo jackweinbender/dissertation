@@ -68,7 +68,21 @@ One of the difficulties in dealing with ~psy is the apparently divergent ways th
 
 
 
-## Keying and Framing Abraham
+## Abram in the Diaspora: Keying and Framing in ~GA
+
+The ~psgraphic quiality of ~ga shapes the way that the text engages with disourse with the past by describing the biblical story through the mouthes of important figrues. This reorientation  in authorial voice, however, make its impact through the *content* that it recounts. Fundamental to a change in perspective is a change in available in formation. Thus,~ga's reframing of Genesis as first-person narrative goes hand-in-hand with the way that it not only adapts the narrative discourse of the story, but changes the story itself.[Here I am using the term "story" as a specific term to refer to the events of the narrative in the abstract, which is to be distinguished from any particular narrative instance of the story. @abbott2008, GET PAGE] Discovering, noting, and explaining these changes ~visavis the biblical text---often proffered as examples of early biblical interpretation---makes up a significant portion of the scholarly activity dealing with ~ga (as well as other ~rwb and ~2T Period texts) and will not be treated exhaustively here (though, see below).[See especially @bernstein_dsd1996, GET MORE OF THESE] Instead, this section will build off of Barry Schwartz's work on  mnemonic "keying" and "framing" by focusing on a number of  ~ga's innovations as examples of social memory (specifically "framing") in action.
+
+
+
+### Abram: A Jew in the Court of a Foreign King
+
+
+
+### Abram the Sage
+
+
+
+### Abram the Oracle
 
 
 
