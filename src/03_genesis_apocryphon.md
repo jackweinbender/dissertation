@@ -50,7 +50,7 @@ The rhetorical force of this particular authorial voice, as observed by Erhard B
 
 <!-- Genesis Apocryphon as Pseudepigraphy -->
 
-In contrast to the omniscient implied biblical author, the ~ga frames itself as a collection of first-person accounts which formally fall into the category of ~psy. If we take seriously Blum's characterization of the way that the biblical text may have engaged with the collective memory of Israel based on the formal, narratological features of the text, it stands to reason that the ~ga as first-person ~psy would engage that collective memory in a different way despite the relative similarity of the textual content.
+In contrast to the omniscient implied biblical author, the ~ga frames itself as a collection of first-person accounts which formally fall into the category of ~psy. If we take seriously Blum's characterization of the way that the biblical text may have engaged with the collective memory of Israel based on the formal, narratological features of the text, it stands to reason that the ~ga as first-person ~psy would engage that collective memory in a different way despite the relative similarity of the textual content. The ~psgraphic quality of ~ga shapes the way that the text engages with the remembered past by describing the biblical story through the mouthes of important figures. Here "story" refers to the abstract sequence of actions which  the narrative describes. The *way* a story is recounted, on the other hand, is referred to by narratologists as *narrative discourse.*  Thus the ~ga's change from third-person omniscient to a ~psgraphical first-person narrative can be understood as a change in *narrative discourse* which, broadly, retains the same *story* as that of the biblical text. 
 
 <!-- Pseudepigraphy and Historical Consiousness -->
 
@@ -70,11 +70,9 @@ One of the difficulties in dealing with ~psy is the apparently divergent ways th
 
 ## Abram in the Diaspora: Keying and Framing in ~GA
 
-The ~psgraphic quiality of ~ga shapes the way that the text engages with disourse with the past by describing the biblical story through the mouthes of important figrues. This reorientation  in authorial voice, however, make its impact through the *content* that it recounts. Fundamental to a change in perspective is a change in available in formation. Thus,~ga's reframing of Genesis as first-person narrative goes hand-in-hand with the way that it not only adapts the narrative discourse of the story, but changes the story itself.[Here I am using the term "story" as a specific term to refer to the events of the narrative in the abstract, which is to be distinguished from any particular narrative instance of the story. @abbott2008, GET PAGE] Discovering, noting, and explaining these changes ~visavis the biblical text---often proffered as examples of early biblical interpretation---makes up a significant portion of the scholarly activity dealing with ~ga (as well as other ~rwb and ~2T Period texts) and will not be treated exhaustively here (though, see below).[See especially @bernstein_dsd1996, GET MORE OF THESE] Instead, this section will build off of Barry Schwartz's work on  mnemonic "keying" and "framing" by focusing on a number of  ~ga's innovations as examples of social memory (specifically "framing") in action.
+While retelling portions of Genesis as first-person narrative reorients the way that the story engages with the received tradition and collective memory at the macro-level the narrative of the ~ga is not simply a straight-forward retelling of Genesis from the perspectives of Lamech, Noah, and Abram. Indeed, what is most compelling about ~rwb texts very often is the ways that they depart from the biblical narrative. These departures can come at the level of story by adding, removing, or rearranging events or at the level of narrative discourse by describing events differently or with different emphases. In the case of ~ga, and in particular in the account of Abram in cols. 19--22, the biblical narrative has been recast as a (first-person) Hellenistic novella in a similar vein to other well-known Second Temple Jewish works such as the narrative portions of Daniel (including the Greek additions), Esther, Tobit, and (arguably) the so-called Joseph novella of Genesis 37 and 39–50.[The reading of ~ga 19--20 as a Hellenistic Jewish novella has recently been very thoroughly argued in @jurgens_dsd2018]
 
-
-
-### Abram: A Jew in the Court of a Foreign King
+### Abram in the Court of a Foreign King
 
 
 
