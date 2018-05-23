@@ -12,7 +12,7 @@
 
 # Document specifics
 title = dissertation
-input_files = src/*.md
+input_files = src/03*.md
 bib_file = latex/bibliography.bib
 tmp = build/.tmp
 
@@ -29,7 +29,7 @@ pandoc-csl=$(pandoc) $(input_files) src/99_bibliography \
 	--citation-abbreviations="abbr.json" \
 	--reference-doc=reference.docx
 
-default: format build-all
+default: format doc #build-all
 
 build: setup doc
 
@@ -39,7 +39,7 @@ setup:
 	@ rm -rf build &&\
 	mkdir build
 
-doc: format
+doc:
 	@ echo "Building MS Word..." && \
 	$(pandoc-csl) -o build/$(title).docx
 
