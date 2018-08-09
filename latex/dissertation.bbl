@@ -44,6 +44,8 @@
       \field{labeltitlesource}{title}
       \field{edition}{2}
       \field{title}{The Cambridge Introduction to Narrative}
+      \field{year}{2008}
+      \field{dateera}{ce}
     \endentry
     \entry{bernstein_jbl2009}{article}{}
       \name{author}{1}{}{%
@@ -204,6 +206,37 @@
       \field{year}{1983}
       \field{dateera}{ce}
     \endentry
+    \entry{fitzmyer2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
+           family={Fitzmyer},
+           familyi={F\bibinitperiod},
+           given={Joseph\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Biblical Institute Press}%
+      }
+      \strng{namehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{fullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{authornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{authorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Genesis Apocryphon of Qumran Cave 1}
+      \field{edition}{3}
+      \field{number}{18a}
+      \field{series}{Biblica et orientalia}
+      \field{shortseries}{BO}
+      \field{title}{The Genesis Apocryphon of Qumran Cave 1}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
     \entry{jurgens_jsj2018}{article}{}
       \name{author}{1}{}{%
         {{hash=402c4a1b712ed1f4ab7530b84d741a7c}{%
@@ -220,6 +253,8 @@
       \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal for the Study of Judaism}
+      \field{shortjournal}{JSJ}
       \field{shorttitle}{A Wandering Aramean in Pharaoh's Court}
       \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19-20 and Jewish Fictional Literature}
       \field{year}{2018}
@@ -229,6 +264,32 @@
       \verb{doi}
       \verb 10.1163/15700631-12492196
       \endverb
+    \endentry
+    \entry{machiela_as2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+           family={Machiela},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Aramaic Studies}
+      \field{shortjournal}{AS}
+      \field{shorttitle}{Some Egyptian Elements in the Genesis Apocryphon}
+      \field{title}{Some Egyptian Elements in the Genesis Apocryphon: Evidence of a Ptolemaic Social Location?}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{47\bibrangedash 69}
+      \range{pages}{23}
     \endentry
     \entry{mroczek2016}{book}{}
       \name{author}{1}{}{%
@@ -539,6 +600,86 @@
       \field{dateera}{ce}
       \field{pages}{1\bibrangedash 18}
       \range{pages}{18}
+    \endentry
+    \entry{wills2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4188732fdc271b992102ebd74aa91447}{%
+           family={Wills},
+           familyi={W\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4188732fdc271b992102ebd74aa91447}
+      \strng{fullhash}{4188732fdc271b992102ebd74aa91447}
+      \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
+      \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Ancient Jewish Novels}
+      \field{title}{Ancient Jewish Novels: An Anthology}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wills1990}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4188732fdc271b992102ebd74aa91447}{%
+           family={Wills},
+           familyi={W\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{4188732fdc271b992102ebd74aa91447}
+      \strng{fullhash}{4188732fdc271b992102ebd74aa91447}
+      \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
+      \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Jew in the Court of the Foreign King}
+      \field{year}{1990}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wills1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4188732fdc271b992102ebd74aa91447}{%
+           family={Wills},
+           familyi={W\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY}%
+      }
+      \list{publisher}{1}{%
+        {Cornell University Press}%
+      }
+      \strng{namehash}{4188732fdc271b992102ebd74aa91447}
+      \strng{fullhash}{4188732fdc271b992102ebd74aa91447}
+      \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
+      \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Jewish Novel in the Ancient World}
+      \field{year}{1995}
+      \field{dateera}{ce}
     \endentry
   \endsortlist
 \endrefsection
