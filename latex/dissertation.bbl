@@ -123,35 +123,6 @@
       \field{pages}{1\bibrangedash 26}
       \range{pages}{26}
     \endentry
-    \entry{bernstein_dsd1996}{article}{}
-      \name{author}{1}{}{%
-        {{hash=4720838eb7fda2ca42df156705a591a2}{%
-           family={Bernstein},
-           familyi={B\bibinitperiod},
-           given={Moshe\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
-      \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Dead Sea Discoveries}
-      \field{number}{1}
-      \field{shortjournal}{DSD}
-      \field{title}{Re-Arrangement, Anticipation and Harmonization as Exegetical Features in the Genesis Apocryphon1}
-      \field{volume}{3}
-      \field{year}{1996}
-      \field{dateera}{ce}
-      \field{pages}{37\bibrangedash 57}
-      \range{pages}{21}
-      \verb{doi}
-      \verb 10.1163/156851796X00318
-      \endverb
-    \endentry
     \entry{blum_barton-etal2007}{incollection}{}
       \name{author}{1}{}{%
         {{hash=7c2dde8dc1121f07fbeea336c446d4af}{%
@@ -232,6 +203,32 @@
       \field{volumes}{2}
       \field{year}{1983}
       \field{dateera}{ce}
+    \endentry
+    \entry{jurgens_jsj2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=402c4a1b712ed1f4ab7530b84d741a7c}{%
+           family={Jurgens},
+           familyi={J\bibinitperiod},
+           given={Blake\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{402c4a1b712ed1f4ab7530b84d741a7c}
+      \strng{fullhash}{402c4a1b712ed1f4ab7530b84d741a7c}
+      \strng{authornamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
+      \strng{authorfullhash}{402c4a1b712ed1f4ab7530b84d741a7c}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{A Wandering Aramean in Pharaoh's Court}
+      \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19-20 and Jewish Fictional Literature}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 34}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1163/15700631-12492196
+      \endverb
     \endentry
     \entry{mroczek2016}{book}{}
       \name{author}{1}{}{%
