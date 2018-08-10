@@ -1,91 +1,22 @@
 # Makefile for dissertation
 
 # Requirements:
-#	pandoc
-#		- pandoc-citeproc
-#		- society-of-biblical-literature-fullnote-bibliography.csl
 #	xelatex
 #		- biblatex-sbl
 #	make
 
 # Run `make` to build
 
-# Document specifics
-title = dissertation
-input_files = src/*.md
-bib_file = latex/bibliography.bib
-tmp = build/.tmp
+default: biber build-tex-full
 
-# Pandoc Commands
-pandoc=pandoc \
-	-f markdown+smart \
-	--top-level-division=chapter \
-	--filter ./text-expand.py
-
-pandoc-csl=$(pandoc) $(input_files) src/99_bibliography \
-	--filter pandoc-citeproc \
-	--bibliography=$(bib_file) \
-	--csl="society-of-biblical-literature-fullnote-bibliography.csl" \
-	--citation-abbreviations="abbr.json" \
-	--reference-doc=reference.docx
-
-default: format build-all
-
-build: setup doc
-
-build-all: setup doc tex
-
-setup:
-	@ rm -rf build &&\
-	mkdir build
-
-doc: format
-	@ echo "Building MS Word..." && \
-	$(pandoc-csl) -o build/$(title).docx
-
-open-doc:
-	@ open build/$(title).docx
-
-open-pdf:
-	@ open build/$(title).pdf
-
-tex: format tex-pandoc tex-full-build
-
-tex-pandoc:
-	@ echo "Building xelatex PDF..."
-	@ $(pandoc) src/01*.md --biblatex -o latex/_chapter01_rwb.tex
-	@ $(pandoc) src/02*.md --biblatex -o latex/_chapter02_memory.tex
-	@ $(pandoc) src/03*.md --biblatex -o latex/_chapter03_genesis_apocryphon.tex
-	@ $(pandoc) src/05*.md --biblatex -o latex/_chapter05_chronicles.tex
-
-tex-build:
-	@ cd latex && make build
-
-tex-full-build:
+build-tex-full:
 	@ cd latex && make
 
-format: setup format-partials format-concat format-biber
+build-tex:
+	@ cd latex && make build
 
-format-partials:
-	@ find bib -name "_*.bib" -exec \
-	biber --tool --nolog --quiet \
-	--output-align \
-	--output-fieldcase=lower \
-	-O {} {} \;
-
-format-concat:
-	@ rm -rf $(bib_file) && \
-	cat bib/*.bib > $(bib_file)
-
-format-biber:
-	@ biber --tool --nolog --quiet \
-	--strip-comments \
-	--output-align \
-	--output-fieldcase=lower \
-	--output-resolve \
-	-O $(bib_file) \
-	$(bib_file) && \
-	cp $(bib_file) build/bibliography.bib
+biber:
+	@ cd bib && make
 
 push: git-push gs-push-check gs-push
 pull: git-pull gs-pull-check gs-pull
@@ -127,3 +58,6 @@ gs-pull:
 	-rdx '\..*|.*/\.[^/]*$|.*/\..*/.*$|_.*' \
 	gs://jlw-dissertation/ bib/files && \
 	echo 'Done.'
+
+gs-login:
+	@ gcloud auth login

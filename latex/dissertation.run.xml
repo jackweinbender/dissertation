@@ -52,16 +52,17 @@
     <requires type="static">
       <file>blx-dm.def</file>
       <file>sbl.dbx</file>
+      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
-      <file>sbl.bbx</file>
-      <file>biblatex-sbl.def</file>
       <file>standard.bbx</file>
+      <file>biblatex-sbl.def</file>
+      <file>sbl.bbx</file>
       <file>sbl.cbx</file>
       <file>biblatex.cfg</file>
-      <file>sbl-american.lbx</file>
-      <file>sbl-english.lbx</file>
       <file>english.lbx</file>
+      <file>sbl-english.lbx</file>
+      <file>sbl-american.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">

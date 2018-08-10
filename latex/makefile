@@ -1,4 +1,3 @@
-tmp = .tmp
 title = dissertation
 
 default: full-build clean
@@ -12,6 +11,5 @@ xelatex:
 	@ xelatex $(title).tex
 
 clean:
-	@ mv $(title).pdf ../build/$(title).pdf
 	@ latexmk -c $(title).tex
 	

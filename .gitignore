@@ -1,6 +1,12 @@
+# Project Files
 build/*
 bib/files/*.pdf
-.DS_Store
-tmp
 
+# System and build files
+tmp
+.DS_Store
+.vscode
+.texpadtmp
+
+# Keep
 !.gitkeep

@@ -14,6 +14,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
+\input{__Macros.tex}
 
 \frontmatter
 % \input{__Frontmatter.tex}
@@ -23,28 +24,28 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 1: Rewritten Bible %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \begin{refsection}
-%   \input{_chapter01_rwb.tex}
-%   \begin{SingleSpace}
-%     \printbibliography
-%   \end{SingleSpace}
-% \end{refsection}
+\begin{refsection}
+  \input{_chapter01_rwb.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 2: Social Memory Theory %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \setcounter{chapter}{1}
-% \begin{refsection}
-%   \input{_chapter02_memory.tex}
-%   \begin{SingleSpace}
-%     \printbibliography
-%   \end{SingleSpace}
-% \end{refsection}
+\setcounter{chapter}{1}
+\begin{refsection}
+  \input{_chapter02_memory.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 3: Genesis Apocryphon %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setcounter{chapter}{2}
+%\setcounter{chapter}{2}
 \begin{refsection}
   \input{_chapter03_genesis_apocryphon.tex}
   \begin{SingleSpace}
@@ -55,15 +56,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 5: Chronicles %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% %%% Set Chapter Counter
-% \setcounter{chapter}{4}
-% %%% 
-% \begin{refsection}
-%   \input{_chapter05_chronicles.tex}
-%   \begin{SingleSpace}
-%     \printbibliography
-%   \end{SingleSpace}
-% \end{refsection}
+\setcounter{chapter}{4}
+%%% 
+\begin{refsection}
+  \input{_chapter05_chronicles.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 
 
 % \nocite{*}
