@@ -10,12 +10,15 @@
 default: biber build-tex-full
 
 build-tex-full:
+	@ echo 'Starting Latexmk...'
 	@ cd latex && make
 
 build-tex:
-	@ cd latex && make build
+	@ echo 'Starting xelatex...'
+	@ cd latex && make xelatex
 
 biber:
+	@ echo 'Processing .bib files...'
 	@ cd bib && make
 
 push: git-push gs-push-check gs-push
