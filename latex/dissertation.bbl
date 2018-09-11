@@ -67,6 +67,12 @@
            given={Józef\bibnamedelima T.},
            giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon}%
+      }
       \strng{namehash}{db5c4a9b1949aea7ba10f62898fb1850}
       \strng{fullhash}{db5c4a9b1949aea7ba10f62898fb1850}
       \strng{bibnamehash}{db5c4a9b1949aea7ba10f62898fb1850}
