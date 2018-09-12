@@ -93,6 +93,169 @@
       \field{year}{1955}
       \field{dateera}{ce}
     \endentry
+    \entry{fitzmyer2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
+           family={Fitzmyer},
+           familyi={F\bibinitperiod},
+           given={Joseph\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Biblical Institute Press}%
+      }
+      \strng{namehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{fullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{bibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{authorbibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{authornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{authorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Genesis Apocryphon of Qumran Cave 1}
+      \field{edition}{3}
+      \field{number}{18a}
+      \field{series}{Biblica et orientalia}
+      \field{shortseries}{BO}
+      \field{title}{The Genesis Apocryphon of Qumran Cave 1}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{flusser_ks1956}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bb338d43cf2e51d0165cfcc2da1ec3f0}{%
+           family={Flusser},
+           familyi={F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{fullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{bibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{authorbibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{authornamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{authorfullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kirjath Sepher}
+      \field{shortjournal}{KS}
+      \field{title}{GETTHIS}
+      \field{pages}{GETTHESE}
+      \range{pages}{-1}
+    \endentry
+    \entry{gaster1976}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8ff1541f332aa7d2c2b83574a3c1da22}{%
+           family={Gaster},
+           familyi={G\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Garden City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Anchor}%
+      }
+      \strng{namehash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \strng{fullhash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \strng{bibnamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \strng{authorbibnamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \strng{authornamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \strng{authorfullhash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Dead Sea Scriptures in English Translation}
+      \field{edition}{3}
+      \field{title}{The Dead Sea Scriptures in English Translation}
+      \field{year}{1976}
+      \field{dateera}{ce}
+    \endentry
+    \entry{hartman_cbq1966}{review}{}
+      \name{author}{1}{}{%
+        {{hash=82e3366cb155d5c536875453cb59567a}{%
+           family={Hartman},
+           familyi={H\bibinitperiod},
+           given={Louis\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{revdauthor}{1}{}{%
+        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
+           family={Fitzmyer},
+           familyi={F\bibinitperiod},
+           given={Joseph\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{82e3366cb155d5c536875453cb59567a}
+      \strng{fullhash}{82e3366cb155d5c536875453cb59567a}
+      \strng{bibnamehash}{82e3366cb155d5c536875453cb59567a}
+      \strng{authorbibnamehash}{82e3366cb155d5c536875453cb59567a}
+      \strng{authornamehash}{82e3366cb155d5c536875453cb59567a}
+      \strng{authorfullhash}{82e3366cb155d5c536875453cb59567a}
+      \strng{revdauthorbibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{revdauthornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{revdauthorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Catholic Biblical Quarterly}
+      \field{revdtitle}{Qumran Cave 1, The Genesis Apocryphon}
+      \field{shortjournal}{CBQ}
+      \field{volume}{28}
+      \field{year}{1966}
+      \field{dateera}{ce}
+      \field{pages}{495\bibrangedash 498}
+      \range{pages}{4}
+    \endentry
+    \entry{milik1959}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7d6fef04af2492c1360c0b9c6548c770}{%
+           family={Milik},
+           familyi={M\bibinitperiod},
+           given={Józef\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=1743f3411f2f55b78fb30c7a553031f4}{%
+           family={Strugnell},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {SCM Press}%
+      }
+      \strng{namehash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{fullhash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{bibnamehash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{authorbibnamehash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{authornamehash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{authorfullhash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{translatorbibnamehash}{1743f3411f2f55b78fb30c7a553031f4}
+      \strng{translatornamehash}{1743f3411f2f55b78fb30c7a553031f4}
+      \strng{translatorfullhash}{1743f3411f2f55b78fb30c7a553031f4}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Ten Years of Discovery in the Wilderness of Judea}
+      \field{shorttitle}{ten Years of Discovery}
+      \field{title}{Ten Years of Discovery in the Wilderness of Judea}
+      \field{year}{1959}
+      \field{dateera}{ce}
+    \endentry
     \entry{trevor_basor1949}{article}{}
       \name{author}{1}{}{%
         {{hash=56469c9e27d1304025a5156298b3086b}{%
@@ -114,11 +277,43 @@
       \field{journaltitle}{Bulletin of the American Schools of Oriental Research}
       \field{number}{115}
       \field{shortjournal}{BASOR}
-      \field{title}{Identification of the Aramaic Fourth Scroll from 'Ain Feshkha}
+      \field{title}{Identification of the Aramaic Fourth Scroll from ʿAin Feshkha}
       \field{year}{1949}
       \field{dateera}{ce}
       \field{pages}{8\bibrangedash 10}
       \range{pages}{3}
+    \endentry
+    \entry{vermes1961}{book}{}
+      \name{author}{1}{}{%
+        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
+           family={Vermes},
+           familyi={V\bibinitperiod},
+           given={Geza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{fullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{bibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorbibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authornamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorfullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{4}
+      \field{series}{Studia Post-Biblica}
+      \field{shortseries}{StPB}
+      \field{shorttitle}{Scripture and Tradition}
+      \field{title}{Scripture and Tradition in Judaism: Haggadic Studies}
+      \field{year}{1961}
+      \field{dateera}{ce}
     \endentry
   \enddatalist
 \endrefsection
