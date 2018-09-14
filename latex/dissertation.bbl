@@ -233,6 +233,36 @@
       \field{pages}{1\bibrangedash 26}
       \range{pages}{26}
     \endentry
+    \entry{black1983}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8cf5576122c796e5740966e81d134723}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chico, CA}%
+      }
+      \list{publisher}{1}{%
+        {Scholars Press}%
+      }
+      \strng{namehash}{8cf5576122c796e5740966e81d134723}
+      \strng{fullhash}{8cf5576122c796e5740966e81d134723}
+      \strng{bibnamehash}{8cf5576122c796e5740966e81d134723}
+      \strng{authorbibnamehash}{8cf5576122c796e5740966e81d134723}
+      \strng{authornamehash}{8cf5576122c796e5740966e81d134723}
+      \strng{authorfullhash}{8cf5576122c796e5740966e81d134723}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Scrolls and Christian Origins: Studies in the Jewish Background of the New Testament}
+      \field{shorttitle}{The Scrolls and Christian Origins}
+      \field{title}{The Scrolls and Christian Origins: Studies in the Jewish Background of the New Testament}
+      \field{year}{1983}
+      \field{dateera}{ce}
+    \endentry
     \entry{blum_barton-etal2007}{incollection}{}
       \name{author}{1}{}{%
         {{hash=7c2dde8dc1121f07fbeea336c446d4af}{%
