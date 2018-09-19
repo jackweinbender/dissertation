@@ -153,6 +153,12 @@
       \list{location}{1}{%
         {Chico, CA}%
       }
+      \list{origlocation}{1}{%
+        {New York}%
+      }
+      \list{origpublisher}{1}{%
+        {Schribner's}%
+      }
       \list{publisher}{1}{%
         {Scholars Press}%
       }
@@ -167,10 +173,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{The Scrolls and Christian Origins: Studies in the Jewish Background of the New Testament}
+      \field{origyear}{1961}
       \field{shorttitle}{The Scrolls and Christian Origins}
       \field{title}{The Scrolls and Christian Origins: Studies in the Jewish Background of the New Testament}
       \field{year}{1983}
       \field{dateera}{ce}
+      \field{origdateera}{ce}
     \endentry
     \entry{dimant_vanderkam-etal2006}{incollection}{}
       \name{author}{1}{}{%
@@ -255,7 +263,7 @@
       \field{year}{2004}
       \field{dateera}{ce}
     \endentry
-    \entry{flusser_ks1956}{article}{}
+    \entry{flusser_ks1956}{review}{}
       \name{author}{1}{}{%
         {{hash=bb338d43cf2e51d0165cfcc2da1ec3f0}{%
            family={Flusser},
@@ -263,21 +271,38 @@
            given={D.},
            giveni={D\bibinitperiod}}}%
       }
+      \name{revdauthor}{2}{}{%
+        {{hash=a7fc85576fbe040fa90312fa45c56b0c}{%
+           family={Avigad},
+           familyi={A\bibinitperiod},
+           given={Nahman},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1abce00b47a6dbc299349633cee54575}{%
+           family={Yadin},
+           familyi={Y\bibinitperiod},
+           given={Yigael},
+           giveni={Y\bibinitperiod}}}%
+      }
       \strng{namehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
       \strng{fullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
       \strng{bibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
       \strng{authorbibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
       \strng{authornamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
       \strng{authorfullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{revdauthorbibnamehash}{b64a7d7c81125c2c685ef108dca9aa09}
+      \strng{revdauthornamehash}{b64a7d7c81125c2c685ef108dca9aa09}
+      \strng{revdauthorfullhash}{b64a7d7c81125c2c685ef108dca9aa09}
       \field{sortinit}{F}
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
       \field{journaltitle}{Kirjath Sepher}
+      \field{revdtitle}{A Genesis Apocryphon}
       \field{shortjournal}{KS}
-      \field{title}{GETTHIS}
-      \field{pages}{GETTHESE}
-      \range{pages}{-1}
+      \field{volume}{32}
+      \field{year}{1956}
+      \field{dateera}{ce}
+      \field{pages}{379\bibrangedash 383}
+      \range{pages}{5}
     \endentry
     \entry{gaster1976}{book}{}
       \name{author}{1}{}{%
@@ -414,6 +439,84 @@
       \field{year}{2005}
       \field{dateera}{ce}
     \endentry
+    \entry{steiner_dsd1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bcfb673e07f1a637e5df387df4740691}{%
+           family={Steiner},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{bcfb673e07f1a637e5df387df4740691}
+      \strng{fullhash}{bcfb673e07f1a637e5df387df4740691}
+      \strng{bibnamehash}{bcfb673e07f1a637e5df387df4740691}
+      \strng{authorbibnamehash}{bcfb673e07f1a637e5df387df4740691}
+      \strng{authornamehash}{bcfb673e07f1a637e5df387df4740691}
+      \strng{authorfullhash}{bcfb673e07f1a637e5df387df4740691}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal for the Study of Judaism}
+      \field{shortjournal}{JSJ}
+      \field{shorttitle}{The Heading of the `Book of the Words of Noah' on a Fragment of the Genesis Apocryphon}
+      \field{title}{The Heading of the `Book of the Words of Noah' on a Fragment of the Genesis Apocryphon: New Light on a `Lost' Work}
+      \field{volume}{2}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{66\bibrangedash 71}
+      \range{pages}{6}
+    \endentry
+    \entry{stuckenbruck_berthelot-etal2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ca786cad5aaef3caf357c9f32e9d90f8}{%
+           family={Stuckenbruck},
+           familyi={S\bibinitperiod},
+           given={Loren\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2eec8a19b4374425b254da5ec6885010}{%
+           family={Berthelot},
+           familyi={B\bibinitperiod},
+           given={Katell},
+           giveni={K\bibinitperiod}}}%
+        {{hash=80eede611be1979bb1817edd8658b980}{%
+           family={Ezra},
+           familyi={E\bibinitperiod},
+           given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{ca786cad5aaef3caf357c9f32e9d90f8}
+      \strng{fullhash}{ca786cad5aaef3caf357c9f32e9d90f8}
+      \strng{bibnamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
+      \strng{authorbibnamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
+      \strng{authornamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
+      \strng{authorfullhash}{ca786cad5aaef3caf357c9f32e9d90f8}
+      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{The Lamech Narrative in the \emph{Genesis Apocryphon}}
+      \field{title}{The Lamech Narrative in the \emph{Genesis Apocryphon} (1QapGen) and \emph{Birth of Noah} (4QEnoch\textsuperscript{a} ar): A Tradition--Historical Study}
+      \field{volume}{94}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{253\bibrangedash 271}
+      \range{pages}{19}
+    \endentry
     \entry{trevor_basor1949}{article}{}
       \name{author}{1}{}{%
         {{hash=56469c9e27d1304025a5156298b3086b}{%
@@ -518,7 +621,64 @@
       \field{year}{1961}
       \field{dateera}{ce}
     \endentry
+    \entry{werman_chazon-etal1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bb3291917c5ab9da69cc6222b82ca6a0}{%
+           family={Werman},
+           familyi={W\bibinitperiod},
+           given={Cana},
+           giveni={C\bibinitperiod}}}%
+      }
+      \true{moreeditor}
+      \name{editor}{3}{}{%
+        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
+           family={Chazon},
+           familyi={C\bibinitperiod},
+           given={Estelle\bibnamedelima Glickler},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima Edward},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4d2362c7e41c76c67435a9fdadbd52f1}{%
+           family={Pinnick},
+           familyi={P\bibinitperiod},
+           given={Avital},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{bb3291917c5ab9da69cc6222b82ca6a0}
+      \strng{fullhash}{bb3291917c5ab9da69cc6222b82ca6a0}
+      \strng{bibnamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
+      \strng{authorbibnamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
+      \strng{authornamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
+      \strng{authorfullhash}{bb3291917c5ab9da69cc6222b82ca6a0}
+      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
+      \field{number}{31}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Qumran and the Book of Noah}
+      \field{title}{Qumran and the Book of Noah}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{171\bibrangedash 182}
+      \range{pages}{12}
+    \endentry
   \enddatalist
+  \missing{BLACK::TODO}
 \endrefsection
 \endinput
 
