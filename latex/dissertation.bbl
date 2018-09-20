@@ -142,6 +142,33 @@
       \field{pages}{317\bibrangedash 343}
       \range{pages}{27}
     \endentry
+    \entry{bernstein_as2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4720838eb7fda2ca42df156705a591a2}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Moshe\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{bibnamehash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{authorbibnamehash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aramaic Studies}
+      \field{shortjournal}{AS}
+      \field{title}{Is the Genesis Apocryphon a Unity? What Sort of Unity Were You Looking For?}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{107\bibrangedash 134}
+      \range{pages}{28}
+    \endentry
     \entry{black1983}{book}{}
       \name{author}{1}{}{%
         {{hash=8cf5576122c796e5740966e81d134723}{%
@@ -179,6 +206,34 @@
       \field{year}{1983}
       \field{dateera}{ce}
       \field{origdateera}{ce}
+    \endentry
+    \entry{crawford2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00bea775372d5a7c5f20ff0f1d1dff7f}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Sidnie\bibnamedelima White},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{fullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{bibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authorbibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authornamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authorfullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rewriting Scripture in {Second Temple} Times}
+      \field{year}{2008}
+      \field{dateera}{ce}
     \endentry
     \entry{dimant_vanderkam-etal2006}{incollection}{}
       \name{author}{1}{}{%
@@ -369,6 +424,37 @@
       \field{dateera}{ce}
       \field{pages}{495\bibrangedash 498}
       \range{pages}{4}
+    \endentry
+    \entry{machiela2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+           family={Machiela},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
+      \field{number}{79}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{The Dead Sea Genesis Apocryphon}
+      \field{title}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
     \endentry
     \entry{milik1959}{book}{}
       \name{author}{1}{}{%
@@ -679,6 +765,7 @@
     \endentry
   \enddatalist
   \missing{BLACK::TODO}
+  \missing{avigad-yading1956}
 \endrefsection
 \endinput
 
