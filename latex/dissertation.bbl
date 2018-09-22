@@ -425,6 +425,92 @@
       \field{pages}{495\bibrangedash 498}
       \range{pages}{4}
     \endentry
+    \entry{kugel2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ff2635a9d3deac1aacf2f57cd0b509c2}{%
+           family={Kugel},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{fullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{bibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{authorbibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{authornamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{authorfullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{A Walk Through Jubilees: Studies in the Book of Jubilees and the World of Its Creation}
+      \field{number}{156}
+      \field{shorttitle}{A Walk Through Jubilees}
+      \field{title}{A Walk Through Jubilees: Studies in the Book of Jubilees and the World of Its Creation}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{kugel_roitman-etal2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ff2635a9d3deac1aacf2f57cd0b509c2}{%
+           family={Kugel},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=4031564fe725a97732b90c4349de46b9}{%
+           family={Roitman},
+           familyi={R\bibinitperiod},
+           given={Adolfo\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
+           family={Schiffman},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=cfd0745a391e8eec1d72514093ed11cf}{%
+           family={Tzoref},
+           familyi={T\bibinitperiod},
+           given={Shani},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{fullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{bibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{authorbibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{authornamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{authorfullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference held at the Israel Museum, Jerusalem (July 6-8, 2008)}
+      \field{number}{93}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Which Is Older, Jubilees or the Genesis Apocryphon?}
+      \field{title}{Which Is Older, Jubilees or the Genesis Apocryphon? An Exegetical Approach}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{257\bibrangedash 294}
+      \range{pages}{38}
+    \endentry
     \entry{machiela2009}{book}{}
       \name{author}{1}{}{%
         {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
@@ -524,6 +610,38 @@
       \field{title}{Jewish Literature between the Bible and the Mishnah}
       \field{year}{2005}
       \field{dateera}{ce}
+    \endentry
+    \entry{segal_as2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7b4894413e19569f0347b96f47ae1f8d}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{fullhash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{bibnamehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{authorbibnamehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{authornamehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{authorfullhash}{7b4894413e19569f0347b96f47ae1f8d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Aramaic Studies}
+      \field{number}{1}
+      \field{shortjournal}{AS}
+      \field{shorttitle}{The Literary Relationship between the Genesis Apocryphon and Jubilees}
+      \field{title}{The Literary Relationship between the Genesis Apocryphon and Jubilees: The Chronology of Abram and Sarai's Descent to Egypt}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{71\bibrangedash 88}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1163/147783510X571597
+      \endverb
     \endentry
     \entry{steiner_dsd1995}{article}{}
       \name{author}{1}{}{%
@@ -629,6 +747,61 @@
       \field{dateera}{ce}
       \field{pages}{8\bibrangedash 10}
       \range{pages}{3}
+    \endentry
+    \entry{vanderkam_feldman-etal2017}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=7ab9769ee7671962f87be1ee355e6e3b}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Ariel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=19c700788f6634c12c73ff1f59b9aed0}{%
+           family={Ciotată},
+           familyi={C\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aeead5f5d2a1be18899f7f610bee20af}{%
+           family={Hempel},
+           familyi={H\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{editorbibnamehash}{80976a125517de5763532a6582b3843b}
+      \strng{editornamehash}{80976a125517de5763532a6582b3843b}
+      \strng{editorfullhash}{80976a125517de5763532a6582b3843b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Is There a Text in This Cave? Studies in the Textuality of the Dead Sea Scrolls in Honour of George J. Brooke}
+      \field{number}{119}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Some Thoughts}
+      \field{title}{Some Thoughts on the Relationship between the Book of Jubilees and the Genesis Apocryphon}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{371\bibrangedash 384}
+      \range{pages}{14}
     \endentry
     \entry{vanderkam_kapera1992}{incollection}{}
       \name{author}{1}{}{%
@@ -765,6 +938,7 @@
     \endentry
   \enddatalist
   \missing{BLACK::TODO}
+  \missing{alexander_jj31982}
   \missing{avigad-yading1956}
 \endrefsection
 \endinput
