@@ -323,6 +323,34 @@
       \field{dateera}{ce}
       \field{origdateera}{ce}
     \endentry
+    \entry{crawford2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00bea775372d5a7c5f20ff0f1d1dff7f}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Sidnie\bibnamedelima White},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{fullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{bibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authorbibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authornamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authorfullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rewriting Scripture in {Second Temple} Times}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
     \entry{dimant_vanderkam-etal2006}{incollection}{}
       \name{author}{1}{}{%
         {{hash=27c4a1b777e0fddd1def6da98d25d913}{%
@@ -978,6 +1006,38 @@
       \field{dateera}{ce}
       \field{pages}{89\bibrangedash 156}
       \range{pages}{68}
+    \endentry
+    \entry{segal_as2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7b4894413e19569f0347b96f47ae1f8d}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{fullhash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{bibnamehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{authorbibnamehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{authornamehash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{authorfullhash}{7b4894413e19569f0347b96f47ae1f8d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Aramaic Studies}
+      \field{number}{1}
+      \field{shortjournal}{AS}
+      \field{shorttitle}{The Literary Relationship between the Genesis Apocryphon and Jubilees}
+      \field{title}{The Literary Relationship between the Genesis Apocryphon and Jubilees: The Chronology of Abram and Sarai's Descent to Egypt}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{71\bibrangedash 88}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1163/147783510X571597
+      \endverb
     \endentry
     \entry{steiner_dsd1995}{article}{}
       \name{author}{1}{}{%
