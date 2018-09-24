@@ -107,6 +107,34 @@
       \field{year}{2004}
       \field{dateera}{ce}
     \endentry
+    \entry{humphreys_jbl1973}{article}{}
+      \name{author}{1}{}{%
+        {{hash=de4c26adbc5b7ccf75e86494fa45a26a}{%
+           family={Humphreys},
+           familyi={H\bibinitperiod},
+           given={W.\bibnamedelimi L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \strng{fullhash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \strng{bibnamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \strng{authorbibnamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \strng{authornamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \strng{authorfullhash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{A Life-Style for Diaspora}
+      \field{title}{A Life-Style for Diaspora: A Study of the Tales of Esther and Daniel}
+      \field{volume}{92}
+      \field{year}{1973}
+      \field{dateera}{ce}
+      \field{pages}{211\bibrangedash 23}
+      \range{pages}{13}
+    \endentry
     \entry{jurgens_jsj2018}{article}{}
       \name{author}{1}{}{%
         {{hash=402c4a1b712ed1f4ab7530b84d741a7c}{%
@@ -161,6 +189,37 @@
       \field{dateera}{ce}
       \field{pages}{47\bibrangedash 69}
       \range{pages}{23}
+    \endentry
+    \entry{niditch-doran_jbl1977}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5583a374ccdcbc16d516369dd8ba2368}{%
+           family={Niditch},
+           familyi={N\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=47e8c5ed4dab0053ec1e464f0b6491e3}{%
+           family={Doran},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{47830d278701a85aa35490447a799f3b}
+      \strng{fullhash}{47830d278701a85aa35490447a799f3b}
+      \strng{bibnamehash}{47830d278701a85aa35490447a799f3b}
+      \strng{authorbibnamehash}{47830d278701a85aa35490447a799f3b}
+      \strng{authornamehash}{47830d278701a85aa35490447a799f3b}
+      \strng{authorfullhash}{47830d278701a85aa35490447a799f3b}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{The Success Story of the Wise Courtier}
+      \field{title}{The Success Story of the Wise Courtier: A Formal Approach}
+      \field{volume}{96}
+      \field{year}{1977}
+      \field{dateera}{ce}
     \endentry
     \entry{wills2002}{book}{}
       \name{author}{1}{}{%
