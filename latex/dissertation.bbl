@@ -19,6 +19,61 @@
 
 \refsection{1}
   \datalist[entry]{nty/global//global/global}
+    \entry{collins1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{fullhash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{bibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{authorbibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{authornamehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{authorfullhash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Daniel}
+      \field{title}{Daniel: A Commentary}
+      \field{year}{1993}
+      \field{dateera}{ce}
+    \endentry
+    \entry{collins_jbl1975}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{fullhash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{bibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{authorbibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{authornamehash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{authorfullhash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{The Court Tales in Daniel}
+      \field{title}{The Court Tales in Daniel and the Development of Apocalyptic}
+      \field{volume}{94}
+      \field{pages}{218\bibrangedash 234}
+      \range{pages}{17}
+    \endentry
     \entry{fitzmyer2004}{book}{}
       \name{author}{1}{}{%
         {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
