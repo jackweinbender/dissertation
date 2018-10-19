@@ -1968,6 +1968,37 @@
       \field{pages}{1\bibrangedash 18}
       \range{pages}{18}
     \endentry
+    \entry{toorn2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=14eb7e0fa1ae98e0c5e1919c85ecc8af}{%
+           family={Toorn},
+           familyi={T\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \strng{fullhash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \strng{bibnamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \strng{authorbibnamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \strng{authornamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \strng{authorfullhash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Scribal Culture}
+      \field{title}{Scribal Culture and the Making of the Hebrew Bible}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
     \entry{trevor_basor1949}{article}{}
       \name{author}{1}{}{%
         {{hash=56469c9e27d1304025a5156298b3086b}{%
