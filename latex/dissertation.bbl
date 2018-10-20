@@ -361,7 +361,7 @@
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{In memoriam Paul Kahle}
+      \field{booktitle}{In Memoriam Paul Kahle}
       \field{number}{103}
       \field{series}{Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft}
       \field{shortseries}{BZAW}
@@ -612,7 +612,7 @@
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Keter Shem Tov:Essays on the Dead Sea Scrolls in Memory of Alan Crown}
+      \field{booktitle}{Keter Shem Tov: Essays on the Dead Sea Scrolls in Memory of Alan Crown}
       \field{series}{Perspectives on Hebrew Scriptures and its Contexts}
       \field{shortseries}{PHSC}
       \field{shorttitle}{Plant Symbolism}
@@ -788,7 +788,7 @@
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference held at the Israel Museum, Jerusalem (July 6-8, 2008)}
+      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
       \field{number}{93}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
@@ -1204,7 +1204,7 @@
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference held at the Israel Museum, Jerusalem (July 6-8, 2008)}
+      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
       \field{number}{93}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
@@ -1848,9 +1848,6 @@
       \field{dateera}{ce}
       \field{pages}{71\bibrangedash 88}
       \range{pages}{18}
-      \verb{doi}
-      \verb 10.1163/147783510X571597
-      \endverb
     \endentry
     \entry{steiner_dsd1995}{article}{}
       \name{author}{1}{}{%
