@@ -17,229 +17,56 @@
 \endgroup
 
 
-\refsection{1}
+\refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{cqs}{series}{useauthor=false,useeditor=false,skipbib=true}
-      \field{sortinit}{}
-      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
-      \field{series}{Companion to the Qumran Scrolls}
-      \field{shortseries}{CQS}
-    \endentry
-    \entry{lsts}{series}{useauthor=false,useeditor=false,skipbib=true}
-      \field{sortinit}{}
-      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
-      \field{series}{The Library of Second Temple Studies}
-      \field{shortseries}{LSTS}
-    \endentry
-    \entry{series-djd_1}{misc}{skipbib}
-      \field{sortinit}{}
-      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
-      \true{xrefsource}
-      \field{series}{Discoveries from the Judean Desert}
-      \field{shortseries}{DJD}
-    \endentry
-    \entry{abbott2008}{book}{}
+    \entry{alexander_carson-williamson1988}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=a815a81c172c9f7fb1fb1ac16df8d201}{%
-           family={Abbott},
+        {{hash=f0b087431af559c738d6a64532db984a}{%
+           family={Alexander},
            familyi={A\bibinitperiod},
-           given={H.\bibnamedelimi Porter},
-           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+           given={Philip\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \list{location}{2}{%
+      \name{editor}{2}{}{%
+        {{hash=cf233beaa2416b7b40e1cd933347b249}{%
+           family={Carson},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2d4244e5f0562c1d735503cfd46be88a}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={H.\bibnamedelimi G.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
         {Cambridge}%
-        {New York}%
       }
       \list{publisher}{1}{%
         {Cambridge University Press}%
       }
-      \strng{namehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{fullhash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{bibnamehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{authorbibnamehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{authornamehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{authorfullhash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2}
-      \field{title}{The Cambridge Introduction to Narrative}
-      \field{year}{2008}
-      \field{dateera}{ce}
-    \endentry
-    \entry{alexander_jjs1982}{article}{}
-      \name{author}{1}{}{%
-        {{hash=e811bc72ad698c2ae34d2abf5666b2c3}{%
-           family={Alexander},
-           familyi={A\bibinitperiod},
-           given={Philip},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{fullhash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{bibnamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authorbibnamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authornamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authorfullhash}{e811bc72ad698c2ae34d2abf5666b2c3}
+      \strng{namehash}{f0b087431af559c738d6a64532db984a}
+      \strng{fullhash}{f0b087431af559c738d6a64532db984a}
+      \strng{bibnamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authorbibnamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authornamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authorfullhash}{f0b087431af559c738d6a64532db984a}
+      \strng{editorbibnamehash}{98caf4a5c69c978777ae0b5f71615dc5}
+      \strng{editornamehash}{98caf4a5c69c978777ae0b5f71615dc5}
+      \strng{editorfullhash}{98caf4a5c69c978777ae0b5f71615dc5}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal of Jewish Studies}
-      \field{shortjournal}{JJS}
-      \field{shorttitle}{Notes on the `Imago Mundi'}
-      \field{title}{Notes on the `Imago Mundi' of the Book of Jubilees}
-      \field{volume}{38}
-      \field{year}{1982}
+      \field{booktitle}{It is Written---Scripture Citing Scripture: Essays in Honour of Barnabas Lindars, {SSF}}
+      \field{shorttitle}{It is Written}
+      \field{title}{Retelling the Old Testament}
+      \field{year}{1988}
       \field{dateera}{ce}
-      \field{pages}{197\bibrangedash 213}
-      \range{pages}{17}
+      \field{pages}{99\bibrangedash 121}
+      \range{pages}{23}
     \endentry
-    \entry{avigad-yadin1956}{book}{}
-      \name{author}{2}{}{%
-        {{hash=a7fc85576fbe040fa90312fa45c56b0c}{%
-           family={Avigad},
-           familyi={A\bibinitperiod},
-           given={Nahman},
-           giveni={N\bibinitperiod}}}%
-        {{hash=1abce00b47a6dbc299349633cee54575}{%
-           family={Yadin},
-           familyi={Y\bibinitperiod},
-           given={Yigael},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{fullhash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{bibnamehash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{authorbibnamehash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{authornamehash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{authorfullhash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \field{sortinit}{A}
-      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{A Genesis Apocryphon}
-      \field{title}{A Genesis Apocryphon: A Scroll from the Wilderness of Judaea}
-      \field{year}{1956}
-      \field{dateera}{ce}
-    \endentry
-    \entry{djd_1}{book}{}
-      \name{editor}{2}{}{%
-        {{hash=5bc66ad07f37d2ac446dfafb24d91188}{%
-           family={Barthélemy},
-           familyi={B\bibinitperiod},
-           given={Dominique},
-           giveni={D\bibinitperiod}}}%
-        {{hash=7d6fef04af2492c1360c0b9c6548c770}{%
-           family={Milik},
-           familyi={M\bibinitperiod},
-           given={Józef\bibnamedelima T.},
-           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford}%
-      }
-      \list{publisher}{1}{%
-        {Clarendon}%
-      }
-      \strng{namehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{fullhash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{bibnamehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{editorbibnamehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{editornamehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{editorfullhash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{shorttitle}
-      \field{number}{I}
-      \field{series}{Discoveries from the Judean Desert}
-      \field{shorthand}{DJD I}
-      \field{shortseries}{DJD}
-      \field{shorttitle}{DJD 1}
-      \field{title}{Qumran Cave 1}
-      \strng{xref}{series-djd_1}
-      \field{year}{1955}
-      \field{dateera}{ce}
-    \endentry
-    \entry{bernstein_jbl2009}{article}{}
-      \name{author}{1}{}{%
-        {{hash=83131c2cc1e7d5adad6f041093a19f82}{%
-           family={Bernstein},
-           familyi={B\bibinitperiod},
-           given={Moshe},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{fullhash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{bibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorbibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authornamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorfullhash}{83131c2cc1e7d5adad6f041093a19f82}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Biblical Literature}
-      \field{shortjournal}{JBL}
-      \field{title}{Divine Titles and Epithets and the Sources in the Genesis Apocryphon}
-      \field{volume}{128}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{pages}{291\bibrangedash 310}
-      \range{pages}{20}
-    \endentry
-    \entry{bernstein_berthelot-etal2010}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=83131c2cc1e7d5adad6f041093a19f82}{%
-           family={Bernstein},
-           familyi={B\bibinitperiod},
-           given={Moshe},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=2eec8a19b4374425b254da5ec6885010}{%
-           family={Berthelot},
-           familyi={B\bibinitperiod},
-           given={Katell},
-           giveni={K\bibinitperiod}}}%
-        {{hash=80eede611be1979bb1817edd8658b980}{%
-           family={Ezra},
-           familyi={E\bibinitperiod},
-           given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{fullhash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{bibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorbibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authornamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorfullhash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{title}{Genre(s) of the \emph{Genesis Apocryphon}}
-      \field{volume}{94}
-      \field{year}{2010}
-      \field{dateera}{ce}
-      \field{pages}{317\bibrangedash 343}
-      \range{pages}{27}
-    \endentry
-    \entry{bernstein_as2010}{article}{}
+    \entry{bernstein_textus2005}{article}{}
       \name{author}{1}{}{%
         {{hash=4720838eb7fda2ca42df156705a591a2}{%
            family={Bernstein},
@@ -256,737 +83,310 @@
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Aramaic Studies}
-      \field{shortjournal}{AS}
-      \field{title}{Is the Genesis Apocryphon a Unity? What Sort of Unity Were You Looking For?}
-      \field{volume}{8}
-      \field{year}{2010}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Textus}
+      \field{shortjournal}{Text}
+      \field{shorttitle}{Rewritten {Bible}}
+      \field{title}{Rewritten {Bible}: A Generic Category Which Has Outlived its Usefulness?}
+      \field{volume}{22}
+      \field{year}{2005}
       \field{dateera}{ce}
-      \field{pages}{107\bibrangedash 134}
+      \field{pages}{169\bibrangedash 96}
       \range{pages}{28}
     \endentry
-    \entry{bernstein_chazon-etal1999}{incollection}{}
+    \entry{bloch1954}{article}{}
       \name{author}{1}{}{%
-        {{hash=4720838eb7fda2ca42df156705a591a2}{%
-           family={Bernstein},
+        {{hash=6a9c9043a3f4b297c702728d79e24fa8}{%
+           family={Bloch},
            familyi={B\bibinitperiod},
-           given={Moshe\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given={Renée},
+           giveni={R\bibinitperiod}}}%
       }
-      \true{moreeditor}
-      \name{editor}{3}{}{%
-        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
-           family={Chazon},
-           familyi={C\bibinitperiod},
-           given={Estelle\bibnamedelima Glickler},
-           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
-           family={Stone},
-           familyi={S\bibinitperiod},
-           given={Michael\bibnamedelima Edward},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=4d2362c7e41c76c67435a9fdadbd52f1}{%
-           family={Pinnick},
-           familyi={P\bibinitperiod},
-           given={Avital},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{bibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorbibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{namehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{fullhash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{bibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authorbibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authornamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authorfullhash}{6a9c9043a3f4b297c702728d79e24fa8}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
-      \field{number}{31}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{Pseudepigraphy in the Qumran Scrolls}
-      \field{title}{Pseudepigraphy in the Qumran Scrolls: Categories and Functions}
-      \field{year}{1999}
+      \field{journaltitle}{Cahiers sioniens}
+      \field{shortjournal}{CaS}
+      \field{shorttitle}{Écriture et tradition dans le Judaïsme}
+      \field{title}{Écriture et tradition dans le Judaïsme: Aperçus sur l'origine du Midrash}
+      \field{year}{1954}
       \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 26}
+      \field{pages}{9\bibrangedash 34}
       \range{pages}{26}
     \endentry
-    \entry{black_black-fohrer1968}{incollection}{}
+    \entry{bloch1955_repr}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=2b3c10869230cac1fee7d2cb2b297298}{%
-           family={Black},
+        {{hash=6a9c9043a3f4b297c702728d79e24fa8}{%
+           family={Bloch},
            familyi={B\bibinitperiod},
-           given={Mathew},
-           giveni={M\bibinitperiod}}}%
+           given={Renée},
+           giveni={R\bibinitperiod}}}%
       }
-      \name{editor}{2}{}{%
-        {{hash=8cf5576122c796e5740966e81d134723}{%
-           family={Black},
-           familyi={B\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-        {{hash=693dcb447a1c60a6da4a594ba8113d88}{%
-           family={Fohrer},
-           familyi={F\bibinitperiod},
-           given={Georg},
-           giveni={G\bibinitperiod}}}%
+      \name{editor}{1}{}{%
+        {{hash=6a0e2950e06649415cf6e578fcf22da6}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={William\bibnamedelima Scott},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=6a0e2950e06649415cf6e578fcf22da6}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={William\bibnamedelima Scott},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{withtranslator}{1}{}{%
+        {{hash=42b2ad4a371f087de9dfc714c57e8170}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Berlin}%
-      }
-      \list{publisher}{1}{%
-        {Töpelmann}%
-      }
-      \strng{namehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{fullhash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{bibnamehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{authorbibnamehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{authornamehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{authorfullhash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{editorbibnamehash}{88db3ad473dfba25e7217764ccafdfe5}
-      \strng{editornamehash}{88db3ad473dfba25e7217764ccafdfe5}
-      \strng{editorfullhash}{88db3ad473dfba25e7217764ccafdfe5}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{In Memoriam Paul Kahle}
-      \field{number}{103}
-      \field{series}{Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft}
-      \field{shortseries}{BZAW}
-      \field{title}{Aramaic Studies and the Language of Jesus}
-      \field{year}{1968}
-      \field{dateera}{ce}
-      \field{pages}{17\bibrangedash 28}
-      \range{pages}{12}
-    \endentry
-    \entry{black1983}{book}{}
-      \name{author}{1}{}{%
-        {{hash=8cf5576122c796e5740966e81d134723}{%
-           family={Black},
-           familyi={B\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Chico, CA}%
-      }
-      \list{origlocation}{1}{%
-        {New York}%
-      }
-      \list{origpublisher}{1}{%
-        {Schribner's}%
+        {Missoula, MT}%
       }
       \list{publisher}{1}{%
         {Scholars Press}%
       }
-      \strng{namehash}{8cf5576122c796e5740966e81d134723}
-      \strng{fullhash}{8cf5576122c796e5740966e81d134723}
-      \strng{bibnamehash}{8cf5576122c796e5740966e81d134723}
-      \strng{authorbibnamehash}{8cf5576122c796e5740966e81d134723}
-      \strng{authornamehash}{8cf5576122c796e5740966e81d134723}
-      \strng{authorfullhash}{8cf5576122c796e5740966e81d134723}
+      \strng{namehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{fullhash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{bibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authorbibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authornamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authorfullhash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{editorbibnamehash}{6a0e2950e06649415cf6e578fcf22da6}
+      \strng{editornamehash}{6a0e2950e06649415cf6e578fcf22da6}
+      \strng{editorfullhash}{6a0e2950e06649415cf6e578fcf22da6}
+      \strng{translatorbibnamehash}{6a0e2950e06649415cf6e578fcf22da6}
+      \strng{translatornamehash}{6a0e2950e06649415cf6e578fcf22da6}
+      \strng{translatorfullhash}{6a0e2950e06649415cf6e578fcf22da6}
+      \strng{withtranslatorbibnamehash}{42b2ad4a371f087de9dfc714c57e8170}
+      \strng{withtranslatornamehash}{42b2ad4a371f087de9dfc714c57e8170}
+      \strng{withtranslatorfullhash}{42b2ad4a371f087de9dfc714c57e8170}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Scrolls and Christian Origins: Studies in the Jewish Background of the New Testament}
-      \field{origyear}{1961}
-      \field{shorttitle}{The Scrolls and Christian Origins}
-      \field{title}{The Scrolls and Christian Origins: Studies in the Jewish Background of the New Testament}
-      \field{year}{1983}
+      \field{booktitle}{Approaches to Ancient Judaism: Theory and Practice}
+      \field{number}{1}
+      \field{relatedtype}{translationof}
+      \field{series}{Brown Judaic Studies}
+      \field{shortseries}{BJS}
+      \field{shorttitle}{Methodological Note}
+      \field{title}{Methodological Note for the Study of Rabbinic Literature}
+      \field{year}{1978}
       \field{dateera}{ce}
-      \field{origdateera}{ce}
+      \field{related}{dad538f6dac197e1f48792a133d9e293}
+      \field{pages}{51\bibrangedash 75}
+      \range{pages}{25}
     \endentry
-    \entry{blum_barton-etal2007}{incollection}{}
+    \entry{dad538f6dac197e1f48792a133d9e293}{article}{dataonly}
       \name{author}{1}{}{%
-        {{hash=7c2dde8dc1121f07fbeea336c446d4af}{%
-           family={Blum},
+        {{hash=6a9c9043a3f4b297c702728d79e24fa8}{%
+           family={Bloch},
            familyi={B\bibinitperiod},
-           given={Erhard},
-           giveni={E\bibinitperiod}}}%
+           given={Renée},
+           giveni={R\bibinitperiod}}}%
       }
-      \name{editor}{3}{}{%
-        {{hash=62557a653da41f36bd8e43ceee482edd}{%
-           family={Barton},
-           familyi={B\bibinitperiod},
-           given={Stephen\bibnamedelima C.},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=ca786cad5aaef3caf357c9f32e9d90f8}{%
-           family={Stuckenbruck},
-           familyi={S\bibinitperiod},
-           given={Loren\bibnamedelima T.},
-           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=b49f087fcadc2ec7f378e0a4ae00d30f}{%
-           family={Wold},
-           familyi={W\bibinitperiod},
-           given={Benjamin\bibnamedelima G.},
-           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Tübingen}%
-      }
-      \list{publisher}{1}{%
-        {Mohr Siebeck}%
-      }
-      \strng{namehash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{fullhash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{bibnamehash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{authorbibnamehash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{authornamehash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{authorfullhash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{editorbibnamehash}{ef4aefd9401e176b1f304c65ea2a367b}
-      \strng{editornamehash}{ef4aefd9401e176b1f304c65ea2a367b}
-      \strng{editorfullhash}{ef4aefd9401e176b1f304c65ea2a367b}
+      \strng{namehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{fullhash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{bibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authorbibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authornamehash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \strng{authorfullhash}{6a9c9043a3f4b297c702728d79e24fa8}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Memory in the Bible and Antiquity: The Fifth Durham-Tübingen Research Symposium (Durham, September 2004), September 2004)}
-      \field{number}{212}
-      \field{series}{Wissenschaftliche Untersuchungen zum Neuen Testament}
-      \field{shortseries}{WUNT}
-      \field{shorttitle}{Historiography or Poetry?}
-      \field{title}{Historiography or Poetry? The Nature of the Hebrew Bible Prose Tradition}
-      \field{year}{2007}
-      \field{dateera}{ce}
-      \field{pages}{25\bibrangedash 45}
-      \range{pages}{21}
+      \field{clonesourcekey}{bloch1955}
+      \field{journaltitle}{Recherches de Science Religieuse}
+      \field{number}{2}
+      \field{shorttitle}{Note méthodologique}
+      \field{title}{Note méthodologique pour l'etude de la littérature rabbinique}
+      \field{volume}{43}
+      \field{year}{1955}
+      \field{pages}{194\bibrangedash 225}
+      \range{pages}{32}
     \endentry
-    \entry{charlesworth_OTP}{mvreference}{}
-      \name{editor}{1}{}{%
-        {{hash=3186c1ac414a45f0b324544b70169159}{%
-           family={Charlesworth},
-           familyi={C\bibinitperiod},
-           given={James\bibnamedelima H.},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Peabody, MA}%
-      }
-      \list{publisher}{1}{%
-        {Hendrickson}%
-      }
-      \strng{namehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{fullhash}{3186c1ac414a45f0b324544b70169159}
-      \strng{bibnamehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{editorbibnamehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{editornamehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{editorfullhash}{3186c1ac414a45f0b324544b70169159}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The Old Testament Pseudepigrapha}
-      \field{shorthand}{OTP}
-      \field{title}{The Old Testament Pseudepigrapha}
-      \field{volumes}{2}
-      \field{year}{1983}
-      \field{dateera}{ce}
-    \endentry
-    \entry{collins1993}{book}{}
+    \entry{brooke_dsd2010}{article}{}
       \name{author}{1}{}{%
-        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
-           family={Collins},
-           familyi={C\bibinitperiod},
-           given={John\bibnamedelima J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Minneapolis, MN}%
-      }
-      \list{publisher}{1}{%
-        {Fortress}%
-      }
-      \strng{namehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{fullhash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{bibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorbibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authornamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorfullhash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Daniel}
-      \field{title}{Daniel: A Commentary}
-      \field{year}{1993}
-      \field{dateera}{ce}
-    \endentry
-    \entry{collins_jbl1975}{article}{}
-      \name{author}{1}{}{%
-        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
-           family={Collins},
-           familyi={C\bibinitperiod},
-           given={John\bibnamedelima J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{fullhash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{bibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorbibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authornamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorfullhash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal of Biblical Literature}
-      \field{shortjournal}{JBL}
-      \field{shorttitle}{The Court Tales in Daniel}
-      \field{title}{The Court Tales in Daniel and the Development of Apocalyptic}
-      \field{volume}{94}
-      \field{pages}{218\bibrangedash 234}
-      \range{pages}{17}
-    \endentry
-    \entry{crawford2008}{book}{}
-      \name{author}{1}{}{%
-        {{hash=00bea775372d5a7c5f20ff0f1d1dff7f}{%
-           family={Crawford},
-           familyi={C\bibinitperiod},
-           given={Sidnie\bibnamedelima White},
-           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Grand Rapids, MI}%
-      }
-      \list{publisher}{1}{%
-        {Eerdmans}%
-      }
-      \strng{namehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{fullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{bibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{authorbibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{authornamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{authorfullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Rewriting Scripture in {Second Temple} Times}
-      \field{year}{2008}
+      \field{issuetitle}{Rethinking Genre: Essays in Honor of John J. Collins}
+      \field{journaltitle}{Dead Sea Discoveries}
+      \field{number}{3}
+      \field{shortjournal}{DSD}
+      \field{title}{Genre Theory, Rewritten Bible and Pesher}
+      \field{volume}{17}
+      \field{year}{2010}
       \field{dateera}{ce}
+      \field{pages}{332\bibrangedash 357}
+      \range{pages}{26}
     \endentry
-    \entry{dacy_tzoref2013}{incollection}{}
+    \entry{brooke_schiffman-vanderkam2000}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=3376eb840b3488d7ac0478a7d47d9755}{%
-           family={Dacy},
-           familyi={D\bibinitperiod},
-           given={Marianne},
-           giveni={M\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=cfd0745a391e8eec1d72514093ed11cf}{%
-           family={Tzoref},
-           familyi={T\bibinitperiod},
-           given={Shani},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Piscataway, NJ}%
-      }
-      \list{publisher}{1}{%
-        {Gorgias Press}%
-      }
-      \strng{namehash}{3376eb840b3488d7ac0478a7d47d9755}
-      \strng{fullhash}{3376eb840b3488d7ac0478a7d47d9755}
-      \strng{bibnamehash}{3376eb840b3488d7ac0478a7d47d9755}
-      \strng{authorbibnamehash}{3376eb840b3488d7ac0478a7d47d9755}
-      \strng{authornamehash}{3376eb840b3488d7ac0478a7d47d9755}
-      \strng{authorfullhash}{3376eb840b3488d7ac0478a7d47d9755}
-      \strng{editorbibnamehash}{cfd0745a391e8eec1d72514093ed11cf}
-      \strng{editornamehash}{cfd0745a391e8eec1d72514093ed11cf}
-      \strng{editorfullhash}{cfd0745a391e8eec1d72514093ed11cf}
-      \field{sortinit}{D}
-      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Keter Shem Tov: Essays on the Dead Sea Scrolls in Memory of Alan Crown}
-      \field{series}{Perspectives on Hebrew Scriptures and its Contexts}
-      \field{shortseries}{PHSC}
-      \field{shorttitle}{Plant Symbolism}
-      \field{title}{Plant Symbolism and the Dreams of Noah and Abram in the Genesis Apocryphon}
-      \field{year}{2013}
-      \field{dateera}{ce}
-      \field{pages}{217\bibrangedash 232}
-      \range{pages}{16}
-    \endentry
-    \entry{dimant_vanderkam-etal2006}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=27c4a1b777e0fddd1def6da98d25d913}{%
-           family={Dimant},
-           familyi={D\bibinitperiod},
-           given={Devorah},
-           giveni={D\bibinitperiod}}}%
+        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=acc7b6753b979233bd3f01f12ba51fa5}{%
-           family={James\bibnamedelimb C.\bibnamedelimi VanderKam},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={Peter\bibnamedelimb W.\bibnamedelimi Flint},
-           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
+           family={Schiffman},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{editorbibnamehash}{ee1375e01ef9cca2333f9e56d4ca0c34}
+      \strng{editornamehash}{ee1375e01ef9cca2333f9e56d4ca0c34}
+      \strng{editorfullhash}{ee1375e01ef9cca2333f9e56d4ca0c34}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of the Dead Sea Scrolls}
+      \field{title}{Rewritten Bible}
+      \field{volume}{2}
+      \field{volumes}{2}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{777\bibrangedash 781}
+      \range{pages}{5}
+    \endentry
+    \entry{brooke_herbert-tov2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b57f1e0c5a53e3db75ae1b2536a55da1}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Edward\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
         {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
            family={Tov},
            familyi={T\bibinitperiod},
            given={Emanuel},
            giveni={E\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{fullhash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{bibnamehash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{authorbibnamehash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{authornamehash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{authorfullhash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{editorbibnamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{editornamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{editorfullhash}{59bd841a6764593196f5767bef08085a}
-      \field{sortinit}{D}
-      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Studies in the Hebrew Bible, Qumran, and the Septuagint Presented to Eugene Ulrich}
-      \field{number}{101}
-      \field{series}{Supplements to Vetus Testamentum}
-      \field{shortseries}{VTsup}
-      \field{shorttitle}{Two `Scientific' Fictions}
-      \field{title}{Two `Scientific' Fictions: The So-Called Book of Noah and the Alleged Quotation of Jubilees in CD 16:3-4}
-      \field{year}{2006}
-      \field{dateera}{ce}
-      \field{pages}{230\bibrangedash 249}
-      \range{pages}{20}
-    \endentry
-    \entry{eshel_klostergaard-etal2009}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=7cf3ac398387a9e543526554dfa93bab}{%
-           family={Eshel},
-           familyi={E\bibinitperiod},
-           given={Esther},
-           giveni={E\bibinitperiod}}}%
-      }
-      \name{editor}{6}{}{%
-        {{hash=18d6a26ea3e8623e6a8e528ac7ed992c}{%
-           family={Petersen},
-           familyi={P\bibinitperiod},
-           given={Anders\bibnamedelima Klostergaard},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=26a841764ec38ebc9173681d8629ed43}{%
-           family={Elgvin},
-           familyi={E\bibinitperiod},
-           given={Torleif},
-           giveni={T\bibinitperiod}}}%
-        {{hash=044b213f4b4e1a1769bbf1eacf3d57c6}{%
-           family={Wassen},
-           familyi={W\bibinitperiod},
-           given={Cecilia},
-           giveni={C\bibinitperiod}}}%
-        {{hash=d894d8474926232d55967b2bd32a31fa}{%
-           family={Weissenberg},
-           familyi={W\bibinitperiod},
-           given={Hanne},
-           giveni={H\bibinitperiod},
-           prefix={von},
-           prefixi={v\bibinitperiod}}}%
-        {{hash=97ad84c694fd77f549b1c93df64f9f71}{%
-           family={Winninge},
-           familyi={W\bibinitperiod},
-           given={Mikael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=bac0a3875fd39e35cf5815307c2d3397}{%
-           family={Ehrensvärd},
-           familyi={E\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{fullhash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{bibnamehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{authorbibnamehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{authornamehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{authorfullhash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{editorbibnamehash}{4f5b3cc7d443503a59f389e44546e3f6}
-      \strng{editornamehash}{d64a4288e53f3f5627f403960761f225}
-      \strng{editorfullhash}{4f5b3cc7d443503a59f389e44546e3f6}
-      \field{sortinit}{E}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Northern Lights on the Dead Sea Scrolls: Proceedings of the Nordic Qumran Network 2003--2006}
-      \field{number}{80}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{The Dream Visions in the Noah Story}
-      \field{title}{The Dream Visions in the Noah Story of the Genesis Apocryphon and Related Texts}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{pages}{41\bibrangedash 61}
-      \range{pages}{21}
-    \endentry
-    \entry{eshel_roitman-etal2011}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=7cf3ac398387a9e543526554dfa93bab}{%
-           family={Eshel},
-           familyi={E\bibinitperiod},
-           given={Esther},
-           giveni={E\bibinitperiod}}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=4031564fe725a97732b90c4349de46b9}{%
-           family={Roitman},
-           familyi={R\bibinitperiod},
-           given={Adolfo\bibnamedelima D.},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
-           family={Schiffman},
-           familyi={S\bibinitperiod},
-           given={Lawrence\bibnamedelima H.},
-           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=cfd0745a391e8eec1d72514093ed11cf}{%
-           family={Tzoref},
-           familyi={T\bibinitperiod},
-           given={Shani},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{fullhash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{bibnamehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{authorbibnamehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{authornamehash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{authorfullhash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \field{sortinit}{E}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
-      \field{number}{93}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{The Genesis Apocryphon}
-      \field{title}{The Genesis Apocryphon: A Chain of Traditions}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \field{pages}{182\bibrangedash 193}
-      \range{pages}{12}
-    \endentry
-    \entry{evans_revq1988}{article}{}
-      \name{author}{1}{}{%
-        {{hash=5a64cb0c3c932e247a62e12bfdf6989b}{%
-           family={Evans},
-           familyi={E\bibinitperiod},
-           given={Craig\bibnamedelima A.},
-           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{fullhash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{bibnamehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{authorbibnamehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{authornamehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{authorfullhash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \field{sortinit}{E}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issuetitle}{Mémorial Jean Carmignac}
-      \field{title}{The Gensis Apocryphon and the Rewritten Bible}
-      \field{volume}{13}
-      \field{year}{1988}
-      \field{dateera}{ce}
-      \field{pages}{153\bibrangedash 165}
-      \range{pages}{13}
-    \endentry
-    \entry{falk2007}{book}{}
-      \name{author}{1}{}{%
-        {{hash=f3b8d007dba0169ffe02ffee9f7bfc5c}{%
-           family={Falk},
-           familyi={F\bibinitperiod},
-           given={Daniel\bibnamedelima K.},
-           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
+      \list{location}{2}{%
         {London}%
+        {New Castle, DE}%
       }
-      \list{publisher}{1}{%
-        {T \& T Clark}%
+      \list{publisher}{2}{%
+        {British Library}%
+        {Oak Knoll Press}%
       }
-      \strng{namehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{fullhash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{bibnamehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{authorbibnamehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{authornamehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{authorfullhash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{editorbibnamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{editornamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{editorfullhash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Parabiblical Texts: Strategies for Extending the Scriptures among the Dead Sea Scrolls}
-      \field{note}{\citeseries{cqs} 8; \citeseries{lsts} 63}
-      \field{shorttitle}{The Parabiblical Texts}
-      \field{title}{The Parabiblical Texts: Strategies for Extending the Scriptures among the Dead Sea Scrolls}
-      \field{year}{2007}
+      \field{booktitle}{The Bible as Book: The Hebrew Bible and the Judaean Desert Discoveries}
+      \field{shorttitle}{The Rewritten Law, Prophets, and Psalms}
+      \field{title}{The Rewritten Law, Prophets, and Psalms: Issues for Understanding the Text of the Bible}
+      \field{year}{2002}
       \field{dateera}{ce}
+      \field{pages}{31\bibrangedash 40}
+      \range{pages}{10}
     \endentry
-    \entry{fitzmyer2004}{book}{}
+    \entry{campbell_zsengeller2014}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
-           family={Fitzmyer},
-           familyi={F\bibinitperiod},
-           given={Joseph\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=86559d6919e5536fc425e356fda42dc7}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Jonathan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Rome}%
+        {Leiden}%
       }
       \list{publisher}{1}{%
-        {Biblical Institute Press}%
+        {Brill}%
       }
-      \strng{namehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{fullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{bibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{authorbibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{authornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{authorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The Genesis Apocryphon of Qumran Cave 1}
-      \field{edition}{3}
-      \field{number}{18a}
-      \field{series}{Biblica et orientalia}
-      \field{shortseries}{BO}
-      \field{title}{The Genesis Apocryphon of Qumran Cave 1}
-      \field{year}{2004}
-      \field{dateera}{ce}
-    \endentry
-    \entry{flusser_ks1956}{review}{}
-      \name{author}{1}{}{%
-        {{hash=bb338d43cf2e51d0165cfcc2da1ec3f0}{%
-           family={Flusser},
-           familyi={F\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod}}}%
-      }
-      \name{revdauthor}{2}{}{%
-        {{hash=a7fc85576fbe040fa90312fa45c56b0c}{%
-           family={Avigad},
-           familyi={A\bibinitperiod},
-           given={Nahman},
-           giveni={N\bibinitperiod}}}%
-        {{hash=1abce00b47a6dbc299349633cee54575}{%
-           family={Yadin},
-           familyi={Y\bibinitperiod},
-           given={Yigael},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{fullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{bibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{authorbibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{authornamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{authorfullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{revdauthorbibnamehash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{revdauthornamehash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \strng{revdauthorfullhash}{b64a7d7c81125c2c685ef108dca9aa09}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{journaltitle}{Kirjath Sepher}
-      \field{revdtitle}{A Genesis Apocryphon}
-      \field{shortjournal}{KS}
-      \field{volume}{32}
-      \field{year}{1956}
-      \field{dateera}{ce}
-      \field{pages}{379\bibrangedash 383}
-      \range{pages}{5}
-    \endentry
-    \entry{gaster1976}{book}{}
-      \name{author}{1}{}{%
-        {{hash=8ff1541f332aa7d2c2b83574a3c1da22}{%
-           family={Gaster},
-           familyi={G\bibinitperiod},
-           given={T.\bibnamedelimi H.},
-           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Garden City, NY}%
-      }
-      \list{publisher}{1}{%
-        {Anchor}%
-      }
-      \strng{namehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{fullhash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{bibnamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{authorbibnamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{authornamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{authorfullhash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \field{sortinit}{G}
-      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The Dead Sea Scriptures in English Translation}
-      \field{edition}{3}
-      \field{title}{The Dead Sea Scriptures in English Translation}
-      \field{year}{1976}
-      \field{dateera}{ce}
-    \endentry
-    \entry{gevirtz_maarav1992}{article}{}
-      \name{author}{1}{}{%
-        {{hash=192f8761e4da2c28bd3a4476d5430e7c}{%
-           family={Gevirtz},
-           familyi={G\bibinitperiod},
-           given={Marianne\bibnamedelima Luijken},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{fullhash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{bibnamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authorbibnamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authornamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authorfullhash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \field{sortinit}{G}
-      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \strng{namehash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{fullhash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{bibnamehash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{authorbibnamehash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{authornamehash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{authorfullhash}{86559d6919e5536fc425e356fda42dc7}
+      \strng{editorbibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{MAARAV: A Journal of Northwest Semitic}
-      \field{shortjournal}{MAARAV}
-      \field{shorttitle}{Abram’s Dream in the Genesis Apocryphon}
-      \field{title}{Abram’s Dream in the Genesis Apocryphon: Its Motifs and Their Function}
-      \field{volume}{8}
-      \field{year}{1992}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJsup}
+      \field{shorttitle}{Rewritten Bible}
+      \field{title}{Rewritten Bible: A Terminological Reassessment}
+      \field{year}{2014}
       \field{dateera}{ce}
-      \field{pages}{229\bibrangedash 243}
-      \range{pages}{15}
+      \field{pages}{49\bibrangedash 81}
+      \range{pages}{33}
     \endentry
     \entry{harrington_kraft-nickelsburg1986}{incollection}{}
       \name{author}{1}{}{%
@@ -1038,555 +438,183 @@
       \field{pages}{239\bibrangedash 247}
       \range{pages}{9}
     \endentry
-    \entry{hartman_cbq1966}{review}{}
+    \entry{kahle1947}{book}{}
       \name{author}{1}{}{%
-        {{hash=82e3366cb155d5c536875453cb59567a}{%
-           family={Hartman},
-           familyi={H\bibinitperiod},
-           given={Louis\bibnamedelima F.},
-           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-      }
-      \name{revdauthor}{1}{}{%
-        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
-           family={Fitzmyer},
-           familyi={F\bibinitperiod},
-           given={Joseph\bibnamedelima A.},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{fullhash}{82e3366cb155d5c536875453cb59567a}
-      \strng{bibnamehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{authorbibnamehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{authornamehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{authorfullhash}{82e3366cb155d5c536875453cb59567a}
-      \strng{revdauthorbibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{revdauthornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{revdauthorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \field{sortinit}{H}
-      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
-      \field{labelnamesource}{author}
-      \field{journaltitle}{Catholic Biblical Quarterly}
-      \field{revdtitle}{Qumran Cave 1, The Genesis Apocryphon}
-      \field{shortjournal}{CBQ}
-      \field{volume}{28}
-      \field{year}{1966}
-      \field{dateera}{ce}
-      \field{pages}{495\bibrangedash 498}
-      \range{pages}{4}
-    \endentry
-    \entry{humphreys_jbl1973}{article}{}
-      \name{author}{1}{}{%
-        {{hash=de4c26adbc5b7ccf75e86494fa45a26a}{%
-           family={Humphreys},
-           familyi={H\bibinitperiod},
-           given={W.\bibnamedelimi L.},
-           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{fullhash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{bibnamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{authorbibnamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{authornamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{authorfullhash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \field{sortinit}{H}
-      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal of Biblical Literature}
-      \field{shortjournal}{JBL}
-      \field{shorttitle}{A Life-Style for Diaspora}
-      \field{title}{A Life-Style for Diaspora: A Study of the Tales of Esther and Daniel}
-      \field{volume}{92}
-      \field{year}{1973}
-      \field{dateera}{ce}
-      \field{pages}{211\bibrangedash 23}
-      \range{pages}{13}
-    \endentry
-    \entry{jurgens_jsj2018}{article}{}
-      \name{author}{1}{}{%
-        {{hash=402c4a1b712ed1f4ab7530b84d741a7c}{%
-           family={Jurgens},
-           familyi={J\bibinitperiod},
-           given={Blake\bibnamedelima A.},
-           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{fullhash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{bibnamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{authorbibnamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{authornamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{authorfullhash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \field{sortinit}{J}
-      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal for the Study of Judaism}
-      \field{shortjournal}{JSJ}
-      \field{shorttitle}{A Wandering Aramean in Pharaoh's Court}
-      \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19-20 and Jewish Fictional Literature}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 34}
-      \range{pages}{34}
-    \endentry
-    \entry{kugel2012}{book}{}
-      \name{author}{1}{}{%
-        {{hash=ff2635a9d3deac1aacf2f57cd0b509c2}{%
-           family={Kugel},
+        {{hash=100c798ea1bc595e906396ab235a5402}{%
+           family={Kahle},
            familyi={K\bibinitperiod},
-           given={James\bibnamedelima L.},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{fullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{bibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorbibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authornamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorfullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Walk Through Jubilees: Studies in the Book of Jubilees and the World of Its Creation}
-      \field{number}{156}
-      \field{shorttitle}{A Walk Through Jubilees}
-      \field{title}{A Walk Through Jubilees: Studies in the Book of Jubilees and the World of Its Creation}
-      \field{year}{2012}
-      \field{dateera}{ce}
-    \endentry
-    \entry{kugel_roitman-etal2011}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=ff2635a9d3deac1aacf2f57cd0b509c2}{%
-           family={Kugel},
-           familyi={K\bibinitperiod},
-           given={James\bibnamedelima L.},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=4031564fe725a97732b90c4349de46b9}{%
-           family={Roitman},
-           familyi={R\bibinitperiod},
-           given={Adolfo\bibnamedelima D.},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
-           family={Schiffman},
-           familyi={S\bibinitperiod},
-           given={Lawrence\bibnamedelima H.},
-           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=cfd0745a391e8eec1d72514093ed11cf}{%
-           family={Tzoref},
-           familyi={T\bibinitperiod},
-           given={Shani},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{fullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{bibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorbibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authornamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorfullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
-      \field{number}{93}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{Which Is Older, Jubilees or the Genesis Apocryphon?}
-      \field{title}{Which Is Older, Jubilees or the Genesis Apocryphon? An Exegetical Approach}
-      \field{year}{2011}
-      \field{dateera}{ce}
-      \field{pages}{257\bibrangedash 294}
-      \range{pages}{38}
-    \endentry
-    \entry{machiela_falk-etal2010}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
-           family={Machiela},
-           familyi={M\bibinitperiod},
-           given={Daniel\bibnamedelima A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \name{editor}{4}{}{%
-        {{hash=f3b8d007dba0169ffe02ffee9f7bfc5c}{%
-           family={Falk},
-           familyi={F\bibinitperiod},
-           given={Daniel\bibnamedelima K.},
-           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=e6d37de2380bb41dda8ee9ba5d76182f}{%
-           family={Metso},
-           familyi={M\bibinitperiod},
-           given={Sarianna},
-           giveni={S\bibinitperiod}}}%
-        {{hash=719a5f01c45c26640591273cc1893de6}{%
-           family={Parry},
-           familyi={P\bibinitperiod},
-           given={Donald\bibnamedelima W.},
-           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=ffe8b376c99fce88a3e8f3f03d522a39}{%
-           family={Tigchelaar},
-           familyi={T\bibinitperiod},
-           given={Eibert\bibnamedelima J.C.},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{editorbibnamehash}{bdd6fff65154e0838ce1bafb22949349}
-      \strng{editornamehash}{2f1174996c08983e9c4268f2a7688f7c}
-      \strng{editorfullhash}{bdd6fff65154e0838ce1bafb22949349}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Qumran Cave 1 Revisited: Texts from Cave 1 Sixty Years after Their Discovery: Proceedings of the Sixth Meeting of the IOQS in Ljubljana}
-      \field{number}{91}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{Genesis Revealed}
-      \field{title}{Genesis Revealed: The Apocalyptic Apocryphon from Qumran Cave 1}
-      \field{pages}{205\bibrangedash 221}
-      \range{pages}{17}
-    \endentry
-    \entry{machiela_as2010}{article}{}
-      \name{author}{1}{}{%
-        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
-           family={Machiela},
-           familyi={M\bibinitperiod},
-           given={Daniel\bibnamedelima A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Aramaic Studies}
-      \field{shortjournal}{AS}
-      \field{shorttitle}{Some Egyptian Elements in the Genesis Apocryphon}
-      \field{title}{Some Egyptian Elements in the Genesis Apocryphon: Evidence of a Ptolemaic Social Location?}
-      \field{volume}{8}
-      \field{year}{2010}
-      \field{dateera}{ce}
-      \field{pages}{47\bibrangedash 69}
-      \range{pages}{23}
-    \endentry
-    \entry{machiela2009}{book}{}
-      \name{author}{1}{}{%
-        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
-           family={Machiela},
-           familyi={M\bibinitperiod},
-           given={Daniel\bibnamedelima A.},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
-      \field{number}{79}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{The Dead Sea Genesis Apocryphon}
-      \field{title}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
-    \endentry
-    \entry{mandel_bakhos2006}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=90bb952ead9bd9b00a36efe1f5ef2d0d}{%
-           family={Mandel},
-           familyi={M\bibinitperiod},
-           given={Paul\bibnamedelima D.},
-           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=0ff007eba18328f8b80aba600fce75b7}{%
-           family={Bakhos},
-           familyi={B\bibinitperiod},
-           given={Carol},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{fullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{bibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorbibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authornamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorfullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{editorbibnamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editornamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editorfullhash}{0ff007eba18328f8b80aba600fce75b7}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Current Trends in the Study of Midrash}
-      \field{number}{106}
-      \field{series}{Supplements to the Journal for the Study of Judaism}
-      \field{shortseries}{JSJsup}
-      \field{shorttitle}{The Origins of Midrash in the Second Temple Period}
-      \field{title}{The Origins of Midrash in the Second Temple Period}
-      \field{year}{2006}
-      \field{dateera}{ce}
-      \field{pages}{9\bibrangedash 34}
-      \range{pages}{26}
-    \endentry
-    \entry{mandel2017}{book}{}
-      \name{author}{1}{}{%
-        {{hash=90bb952ead9bd9b00a36efe1f5ef2d0d}{%
-           family={Mandel},
-           familyi={M\bibinitperiod},
-           given={Paul\bibnamedelima D.},
-           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{fullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{bibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorbibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authornamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorfullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{The Origins of \emph{Midrash}}
-      \field{title}{The Origins of \emph{Midrash}: From Teaching to Text}
-      \field{year}{2017}
-      \field{dateera}{ce}
-    \endentry
-    \entry{milik1959}{book}{}
-      \name{author}{1}{}{%
-        {{hash=7d6fef04af2492c1360c0b9c6548c770}{%
-           family={Milik},
-           familyi={M\bibinitperiod},
-           given={Józef\bibnamedelima T.},
-           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \name{translator}{1}{}{%
-        {{hash=1743f3411f2f55b78fb30c7a553031f4}{%
-           family={Strugnell},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {London}%
       }
       \list{publisher}{1}{%
-        {SCM Press}%
-      }
-      \strng{namehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{fullhash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{bibnamehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{authorbibnamehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{authornamehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{authorfullhash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{translatorbibnamehash}{1743f3411f2f55b78fb30c7a553031f4}
-      \strng{translatornamehash}{1743f3411f2f55b78fb30c7a553031f4}
-      \strng{translatorfullhash}{1743f3411f2f55b78fb30c7a553031f4}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Ten Years of Discovery in the Wilderness of Judea}
-      \field{shorttitle}{ten Years of Discovery}
-      \field{title}{Ten Years of Discovery in the Wilderness of Judea}
-      \field{year}{1959}
-      \field{dateera}{ce}
-    \endentry
-    \entry{mroczek2016}{book}{}
-      \name{author}{1}{}{%
-        {{hash=78b30def956a12c6fdc3a810e30b35ab}{%
-           family={Mroczek},
-           familyi={M\bibinitperiod},
-           given={Eva},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{location}{2}{%
-        {Oxford}%
-        {New York}%
-      }
-      \list{publisher}{1}{%
         {Oxford University Press}%
       }
-      \strng{namehash}{78b30def956a12c6fdc3a810e30b35ab}
-      \strng{fullhash}{78b30def956a12c6fdc3a810e30b35ab}
-      \strng{bibnamehash}{78b30def956a12c6fdc3a810e30b35ab}
-      \strng{authorbibnamehash}{78b30def956a12c6fdc3a810e30b35ab}
-      \strng{authornamehash}{78b30def956a12c6fdc3a810e30b35ab}
-      \strng{authorfullhash}{78b30def956a12c6fdc3a810e30b35ab}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \strng{namehash}{100c798ea1bc595e906396ab235a5402}
+      \strng{fullhash}{100c798ea1bc595e906396ab235a5402}
+      \strng{bibnamehash}{100c798ea1bc595e906396ab235a5402}
+      \strng{authorbibnamehash}{100c798ea1bc595e906396ab235a5402}
+      \strng{authornamehash}{100c798ea1bc595e906396ab235a5402}
+      \strng{authorfullhash}{100c798ea1bc595e906396ab235a5402}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The Literary Imagination in Jewish Antiquity}
-      \field{year}{2016}
+      \field{series}{The Schweich Lectures of the British Academy, 1941}
+      \field{title}{The Cairo Geniza}
+      \field{year}{1947}
       \field{dateera}{ce}
     \endentry
-    \entry{najman_hilhorst-puech2007}{incollection}{}
+    \entry{kisch1949}{book}{}
       \name{author}{1}{}{%
-        {{hash=9eb296e270ed3bb10d2ae75a9e305511}{%
-           family={Najman},
-           familyi={N\bibinitperiod},
-           given={Hindy},
-           giveni={H\bibinitperiod}}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=25ff9a041862736ecd568281eedc4fd7}{%
-           family={Hilhorst},
-           familyi={H\bibinitperiod},
-           given={Anthony},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b95c98c3782fec79c6c17e3c9392159e}{%
-           family={Puech},
-           familyi={P\bibinitperiod},
-           given={Émile},
-           giveni={É\bibinitperiod}}}%
-        {{hash=57b492de79fd038dc03a9fb45b928efd}{%
-           family={Tigchelaar},
-           familyi={T\bibinitperiod},
-           given={Eibert\bibnamedelimb J.\bibnamedelimi C.},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{fullhash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{bibnamehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{authorbibnamehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{authornamehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{authorfullhash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{editorbibnamehash}{6698e857b5e4531ec5ee9199a4bc3d03}
-      \strng{editornamehash}{6698e857b5e4531ec5ee9199a4bc3d03}
-      \strng{editorfullhash}{6698e857b5e4531ec5ee9199a4bc3d03}
-      \field{sortinit}{N}
-      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Flores Florentino: Dead Sea Scrolls and Other Early Jewish Studies in Honour of Florentino Garcia Martinez}
-      \field{number}{122}
-      \field{series}{Supplements to the Journal for the Study of Judaism}
-      \field{shortseries}{JSJsup}
-      \field{shorttitle}{Flores Florentino}
-      \field{title}{How Should We Contextualize Pseudepigrapha? Imitation and Emulation in 4 Ezra}
-      \field{year}{2007}
-      \field{dateera}{ce}
-      \field{pages}{529\bibrangedash 536}
-      \range{pages}{8}
-    \endentry
-    \entry{najman2003}{book}{}
-      \name{author}{1}{}{%
-        {{hash=9eb296e270ed3bb10d2ae75a9e305511}{%
-           family={Najman},
-           familyi={N\bibinitperiod},
-           given={Hindy},
-           giveni={H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{fullhash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{bibnamehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{authorbibnamehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{authornamehash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{authorfullhash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \field{sortinit}{N}
-      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Seconding Sinai }
-      \field{title}{Seconding Sinai : The Development of Mosaic Discourse in Second Temple Judaism}
-      \field{year}{2003}
-      \field{dateera}{ce}
-    \endentry
-    \entry{nickelsburg2005}{book}{}
-      \name{author}{1}{}{%
-        {{hash=9674cac54757a54a62d9092f4240ef99}{%
-           family={Nickelsburg},
-           familyi={N\bibinitperiod},
-           given={George},
+        {{hash=b6ea4140414d65a9739870a725bf9e98}{%
+           family={Kisch},
+           familyi={K\bibinitperiod},
+           given={Guido},
            giveni={G\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Minneapolis, MN}%
+        {Notre Dame, IN}%
       }
       \list{publisher}{1}{%
-        {Fortress}%
+        {University of Notre Dame}%
       }
-      \strng{namehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{fullhash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{bibnamehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{authorbibnamehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{authornamehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{authorfullhash}{9674cac54757a54a62d9092f4240ef99}
+      \strng{namehash}{b6ea4140414d65a9739870a725bf9e98}
+      \strng{fullhash}{b6ea4140414d65a9739870a725bf9e98}
+      \strng{bibnamehash}{b6ea4140414d65a9739870a725bf9e98}
+      \strng{authorbibnamehash}{b6ea4140414d65a9739870a725bf9e98}
+      \strng{authornamehash}{b6ea4140414d65a9739870a725bf9e98}
+      \strng{authorfullhash}{b6ea4140414d65a9739870a725bf9e98}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{10}
+      \field{series}{Publications in Mediaeval Studies}
+      \field{shortseries}{PMS}
+      \field{shorttitle}{Liber Antiquitatum Biblicarum}
+      \field{title}{Pseudo-Philo's Liber Antiquitatum Biblicarum}
+      \field{year}{1949}
+      \field{dateera}{ce}
+    \endentry
+    \entry{machiela_jjs2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+           family={Machiela},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Jewish Studies}
+      \field{number}{2}
+      \field{shortjournal}{JJS}
+      \field{shorttitle}{Once More, with Feeling}
+      \field{title}{Once More, with Feeling: Rewritten Scripture in Ancient {Judaism}---A Review of Recent Developments}
+      \field{volume}{61}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{308\bibrangedash 320}
+      \range{pages}{13}
+    \endentry
+    \entry{mason2002_mcdonald-sanders2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=39796c2a5025c245b30db0b821d7ca44}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=77e6cc97752448b8b3957b2dc2ef95cb}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Lee\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=47bc1f92f63443c345988c6d3f2581a4}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Peabody, MA}%
+      }
+      \list{publisher}{1}{%
+        {Hendrickson}%
+      }
+      \strng{namehash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{fullhash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{bibnamehash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{authorbibnamehash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{authornamehash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{authorfullhash}{39796c2a5025c245b30db0b821d7ca44}
+      \strng{editorbibnamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editornamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editorfullhash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Canon Debate}
+      \field{title}{Josephus and His Twenty-two Book Canon}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{110\bibrangedash 27}
+      \range{pages}{18}
+    \endentry
+    \entry{newsom_grossman2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=de9a8a9626a9b55c4016c09ba64425eb}{%
+           family={Newsom},
+           familyi={N\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2248464714b6a3421126cfec7796236f}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Maxine\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{de9a8a9626a9b55c4016c09ba64425eb}
+      \strng{fullhash}{de9a8a9626a9b55c4016c09ba64425eb}
+      \strng{bibnamehash}{de9a8a9626a9b55c4016c09ba64425eb}
+      \strng{authorbibnamehash}{de9a8a9626a9b55c4016c09ba64425eb}
+      \strng{authornamehash}{de9a8a9626a9b55c4016c09ba64425eb}
+      \strng{authorfullhash}{de9a8a9626a9b55c4016c09ba64425eb}
+      \strng{editorbibnamehash}{2248464714b6a3421126cfec7796236f}
+      \strng{editornamehash}{2248464714b6a3421126cfec7796236f}
+      \strng{editorfullhash}{2248464714b6a3421126cfec7796236f}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2}
-      \field{title}{Jewish Literature between the Bible and the Mishnah}
-      \field{year}{2005}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rediscovering the {Dead Sea Scrolls}: An Assessment of Old and New Approaches and Methods}
+      \field{shorttitle}{Rhetorical Criticism}
+      \field{title}{Rhetorical Criticism and the {Dead Sea Scrolls}}
+      \field{year}{2010}
       \field{dateera}{ce}
+      \field{pages}{198\bibrangedash 214}
+      \range{pages}{17}
     \endentry
     \entry{nickelsburg_stone1984}{incollection}{}
       \name{author}{1}{}{%
@@ -1632,195 +660,88 @@
       \field{pages}{89\bibrangedash 156}
       \range{pages}{68}
     \endentry
-    \entry{niditch-doran_jbl1977}{article}{}
-      \name{author}{2}{}{%
-        {{hash=5583a374ccdcbc16d516369dd8ba2368}{%
-           family={Niditch},
-           familyi={N\bibinitperiod},
-           given={Susan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=47e8c5ed4dab0053ec1e464f0b6491e3}{%
-           family={Doran},
-           familyi={D\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{47830d278701a85aa35490447a799f3b}
-      \strng{fullhash}{47830d278701a85aa35490447a799f3b}
-      \strng{bibnamehash}{47830d278701a85aa35490447a799f3b}
-      \strng{authorbibnamehash}{47830d278701a85aa35490447a799f3b}
-      \strng{authornamehash}{47830d278701a85aa35490447a799f3b}
-      \strng{authorfullhash}{47830d278701a85aa35490447a799f3b}
-      \field{sortinit}{N}
-      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal of Biblical Literature}
-      \field{shortjournal}{JBL}
-      \field{shorttitle}{The Success Story of the Wise Courtier}
-      \field{title}{The Success Story of the Wise Courtier: A Formal Approach}
-      \field{volume}{96}
-      \field{year}{1977}
-      \field{dateera}{ce}
-    \endentry
-    \entry{perrin2015}{book}{}
+    \entry{rappaport1930}{book}{}
       \name{author}{1}{}{%
-        {{hash=d1a5871b60e71c09b5d048f55bbe9768}{%
-           family={Perrin},
-           familyi={P\bibinitperiod},
-           given={Andrew\bibnamedelima B.},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=fcf67933c1e7e079ddf1949298aab5c2}{%
+           family={Rappaport},
+           familyi={R\bibinitperiod},
+           given={Salomo},
+           giveni={S\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Göttingen}%
+        {Vienna}%
       }
       \list{publisher}{1}{%
-        {Vandenhoeck \& Ruprecht}%
+        {Alexander Kohnt Memorial Foundation}%
       }
-      \strng{namehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{fullhash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{bibnamehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{authorbibnamehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{authornamehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{authorfullhash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \field{sortinit}{P}
-      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \strng{namehash}{fcf67933c1e7e079ddf1949298aab5c2}
+      \strng{fullhash}{fcf67933c1e7e079ddf1949298aab5c2}
+      \strng{bibnamehash}{fcf67933c1e7e079ddf1949298aab5c2}
+      \strng{authorbibnamehash}{fcf67933c1e7e079ddf1949298aab5c2}
+      \strng{authornamehash}{fcf67933c1e7e079ddf1949298aab5c2}
+      \strng{authorfullhash}{fcf67933c1e7e079ddf1949298aab5c2}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{number}{19}
-      \field{series}{Journal of Ancient Judaism Supplements}
-      \field{shortseries}{JAJSup}
-      \field{shorttitle}{The Dynamics of Dream-Vision Revelation}
-      \field{title}{The Dynamics of Dream-Vision Revelation in the Aramaic Dead Sea Scrolls}
-      \field{year}{2015}
+      \field{number}{3}
+      \field{series}{Veröffentlichungen der Oberrabbiner Dr. H.P. Chajes-Preisstiftung an der Israelitisch-theologischen Lehranstalt in Wien}
+      \field{shorttitle}{Agada und Exegese}
+      \field{title}{Agada und Exegese bei Flavius Josephus}
+      \field{year}{1930}
       \field{dateera}{ce}
     \endentry
-    \entry{reed_towsend-moulie2011}{incollection}{}
+    \entry{schurer1986}{mvbook}{}
       \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
-           family={Reed},
-           familyi={R\bibinitperiod},
-           given={Annette\bibnamedelima Yoshiko},
-           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=beca32839cf279cf72735eb57a1e4061}{%
+           family={Schürer},
+           familyi={S\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod}}}%
       }
-      \name{editor}{2}{}{%
-        {{hash=c4dedc6a6ad2d812302664617300dbec}{%
-           family={Townsend},
-           familyi={T\bibinitperiod},
-           given={Philippa},
-           giveni={P\bibinitperiod}}}%
-        {{hash=3b5b5e8c85430c1c7ed48061e5122be7}{%
-           family={Vidas},
+      \name{editor}{3}{}{%
+        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
+           family={Vermes},
            familyi={V\bibinitperiod},
-           given={Moulie},
+           given={Geza},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7e92948906edf9488de75b24465644bd}{%
+           family={Millar},
+           familyi={M\bibinitperiod},
+           given={Fergus},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8cf5576122c796e5740966e81d134723}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Matthew},
            giveni={M\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Tübingen}%
+        {Edinburgh}%
       }
       \list{publisher}{1}{%
-        {Mohr Siebeck}%
+        {T \& T Clark}%
       }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{editorbibnamehash}{1063f50f81abfe97049f45220c477fc7}
-      \strng{editornamehash}{1063f50f81abfe97049f45220c477fc7}
-      \strng{editorfullhash}{1063f50f81abfe97049f45220c477fc7}
-      \field{sortinit}{R}
-      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \strng{namehash}{beca32839cf279cf72735eb57a1e4061}
+      \strng{fullhash}{beca32839cf279cf72735eb57a1e4061}
+      \strng{bibnamehash}{beca32839cf279cf72735eb57a1e4061}
+      \strng{authorbibnamehash}{beca32839cf279cf72735eb57a1e4061}
+      \strng{authornamehash}{beca32839cf279cf72735eb57a1e4061}
+      \strng{authorfullhash}{beca32839cf279cf72735eb57a1e4061}
+      \strng{editorbibnamehash}{16bee80941594462adc3ac896ad979a3}
+      \strng{editornamehash}{16bee80941594462adc3ac896ad979a3}
+      \strng{editorfullhash}{16bee80941594462adc3ac896ad979a3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Revelation, Literature, and Community in Late Antiquity}
-      \field{series}{Texts and Studies in Ancient Judaism}
-      \field{shortseries}{TSAJ}
-      \field{shorttitle}{Pseudepigraphy and/as Prophecy}
-      \field{title}{Pseudepigraphy and/as Prophecy: Continuity and Transformation in the Formation and Reception of Early Enochic Writings}
-      \field{year}{2011}
+      \field{shorttitle}{The History of the {Jewish} People}
+      \field{title}{The History of the {Jewish} People in the Age of {Jesus Christ}: 175 {BC} -- {AD} 135}
+      \field{volumes}{3}
+      \field{year}{1986}
       \field{dateera}{ce}
-      \field{pages}{25\bibrangedash 42}
-      \range{pages}{18}
     \endentry
-    \entry{reed_ditomasso-turcescu2008}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
-           family={Reed},
-           familyi={R\bibinitperiod},
-           given={Annette\bibnamedelima Yoshiko},
-           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=b52a127385a939813ecf75046aeceb7e}{%
-           family={DiTommaso},
-           familyi={D\bibinitperiod},
-           given={Lorenzo},
-           giveni={L\bibinitperiod}}}%
-        {{hash=e47ca8c3fbb739d5cc458ca52cec52eb}{%
-           family={Turcescu},
-           familyi={T\bibinitperiod},
-           given={Lucian},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{editorbibnamehash}{0bbde10e8dc9fb19a0d307e213ce235d}
-      \strng{editornamehash}{0bbde10e8dc9fb19a0d307e213ce235d}
-      \strng{editorfullhash}{0bbde10e8dc9fb19a0d307e213ce235d}
-      \field{sortinit}{R}
-      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The Reception and Interpretation of the Bible in Late Antiquity: Proceedings of the Montréal Colloquium in Honour of Charles Kannengiesser, 11--13 October 2006}
-      \field{number}{6}
-      \field{series}{The Bible in Ancient Christianity}
-      \field{shortseries}{BAC}
-      \field{title}{Pseudepigraphy, Authorship and the Reception of 'the Bible' in Late Antiquity}
-      \field{year}{2008}
-      \field{dateera}{ce}
-      \field{pages}{467\bibrangedash 90}
-      \range{pages}{31}
-    \endentry
-    \entry{reed_jts2009}{article}{}
-      \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
-           family={Reed},
-           familyi={R\bibinitperiod},
-           given={Annette\bibnamedelima Yoshiko},
-           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \field{sortinit}{R}
-      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Theological Studies}
-      \field{shortjournal}{JTS}
-      \field{title}{The Modern Invention of 'Old Testament Pseudepigrapha'}
-      \field{volume}{60}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{pages}{403\bibrangedash 436}
-      \range{pages}{34}
-    \endentry
-    \entry{segal_as2010}{article}{}
+    \entry{segal_henze2005}{incollection}{}
       \name{author}{1}{}{%
         {{hash=7b4894413e19569f0347b96f47ae1f8d}{%
            family={Segal},
@@ -1828,74 +749,135 @@
            given={Michael},
            giveni={M\bibinitperiod}}}%
       }
+      \name{editor}{1}{}{%
+        {{hash=7203688866f239ea401401b10a38af14}{%
+           family={Henze},
+           familyi={H\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
       \strng{namehash}{7b4894413e19569f0347b96f47ae1f8d}
       \strng{fullhash}{7b4894413e19569f0347b96f47ae1f8d}
       \strng{bibnamehash}{7b4894413e19569f0347b96f47ae1f8d}
       \strng{authorbibnamehash}{7b4894413e19569f0347b96f47ae1f8d}
       \strng{authornamehash}{7b4894413e19569f0347b96f47ae1f8d}
       \strng{authorfullhash}{7b4894413e19569f0347b96f47ae1f8d}
+      \strng{editorbibnamehash}{7203688866f239ea401401b10a38af14}
+      \strng{editornamehash}{7203688866f239ea401401b10a38af14}
+      \strng{editorfullhash}{7203688866f239ea401401b10a38af14}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Aramaic Studies}
-      \field{number}{1}
-      \field{shortjournal}{AS}
-      \field{shorttitle}{The Literary Relationship between the Genesis Apocryphon and Jubilees}
-      \field{title}{The Literary Relationship between the Genesis Apocryphon and Jubilees: The Chronology of Abram and Sarai's Descent to Egypt}
-      \field{volume}{8}
-      \field{year}{2010}
+      \field{booktitle}{Biblical Interpretation at Qumran}
+      \field{series}{Studies in the Dead Sea Scrolls and Related Literature}
+      \field{shortseries}{SDSS}
+      \field{shorttitle}{Biblical Interpretation at Qumran}
+      \field{title}{Between Bible and Rewritten Bible}
+      \field{year}{2005}
       \field{dateera}{ce}
-      \field{pages}{71\bibrangedash 88}
-      \range{pages}{18}
+      \field{pages}{10\bibrangedash 28}
+      \range{pages}{19}
     \endentry
-    \entry{steiner_dsd1995}{article}{}
+    \entry{tov_dsd1998}{article}{}
       \name{author}{1}{}{%
-        {{hash=bcfb673e07f1a637e5df387df4740691}{%
-           family={Steiner},
-           familyi={S\bibinitperiod},
-           given={Richard\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
+           family={Tov},
+           familyi={T\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{fullhash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{bibnamehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{authorbibnamehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{authornamehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{authorfullhash}{bcfb673e07f1a637e5df387df4740691}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \strng{namehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{fullhash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{bibnamehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{authorbibnamehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{authornamehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{authorfullhash}{c21184fd0b0a40e41b03bf5be3440519}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal for the Study of Judaism}
-      \field{shortjournal}{JSJ}
-      \field{shorttitle}{The Heading of the `Book of the Words of Noah' on a Fragment of the Genesis Apocryphon}
-      \field{title}{The Heading of the `Book of the Words of Noah' on a Fragment of the Genesis Apocryphon: New Light on a `Lost' Work}
-      \field{volume}{2}
-      \field{year}{1995}
+      \field{journaltitle}{Dead Sea Discoveries}
+      \field{number}{3}
+      \field{shortjournal}{DSD}
+      \field{shorttitle}{Rewritten Bible Compositions}
+      \field{title}{Rewritten Bible Compositions and Biblical Manuscripts, with Special Attention to the Samaritan Pentateuch}
+      \field{volume}{5}
+      \field{year}{1998}
       \field{dateera}{ce}
-      \field{pages}{66\bibrangedash 71}
-      \range{pages}{6}
+      \field{pages}{334\bibrangedash 354}
+      \range{pages}{21}
     \endentry
-    \entry{stuckenbruck_berthelot-etal2010}{incollection}{}
+    \entry{tov_krarrer-kraus2008}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ca786cad5aaef3caf357c9f32e9d90f8}{%
-           family={Stuckenbruck},
-           familyi={S\bibinitperiod},
-           given={Loren\bibnamedelima T.},
-           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
+           family={Tov},
+           familyi={T\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=2eec8a19b4374425b254da5ec6885010}{%
-           family={Berthelot},
-           familyi={B\bibinitperiod},
-           given={Katell},
-           giveni={K\bibinitperiod}}}%
-        {{hash=80eede611be1979bb1817edd8658b980}{%
-           family={Ezra},
-           familyi={E\bibinitperiod},
-           given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=668fcdb8453c9f6d76dd4b2a1fab46bf}{%
+           family={Karrer},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eea7c5bb9bfef2ef9905fdff42744fe6}{%
+           family={Kraus},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tübingen}%
+      }
+      \list{publisher}{1}{%
+        {Mohr Siebeck}%
+      }
+      \strng{namehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{fullhash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{bibnamehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{authorbibnamehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{authornamehash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{authorfullhash}{c21184fd0b0a40e41b03bf5be3440519}
+      \strng{editorbibnamehash}{9994c57fb4a019264c0da5d1dd823005}
+      \strng{editornamehash}{9994c57fb4a019264c0da5d1dd823005}
+      \strng{editorfullhash}{9994c57fb4a019264c0da5d1dd823005}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Die Septuaginta – Texte, Kontexte, Lebenswelten: Internationale Fachtagung veranstaltet von Septuaginta Deutsch (LXX.D), Wuppertal 20.--23. Juli 2006}
+      \field{number}{219}
+      \field{series}{Wissenschaftliche Untersuchungen zum Neuen Testament}
+      \field{shortseries}{WUNT}
+      \field{shorttitle}{Three Strange Books}
+      \field{title}{Three Strange Books of the LXX: 1 Kings, Esther, and Daniel Compared with Similar Rewritten Compositions from Qumran and Elsewhere}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{369\bibrangedash 93}
+      \range{pages}{25}
+    \endentry
+    \entry{ulrich_zsengeller2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leiden}%
@@ -1903,127 +885,77 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{fullhash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{bibnamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{authorbibnamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{authornamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{authorfullhash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \strng{namehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{fullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{bibnamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authorbibnamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authornamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authorfullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{editorbibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{The Lamech Narrative in the \emph{Genesis Apocryphon}}
-      \field{title}{The Lamech Narrative in the \emph{Genesis Apocryphon} (1QapGen) and \emph{Birth of Noah} (4QEnoch\textsuperscript{a} ar): A Tradition--Historical Study}
-      \field{volume}{94}
-      \field{year}{2010}
-      \field{dateera}{ce}
-      \field{pages}{253\bibrangedash 271}
-      \range{pages}{19}
-    \endentry
-    \entry{tigchelaar_tigchelaar2014}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=d4f34a1ed4122ceebdc2d04510dd4510}{%
-           family={Tigchelaar},
-           familyi={T\bibinitperiod},
-           given={Eibert},
-           giveni={E\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=d4f34a1ed4122ceebdc2d04510dd4510}{%
-           family={Tigchelaar},
-           familyi={T\bibinitperiod},
-           given={Eibert},
-           giveni={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{fullhash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{bibnamehash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{authorbibnamehash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{authornamehash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{authorfullhash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{editorbibnamehash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{editornamehash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \strng{editorfullhash}{d4f34a1ed4122ceebdc2d04510dd4510}
-      \field{sortinit}{T}
-      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Old Testament Pseudepigrapha and the Scriptures}
-      \field{number}{270}
-      \field{series}{Bibliotheca Ephemeridum Theologicarum Lovaniensium}
-      \field{shortseries}{BETL}
-      \field{title}{Old Testament Pseudepigrapha and the Scriptures}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJsup}
+      \field{shorttitle}{Crossing the Borders}
+      \field{title}{Crossing the Borders from `Pre-Scripture' to Scripture (Rewritten) to `Rewritten Scripture'}
       \field{year}{2014}
       \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 18}
-      \range{pages}{18}
+      \field{pages}{83\bibrangedash 104}
+      \range{pages}{22}
     \endentry
-    \entry{toorn2007}{book}{}
+    \entry{ulrich_mcdonald-sanders2002}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=14eb7e0fa1ae98e0c5e1919c85ecc8af}{%
-           family={Toorn},
-           familyi={T\bibinitperiod},
-           given={Karel},
-           giveni={K\bibinitperiod},
-           prefix={van\bibnamedelima der},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=77e6cc97752448b8b3957b2dc2ef95cb}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Lee\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=47bc1f92f63443c345988c6d3f2581a4}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Cambridge, MA}%
+        {Peabody, MA}%
       }
       \list{publisher}{1}{%
-        {Harvard University Press}%
+        {Hendrickson}%
       }
-      \strng{namehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{fullhash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{bibnamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{authorbibnamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{authornamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{authorfullhash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \field{sortinit}{T}
-      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Scribal Culture}
-      \field{title}{Scribal Culture and the Making of the Hebrew Bible}
-      \field{year}{2007}
-      \field{dateera}{ce}
-    \endentry
-    \entry{trevor_basor1949}{article}{}
-      \name{author}{1}{}{%
-        {{hash=56469c9e27d1304025a5156298b3086b}{%
-           family={Trever},
-           familyi={T\bibinitperiod},
-           given={John\bibnamedelima C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \strng{namehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{fullhash}{56469c9e27d1304025a5156298b3086b}
-      \strng{bibnamehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{authorbibnamehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{authornamehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{authorfullhash}{56469c9e27d1304025a5156298b3086b}
-      \field{sortinit}{T}
-      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \strng{namehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{fullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{bibnamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authorbibnamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authornamehash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{authorfullhash}{6e2a27a9ffc97440795afa3eb38bd56a}
+      \strng{editorbibnamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editornamehash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \strng{editorfullhash}{ca9941b0c8cf640441a8c4f064acc4ea}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Bulletin of the American Schools of Oriental Research}
-      \field{number}{115}
-      \field{shortjournal}{BASOR}
-      \field{title}{Identification of the Aramaic Fourth Scroll from ʿAin Feshkha}
-      \field{year}{1949}
+      \field{booktitle}{The Canon Debate}
+      \field{title}{The Notion and Definition of Canon}
+      \field{year}{2002}
       \field{dateera}{ce}
-      \field{pages}{8\bibrangedash 10}
-      \range{pages}{3}
+      \field{pages}{21\bibrangedash 35}
+      \range{pages}{15}
     \endentry
-    \entry{vanderkam_feldman-etal2017}{incollection}{}
+    \entry{vanderkam_dsd1998}{article}{}
       \name{author}{1}{}{%
         {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
            family={VanderKam},
@@ -2031,97 +963,26 @@
            given={James\bibnamedelima C.},
            giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
-      \name{editor}{3}{}{%
-        {{hash=7ab9769ee7671962f87be1ee355e6e3b}{%
-           family={Feldman},
-           familyi={F\bibinitperiod},
-           given={Ariel},
-           giveni={A\bibinitperiod}}}%
-        {{hash=19c700788f6634c12c73ff1f59b9aed0}{%
-           family={Ciotată},
-           familyi={C\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod}}}%
-        {{hash=aeead5f5d2a1be18899f7f610bee20af}{%
-           family={Hempel},
-           familyi={H\bibinitperiod},
-           given={Charlotte},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
       \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editorbibnamehash}{80976a125517de5763532a6582b3843b}
-      \strng{editornamehash}{80976a125517de5763532a6582b3843b}
-      \strng{editorfullhash}{80976a125517de5763532a6582b3843b}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Is There a Text in This Cave? Studies in the Textuality of the Dead Sea Scrolls in Honour of George J. Brooke}
-      \field{number}{119}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{Some Thoughts}
-      \field{title}{Some Thoughts on the Relationship between the Book of Jubilees and the Genesis Apocryphon}
-      \field{year}{2017}
+      \field{journaltitle}{Dead Sea Discoveries}
+      \field{number}{3}
+      \field{shortjournal}{DSD}
+      \field{shorttitle}{Authoritative Literature}
+      \field{title}{Authoritative Literature in the Dead Sea Scrolls}
+      \field{volume}{5}
+      \field{year}{1998}
       \field{dateera}{ce}
-      \field{pages}{371\bibrangedash 384}
-      \range{pages}{14}
-    \endentry
-    \entry{vanderkam_kapera1992}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
-           family={VanderKam},
-           familyi={V\bibinitperiod},
-           given={James\bibnamedelima C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=78590ee6d0d8c570892896bd9f53bbb0}{%
-           family={Kapera},
-           familyi={K\bibinitperiod},
-           given={Zdzisław\bibnamedelima Jan},
-           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Kraków}%
-      }
-      \list{publisher}{1}{%
-        {Enigma}%
-      }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editorbibnamehash}{78590ee6d0d8c570892896bd9f53bbb0}
-      \strng{editornamehash}{78590ee6d0d8c570892896bd9f53bbb0}
-      \strng{editorfullhash}{78590ee6d0d8c570892896bd9f53bbb0}
-      \field{sortinit}{V}
-      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Intertestamental Essays in Honour of Jósef Tadeusz Milik}
-      \field{number}{6}
-      \field{series}{Qumranica Mogilanensia}
-      \field{shortseries}{QM}
-      \field{shorttitle}{Intertestamental Essays}
-      \field{title}{The Birth of Noah}
-      \field{year}{1992}
-      \field{dateera}{ce}
-      \field{pages}{213\bibrangedash 31}
-      \range{pages}{19}
+      \field{pages}{382\bibrangedash 402}
+      \range{pages}{21}
     \endentry
     \entry{vermes1961}{book}{}
       \name{author}{1}{}{%
@@ -2155,31 +1016,20 @@
       \field{year}{1961}
       \field{dateera}{ce}
     \endentry
-    \entry{werman_chazon-etal1999}{incollection}{}
+    \entry{vermes_zsengeller2014}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=bb3291917c5ab9da69cc6222b82ca6a0}{%
-           family={Werman},
-           familyi={W\bibinitperiod},
-           given={Cana},
-           giveni={C\bibinitperiod}}}%
+        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
+           family={Vermes},
+           familyi={V\bibinitperiod},
+           given={Geza},
+           giveni={G\bibinitperiod}}}%
       }
-      \true{moreeditor}
-      \name{editor}{3}{}{%
-        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
-           family={Chazon},
-           familyi={C\bibinitperiod},
-           given={Estelle\bibnamedelima Glickler},
-           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
-           family={Stone},
-           familyi={S\bibinitperiod},
-           given={Michael\bibnamedelima Edward},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=4d2362c7e41c76c67435a9fdadbd52f1}{%
-           family={Pinnick},
-           familyi={P\bibinitperiod},
-           given={Avital},
-           giveni={A\bibinitperiod}}}%
+      \name{editor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leiden}%
@@ -2187,115 +1037,58 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{fullhash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{bibnamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{authorbibnamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{authornamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{authorfullhash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \strng{namehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{fullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{bibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorbibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authornamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorfullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{editorbibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
-      \field{number}{31}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{Qumran and the Book of Noah}
-      \field{title}{Qumran and the Book of Noah}
-      \field{year}{1999}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJsup}
+      \field{shorttitle}{Rewritten Bible after Fifty Years}
+      \field{title}{The Genesis of the Concept of `Rewritten Bible'}
+      \field{year}{2014}
       \field{dateera}{ce}
-      \field{pages}{171\bibrangedash 182}
-      \range{pages}{12}
+      \field{pages}{3\bibrangedash 9}
+      \range{pages}{7}
     \endentry
-    \entry{wills2002}{book}{}
+    \entry{zahn_jbl2012}{article}{}
       \name{author}{1}{}{%
-        {{hash=4188732fdc271b992102ebd74aa91447}{%
-           family={Wills},
-           familyi={W\bibinitperiod},
-           given={Lawrence},
-           giveni={L\bibinitperiod}}}%
+        {{hash=bc99fbbbca01f7f289a3e603cdc0e01a}{%
+           family={Zahn},
+           familyi={Z\bibinitperiod},
+           given={Molly\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \list{location}{2}{%
-        {Oxford}%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{fullhash}{4188732fdc271b992102ebd74aa91447}
-      \strng{bibnamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authorbibnamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \strng{namehash}{bc99fbbbca01f7f289a3e603cdc0e01a}
+      \strng{fullhash}{bc99fbbbca01f7f289a3e603cdc0e01a}
+      \strng{bibnamehash}{bc99fbbbca01f7f289a3e603cdc0e01a}
+      \strng{authorbibnamehash}{bc99fbbbca01f7f289a3e603cdc0e01a}
+      \strng{authornamehash}{bc99fbbbca01f7f289a3e603cdc0e01a}
+      \strng{authorfullhash}{bc99fbbbca01f7f289a3e603cdc0e01a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Ancient Jewish Novels}
-      \field{title}{Ancient Jewish Novels: An Anthology}
-      \field{year}{2002}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{number}{2}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{Genre and Rewritten Scripture}
+      \field{title}{Genre and Rewritten Scripture: A Reassessment}
+      \field{volume}{131}
+      \field{year}{2012}
       \field{dateera}{ce}
-    \endentry
-    \entry{wills1990}{book}{}
-      \name{author}{1}{}{%
-        {{hash=4188732fdc271b992102ebd74aa91447}{%
-           family={Wills},
-           familyi={W\bibinitperiod},
-           given={Lawrence},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Minneapolis, MN}%
-      }
-      \list{publisher}{1}{%
-        {Fortress}%
-      }
-      \strng{namehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{fullhash}{4188732fdc271b992102ebd74aa91447}
-      \strng{bibnamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authorbibnamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Jew in the Court of the Foreign King}
-      \field{year}{1990}
-      \field{dateera}{ce}
-    \endentry
-    \entry{wills1995}{book}{}
-      \name{author}{1}{}{%
-        {{hash=4188732fdc271b992102ebd74aa91447}{%
-           family={Wills},
-           familyi={W\bibinitperiod},
-           given={Lawrence},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Ithaca, NY}%
-      }
-      \list{publisher}{1}{%
-        {Cornell University Press}%
-      }
-      \strng{namehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{fullhash}{4188732fdc271b992102ebd74aa91447}
-      \strng{bibnamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authorbibnamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
-      \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Jewish Novel in the Ancient World}
-      \field{year}{1995}
-      \field{dateera}{ce}
+      \field{pages}{271\bibrangedash 288}
+      \range{pages}{18}
     \endentry
   \enddatalist
 \endrefsection
