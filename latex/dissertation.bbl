@@ -66,6 +66,34 @@
       \field{pages}{99\bibrangedash 121}
       \range{pages}{23}
     \endentry
+    \entry{allen_jsnt2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e1a2cb14649a74dca05867348bb7116c}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Garrick\bibnamedelima V.},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1a2cb14649a74dca05867348bb7116c}
+      \strng{fullhash}{e1a2cb14649a74dca05867348bb7116c}
+      \strng{bibnamehash}{e1a2cb14649a74dca05867348bb7116c}
+      \strng{authorbibnamehash}{e1a2cb14649a74dca05867348bb7116c}
+      \strng{authornamehash}{e1a2cb14649a74dca05867348bb7116c}
+      \strng{authorfullhash}{e1a2cb14649a74dca05867348bb7116c}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal for the Study of the New Testament}
+      \field{number}{1}
+      \field{shortjournal}{JSNT}
+      \field{title}{Rewriting and the Gospels}
+      \field{volume}{41}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{58\bibrangedash 69}
+      \range{pages}{12}
+    \endentry
     \entry{bernstein_textus2005}{article}{}
       \name{author}{1}{}{%
         {{hash=4720838eb7fda2ca42df156705a591a2}{%
@@ -528,6 +556,32 @@
       \field{pages}{308\bibrangedash 320}
       \range{pages}{13}
     \endentry
+    \entry{malan_hts2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=859a7ca4b99f349a0b0b561f45f77f4a}{%
+           family={Malan},
+           familyi={M\bibinitperiod},
+           given={Gert\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{859a7ca4b99f349a0b0b561f45f77f4a}
+      \strng{fullhash}{859a7ca4b99f349a0b0b561f45f77f4a}
+      \strng{bibnamehash}{859a7ca4b99f349a0b0b561f45f77f4a}
+      \strng{authorbibnamehash}{859a7ca4b99f349a0b0b561f45f77f4a}
+      \strng{authornamehash}{859a7ca4b99f349a0b0b561f45f77f4a}
+      \strng{authorfullhash}{859a7ca4b99f349a0b0b561f45f77f4a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HTS Teologiese Studies/Theological Studies}
+      \field{number}{1}
+      \field{shortjournal}{HTS}
+      \field{title}{Is Rewritten Bible/Scripture the Solution to the Synoptic Problem?}
+      \field{volume}{70}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
     \entry{mason2002_mcdonald-sanders2002}{incollection}{}
       \name{author}{1}{}{%
         {{hash=39796c2a5025c245b30db0b821d7ca44}{%
@@ -573,6 +627,54 @@
       \field{dateera}{ce}
       \field{pages}{110\bibrangedash 27}
       \range{pages}{18}
+    \endentry
+    \entry{müller_back-kankaanniemi2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ace254a7ac24c5cc7568fadeaff01488}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Mogens},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=195378684cb2650557fc659fe3c8f5a8}{%
+           family={Back},
+           familyi={B\bibinitperiod},
+           given={Sven-Olav},
+           giveni={S\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=61a639024f553b36b707356ec5c4fc08}{%
+           family={Kankaanniemi},
+           familyi={K\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Åbo}%
+      }
+      \list{publisher}{1}{%
+        {Åbo Akademi}%
+      }
+      \strng{namehash}{ace254a7ac24c5cc7568fadeaff01488}
+      \strng{fullhash}{ace254a7ac24c5cc7568fadeaff01488}
+      \strng{bibnamehash}{ace254a7ac24c5cc7568fadeaff01488}
+      \strng{authorbibnamehash}{ace254a7ac24c5cc7568fadeaff01488}
+      \strng{authornamehash}{ace254a7ac24c5cc7568fadeaff01488}
+      \strng{authorfullhash}{ace254a7ac24c5cc7568fadeaff01488}
+      \strng{editorbibnamehash}{364d907e40cbb6fa64ec0cd8ca6a3175}
+      \strng{editornamehash}{364d907e40cbb6fa64ec0cd8ca6a3175}
+      \strng{editorfullhash}{364d907e40cbb6fa64ec0cd8ca6a3175}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Voces Clamantium in Deserto: Essays in Honor of Kari Syreeni}
+      \field{series}{Studier i exegetik vid judaistik utgivna av Teologiska fakulteten vid Åbo Akademi}
+      \field{shorttitle}{Luke --- The Fourth Gospel?}
+      \field{title}{Luke --- The Fourth Gospel? The `Rewritten Bible' Concept as a Way to Understand the Nature of the Later Gospels}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{231\bibrangedash 242}
+      \range{pages}{12}
     \endentry
     \entry{newsom_grossman2010}{incollection}{}
       \name{author}{1}{}{%
