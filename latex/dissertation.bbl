@@ -85,14 +85,105 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal for the Study of the New Testament}
-      \field{number}{1}
+      \field{number}{41}
       \field{shortjournal}{JSNT}
       \field{title}{Rewriting and the Gospels}
-      \field{volume}{41}
       \field{year}{2018}
       \field{dateera}{ce}
       \field{pages}{58\bibrangedash 69}
       \range{pages}{12}
+    \endentry
+    \entry{asale_bt2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3c4fe661f0f615b081385d174f42345}{%
+           family={Asale},
+           familyi={A\bibinitperiod},
+           given={Bruk\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3c4fe661f0f615b081385d174f42345}
+      \strng{fullhash}{b3c4fe661f0f615b081385d174f42345}
+      \strng{bibnamehash}{b3c4fe661f0f615b081385d174f42345}
+      \strng{authorbibnamehash}{b3c4fe661f0f615b081385d174f42345}
+      \strng{authornamehash}{b3c4fe661f0f615b081385d174f42345}
+      \strng{authorfullhash}{b3c4fe661f0f615b081385d174f42345}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{The Bible Translator}
+      \field{number}{2}
+      \field{shortjournal}{BT}
+      \field{shorttitle}{Ethiopian Orthodox Tewahedo Church}
+      \field{title}{The Ethiopian Orthodox Tewahedo Church Canon of the Scriptures: Neither Open nor Closed}
+      \field{volume}{67}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{202\bibrangedash 222}
+      \range{pages}{21}
+    \endentry
+    \entry{baynes_mason-etal2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0c0799a3434c5d916d0166fed3d482a2}{%
+           family={Baynes},
+           familyi={B\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=95b45398ec5a525eb255d3cf0a0b5e9d}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Eric\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=6f87acb222a2f59c6180a55156c259e6}{%
+           family={Coblentz\bibnamedelima Bautch},
+           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Kelley},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a3cd77b0ea5ee1322564e83461745080}{%
+           family={Harkins},
+           familyi={H\bibinitperiod},
+           given={Angela\bibnamedelima Kim},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=cbfb50cc0c5a2e78668288cac2509d6a}{%
+           family={Machiela},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{0c0799a3434c5d916d0166fed3d482a2}
+      \strng{fullhash}{0c0799a3434c5d916d0166fed3d482a2}
+      \strng{bibnamehash}{0c0799a3434c5d916d0166fed3d482a2}
+      \strng{authorbibnamehash}{0c0799a3434c5d916d0166fed3d482a2}
+      \strng{authornamehash}{0c0799a3434c5d916d0166fed3d482a2}
+      \strng{authorfullhash}{0c0799a3434c5d916d0166fed3d482a2}
+      \strng{editorbibnamehash}{3f395dd1488032173eb698afc8f49dfa}
+      \strng{editornamehash}{21856ae35e8713ccf03f73752741e5eb}
+      \strng{editorfullhash}{3f395dd1488032173eb698afc8f49dfa}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
+      \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
+      \field{number}{153}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Enoch and Jubilees}
+      \field{title}{Enoch and Jubilees in the Canon of the Ethiopian Orthodox Church}
+      \field{volume}{2}
+      \field{volumes}{2}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{799\bibrangedash 818}
+      \range{pages}{20}
     \endentry
     \entry{bernstein_textus2005}{article}{}
       \name{author}{1}{}{%
@@ -415,6 +506,34 @@
       \field{dateera}{ce}
       \field{pages}{49\bibrangedash 81}
       \range{pages}{33}
+    \endentry
+    \entry{cowley_os1974}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f3c52b240a31724836440f9378219408}{%
+           family={Cowley},
+           familyi={C\bibinitperiod},
+           given={Roger\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3c52b240a31724836440f9378219408}
+      \strng{fullhash}{f3c52b240a31724836440f9378219408}
+      \strng{bibnamehash}{f3c52b240a31724836440f9378219408}
+      \strng{authorbibnamehash}{f3c52b240a31724836440f9378219408}
+      \strng{authornamehash}{f3c52b240a31724836440f9378219408}
+      \strng{authorfullhash}{f3c52b240a31724836440f9378219408}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ostkirchliche Studien}
+      \field{number}{4}
+      \field{shortjournal}{OS}
+      \field{title}{The Biblical Canon of the Ethiopian Orthodox Church Today}
+      \field{volume}{23}
+      \field{year}{1974}
+      \field{dateera}{ce}
+      \field{pages}{318\bibrangedash 23}
+      \range{pages}{6}
     \endentry
     \entry{harrington_kraft-nickelsburg1986}{incollection}{}
       \name{author}{1}{}{%
