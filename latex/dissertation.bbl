@@ -571,6 +571,31 @@
       \field{pages}{318\bibrangedash 23}
       \range{pages}{6}
     \endentry
+    \entry{fowler2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6408cbf06b16ddb8248c5c428f7a69c9}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Alastair},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6408cbf06b16ddb8248c5c428f7a69c9}
+      \strng{fullhash}{6408cbf06b16ddb8248c5c428f7a69c9}
+      \strng{bibnamehash}{6408cbf06b16ddb8248c5c428f7a69c9}
+      \strng{authorbibnamehash}{6408cbf06b16ddb8248c5c428f7a69c9}
+      \strng{authornamehash}{6408cbf06b16ddb8248c5c428f7a69c9}
+      \strng{authorfullhash}{6408cbf06b16ddb8248c5c428f7a69c9}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Kinds of Literature: An Introduction to the Theory of Genres and Mode}
+      \field{edition}{revised}
+      \field{shorttitle}{Kinds of Literature}
+      \field{title}{Kinds of Literature: An Introduction to the Theory of Genres and Mode}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
     \entry{harrington_kraft-nickelsburg1986}{incollection}{}
       \name{author}{1}{}{%
         {{hash=ab72b1eaeedb404668b94ec0ed0354b8}{%
