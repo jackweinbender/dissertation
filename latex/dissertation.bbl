@@ -97,9 +97,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal for the Study of the New Testament}
-      \field{number}{41}
       \field{shortjournal}{JSNT}
       \field{title}{Rewriting and the Gospels}
+      \field{volume}{41}
       \field{year}{2018}
       \field{dateera}{ce}
       \field{pages}{58\bibrangedash 69}
@@ -1027,6 +1027,8 @@
       \field{shortjournal}{HTS}
       \field{title}{Is Rewritten Bible/Scripture the Solution to the Synoptic Problem?}
       \field{volume}{70}
+      \field{year}{2014}
+      \field{dateera}{ce}
       \field{pages}{1\bibrangedash 10}
       \range{pages}{10}
     \endentry
