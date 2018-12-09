@@ -5,7 +5,6 @@ bib/files/*.pdf
 # System and build files
 tmp
 .DS_Store
-.vscode
 .texpadtmp
 
 # Keep
