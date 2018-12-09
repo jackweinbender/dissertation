@@ -1393,6 +1393,42 @@
       \field{pages}{10\bibrangedash 28}
       \range{pages}{19}
     \endentry
+    \entry{smith-riley2009}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e991b67145e464231da48208ba0c50db}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fbffd2c7ff53903db5f1f34260e1f4f2}{%
+           family={Riley},
+           familyi={R\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, UK}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{4307bb1f0f8f202f5a9e738fb2a07c47}
+      \strng{fullhash}{4307bb1f0f8f202f5a9e738fb2a07c47}
+      \strng{bibnamehash}{4307bb1f0f8f202f5a9e738fb2a07c47}
+      \strng{authorbibnamehash}{4307bb1f0f8f202f5a9e738fb2a07c47}
+      \strng{authornamehash}{4307bb1f0f8f202f5a9e738fb2a07c47}
+      \strng{authorfullhash}{4307bb1f0f8f202f5a9e738fb2a07c47}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Cultural Theory: An Introduction}
+      \field{edition}{2}
+      \field{shorttitle}{Cultural Theory}
+      \field{title}{Cultural Theory: An Introduction}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
     \entry{tino_jsj2018}{article}{}
       \name{author}{1}{}{%
         {{hash=abddac1bfc001fde9790b0333cf3a962}{%
@@ -1732,6 +1768,61 @@
       \field{dateera}{ce}
       \field{pages}{3\bibrangedash 9}
       \range{pages}{7}
+    \endentry
+    \entry{weber1978}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5c5b680247c92b67e657f8faab60250e}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=35022f0a16bb39504eceda570461b066}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Guenther},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1ae27dccfed3ff646476cb19f0664de9}{%
+           family={Wittich},
+           familyi={W\bibinitperiod},
+           given={Claus},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=49c4aae5c0376f3f5c16ea63569f1ecb}{%
+           family={Fischoff},
+           familyi={F\bibinitperiod},
+           given={Ephraim},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkley, CA}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{fullhash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{bibnamehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{authorbibnamehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{authornamehash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{authorfullhash}{5c5b680247c92b67e657f8faab60250e}
+      \strng{editorbibnamehash}{c8b9d8ed178f6e1f403a0e1d9533f773}
+      \strng{editornamehash}{c8b9d8ed178f6e1f403a0e1d9533f773}
+      \strng{editorfullhash}{c8b9d8ed178f6e1f403a0e1d9533f773}
+      \strng{translatorbibnamehash}{49c4aae5c0376f3f5c16ea63569f1ecb}
+      \strng{translatornamehash}{49c4aae5c0376f3f5c16ea63569f1ecb}
+      \strng{translatorfullhash}{49c4aae5c0376f3f5c16ea63569f1ecb}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{origyear}{1922}
+      \field{title}{Economy and Society}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \field{origdateera}{ce}
     \endentry
     \entry{zahn_jbl2012}{article}{}
       \name{author}{1}{}{%

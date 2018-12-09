@@ -1,6 +1,8 @@
 {
     "spellright.language": [
         "English (American)",
+        "French",
+        "German",
         "Latin"
     ],
     "spellright.documentTypes": [
