@@ -3399,6 +3399,29 @@
       \field{pages}{291\bibrangedash 315}
       \range{pages}{25}
     \endentry
+    \entry{ricoeur2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3d20e6df30e34dcca4760bb31bddaa90}{%
+           family={Ricoeur},
+           familyi={R\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d20e6df30e34dcca4760bb31bddaa90}
+      \strng{fullhash}{3d20e6df30e34dcca4760bb31bddaa90}
+      \strng{bibnamehash}{3d20e6df30e34dcca4760bb31bddaa90}
+      \strng{authorbibnamehash}{3d20e6df30e34dcca4760bb31bddaa90}
+      \strng{authornamehash}{3d20e6df30e34dcca4760bb31bddaa90}
+      \strng{authorfullhash}{3d20e6df30e34dcca4760bb31bddaa90}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Memory, History, Forgetting}
+      \field{title}{Memory, History, Forgetting}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
     \entry{rodriguez2010}{book}{}
       \name{author}{1}{}{%
         {{hash=5df97de4f5e9c06142b8688601da0dc4}{%
