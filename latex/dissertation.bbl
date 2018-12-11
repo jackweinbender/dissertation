@@ -352,7 +352,7 @@
       \field{pages}{51\bibrangedash 75}
       \range{pages}{25}
     \endentry
-    \entry{dad538f6dac197e1f48792a133d9e293}{article}{dataonly}
+    \entry{dad538f6dac197e1f48792a133d9e293}{article}{skipbib,skipbiblist=false}
       \name{author}{1}{}{%
         {{hash=6a9c9043a3f4b297c702728d79e24fa8}{%
            family={Bloch},
@@ -366,6 +366,7 @@
       \strng{authorbibnamehash}{6a9c9043a3f4b297c702728d79e24fa8}
       \strng{authornamehash}{6a9c9043a3f4b297c702728d79e24fa8}
       \strng{authorfullhash}{6a9c9043a3f4b297c702728d79e24fa8}
+      \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -2703,7 +2704,7 @@
       \field{year}{1973}
       \field{dateera}{ce}
     \endentry
-    \entry{a4b17f99faf069c378b674de8a59f23f}{book}{dataonly}
+    \entry{a4b17f99faf069c378b674de8a59f23f}{book}{skipbib,skipbiblist=false}
       \name{author}{1}{}{%
         {{hash=f0d72d6c7032c8accb806b99a1556e87}{%
            family={Halbwachs},
@@ -2723,6 +2724,7 @@
       \strng{authorbibnamehash}{f0d72d6c7032c8accb806b99a1556e87}
       \strng{authornamehash}{f0d72d6c7032c8accb806b99a1556e87}
       \strng{authorfullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \field{extraname}{1}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -2752,7 +2754,7 @@
       \strng{authorbibnamehash}{f0d72d6c7032c8accb806b99a1556e87}
       \strng{authornamehash}{f0d72d6c7032c8accb806b99a1556e87}
       \strng{authorfullhash}{f0d72d6c7032c8accb806b99a1556e87}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -2779,7 +2781,7 @@
       \strng{authorbibnamehash}{f0d72d6c7032c8accb806b99a1556e87}
       \strng{authornamehash}{f0d72d6c7032c8accb806b99a1556e87}
       \strng{authorfullhash}{f0d72d6c7032c8accb806b99a1556e87}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -2818,7 +2820,7 @@
       \strng{translatorbibnamehash}{52e9b591dc4d74b710e1a27f540b1c39}
       \strng{translatornamehash}{52e9b591dc4d74b710e1a27f540b1c39}
       \strng{translatorfullhash}{52e9b591dc4d74b710e1a27f540b1c39}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -2875,7 +2877,7 @@
       \strng{withtranslatorbibnamehash}{3e0fbe95ce5bd0eadd397fe69bd6138b}
       \strng{withtranslatornamehash}{3e0fbe95ce5bd0eadd397fe69bd6138b}
       \strng{withtranslatorfullhash}{3e0fbe95ce5bd0eadd397fe69bd6138b}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -3063,7 +3065,7 @@
       \field{year}{2011}
       \field{dateera}{ce}
     \endentry
-    \entry{fca1bf1c313043e177fb17b2acd99541}{article}{dataonly}
+    \entry{fca1bf1c313043e177fb17b2acd99541}{article}{skipbib,skipbiblist=false}
       \name{author}{1}{}{%
         {{hash=0d74d2d02e801f21fc22dd73f15369fc}{%
            family={Klein},
@@ -3077,6 +3079,7 @@
       \strng{authorbibnamehash}{0d74d2d02e801f21fc22dd73f15369fc}
       \strng{authornamehash}{0d74d2d02e801f21fc22dd73f15369fc}
       \strng{authorfullhash}{0d74d2d02e801f21fc22dd73f15369fc}
+      \field{extraname}{2}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -3119,7 +3122,7 @@
       \strng{bookauthorbibnamehash}{0d74d2d02e801f21fc22dd73f15369fc}
       \strng{bookauthornamehash}{0d74d2d02e801f21fc22dd73f15369fc}
       \strng{bookauthorfullhash}{0d74d2d02e801f21fc22dd73f15369fc}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -3183,15 +3186,15 @@
       \field{labeltitlesource}{shorttitle}
       \field{issuetitle}{Special Issue: Memory and Counter-Memory}
       \field{journaltitle}{Representations}
-      \field{number}{26}
       \field{shorttitle}{Between Memory and History}
       \field{title}{Between Memory and History: Les Lieux de Mémoire}
+      \field{volume}{26}
       \field{year}{1989}
       \field{dateera}{ce}
       \field{pages}{7\bibrangedash 24}
       \range{pages}{18}
     \endentry
-    \entry{25fe911b53d41e2425092925a0ccc44a}{mvbook}{dataonly}
+    \entry{25fe911b53d41e2425092925a0ccc44a}{mvbook}{skipbib,skipbiblist=false}
       \name{editor}{1}{}{%
         {{hash=0d31905f2879b15061a4d57444cf7370}{%
            family={Nora},
@@ -3211,6 +3214,7 @@
       \strng{editorbibnamehash}{0d31905f2879b15061a4d57444cf7370}
       \strng{editornamehash}{0d31905f2879b15061a4d57444cf7370}
       \strng{editorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{editor}
@@ -3259,7 +3263,7 @@
       \strng{translatorbibnamehash}{80aef52e1b2443826700803781f6d5f9}
       \strng{translatornamehash}{80aef52e1b2443826700803781f6d5f9}
       \strng{translatorfullhash}{80aef52e1b2443826700803781f6d5f9}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
