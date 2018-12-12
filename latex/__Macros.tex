@@ -3,6 +3,14 @@
 % Fix spacing issues for brackets and braces following \xspace
 \xspaceaddexceptions{]\}}
 
+% Roman Numeral Conversion (Doesn't work for 0!)
+\newcommand{\rom}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+
+\newcommand{\col}   [1]{col. \rom{#1}\xspace}
+\newcommand{\cols}  [2]{cols. \rom{#1}--\rom{#2}\xspace}
+\newcommand{\Col}   [1]{Column \rom{#1}\xspace}
+\newcommand{\Cols}  [2]{Columns \rom{#1}--\rom{#2}\xspace}
+
 \newcommand{\visavis}{vis-à-vis\xspace}
 
 %% Names %%
@@ -30,6 +38,9 @@
 \newcommand{\sefer} {Sefer ha-Yashar\xspace}
 \newcommand{\enoch} {Enoch\xspace}
 \newcommand{\firstenoch} {1~Enoch\xspace}
+\newcommand{\genrab}[1]{Gen. Rab. #1\xspace}
+\newcommand{\GenRabbah} {Genesis Rabbah\xspace}
+
 
 %% Terms %%
 % Rewritten Bible

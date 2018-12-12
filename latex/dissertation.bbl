@@ -165,18 +165,18 @@
     \endentry
     \entry{bernstein_jbl2009}{article}{}
       \name{author}{1}{}{%
-        {{hash=83131c2cc1e7d5adad6f041093a19f82}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
            family={Bernstein},
            familyi={B\bibinitperiod},
-           given={Moshe},
-           giveni={M\bibinitperiod}}}%
+           given={Moshe\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{fullhash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{bibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorbibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authornamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorfullhash}{83131c2cc1e7d5adad6f041093a19f82}
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
       \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
@@ -193,11 +193,11 @@
     \endentry
     \entry{bernstein_berthelot-etal2010}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=83131c2cc1e7d5adad6f041093a19f82}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
            family={Bernstein},
            familyi={B\bibinitperiod},
-           given={Moshe},
-           giveni={M\bibinitperiod}}}%
+           given={Moshe\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=2eec8a19b4374425b254da5ec6885010}{%
@@ -217,12 +217,12 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{fullhash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{bibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorbibnamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authornamehash}{83131c2cc1e7d5adad6f041093a19f82}
-      \strng{authorfullhash}{83131c2cc1e7d5adad6f041093a19f82}
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
       \strng{editorbibnamehash}{176c113e0bf467d8614e9259888eded3}
       \strng{editornamehash}{176c113e0bf467d8614e9259888eded3}
       \strng{editorfullhash}{176c113e0bf467d8614e9259888eded3}
@@ -328,10 +328,10 @@
     \endentry
     \entry{black_black-fohrer1968}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=2b3c10869230cac1fee7d2cb2b297298}{%
+        {{hash=8cf5576122c796e5740966e81d134723}{%
            family={Black},
            familyi={B\bibinitperiod},
-           given={Mathew},
+           given={Matthew},
            giveni={M\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
@@ -352,12 +352,12 @@
       \list{publisher}{1}{%
         {Töpelmann}%
       }
-      \strng{namehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{fullhash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{bibnamehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{authorbibnamehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{authornamehash}{2b3c10869230cac1fee7d2cb2b297298}
-      \strng{authorfullhash}{2b3c10869230cac1fee7d2cb2b297298}
+      \strng{namehash}{8cf5576122c796e5740966e81d134723}
+      \strng{fullhash}{8cf5576122c796e5740966e81d134723}
+      \strng{bibnamehash}{8cf5576122c796e5740966e81d134723}
+      \strng{authorbibnamehash}{8cf5576122c796e5740966e81d134723}
+      \strng{authornamehash}{8cf5576122c796e5740966e81d134723}
+      \strng{authorfullhash}{8cf5576122c796e5740966e81d134723}
       \strng{editorbibnamehash}{88db3ad473dfba25e7217764ccafdfe5}
       \strng{editornamehash}{88db3ad473dfba25e7217764ccafdfe5}
       \strng{editorfullhash}{88db3ad473dfba25e7217764ccafdfe5}
@@ -672,7 +672,7 @@
       \field{booktitle}{Studies in the Hebrew Bible, Qumran, and the Septuagint Presented to Eugene Ulrich}
       \field{number}{101}
       \field{series}{Supplements to Vetus Testamentum}
-      \field{shortseries}{VTsup}
+      \field{shortseries}{VTSup}
       \field{shorttitle}{Two `Scientific' Fictions}
       \field{title}{Two `Scientific' Fictions: The So-Called Book of Noah and the Alleged Quotation of Jubilees in CD 16:3-4}
       \field{year}{2006}
@@ -1130,10 +1130,12 @@
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{issue}{3}
       \field{journaltitle}{Journal for the Study of Judaism}
       \field{shortjournal}{JSJ}
       \field{shorttitle}{A Wandering Aramean in Pharaoh's Court}
       \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19-20 and Jewish Fictional Literature}
+      \field{volume}{49}
       \field{year}{2018}
       \field{dateera}{ce}
       \field{pages}{1\bibrangedash 34}
@@ -1385,7 +1387,7 @@
       \field{booktitle}{Current Trends in the Study of Midrash}
       \field{number}{106}
       \field{series}{Supplements to the Journal for the Study of Judaism}
-      \field{shortseries}{JSJsup}
+      \field{shortseries}{JSJSup}
       \field{shorttitle}{Origins of Midrash in the Second Temple Period}
       \field{title}{The Origins of Midrash in the Second Temple Period}
       \field{year}{2006}
@@ -1422,6 +1424,35 @@
       \field{title}{The Origins of \emph{Midrash}: From Teaching to Text}
       \field{year}{2017}
       \field{dateera}{ce}
+    \endentry
+    \entry{mays_interpretation1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c93c37726bb473f672f7ace34c8ea798}{%
+           family={Mays},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima Luther},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{fullhash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{bibnamehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{authorbibnamehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{authornamehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{authorfullhash}{c93c37726bb473f672f7ace34c8ea798}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Interpretation}
+      \field{number}{2}
+      \field{shortjournal}{Int}
+      \field{shorttitle}{David of the Psalms}
+      \field{title}{The David of the Psalms}
+      \field{volume}{40}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{pages}{143\bibrangedash 155}
+      \range{pages}{13}
     \endentry
     \entry{milik1959}{book}{}
       \name{author}{1}{}{%
@@ -1540,7 +1571,7 @@
       \field{booktitle}{Flores Florentino: Dead Sea Scrolls and Other Early Jewish Studies in Honour of Florentino Garcia Martinez}
       \field{number}{122}
       \field{series}{Supplements to the Journal for the Study of Judaism}
-      \field{shortseries}{JSJsup}
+      \field{shortseries}{JSJSup}
       \field{shorttitle}{Flores Florentino}
       \field{title}{How Should We Contextualize Pseudepigrapha? Imitation and Emulation in 4 Ezra}
       \field{year}{2007}
@@ -1757,6 +1788,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Revelation, Literature, and Community in Late Antiquity}
+      \field{number}{146}
       \field{series}{Texts and Studies in Ancient Judaism}
       \field{shortseries}{TSAJ}
       \field{shorttitle}{Pseudepigraphy and/as Prophecy}
@@ -1810,7 +1842,7 @@
       \field{number}{6}
       \field{series}{The Bible in Ancient Christianity}
       \field{shortseries}{BAC}
-      \field{title}{Pseudepigraphy, Authorship and the Reception of 'the Bible' in Late Antiquity}
+      \field{title}{Pseudepigraphy, Authorship and the Reception of `the Bible' in Late Antiquity}
       \field{year}{2008}
       \field{dateera}{ce}
       \field{pages}{467\bibrangedash 90}
@@ -1843,6 +1875,53 @@
       \field{dateera}{ce}
       \field{pages}{403\bibrangedash 436}
       \range{pages}{34}
+    \endentry
+    \entry{sarna_stein-loewe1979}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d49d1621e9860764cb4b9189f6e75f61}{%
+           family={Sarna},
+           familyi={S\bibinitperiod},
+           given={Nahum\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6b316cfc03f54123806bf80f3da1ade8}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Siegfried},
+           giveni={S\bibinitperiod}}}%
+        {{hash=783157c4a638c4c262bcd404660b47fa}{%
+           family={Loewe},
+           familyi={L\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {University, AL}%
+      }
+      \list{publisher}{1}{%
+        {University of Alabama Press}%
+      }
+      \strng{namehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{fullhash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{bibnamehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{authorbibnamehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{authornamehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{authorfullhash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{editorbibnamehash}{179b9e7ea1ea802915b03da6c5586045}
+      \strng{editornamehash}{179b9e7ea1ea802915b03da6c5586045}
+      \strng{editorfullhash}{179b9e7ea1ea802915b03da6c5586045}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Studies in Jewish Religious and Intellectual History presented to Alexander Altmann on the occasion of his seventieth birthday}
+      \field{shorttitle}{Psalm Superscriptions}
+      \field{title}{The Psalm Superscriptions and the Guilds}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{pages}{281\bibrangedash 300}
+      \range{pages}{20}
     \endentry
     \entry{segal_as2010}{article}{}
       \name{author}{1}{}{%
