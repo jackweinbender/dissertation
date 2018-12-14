@@ -61,9 +61,8 @@
       <file>sbl.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
-      <file>english-sbl.lbx</file>
-      <file>american.lbx</file>
-      <file>american-sbl.lbx</file>
+      <file>sbl-english.lbx</file>
+      <file>sbl-american.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
