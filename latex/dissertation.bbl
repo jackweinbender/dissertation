@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -40,7 +40,7 @@
     \endentry
     \entry{abbott2008}{book}{}
       \name{author}{1}{}{%
-        {{hash=a815a81c172c9f7fb1fb1ac16df8d201}{%
+        {{hash=68aa9ef9163c92d7af9069e03b58a8ea}{%
            family={Abbott},
            familyi={A\bibinitperiod},
            given={H.\bibnamedelimi Porter},
@@ -53,12 +53,12 @@
       \list{publisher}{1}{%
         {Cambridge University Press}%
       }
-      \strng{namehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{fullhash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{bibnamehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{authorbibnamehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{authornamehash}{a815a81c172c9f7fb1fb1ac16df8d201}
-      \strng{authorfullhash}{a815a81c172c9f7fb1fb1ac16df8d201}
+      \strng{namehash}{68aa9ef9163c92d7af9069e03b58a8ea}
+      \strng{fullhash}{68aa9ef9163c92d7af9069e03b58a8ea}
+      \strng{bibnamehash}{68aa9ef9163c92d7af9069e03b58a8ea}
+      \strng{authorbibnamehash}{68aa9ef9163c92d7af9069e03b58a8ea}
+      \strng{authornamehash}{68aa9ef9163c92d7af9069e03b58a8ea}
+      \strng{authorfullhash}{68aa9ef9163c92d7af9069e03b58a8ea}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{labelnamesource}{author}
@@ -131,7 +131,7 @@
            familyi={B\bibinitperiod},
            given={Dominique},
            giveni={D\bibinitperiod}}}%
-        {{hash=7d6fef04af2492c1360c0b9c6548c770}{%
+        {{hash=12841063ef09e31b4a0a5db1b2ffd6ae}{%
            family={Milik},
            familyi={M\bibinitperiod},
            given={Józef\bibnamedelima T.},
@@ -143,12 +143,12 @@
       \list{publisher}{1}{%
         {Clarendon}%
       }
-      \strng{namehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{fullhash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{bibnamehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{editorbibnamehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{editornamehash}{db5c4a9b1949aea7ba10f62898fb1850}
-      \strng{editorfullhash}{db5c4a9b1949aea7ba10f62898fb1850}
+      \strng{namehash}{4d7f5c4df89717596f1ef52079afeca0}
+      \strng{fullhash}{4d7f5c4df89717596f1ef52079afeca0}
+      \strng{bibnamehash}{4d7f5c4df89717596f1ef52079afeca0}
+      \strng{editorbibnamehash}{4d7f5c4df89717596f1ef52079afeca0}
+      \strng{editornamehash}{4d7f5c4df89717596f1ef52079afeca0}
+      \strng{editorfullhash}{4d7f5c4df89717596f1ef52079afeca0}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{editor}
@@ -165,18 +165,19 @@
     \endentry
     \entry{bernstein_jbl2009}{article}{}
       \name{author}{1}{}{%
-        {{hash=4720838eb7fda2ca42df156705a591a2}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
            family={Bernstein},
            familyi={B\bibinitperiod},
            given={Moshe\bibnamedelima J.},
            giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{bibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorbibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -192,7 +193,7 @@
     \endentry
     \entry{bernstein_berthelot-etal2010}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=4720838eb7fda2ca42df156705a591a2}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
            family={Bernstein},
            familyi={B\bibinitperiod},
            given={Moshe\bibnamedelima J.},
@@ -204,7 +205,7 @@
            familyi={B\bibinitperiod},
            given={Katell},
            giveni={K\bibinitperiod}}}%
-        {{hash=80eede611be1979bb1817edd8658b980}{%
+        {{hash=f78cbad8858cbd20af204b68bf66e86b}{%
            family={Ezra},
            familyi={E\bibinitperiod},
            given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
@@ -216,15 +217,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{bibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorbibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{editorbibnamehash}{176c113e0bf467d8614e9259888eded3}
+      \strng{editornamehash}{176c113e0bf467d8614e9259888eded3}
+      \strng{editorfullhash}{176c113e0bf467d8614e9259888eded3}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -241,18 +243,19 @@
     \endentry
     \entry{bernstein_as2010}{article}{}
       \name{author}{1}{}{%
-        {{hash=4720838eb7fda2ca42df156705a591a2}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
            family={Bernstein},
            familyi={B\bibinitperiod},
            given={Moshe\bibnamedelima J.},
            giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{bibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorbibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -268,7 +271,7 @@
     \endentry
     \entry{bernstein_chazon-etal1999}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=4720838eb7fda2ca42df156705a591a2}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
            family={Bernstein},
            familyi={B\bibinitperiod},
            given={Moshe\bibnamedelima J.},
@@ -276,12 +279,12 @@
       }
       \true{moreeditor}
       \name{editor}{3}{}{%
-        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
+        {{hash=a49067958843a0cabcf206047fda4bb6}{%
            family={Chazon},
            familyi={C\bibinitperiod},
            given={Estelle\bibnamedelima Glickler},
            giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
+        {{hash=36f44037efb5b6399c7758b6a1a6e1b9}{%
            family={Stone},
            familyi={S\bibinitperiod},
            given={Michael\bibnamedelima Edward},
@@ -298,15 +301,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{fullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{bibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorbibnamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authornamehash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{authorfullhash}{4720838eb7fda2ca42df156705a591a2}
-      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{editorbibnamehash}{fc1c34a7450b9b4c9fbf07b363e8de86}
+      \strng{editornamehash}{fc1c34a7450b9b4c9fbf07b363e8de86}
+      \strng{editorfullhash}{fc1c34a7450b9b4c9fbf07b363e8de86}
+      \field{extraname}{4}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -357,6 +361,7 @@
       \strng{editorbibnamehash}{88db3ad473dfba25e7217764ccafdfe5}
       \strng{editornamehash}{88db3ad473dfba25e7217764ccafdfe5}
       \strng{editorfullhash}{88db3ad473dfba25e7217764ccafdfe5}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -397,6 +402,7 @@
       \strng{authorbibnamehash}{8cf5576122c796e5740966e81d134723}
       \strng{authornamehash}{8cf5576122c796e5740966e81d134723}
       \strng{authorfullhash}{8cf5576122c796e5740966e81d134723}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -418,17 +424,17 @@
            giveni={E\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=62557a653da41f36bd8e43ceee482edd}{%
+        {{hash=e24a393903151e64eb99e74580d7df6e}{%
            family={Barton},
            familyi={B\bibinitperiod},
            given={Stephen\bibnamedelima C.},
            giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=ca786cad5aaef3caf357c9f32e9d90f8}{%
+        {{hash=43c5e663bfb533955cf6fbcd866a9a2a}{%
            family={Stuckenbruck},
            familyi={S\bibinitperiod},
            given={Loren\bibnamedelima T.},
            giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-        {{hash=b49f087fcadc2ec7f378e0a4ae00d30f}{%
+        {{hash=75a89fa1a8f97d7a34ddfd90e3487b6d}{%
            family={Wold},
            familyi={W\bibinitperiod},
            given={Benjamin\bibnamedelima G.},
@@ -446,9 +452,9 @@
       \strng{authorbibnamehash}{7c2dde8dc1121f07fbeea336c446d4af}
       \strng{authornamehash}{7c2dde8dc1121f07fbeea336c446d4af}
       \strng{authorfullhash}{7c2dde8dc1121f07fbeea336c446d4af}
-      \strng{editorbibnamehash}{ef4aefd9401e176b1f304c65ea2a367b}
-      \strng{editornamehash}{ef4aefd9401e176b1f304c65ea2a367b}
-      \strng{editorfullhash}{ef4aefd9401e176b1f304c65ea2a367b}
+      \strng{editorbibnamehash}{4ced044d476a4ea18a23b22e38dfef6e}
+      \strng{editornamehash}{4ced044d476a4ea18a23b22e38dfef6e}
+      \strng{editorfullhash}{4ced044d476a4ea18a23b22e38dfef6e}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -466,7 +472,7 @@
     \endentry
     \entry{charlesworth_OTP}{mvreference}{}
       \name{editor}{1}{}{%
-        {{hash=3186c1ac414a45f0b324544b70169159}{%
+        {{hash=1b08d20775afb48cde5c7f68405a8806}{%
            family={Charlesworth},
            familyi={C\bibinitperiod},
            given={James\bibnamedelima H.},
@@ -478,12 +484,12 @@
       \list{publisher}{1}{%
         {Hendrickson}%
       }
-      \strng{namehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{fullhash}{3186c1ac414a45f0b324544b70169159}
-      \strng{bibnamehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{editorbibnamehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{editornamehash}{3186c1ac414a45f0b324544b70169159}
-      \strng{editorfullhash}{3186c1ac414a45f0b324544b70169159}
+      \strng{namehash}{1b08d20775afb48cde5c7f68405a8806}
+      \strng{fullhash}{1b08d20775afb48cde5c7f68405a8806}
+      \strng{bibnamehash}{1b08d20775afb48cde5c7f68405a8806}
+      \strng{editorbibnamehash}{1b08d20775afb48cde5c7f68405a8806}
+      \strng{editornamehash}{1b08d20775afb48cde5c7f68405a8806}
+      \strng{editorfullhash}{1b08d20775afb48cde5c7f68405a8806}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{editor}
@@ -497,7 +503,7 @@
     \endentry
     \entry{collins1993}{book}{}
       \name{author}{1}{}{%
-        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
+        {{hash=beb988fc2eff76bad8845ace4b5b3c3c}{%
            family={Collins},
            familyi={C\bibinitperiod},
            given={John\bibnamedelima J.},
@@ -509,12 +515,13 @@
       \list{publisher}{1}{%
         {Fortress}%
       }
-      \strng{namehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{fullhash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{bibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorbibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authornamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorfullhash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{namehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{fullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{bibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authorbibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authornamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authorfullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
@@ -526,18 +533,19 @@
     \endentry
     \entry{collins_jbl1975}{article}{}
       \name{author}{1}{}{%
-        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
+        {{hash=beb988fc2eff76bad8845ace4b5b3c3c}{%
            family={Collins},
            familyi={C\bibinitperiod},
            given={John\bibnamedelima J.},
            giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{fullhash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{bibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorbibnamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authornamehash}{8dc04133ca6e1251e86ac71e2a9df668}
-      \strng{authorfullhash}{8dc04133ca6e1251e86ac71e2a9df668}
+      \strng{namehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{fullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{bibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authorbibnamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authornamehash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \strng{authorfullhash}{beb988fc2eff76bad8845ace4b5b3c3c}
+      \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
@@ -552,7 +560,7 @@
     \endentry
     \entry{crawford2008}{book}{}
       \name{author}{1}{}{%
-        {{hash=00bea775372d5a7c5f20ff0f1d1dff7f}{%
+        {{hash=c26228ce0db2d36039922689db10df93}{%
            family={Crawford},
            familyi={C\bibinitperiod},
            given={Sidnie\bibnamedelima White},
@@ -564,12 +572,12 @@
       \list{publisher}{1}{%
         {Eerdmans}%
       }
-      \strng{namehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{fullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{bibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{authorbibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{authornamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
-      \strng{authorfullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{namehash}{c26228ce0db2d36039922689db10df93}
+      \strng{fullhash}{c26228ce0db2d36039922689db10df93}
+      \strng{bibnamehash}{c26228ce0db2d36039922689db10df93}
+      \strng{authorbibnamehash}{c26228ce0db2d36039922689db10df93}
+      \strng{authornamehash}{c26228ce0db2d36039922689db10df93}
+      \strng{authorfullhash}{c26228ce0db2d36039922689db10df93}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
@@ -631,7 +639,7 @@
            giveni={D\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=acc7b6753b979233bd3f01f12ba51fa5}{%
+        {{hash=fef6f040f89eb0770707655b832373e2}{%
            family={James\bibnamedelimb C.\bibnamedelimi VanderKam},
            familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod},
            given={Peter\bibnamedelimb W.\bibnamedelimi Flint},
@@ -654,9 +662,9 @@
       \strng{authorbibnamehash}{27c4a1b777e0fddd1def6da98d25d913}
       \strng{authornamehash}{27c4a1b777e0fddd1def6da98d25d913}
       \strng{authorfullhash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{editorbibnamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{editornamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{editorfullhash}{59bd841a6764593196f5767bef08085a}
+      \strng{editorbibnamehash}{71e264bcf3cf938a11bae656e89a3daf}
+      \strng{editornamehash}{71e264bcf3cf938a11bae656e89a3daf}
+      \strng{editorfullhash}{71e264bcf3cf938a11bae656e89a3daf}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -674,7 +682,7 @@
     \endentry
     \entry{driver1956}{book}{}
       \name{author}{1}{}{%
-        {{hash=147623896123137275a3e03102ef183b}{%
+        {{hash=ab6848e337c4a1e8c93918e9822d7f12}{%
            family={Driver},
            familyi={D\bibinitperiod},
            given={Samuel\bibnamedelima R.},
@@ -686,12 +694,12 @@
       \list{publisher}{1}{%
         {Meridian}%
       }
-      \strng{namehash}{147623896123137275a3e03102ef183b}
-      \strng{fullhash}{147623896123137275a3e03102ef183b}
-      \strng{bibnamehash}{147623896123137275a3e03102ef183b}
-      \strng{authorbibnamehash}{147623896123137275a3e03102ef183b}
-      \strng{authornamehash}{147623896123137275a3e03102ef183b}
-      \strng{authorfullhash}{147623896123137275a3e03102ef183b}
+      \strng{namehash}{ab6848e337c4a1e8c93918e9822d7f12}
+      \strng{fullhash}{ab6848e337c4a1e8c93918e9822d7f12}
+      \strng{bibnamehash}{ab6848e337c4a1e8c93918e9822d7f12}
+      \strng{authorbibnamehash}{ab6848e337c4a1e8c93918e9822d7f12}
+      \strng{authornamehash}{ab6848e337c4a1e8c93918e9822d7f12}
+      \strng{authorfullhash}{ab6848e337c4a1e8c93918e9822d7f12}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -714,7 +722,7 @@
            giveni={E\bibinitperiod}}}%
       }
       \name{editor}{6}{}{%
-        {{hash=18d6a26ea3e8623e6a8e528ac7ed992c}{%
+        {{hash=8187ff905e735bd54b9866b348b866b7}{%
            family={Petersen},
            familyi={P\bibinitperiod},
            given={Anders\bibnamedelima Klostergaard},
@@ -759,9 +767,10 @@
       \strng{authorbibnamehash}{7cf3ac398387a9e543526554dfa93bab}
       \strng{authornamehash}{7cf3ac398387a9e543526554dfa93bab}
       \strng{authorfullhash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{editorbibnamehash}{4f5b3cc7d443503a59f389e44546e3f6}
-      \strng{editornamehash}{d64a4288e53f3f5627f403960761f225}
-      \strng{editorfullhash}{4f5b3cc7d443503a59f389e44546e3f6}
+      \strng{editorbibnamehash}{ff9e88fe78cd95c6d722ef519efcaaf5}
+      \strng{editornamehash}{1d772c9caa074d10695b94bd2dd239e4}
+      \strng{editorfullhash}{ff9e88fe78cd95c6d722ef519efcaaf5}
+      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
@@ -786,12 +795,12 @@
            giveni={E\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=4031564fe725a97732b90c4349de46b9}{%
+        {{hash=1d3ede5ab7f27d1fac92f2c8042031e8}{%
            family={Roitman},
            familyi={R\bibinitperiod},
            given={Adolfo\bibnamedelima D.},
            giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
+        {{hash=606b6769b66c6303ce8c57f24b772340}{%
            family={Schiffman},
            familyi={S\bibinitperiod},
            given={Lawrence\bibnamedelima H.},
@@ -814,9 +823,10 @@
       \strng{authorbibnamehash}{7cf3ac398387a9e543526554dfa93bab}
       \strng{authornamehash}{7cf3ac398387a9e543526554dfa93bab}
       \strng{authorfullhash}{7cf3ac398387a9e543526554dfa93bab}
-      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{editorbibnamehash}{df525830091e9fd3c2f526a86c458468}
+      \strng{editornamehash}{df525830091e9fd3c2f526a86c458468}
+      \strng{editorfullhash}{df525830091e9fd3c2f526a86c458468}
+      \field{extraname}{2}
       \field{sortinit}{E}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
@@ -834,18 +844,18 @@
     \endentry
     \entry{evans_revq1988}{article}{}
       \name{author}{1}{}{%
-        {{hash=5a64cb0c3c932e247a62e12bfdf6989b}{%
+        {{hash=b06a8bcb6b28a4bbd2ec5445b8a431f0}{%
            family={Evans},
            familyi={E\bibinitperiod},
            given={Craig\bibnamedelima A.},
            giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{fullhash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{bibnamehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{authorbibnamehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{authornamehash}{5a64cb0c3c932e247a62e12bfdf6989b}
-      \strng{authorfullhash}{5a64cb0c3c932e247a62e12bfdf6989b}
+      \strng{namehash}{b06a8bcb6b28a4bbd2ec5445b8a431f0}
+      \strng{fullhash}{b06a8bcb6b28a4bbd2ec5445b8a431f0}
+      \strng{bibnamehash}{b06a8bcb6b28a4bbd2ec5445b8a431f0}
+      \strng{authorbibnamehash}{b06a8bcb6b28a4bbd2ec5445b8a431f0}
+      \strng{authornamehash}{b06a8bcb6b28a4bbd2ec5445b8a431f0}
+      \strng{authorfullhash}{b06a8bcb6b28a4bbd2ec5445b8a431f0}
       \field{sortinit}{E}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
@@ -860,7 +870,7 @@
     \endentry
     \entry{falk2007}{book}{}
       \name{author}{1}{}{%
-        {{hash=f3b8d007dba0169ffe02ffee9f7bfc5c}{%
+        {{hash=31a6ddb50d9cc6e4ccc7b6358b5f6cab}{%
            family={Falk},
            familyi={F\bibinitperiod},
            given={Daniel\bibnamedelima K.},
@@ -872,12 +882,12 @@
       \list{publisher}{1}{%
         {T \& T Clark}%
       }
-      \strng{namehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{fullhash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{bibnamehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{authorbibnamehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{authornamehash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
-      \strng{authorfullhash}{f3b8d007dba0169ffe02ffee9f7bfc5c}
+      \strng{namehash}{31a6ddb50d9cc6e4ccc7b6358b5f6cab}
+      \strng{fullhash}{31a6ddb50d9cc6e4ccc7b6358b5f6cab}
+      \strng{bibnamehash}{31a6ddb50d9cc6e4ccc7b6358b5f6cab}
+      \strng{authorbibnamehash}{31a6ddb50d9cc6e4ccc7b6358b5f6cab}
+      \strng{authornamehash}{31a6ddb50d9cc6e4ccc7b6358b5f6cab}
+      \strng{authorfullhash}{31a6ddb50d9cc6e4ccc7b6358b5f6cab}
       \field{sortinit}{F}
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
       \field{labelnamesource}{author}
@@ -891,7 +901,7 @@
     \endentry
     \entry{fitzmyer2004}{book}{}
       \name{author}{1}{}{%
-        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
+        {{hash=8bfb9fdd1c0af5aa7c74d7f06d1193d6}{%
            family={Fitzmyer},
            familyi={F\bibinitperiod},
            given={Joseph\bibnamedelima A.},
@@ -903,12 +913,12 @@
       \list{publisher}{1}{%
         {Biblical Institute Press}%
       }
-      \strng{namehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{fullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{bibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{authorbibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{authornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{authorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{namehash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{fullhash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{bibnamehash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{authorbibnamehash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{authornamehash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{authorfullhash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
       \field{sortinit}{F}
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
       \field{labelnamesource}{author}
@@ -924,7 +934,7 @@
     \endentry
     \entry{flusser_ks1956}{review}{}
       \name{author}{1}{}{%
-        {{hash=bb338d43cf2e51d0165cfcc2da1ec3f0}{%
+        {{hash=d6146dbb53a3bf3f508d39fda3de43f8}{%
            family={Flusser},
            familyi={F\bibinitperiod},
            given={D.},
@@ -942,12 +952,12 @@
            given={Yigael},
            giveni={Y\bibinitperiod}}}%
       }
-      \strng{namehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{fullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{bibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{authorbibnamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{authornamehash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
-      \strng{authorfullhash}{bb338d43cf2e51d0165cfcc2da1ec3f0}
+      \strng{namehash}{d6146dbb53a3bf3f508d39fda3de43f8}
+      \strng{fullhash}{d6146dbb53a3bf3f508d39fda3de43f8}
+      \strng{bibnamehash}{d6146dbb53a3bf3f508d39fda3de43f8}
+      \strng{authorbibnamehash}{d6146dbb53a3bf3f508d39fda3de43f8}
+      \strng{authornamehash}{d6146dbb53a3bf3f508d39fda3de43f8}
+      \strng{authorfullhash}{d6146dbb53a3bf3f508d39fda3de43f8}
       \strng{revdauthorbibnamehash}{b64a7d7c81125c2c685ef108dca9aa09}
       \strng{revdauthornamehash}{b64a7d7c81125c2c685ef108dca9aa09}
       \strng{revdauthorfullhash}{b64a7d7c81125c2c685ef108dca9aa09}
@@ -965,7 +975,7 @@
     \endentry
     \entry{gaster1976}{book}{}
       \name{author}{1}{}{%
-        {{hash=8ff1541f332aa7d2c2b83574a3c1da22}{%
+        {{hash=34ebb9f1e3c0fa2abdb8efc4e472d40f}{%
            family={Gaster},
            familyi={G\bibinitperiod},
            given={T.\bibnamedelimi H.},
@@ -977,12 +987,12 @@
       \list{publisher}{1}{%
         {Anchor}%
       }
-      \strng{namehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{fullhash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{bibnamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{authorbibnamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{authornamehash}{8ff1541f332aa7d2c2b83574a3c1da22}
-      \strng{authorfullhash}{8ff1541f332aa7d2c2b83574a3c1da22}
+      \strng{namehash}{34ebb9f1e3c0fa2abdb8efc4e472d40f}
+      \strng{fullhash}{34ebb9f1e3c0fa2abdb8efc4e472d40f}
+      \strng{bibnamehash}{34ebb9f1e3c0fa2abdb8efc4e472d40f}
+      \strng{authorbibnamehash}{34ebb9f1e3c0fa2abdb8efc4e472d40f}
+      \strng{authornamehash}{34ebb9f1e3c0fa2abdb8efc4e472d40f}
+      \strng{authorfullhash}{34ebb9f1e3c0fa2abdb8efc4e472d40f}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
@@ -995,18 +1005,18 @@
     \endentry
     \entry{gevirtz_maarav1992}{article}{}
       \name{author}{1}{}{%
-        {{hash=192f8761e4da2c28bd3a4476d5430e7c}{%
+        {{hash=0ed29d532e393cf4ba404af00391102e}{%
            family={Gevirtz},
            familyi={G\bibinitperiod},
            given={Marianne\bibnamedelima Luijken},
            giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
-      \strng{namehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{fullhash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{bibnamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authorbibnamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authornamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authorfullhash}{192f8761e4da2c28bd3a4476d5430e7c}
+      \strng{namehash}{0ed29d532e393cf4ba404af00391102e}
+      \strng{fullhash}{0ed29d532e393cf4ba404af00391102e}
+      \strng{bibnamehash}{0ed29d532e393cf4ba404af00391102e}
+      \strng{authorbibnamehash}{0ed29d532e393cf4ba404af00391102e}
+      \strng{authornamehash}{0ed29d532e393cf4ba404af00391102e}
+      \strng{authorfullhash}{0ed29d532e393cf4ba404af00391102e}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
@@ -1023,19 +1033,19 @@
     \endentry
     \entry{harrington_kraft-nickelsburg1986}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=75ea9d61f6011555f36b7e29902a3fd7}{%
+        {{hash=ab72b1eaeedb404668b94ec0ed0354b8}{%
            family={Harrington},
            familyi={H\bibinitperiod},
            given={Daniel\bibnamedelima J.},
            giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=dd959932175bee195169e9f26c4861fa}{%
+        {{hash=b3e82be677ea94109d426c042b789e25}{%
            family={Kraft},
            familyi={K\bibinitperiod},
            given={Robert\bibnamedelima A.},
            giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ebd9c2d4467832e01063474554c1785d}{%
+        {{hash=42d73817770633ab8db3117c326b93c6}{%
            family={Nickelsburg},
            familyi={N\bibinitperiod},
            given={George\bibnamedelimb W.\bibnamedelimi E.},
@@ -1047,15 +1057,15 @@
       \list{publisher}{1}{%
         {Scholars Press}%
       }
-      \strng{namehash}{75ea9d61f6011555f36b7e29902a3fd7}
-      \strng{fullhash}{75ea9d61f6011555f36b7e29902a3fd7}
-      \strng{bibnamehash}{75ea9d61f6011555f36b7e29902a3fd7}
-      \strng{authorbibnamehash}{75ea9d61f6011555f36b7e29902a3fd7}
-      \strng{authornamehash}{75ea9d61f6011555f36b7e29902a3fd7}
-      \strng{authorfullhash}{75ea9d61f6011555f36b7e29902a3fd7}
-      \strng{editorbibnamehash}{d4b4669d92c80134b96af5a2d9cb0e36}
-      \strng{editornamehash}{d4b4669d92c80134b96af5a2d9cb0e36}
-      \strng{editorfullhash}{d4b4669d92c80134b96af5a2d9cb0e36}
+      \strng{namehash}{ab72b1eaeedb404668b94ec0ed0354b8}
+      \strng{fullhash}{ab72b1eaeedb404668b94ec0ed0354b8}
+      \strng{bibnamehash}{ab72b1eaeedb404668b94ec0ed0354b8}
+      \strng{authorbibnamehash}{ab72b1eaeedb404668b94ec0ed0354b8}
+      \strng{authornamehash}{ab72b1eaeedb404668b94ec0ed0354b8}
+      \strng{authorfullhash}{ab72b1eaeedb404668b94ec0ed0354b8}
+      \strng{editorbibnamehash}{dde4f5ccb3ceac3a4da549a4a9b37590}
+      \strng{editornamehash}{dde4f5ccb3ceac3a4da549a4a9b37590}
+      \strng{editorfullhash}{dde4f5ccb3ceac3a4da549a4a9b37590}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -1073,28 +1083,28 @@
     \endentry
     \entry{hartman_cbq1966}{review}{}
       \name{author}{1}{}{%
-        {{hash=82e3366cb155d5c536875453cb59567a}{%
+        {{hash=fe70b872c2a8210b3ff97f4803354908}{%
            family={Hartman},
            familyi={H\bibinitperiod},
            given={Louis\bibnamedelima F.},
            giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
       }
       \name{revdauthor}{1}{}{%
-        {{hash=21c1a2ef422fbcc8ad18daa783824ecf}{%
+        {{hash=8bfb9fdd1c0af5aa7c74d7f06d1193d6}{%
            family={Fitzmyer},
            familyi={F\bibinitperiod},
            given={Joseph\bibnamedelima A.},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{fullhash}{82e3366cb155d5c536875453cb59567a}
-      \strng{bibnamehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{authorbibnamehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{authornamehash}{82e3366cb155d5c536875453cb59567a}
-      \strng{authorfullhash}{82e3366cb155d5c536875453cb59567a}
-      \strng{revdauthorbibnamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{revdauthornamehash}{21c1a2ef422fbcc8ad18daa783824ecf}
-      \strng{revdauthorfullhash}{21c1a2ef422fbcc8ad18daa783824ecf}
+      \strng{namehash}{fe70b872c2a8210b3ff97f4803354908}
+      \strng{fullhash}{fe70b872c2a8210b3ff97f4803354908}
+      \strng{bibnamehash}{fe70b872c2a8210b3ff97f4803354908}
+      \strng{authorbibnamehash}{fe70b872c2a8210b3ff97f4803354908}
+      \strng{authornamehash}{fe70b872c2a8210b3ff97f4803354908}
+      \strng{authorfullhash}{fe70b872c2a8210b3ff97f4803354908}
+      \strng{revdauthorbibnamehash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{revdauthornamehash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
+      \strng{revdauthorfullhash}{8bfb9fdd1c0af5aa7c74d7f06d1193d6}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -1109,18 +1119,18 @@
     \endentry
     \entry{humphreys_jbl1973}{article}{}
       \name{author}{1}{}{%
-        {{hash=de4c26adbc5b7ccf75e86494fa45a26a}{%
+        {{hash=3710e9dffa15ff6e3c14e7ce887c568b}{%
            family={Humphreys},
            familyi={H\bibinitperiod},
            given={W.\bibnamedelimi L.},
            giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
-      \strng{namehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{fullhash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{bibnamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{authorbibnamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{authornamehash}{de4c26adbc5b7ccf75e86494fa45a26a}
-      \strng{authorfullhash}{de4c26adbc5b7ccf75e86494fa45a26a}
+      \strng{namehash}{3710e9dffa15ff6e3c14e7ce887c568b}
+      \strng{fullhash}{3710e9dffa15ff6e3c14e7ce887c568b}
+      \strng{bibnamehash}{3710e9dffa15ff6e3c14e7ce887c568b}
+      \strng{authorbibnamehash}{3710e9dffa15ff6e3c14e7ce887c568b}
+      \strng{authornamehash}{3710e9dffa15ff6e3c14e7ce887c568b}
+      \strng{authorfullhash}{3710e9dffa15ff6e3c14e7ce887c568b}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
@@ -1137,18 +1147,18 @@
     \endentry
     \entry{jurgens_jsj2018}{article}{}
       \name{author}{1}{}{%
-        {{hash=402c4a1b712ed1f4ab7530b84d741a7c}{%
+        {{hash=431e7f453b3fddeb5d8ed9a06422f2f0}{%
            family={Jurgens},
            familyi={J\bibinitperiod},
            given={Blake\bibnamedelima A.},
            giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{fullhash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{bibnamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{authorbibnamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{authornamehash}{402c4a1b712ed1f4ab7530b84d741a7c}
-      \strng{authorfullhash}{402c4a1b712ed1f4ab7530b84d741a7c}
+      \strng{namehash}{431e7f453b3fddeb5d8ed9a06422f2f0}
+      \strng{fullhash}{431e7f453b3fddeb5d8ed9a06422f2f0}
+      \strng{bibnamehash}{431e7f453b3fddeb5d8ed9a06422f2f0}
+      \strng{authorbibnamehash}{431e7f453b3fddeb5d8ed9a06422f2f0}
+      \strng{authornamehash}{431e7f453b3fddeb5d8ed9a06422f2f0}
+      \strng{authorfullhash}{431e7f453b3fddeb5d8ed9a06422f2f0}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
@@ -1166,7 +1176,7 @@
     \endentry
     \entry{kugel2012}{book}{}
       \name{author}{1}{}{%
-        {{hash=ff2635a9d3deac1aacf2f57cd0b509c2}{%
+        {{hash=281bc60ed3b7545e280189e8a1f73cde}{%
            family={Kugel},
            familyi={K\bibinitperiod},
            given={James\bibnamedelima L.},
@@ -1178,12 +1188,13 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{fullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{bibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorbibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authornamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorfullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
+      \strng{namehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{fullhash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{bibnamehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{authorbibnamehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{authornamehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{authorfullhash}{281bc60ed3b7545e280189e8a1f73cde}
+      \field{extraname}{1}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -1197,19 +1208,19 @@
     \endentry
     \entry{kugel_roitman-etal2011}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ff2635a9d3deac1aacf2f57cd0b509c2}{%
+        {{hash=281bc60ed3b7545e280189e8a1f73cde}{%
            family={Kugel},
            familyi={K\bibinitperiod},
            given={James\bibnamedelima L.},
            giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=4031564fe725a97732b90c4349de46b9}{%
+        {{hash=1d3ede5ab7f27d1fac92f2c8042031e8}{%
            family={Roitman},
            familyi={R\bibinitperiod},
            given={Adolfo\bibnamedelima D.},
            giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
+        {{hash=606b6769b66c6303ce8c57f24b772340}{%
            family={Schiffman},
            familyi={S\bibinitperiod},
            given={Lawrence\bibnamedelima H.},
@@ -1226,15 +1237,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{fullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{bibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorbibnamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authornamehash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{authorfullhash}{ff2635a9d3deac1aacf2f57cd0b509c2}
-      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{namehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{fullhash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{bibnamehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{authorbibnamehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{authornamehash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{authorfullhash}{281bc60ed3b7545e280189e8a1f73cde}
+      \strng{editorbibnamehash}{df525830091e9fd3c2f526a86c458468}
+      \strng{editornamehash}{df525830091e9fd3c2f526a86c458468}
+      \strng{editorfullhash}{df525830091e9fd3c2f526a86c458468}
+      \field{extraname}{2}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -1252,14 +1264,14 @@
     \endentry
     \entry{machiela_falk-etal2010}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+        {{hash=a50e6a8117dfd4206332259a3f6cdb49}{%
            family={Machiela},
            familyi={M\bibinitperiod},
            given={Daniel\bibnamedelima A.},
            giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \name{editor}{4}{}{%
-        {{hash=f3b8d007dba0169ffe02ffee9f7bfc5c}{%
+        {{hash=31a6ddb50d9cc6e4ccc7b6358b5f6cab}{%
            family={Falk},
            familyi={F\bibinitperiod},
            given={Daniel\bibnamedelima K.},
@@ -1269,12 +1281,12 @@
            familyi={M\bibinitperiod},
            given={Sarianna},
            giveni={S\bibinitperiod}}}%
-        {{hash=719a5f01c45c26640591273cc1893de6}{%
+        {{hash=9d1c069284cf28f42826e53275fe65e8}{%
            family={Parry},
            familyi={P\bibinitperiod},
            given={Donald\bibnamedelima W.},
            giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=ffe8b376c99fce88a3e8f3f03d522a39}{%
+        {{hash=55a4aae70afd964b427d4e7656300758}{%
            family={Tigchelaar},
            familyi={T\bibinitperiod},
            given={Eibert\bibnamedelima J.C.},
@@ -1286,15 +1298,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{editorbibnamehash}{bdd6fff65154e0838ce1bafb22949349}
-      \strng{editornamehash}{2f1174996c08983e9c4268f2a7688f7c}
-      \strng{editorfullhash}{bdd6fff65154e0838ce1bafb22949349}
+      \strng{namehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{fullhash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{bibnamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authorbibnamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authornamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authorfullhash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{editorbibnamehash}{f4b7f8b585df93546c64177c19a30bde}
+      \strng{editornamehash}{b853dde14879dd9808e090e8feb47b5f}
+      \strng{editorfullhash}{f4b7f8b585df93546c64177c19a30bde}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -1310,18 +1323,19 @@
     \endentry
     \entry{machiela_as2010}{article}{}
       \name{author}{1}{}{%
-        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+        {{hash=a50e6a8117dfd4206332259a3f6cdb49}{%
            family={Machiela},
            familyi={M\bibinitperiod},
            given={Daniel\bibnamedelima A.},
            giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{namehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{fullhash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{bibnamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authorbibnamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authornamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authorfullhash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -1338,7 +1352,7 @@
     \endentry
     \entry{machiela2009}{book}{}
       \name{author}{1}{}{%
-        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+        {{hash=a50e6a8117dfd4206332259a3f6cdb49}{%
            family={Machiela},
            familyi={M\bibinitperiod},
            given={Daniel\bibnamedelima A.},
@@ -1350,12 +1364,13 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
-      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{namehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{fullhash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{bibnamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authorbibnamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authornamehash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \strng{authorfullhash}{a50e6a8117dfd4206332259a3f6cdb49}
+      \field{extraname}{3}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -1369,7 +1384,7 @@
     \endentry
     \entry{mandel_bakhos2006}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=90bb952ead9bd9b00a36efe1f5ef2d0d}{%
+        {{hash=14c51a7e37908736e713fc2a8f668f30}{%
            family={Mandel},
            familyi={M\bibinitperiod},
            given={Paul\bibnamedelima D.},
@@ -1388,15 +1403,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{fullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{bibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorbibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authornamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorfullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
+      \strng{namehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{fullhash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{bibnamehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{authorbibnamehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{authornamehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{authorfullhash}{14c51a7e37908736e713fc2a8f668f30}
       \strng{editorbibnamehash}{0ff007eba18328f8b80aba600fce75b7}
       \strng{editornamehash}{0ff007eba18328f8b80aba600fce75b7}
       \strng{editorfullhash}{0ff007eba18328f8b80aba600fce75b7}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -1414,7 +1430,7 @@
     \endentry
     \entry{mandel2017}{book}{}
       \name{author}{1}{}{%
-        {{hash=90bb952ead9bd9b00a36efe1f5ef2d0d}{%
+        {{hash=14c51a7e37908736e713fc2a8f668f30}{%
            family={Mandel},
            familyi={M\bibinitperiod},
            given={Paul\bibnamedelima D.},
@@ -1426,12 +1442,13 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{fullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{bibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorbibnamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authornamehash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
-      \strng{authorfullhash}{90bb952ead9bd9b00a36efe1f5ef2d0d}
+      \strng{namehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{fullhash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{bibnamehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{authorbibnamehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{authornamehash}{14c51a7e37908736e713fc2a8f668f30}
+      \strng{authorfullhash}{14c51a7e37908736e713fc2a8f668f30}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -1443,18 +1460,18 @@
     \endentry
     \entry{mays_interpretation1986}{article}{}
       \name{author}{1}{}{%
-        {{hash=2c7ceb10596618c5c2f83fcebb8356ae}{%
+        {{hash=c93c37726bb473f672f7ace34c8ea798}{%
            family={Mays},
            familyi={M\bibinitperiod},
            given={James\bibnamedelima Luther},
            giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
-      \strng{namehash}{2c7ceb10596618c5c2f83fcebb8356ae}
-      \strng{fullhash}{2c7ceb10596618c5c2f83fcebb8356ae}
-      \strng{bibnamehash}{2c7ceb10596618c5c2f83fcebb8356ae}
-      \strng{authorbibnamehash}{2c7ceb10596618c5c2f83fcebb8356ae}
-      \strng{authornamehash}{2c7ceb10596618c5c2f83fcebb8356ae}
-      \strng{authorfullhash}{2c7ceb10596618c5c2f83fcebb8356ae}
+      \strng{namehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{fullhash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{bibnamehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{authorbibnamehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{authornamehash}{c93c37726bb473f672f7ace34c8ea798}
+      \strng{authorfullhash}{c93c37726bb473f672f7ace34c8ea798}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -1472,7 +1489,7 @@
     \endentry
     \entry{milik1959}{book}{}
       \name{author}{1}{}{%
-        {{hash=7d6fef04af2492c1360c0b9c6548c770}{%
+        {{hash=12841063ef09e31b4a0a5db1b2ffd6ae}{%
            family={Milik},
            familyi={M\bibinitperiod},
            given={Józef\bibnamedelima T.},
@@ -1491,12 +1508,12 @@
       \list{publisher}{1}{%
         {SCM Press}%
       }
-      \strng{namehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{fullhash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{bibnamehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{authorbibnamehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{authornamehash}{7d6fef04af2492c1360c0b9c6548c770}
-      \strng{authorfullhash}{7d6fef04af2492c1360c0b9c6548c770}
+      \strng{namehash}{12841063ef09e31b4a0a5db1b2ffd6ae}
+      \strng{fullhash}{12841063ef09e31b4a0a5db1b2ffd6ae}
+      \strng{bibnamehash}{12841063ef09e31b4a0a5db1b2ffd6ae}
+      \strng{authorbibnamehash}{12841063ef09e31b4a0a5db1b2ffd6ae}
+      \strng{authornamehash}{12841063ef09e31b4a0a5db1b2ffd6ae}
+      \strng{authorfullhash}{12841063ef09e31b4a0a5db1b2ffd6ae}
       \strng{translatorbibnamehash}{1743f3411f2f55b78fb30c7a553031f4}
       \strng{translatornamehash}{1743f3411f2f55b78fb30c7a553031f4}
       \strng{translatorfullhash}{1743f3411f2f55b78fb30c7a553031f4}
@@ -1558,7 +1575,7 @@
            familyi={P\bibinitperiod},
            given={Émile},
            giveni={É\bibinitperiod}}}%
-        {{hash=57b492de79fd038dc03a9fb45b928efd}{%
+        {{hash=55a4aae70afd964b427d4e7656300758}{%
            family={Tigchelaar},
            familyi={T\bibinitperiod},
            given={Eibert\bibnamedelimb J.\bibnamedelimi C.},
@@ -1576,9 +1593,10 @@
       \strng{authorbibnamehash}{9eb296e270ed3bb10d2ae75a9e305511}
       \strng{authornamehash}{9eb296e270ed3bb10d2ae75a9e305511}
       \strng{authorfullhash}{9eb296e270ed3bb10d2ae75a9e305511}
-      \strng{editorbibnamehash}{6698e857b5e4531ec5ee9199a4bc3d03}
-      \strng{editornamehash}{6698e857b5e4531ec5ee9199a4bc3d03}
-      \strng{editorfullhash}{6698e857b5e4531ec5ee9199a4bc3d03}
+      \strng{editorbibnamehash}{1592735e1e466441c8fd90a66013391a}
+      \strng{editornamehash}{1592735e1e466441c8fd90a66013391a}
+      \strng{editorfullhash}{1592735e1e466441c8fd90a66013391a}
+      \field{extraname}{1}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
@@ -1614,6 +1632,7 @@
       \strng{authorbibnamehash}{9eb296e270ed3bb10d2ae75a9e305511}
       \strng{authornamehash}{9eb296e270ed3bb10d2ae75a9e305511}
       \strng{authorfullhash}{9eb296e270ed3bb10d2ae75a9e305511}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
@@ -1643,6 +1662,7 @@
       \strng{authorbibnamehash}{9674cac54757a54a62d9092f4240ef99}
       \strng{authornamehash}{9674cac54757a54a62d9092f4240ef99}
       \strng{authorfullhash}{9674cac54757a54a62d9092f4240ef99}
+      \field{extraname}{1}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
@@ -1654,14 +1674,14 @@
     \endentry
     \entry{nickelsburg_stone1984}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ebd9c2d4467832e01063474554c1785d}{%
+        {{hash=42d73817770633ab8db3117c326b93c6}{%
            family={Nickelsburg},
            familyi={N\bibinitperiod},
            given={George\bibnamedelimb W.\bibnamedelimi E.},
            giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=6e65295c2c74659fa0c22a578c5046c1}{%
+        {{hash=77f209f16ad044a9b9bbfd5f4e52f049}{%
            family={Stone},
            familyi={S\bibinitperiod},
            given={Michael\bibnamedelima E.},
@@ -1675,15 +1695,16 @@
         {Van Gorcum}%
         {Fortress}%
       }
-      \strng{namehash}{ebd9c2d4467832e01063474554c1785d}
-      \strng{fullhash}{ebd9c2d4467832e01063474554c1785d}
-      \strng{bibnamehash}{ebd9c2d4467832e01063474554c1785d}
-      \strng{authorbibnamehash}{ebd9c2d4467832e01063474554c1785d}
-      \strng{authornamehash}{ebd9c2d4467832e01063474554c1785d}
-      \strng{authorfullhash}{ebd9c2d4467832e01063474554c1785d}
-      \strng{editorbibnamehash}{6e65295c2c74659fa0c22a578c5046c1}
-      \strng{editornamehash}{6e65295c2c74659fa0c22a578c5046c1}
-      \strng{editorfullhash}{6e65295c2c74659fa0c22a578c5046c1}
+      \strng{namehash}{42d73817770633ab8db3117c326b93c6}
+      \strng{fullhash}{42d73817770633ab8db3117c326b93c6}
+      \strng{bibnamehash}{42d73817770633ab8db3117c326b93c6}
+      \strng{authorbibnamehash}{42d73817770633ab8db3117c326b93c6}
+      \strng{authornamehash}{42d73817770633ab8db3117c326b93c6}
+      \strng{authorfullhash}{42d73817770633ab8db3117c326b93c6}
+      \strng{editorbibnamehash}{77f209f16ad044a9b9bbfd5f4e52f049}
+      \strng{editornamehash}{77f209f16ad044a9b9bbfd5f4e52f049}
+      \strng{editorfullhash}{77f209f16ad044a9b9bbfd5f4e52f049}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
@@ -1703,18 +1724,18 @@
            familyi={N\bibinitperiod},
            given={Susan},
            giveni={S\bibinitperiod}}}%
-        {{hash=47e8c5ed4dab0053ec1e464f0b6491e3}{%
+        {{hash=0ade6da045b6478b3058634664a225ba}{%
            family={Doran},
            familyi={D\bibinitperiod},
            given={R.},
            giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{47830d278701a85aa35490447a799f3b}
-      \strng{fullhash}{47830d278701a85aa35490447a799f3b}
-      \strng{bibnamehash}{47830d278701a85aa35490447a799f3b}
-      \strng{authorbibnamehash}{47830d278701a85aa35490447a799f3b}
-      \strng{authornamehash}{47830d278701a85aa35490447a799f3b}
-      \strng{authorfullhash}{47830d278701a85aa35490447a799f3b}
+      \strng{namehash}{ab9acd6570e675bd0d277f0bc20de2b1}
+      \strng{fullhash}{ab9acd6570e675bd0d277f0bc20de2b1}
+      \strng{bibnamehash}{ab9acd6570e675bd0d277f0bc20de2b1}
+      \strng{authorbibnamehash}{ab9acd6570e675bd0d277f0bc20de2b1}
+      \strng{authornamehash}{ab9acd6570e675bd0d277f0bc20de2b1}
+      \strng{authorfullhash}{ab9acd6570e675bd0d277f0bc20de2b1}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
@@ -1729,7 +1750,7 @@
     \endentry
     \entry{perrin2015}{book}{}
       \name{author}{1}{}{%
-        {{hash=d1a5871b60e71c09b5d048f55bbe9768}{%
+        {{hash=22baeddfb4ada5e4906e8d6b2f023a7a}{%
            family={Perrin},
            familyi={P\bibinitperiod},
            given={Andrew\bibnamedelima B.},
@@ -1741,12 +1762,12 @@
       \list{publisher}{1}{%
         {Vandenhoeck \& Ruprecht}%
       }
-      \strng{namehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{fullhash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{bibnamehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{authorbibnamehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{authornamehash}{d1a5871b60e71c09b5d048f55bbe9768}
-      \strng{authorfullhash}{d1a5871b60e71c09b5d048f55bbe9768}
+      \strng{namehash}{22baeddfb4ada5e4906e8d6b2f023a7a}
+      \strng{fullhash}{22baeddfb4ada5e4906e8d6b2f023a7a}
+      \strng{bibnamehash}{22baeddfb4ada5e4906e8d6b2f023a7a}
+      \strng{authorbibnamehash}{22baeddfb4ada5e4906e8d6b2f023a7a}
+      \strng{authornamehash}{22baeddfb4ada5e4906e8d6b2f023a7a}
+      \strng{authorfullhash}{22baeddfb4ada5e4906e8d6b2f023a7a}
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
       \field{labelnamesource}{author}
@@ -1761,7 +1782,7 @@
     \endentry
     \entry{reed_towsend-moulie2011}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
+        {{hash=e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}{%
            family={Reed},
            familyi={R\bibinitperiod},
            given={Annette\bibnamedelima Yoshiko},
@@ -1785,15 +1806,16 @@
       \list{publisher}{1}{%
         {Mohr Siebeck}%
       }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{namehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{fullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{bibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorbibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authornamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorfullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
       \strng{editorbibnamehash}{1063f50f81abfe97049f45220c477fc7}
       \strng{editornamehash}{1063f50f81abfe97049f45220c477fc7}
       \strng{editorfullhash}{1063f50f81abfe97049f45220c477fc7}
+      \field{extraname}{1}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
@@ -1811,7 +1833,7 @@
     \endentry
     \entry{reed_ditomasso-turcescu2008}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
+        {{hash=e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}{%
            family={Reed},
            familyi={R\bibinitperiod},
            given={Annette\bibnamedelima Yoshiko},
@@ -1835,15 +1857,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{namehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{fullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{bibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorbibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authornamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorfullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
       \strng{editorbibnamehash}{0bbde10e8dc9fb19a0d307e213ce235d}
       \strng{editornamehash}{0bbde10e8dc9fb19a0d307e213ce235d}
       \strng{editorfullhash}{0bbde10e8dc9fb19a0d307e213ce235d}
+      \field{extraname}{2}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
@@ -1860,18 +1883,19 @@
     \endentry
     \entry{reed_jts2009}{article}{}
       \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
+        {{hash=e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}{%
            family={Reed},
            familyi={R\bibinitperiod},
            given={Annette\bibnamedelima Yoshiko},
            giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
       }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{namehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{fullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{bibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorbibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authornamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorfullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \field{extraname}{3}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
@@ -1887,7 +1911,7 @@
     \endentry
     \entry{sarna_stein-loewe1979}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=3720324874e3ad849431a1c24989f10a}{%
+        {{hash=d49d1621e9860764cb4b9189f6e75f61}{%
            family={Sarna},
            familyi={S\bibinitperiod},
            given={Nahum\bibnamedelima M.},
@@ -1911,12 +1935,12 @@
       \list{publisher}{1}{%
         {University of Alabama Press}%
       }
-      \strng{namehash}{3720324874e3ad849431a1c24989f10a}
-      \strng{fullhash}{3720324874e3ad849431a1c24989f10a}
-      \strng{bibnamehash}{3720324874e3ad849431a1c24989f10a}
-      \strng{authorbibnamehash}{3720324874e3ad849431a1c24989f10a}
-      \strng{authornamehash}{3720324874e3ad849431a1c24989f10a}
-      \strng{authorfullhash}{3720324874e3ad849431a1c24989f10a}
+      \strng{namehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{fullhash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{bibnamehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{authorbibnamehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{authornamehash}{d49d1621e9860764cb4b9189f6e75f61}
+      \strng{authorfullhash}{d49d1621e9860764cb4b9189f6e75f61}
       \strng{editorbibnamehash}{179b9e7ea1ea802915b03da6c5586045}
       \strng{editornamehash}{179b9e7ea1ea802915b03da6c5586045}
       \strng{editorfullhash}{179b9e7ea1ea802915b03da6c5586045}
@@ -1963,18 +1987,18 @@
     \endentry
     \entry{steiner_dsd1995}{article}{}
       \name{author}{1}{}{%
-        {{hash=bcfb673e07f1a637e5df387df4740691}{%
+        {{hash=dbaf3bae3e8f9dd04db75573ba992dbd}{%
            family={Steiner},
            familyi={S\bibinitperiod},
            given={Richard\bibnamedelima C.},
            giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
-      \strng{namehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{fullhash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{bibnamehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{authorbibnamehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{authornamehash}{bcfb673e07f1a637e5df387df4740691}
-      \strng{authorfullhash}{bcfb673e07f1a637e5df387df4740691}
+      \strng{namehash}{dbaf3bae3e8f9dd04db75573ba992dbd}
+      \strng{fullhash}{dbaf3bae3e8f9dd04db75573ba992dbd}
+      \strng{bibnamehash}{dbaf3bae3e8f9dd04db75573ba992dbd}
+      \strng{authorbibnamehash}{dbaf3bae3e8f9dd04db75573ba992dbd}
+      \strng{authornamehash}{dbaf3bae3e8f9dd04db75573ba992dbd}
+      \strng{authorfullhash}{dbaf3bae3e8f9dd04db75573ba992dbd}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -1991,7 +2015,7 @@
     \endentry
     \entry{stuckenbruck_berthelot-etal2010}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ca786cad5aaef3caf357c9f32e9d90f8}{%
+        {{hash=43c5e663bfb533955cf6fbcd866a9a2a}{%
            family={Stuckenbruck},
            familyi={S\bibinitperiod},
            given={Loren\bibnamedelima T.},
@@ -2003,7 +2027,7 @@
            familyi={B\bibinitperiod},
            given={Katell},
            giveni={K\bibinitperiod}}}%
-        {{hash=80eede611be1979bb1817edd8658b980}{%
+        {{hash=f78cbad8858cbd20af204b68bf66e86b}{%
            family={Ezra},
            familyi={E\bibinitperiod},
            given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
@@ -2015,15 +2039,15 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{fullhash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{bibnamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{authorbibnamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{authornamehash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{authorfullhash}{ca786cad5aaef3caf357c9f32e9d90f8}
-      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{namehash}{43c5e663bfb533955cf6fbcd866a9a2a}
+      \strng{fullhash}{43c5e663bfb533955cf6fbcd866a9a2a}
+      \strng{bibnamehash}{43c5e663bfb533955cf6fbcd866a9a2a}
+      \strng{authorbibnamehash}{43c5e663bfb533955cf6fbcd866a9a2a}
+      \strng{authornamehash}{43c5e663bfb533955cf6fbcd866a9a2a}
+      \strng{authorfullhash}{43c5e663bfb533955cf6fbcd866a9a2a}
+      \strng{editorbibnamehash}{176c113e0bf467d8614e9259888eded3}
+      \strng{editornamehash}{176c113e0bf467d8614e9259888eded3}
+      \strng{editorfullhash}{176c113e0bf467d8614e9259888eded3}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -2079,7 +2103,7 @@
     \endentry
     \entry{toorn2007}{book}{}
       \name{author}{1}{}{%
-        {{hash=14eb7e0fa1ae98e0c5e1919c85ecc8af}{%
+        {{hash=5e6de48da9166dee8108c4ccdce285ea}{%
            family={Toorn},
            familyi={T\bibinitperiod},
            given={Karel},
@@ -2093,12 +2117,12 @@
       \list{publisher}{1}{%
         {Harvard University Press}%
       }
-      \strng{namehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{fullhash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{bibnamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{authorbibnamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{authornamehash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
-      \strng{authorfullhash}{14eb7e0fa1ae98e0c5e1919c85ecc8af}
+      \strng{namehash}{5e6de48da9166dee8108c4ccdce285ea}
+      \strng{fullhash}{5e6de48da9166dee8108c4ccdce285ea}
+      \strng{bibnamehash}{5e6de48da9166dee8108c4ccdce285ea}
+      \strng{authorbibnamehash}{5e6de48da9166dee8108c4ccdce285ea}
+      \strng{authornamehash}{5e6de48da9166dee8108c4ccdce285ea}
+      \strng{authorfullhash}{5e6de48da9166dee8108c4ccdce285ea}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{labelnamesource}{author}
@@ -2110,18 +2134,18 @@
     \endentry
     \entry{trevor_basor1949}{article}{}
       \name{author}{1}{}{%
-        {{hash=56469c9e27d1304025a5156298b3086b}{%
+        {{hash=6c864d5b625d54348939c925347a9c48}{%
            family={Trever},
            familyi={T\bibinitperiod},
            given={John\bibnamedelima C.},
            giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
-      \strng{namehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{fullhash}{56469c9e27d1304025a5156298b3086b}
-      \strng{bibnamehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{authorbibnamehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{authornamehash}{56469c9e27d1304025a5156298b3086b}
-      \strng{authorfullhash}{56469c9e27d1304025a5156298b3086b}
+      \strng{namehash}{6c864d5b625d54348939c925347a9c48}
+      \strng{fullhash}{6c864d5b625d54348939c925347a9c48}
+      \strng{bibnamehash}{6c864d5b625d54348939c925347a9c48}
+      \strng{authorbibnamehash}{6c864d5b625d54348939c925347a9c48}
+      \strng{authornamehash}{6c864d5b625d54348939c925347a9c48}
+      \strng{authorfullhash}{6c864d5b625d54348939c925347a9c48}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{labelnamesource}{author}
@@ -2137,7 +2161,7 @@
     \endentry
     \entry{vanderkam_feldman-etal2017}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+        {{hash=b75238948db16c341bbe595515cd14f2}{%
            family={VanderKam},
            familyi={V\bibinitperiod},
            given={James\bibnamedelima C.},
@@ -2166,15 +2190,16 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{namehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{fullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{bibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorbibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authornamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorfullhash}{b75238948db16c341bbe595515cd14f2}
       \strng{editorbibnamehash}{80976a125517de5763532a6582b3843b}
       \strng{editornamehash}{80976a125517de5763532a6582b3843b}
       \strng{editorfullhash}{80976a125517de5763532a6582b3843b}
+      \field{extraname}{1}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -2192,14 +2217,14 @@
     \endentry
     \entry{vanderkam_kapera1992}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+        {{hash=b75238948db16c341bbe595515cd14f2}{%
            family={VanderKam},
            familyi={V\bibinitperiod},
            given={James\bibnamedelima C.},
            giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=78590ee6d0d8c570892896bd9f53bbb0}{%
+        {{hash=7c0371bd2b74b967fac69d93f29fc5cc}{%
            family={Kapera},
            familyi={K\bibinitperiod},
            given={Zdzisław\bibnamedelima Jan},
@@ -2211,15 +2236,16 @@
       \list{publisher}{1}{%
         {Enigma}%
       }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editorbibnamehash}{78590ee6d0d8c570892896bd9f53bbb0}
-      \strng{editornamehash}{78590ee6d0d8c570892896bd9f53bbb0}
-      \strng{editorfullhash}{78590ee6d0d8c570892896bd9f53bbb0}
+      \strng{namehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{fullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{bibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorbibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authornamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorfullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{editorbibnamehash}{7c0371bd2b74b967fac69d93f29fc5cc}
+      \strng{editornamehash}{7c0371bd2b74b967fac69d93f29fc5cc}
+      \strng{editorfullhash}{7c0371bd2b74b967fac69d93f29fc5cc}
+      \field{extraname}{2}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -2237,19 +2263,19 @@
     \endentry
     \entry{vanderkam_collins-nickelsburg1980}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+        {{hash=b75238948db16c341bbe595515cd14f2}{%
            family={VanderKam},
            familyi={V\bibinitperiod},
            given={James\bibnamedelima C.},
            giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=8dc04133ca6e1251e86ac71e2a9df668}{%
+        {{hash=beb988fc2eff76bad8845ace4b5b3c3c}{%
            family={Collins},
            familyi={C\bibinitperiod},
            given={John\bibnamedelima J.},
            giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=e0caac4f2c1e7d3726a01dd173c25ca5}{%
+        {{hash=b9270832684888279285ed19d59d4b21}{%
            family={E.},
            familyi={E\bibinitperiod},
            given={Nickelsburg\bibnamedelimb George\bibnamedelima W.},
@@ -2261,15 +2287,16 @@
       \list{publisher}{1}{%
         {Scholars Press}%
       }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editorbibnamehash}{83aad5a087a8f625dd626d26001993ae}
-      \strng{editornamehash}{83aad5a087a8f625dd626d26001993ae}
-      \strng{editorfullhash}{83aad5a087a8f625dd626d26001993ae}
+      \strng{namehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{fullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{bibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorbibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authornamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorfullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{editorbibnamehash}{eeb90a0254bb591fdfa3cdb5ec229cb3}
+      \strng{editornamehash}{eeb90a0254bb591fdfa3cdb5ec229cb3}
+      \strng{editorfullhash}{eeb90a0254bb591fdfa3cdb5ec229cb3}
+      \field{extraname}{3}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -2327,12 +2354,12 @@
       }
       \true{moreeditor}
       \name{editor}{3}{}{%
-        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
+        {{hash=a49067958843a0cabcf206047fda4bb6}{%
            family={Chazon},
            familyi={C\bibinitperiod},
            given={Estelle\bibnamedelima Glickler},
            giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
+        {{hash=36f44037efb5b6399c7758b6a1a6e1b9}{%
            family={Stone},
            familyi={S\bibinitperiod},
            given={Michael\bibnamedelima Edward},
@@ -2355,9 +2382,9 @@
       \strng{authorbibnamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
       \strng{authornamehash}{bb3291917c5ab9da69cc6222b82ca6a0}
       \strng{authorfullhash}{bb3291917c5ab9da69cc6222b82ca6a0}
-      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{editorbibnamehash}{fc1c34a7450b9b4c9fbf07b363e8de86}
+      \strng{editornamehash}{fc1c34a7450b9b4c9fbf07b363e8de86}
+      \strng{editorfullhash}{fc1c34a7450b9b4c9fbf07b363e8de86}
       \field{sortinit}{W}
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
@@ -2394,6 +2421,7 @@
       \strng{authorbibnamehash}{4188732fdc271b992102ebd74aa91447}
       \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
       \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
+      \field{extraname}{1}
       \field{sortinit}{W}
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
@@ -2423,6 +2451,7 @@
       \strng{authorbibnamehash}{4188732fdc271b992102ebd74aa91447}
       \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
       \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
@@ -2451,6 +2480,7 @@
       \strng{authorbibnamehash}{4188732fdc271b992102ebd74aa91447}
       \strng{authornamehash}{4188732fdc271b992102ebd74aa91447}
       \strng{authorfullhash}{4188732fdc271b992102ebd74aa91447}
+      \field{extraname}{3}
       \field{sortinit}{W}
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
