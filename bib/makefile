@@ -5,6 +5,7 @@ default: bibliography.bib
 format-partials:
 	@ find . -name "_*.bib" -exec \
 	biber --tool --nolog --quiet \
+	--configfile=biber.conf \
 	--output-align \
 	--output-fieldcase=lower \
 	-O {} {} \;
