@@ -31,6 +31,39 @@
       \field{series}{Scriptores Aethiopici}
       \field{shortseries}{SA}
     \endentry
+    \entry{ceriani1861}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a84c114f7f2a253d979dee6388505e3e}{%
+           family={Ceriani},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Milan}%
+      }
+      \list{publisher}{1}{%
+        {Bibliotheca Ambrosiana}%
+      }
+      \strng{namehash}{a84c114f7f2a253d979dee6388505e3e}
+      \strng{fullhash}{a84c114f7f2a253d979dee6388505e3e}
+      \strng{bibnamehash}{a84c114f7f2a253d979dee6388505e3e}
+      \strng{authorbibnamehash}{a84c114f7f2a253d979dee6388505e3e}
+      \strng{authornamehash}{a84c114f7f2a253d979dee6388505e3e}
+      \strng{authorfullhash}{a84c114f7f2a253d979dee6388505e3e}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Monumenta Sacra et Profana}
+      \field{endyear}{1863}
+      \field{shorttitle}{Monumenta}
+      \field{title}{Monumenta Sacra et Profana}
+      \field{volumes}{2}
+      \field{year}{1861}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
     \entry{charles1895}{book}{}
       \name{author}{1}{}{%
         {{hash=ba5152e46d5fb879ab2e4cbe934ef3b5}{%
@@ -443,7 +476,6 @@
       \field{dateera}{ce}
     \endentry
   \enddatalist
-  \missing{ceriani1863}
 \endrefsection
 \endinput
 
