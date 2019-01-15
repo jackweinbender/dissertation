@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 2.9 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,5 +16,434 @@
   {}
 \endgroup
 
+
+\refsection{1}
+  \datalist[entry]{nty/global//global/global}
+    \entry{csco}{series}{useauthor=false,useeditor=false,skipbib=true}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{series}{Corpus Scriptorum Christianorum Orientalium}
+      \field{shortseries}{CSCO}
+    \endentry
+    \entry{sa}{series}{useauthor=false,useeditor=false,skipbib=true}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{series}{Scriptores Aethiopici}
+      \field{shortseries}{SA}
+    \endentry
+    \entry{charles1895}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ba5152e46d5fb879ab2e4cbe934ef3b5}{%
+           family={Charles},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima Henry},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon}%
+      }
+      \strng{namehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{fullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{bibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{authorbibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{authornamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{authorfullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Maṣḥafa Kufālē or the Ethiopic Version of the Hebrew Book of Jubilees}
+      \field{shorttitle}{Maṣḥafa Kufālē}
+      \field{title}{Maṣḥafa Kufālē or the Ethiopic Version of the Hebrew Book of Jubilees}
+      \field{year}{1895}
+      \field{dateera}{ce}
+    \endentry
+    \entry{charles1902}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ba5152e46d5fb879ab2e4cbe934ef3b5}{%
+           family={Charles},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima Henry},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {Adam}%
+        {Charles Black}%
+      }
+      \strng{namehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{fullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{bibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{authorbibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{authornamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{authorfullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Book of Jubilees of the Little Genesis}
+      \field{shorttitle}{Book of Jubilees}
+      \field{title}{The Book of Jubilees of the Little Genesis}
+      \field{year}{1902}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dillamnn_jbw_kleine}{article}{}
+      \name{author}{1}{}{%
+        {{hash=369c9a75c75f58829c0ee8322f997b22}{%
+           family={Dillmann},
+           familyi={D\bibinitperiod},
+           given={August},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{fullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{bibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jahrbücher der Biblischen Wissenschaft}
+      \field{shortjournal}{JBW}
+      \field{title}{Das Buch der Jubiläen oder die kleine Genesis}
+      \field{pages}{2 (1849): 230\bibrangedash 56\bibrangessep 3 (1850--51): 1\bibrangedash 96}
+      \range{pages}{-1}
+    \endentry
+    \entry{dillamnn_jbw1850}{article}{skipbib=true}
+      \name{author}{1}{}{%
+        {{hash=369c9a75c75f58829c0ee8322f997b22}{%
+           family={Dillmann},
+           familyi={D\bibinitperiod},
+           given={August},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{fullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{bibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{1851}
+      \field{journaltitle}{Jahrbücher der Biblischen Wissenschaft}
+      \field{shortjournal}{JBW}
+      \field{title}{Das Buch der Jubiläen oder die kleine Genesis}
+      \field{volume}{3}
+      \field{year}{1850}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 96}
+      \range{pages}{96}
+    \endentry
+    \entry{dillmann1859}{book}{}
+      \name{author}{1}{}{%
+        {{hash=369c9a75c75f58829c0ee8322f997b22}{%
+           family={Dillmann},
+           familyi={D\bibinitperiod},
+           given={August},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Keil}%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {C.G.L. van Maak}%
+        {Williiams \& Norgate}%
+      }
+      \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{fullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{bibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Maṣḥafa Kufālē sive Liber Jubilaeorum}
+      \field{shorttitle}{Maṣḥafa Kufālē}
+      \field{title}{Maṣḥafa Kufālē sive Liber Jubilaeorum}
+      \field{year}{1859}
+      \field{dateera}{ce}
+    \endentry
+    \entry{erho_bsoas2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c943b283adafd1352aaba0c06f8b8261}{%
+           family={Erho},
+           familyi={E\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c943b283adafd1352aaba0c06f8b8261}
+      \strng{fullhash}{c943b283adafd1352aaba0c06f8b8261}
+      \strng{bibnamehash}{c943b283adafd1352aaba0c06f8b8261}
+      \strng{authorbibnamehash}{c943b283adafd1352aaba0c06f8b8261}
+      \strng{authornamehash}{c943b283adafd1352aaba0c06f8b8261}
+      \strng{authorfullhash}{c943b283adafd1352aaba0c06f8b8261}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Bulletin of the School of Oriental and African Studies}
+      \field{shortjournal}{BSOAS}
+      \field{shorttitle}{New Ethiopic Witnesses}
+      \field{title}{New Ethiopic Witnesses to Some Old Testament Pseudepigrapha}
+      \field{volume}{76}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{75\bibrangedash 97}
+      \range{pages}{23}
+    \endentry
+    \entry{ewald_zkm1844}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5a8161cca41664e1bc82092c76b28fb2}{%
+           family={Ewald},
+           familyi={E\bibinitperiod},
+           given={Heinrich},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a8161cca41664e1bc82092c76b28fb2}
+      \strng{fullhash}{5a8161cca41664e1bc82092c76b28fb2}
+      \strng{bibnamehash}{5a8161cca41664e1bc82092c76b28fb2}
+      \strng{authorbibnamehash}{5a8161cca41664e1bc82092c76b28fb2}
+      \strng{authornamehash}{5a8161cca41664e1bc82092c76b28fb2}
+      \strng{authorfullhash}{5a8161cca41664e1bc82092c76b28fb2}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Zeitschrift für die Kunde des Morgenlandes}
+      \field{shortjournal}{ZKM}
+      \field{shorttitle}{Aethiopischen Handschriften}
+      \field{title}{Ueber die Aethiopischen Handschriften zu Tübingen}
+      \field{volume}{5}
+      \field{year}{1844}
+      \field{dateera}{ce}
+      \field{pages}{164\bibrangedash 201}
+      \range{pages}{38}
+    \endentry
+    \entry{kreps_ch2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=46160b6427f4e7bed5d3496212ef06d5}{%
+           family={Kreps},
+           familyi={K\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{46160b6427f4e7bed5d3496212ef06d5}
+      \strng{fullhash}{46160b6427f4e7bed5d3496212ef06d5}
+      \strng{bibnamehash}{46160b6427f4e7bed5d3496212ef06d5}
+      \strng{authorbibnamehash}{46160b6427f4e7bed5d3496212ef06d5}
+      \strng{authornamehash}{46160b6427f4e7bed5d3496212ef06d5}
+      \strng{authorfullhash}{46160b6427f4e7bed5d3496212ef06d5}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Church History}
+      \field{number}{2}
+      \field{shortjournal}{CH}
+      \field{title}{From Jewish Apocrypha to Christian Tradition}
+      \field{volume}{87}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{345\bibrangedash 370}
+      \range{pages}{26}
+    \endentry
+    \entry{reed_kister-etal2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={Annette\bibnamedelima Yoshiko},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=c5fca2b0a9ae1f290c61ae99ab355eee}{%
+           family={Kister},
+           familyi={K\bibinitperiod},
+           given={Menahem},
+           giveni={M\bibinitperiod}}}%
+        {{hash=65fd613dec877ce803c71e0b1654428e}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Hillel},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7b4894413e19569f0347b96f47ae1f8d}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0bb931265f7828a56cf0ab9981cf1885}{%
+           family={Clements},
+           familyi={C\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{editorbibnamehash}{f9fc81b311c7f470844d4aa01134b890}
+      \strng{editornamehash}{7659cebec338ff56f1eda9b14fa0c717}
+      \strng{editorfullhash}{f9fc81b311c7f470844d4aa01134b890}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Tradition, Transmission, and Transformation from Second Temple Literature through Judaism and Christianity in Late Antiquity}
+      \field{number}{113}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Retelling Biblical Retellings}
+      \field{title}{Retelling Biblical Retellings: Epiphanius, the Pseudo-Clementines, and the Reception-History of Jubilees}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{304\bibrangedash 321}
+      \range{pages}{18}
+    \endentry
+    \entry{tisserant_rb1921}{article}{}
+      \name{author}{1}{}{%
+        {{hash=318b7b3e5857bfb92b07c8c184ac3e31}{%
+           family={Tisserant},
+           familyi={T\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \strng{fullhash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \strng{bibnamehash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \strng{authorbibnamehash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \strng{authornamehash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \strng{authorfullhash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fragments syriaques du Livre des Jubil…es}
+      \field{volume}{30}
+      \field{year}{1921}
+      \field{dateera}{ce}
+      \field{pages}{55\bibrangedash 86\bibrangessep 206\bibrangedash 32}
+      \range{pages}{59}
+    \endentry
+    \entry{vanderkam2018}{mvbook}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Jubilees: A Commentary}
+      \field{shorttitle}{Jubilees}
+      \field{title}{Jubilees: A Commentary}
+      \field{volumes}{2}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{vanderkam1977}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Missoula, MT}%
+      }
+      \list{publisher}{1}{%
+        {Scholars Press}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Textual and Historical Studies in the Book of Jubilees}
+      \field{number}{14}
+      \field{series}{Harvard Semitic Monographs}
+      \field{shortseries}{HSM}
+      \field{shorttitle}{Textual and Historical Studies}
+      \field{title}{Textual and Historical Studies in the Book of Jubilees}
+      \field{year}{1977}
+      \field{dateera}{ce}
+    \endentry
+    \entry{vanderkam1989}{mvbook}{}
+      \name{editor}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leuven}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{editorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{editornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{editorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Book of Jubilees}
+      \field{note}{\citeseries{csco} 510-11; \citeseries{sa} 87--88}
+      \field{shorttitle}{The Book of Jubilees}
+      \field{title}{The Book of Jubilees}
+      \field{volumes}{2}
+      \field{year}{1989}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+  \missing{ceriani1863}
+\endrefsection
 \endinput
 
