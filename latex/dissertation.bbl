@@ -105,9 +105,8 @@
       \list{location}{1}{%
         {London}%
       }
-      \list{publisher}{2}{%
-        {Adam}%
-        {Charles Black}%
+      \list{publisher}{1}{%
+        {Adam \& Charles Black}%
       }
       \strng{namehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
       \strng{fullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
@@ -372,6 +371,8 @@
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue biblique}
+      \field{shortjournal}{RB}
       \field{title}{Fragments syriaques du Livre des Jubilés}
       \field{volume}{30}
       \field{year}{1921}
