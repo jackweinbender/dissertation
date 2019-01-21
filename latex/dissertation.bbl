@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -33,7 +33,7 @@
     \endentry
     \entry{ceriani1861}{book}{}
       \name{author}{1}{}{%
-        {{hash=a84c114f7f2a253d979dee6388505e3e}{%
+        {{hash=8acef5aafc43ed76499eccb0bd0aa707}{%
            family={Ceriani},
            familyi={C\bibinitperiod},
            given={A.\bibnamedelimi M.},
@@ -45,12 +45,12 @@
       \list{publisher}{1}{%
         {Bibliotheca Ambrosiana}%
       }
-      \strng{namehash}{a84c114f7f2a253d979dee6388505e3e}
-      \strng{fullhash}{a84c114f7f2a253d979dee6388505e3e}
-      \strng{bibnamehash}{a84c114f7f2a253d979dee6388505e3e}
-      \strng{authorbibnamehash}{a84c114f7f2a253d979dee6388505e3e}
-      \strng{authornamehash}{a84c114f7f2a253d979dee6388505e3e}
-      \strng{authorfullhash}{a84c114f7f2a253d979dee6388505e3e}
+      \strng{namehash}{8acef5aafc43ed76499eccb0bd0aa707}
+      \strng{fullhash}{8acef5aafc43ed76499eccb0bd0aa707}
+      \strng{bibnamehash}{8acef5aafc43ed76499eccb0bd0aa707}
+      \strng{authorbibnamehash}{8acef5aafc43ed76499eccb0bd0aa707}
+      \strng{authornamehash}{8acef5aafc43ed76499eccb0bd0aa707}
+      \strng{authorfullhash}{8acef5aafc43ed76499eccb0bd0aa707}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
@@ -66,7 +66,7 @@
     \endentry
     \entry{charles1895}{book}{}
       \name{author}{1}{}{%
-        {{hash=ba5152e46d5fb879ab2e4cbe934ef3b5}{%
+        {{hash=2c721df897071e0ca8198106030cb60b}{%
            family={Charles},
            familyi={C\bibinitperiod},
            given={Robert\bibnamedelima Henry},
@@ -78,12 +78,13 @@
       \list{publisher}{1}{%
         {Clarendon}%
       }
-      \strng{namehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{fullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{bibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{authorbibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{authornamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{authorfullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{namehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{fullhash}{2c721df897071e0ca8198106030cb60b}
+      \strng{bibnamehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{authorbibnamehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{authornamehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{authorfullhash}{2c721df897071e0ca8198106030cb60b}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
@@ -96,7 +97,7 @@
     \endentry
     \entry{charles1902}{book}{}
       \name{author}{1}{}{%
-        {{hash=ba5152e46d5fb879ab2e4cbe934ef3b5}{%
+        {{hash=2c721df897071e0ca8198106030cb60b}{%
            family={Charles},
            familyi={C\bibinitperiod},
            given={Robert\bibnamedelima Henry},
@@ -108,12 +109,13 @@
       \list{publisher}{1}{%
         {Adam \& Charles Black}%
       }
-      \strng{namehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{fullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{bibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{authorbibnamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{authornamehash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
-      \strng{authorfullhash}{ba5152e46d5fb879ab2e4cbe934ef3b5}
+      \strng{namehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{fullhash}{2c721df897071e0ca8198106030cb60b}
+      \strng{bibnamehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{authorbibnamehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{authornamehash}{2c721df897071e0ca8198106030cb60b}
+      \strng{authorfullhash}{2c721df897071e0ca8198106030cb60b}
+      \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
@@ -123,30 +125,6 @@
       \field{title}{The Book of Jubilees or the Little Genesis}
       \field{year}{1902}
       \field{dateera}{ce}
-    \endentry
-    \entry{dillamnn_jbw_kleine}{article}{}
-      \name{author}{1}{}{%
-        {{hash=369c9a75c75f58829c0ee8322f997b22}{%
-           family={Dillmann},
-           familyi={D\bibinitperiod},
-           given={August},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
-      \strng{fullhash}{369c9a75c75f58829c0ee8322f997b22}
-      \strng{bibnamehash}{369c9a75c75f58829c0ee8322f997b22}
-      \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
-      \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
-      \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
-      \field{sortinit}{D}
-      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Jahrbücher der Biblischen Wissenschaft}
-      \field{shortjournal}{JBW}
-      \field{title}{Das Buch der Jubiläen oder die kleine Genesis}
-      \field{pages}{2 (1849): 230\bibrangedash 56\bibrangessep 3 (1850--51): 1\bibrangedash 96}
-      \range{pages}{-1}
     \endentry
     \entry{dillamnn_jbw1850}{article}{skipbib=true}
       \name{author}{1}{}{%
@@ -162,6 +140,7 @@
       \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
       \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
       \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -176,6 +155,32 @@
       \field{dateera}{ce}
       \field{pages}{1\bibrangedash 96}
       \range{pages}{96}
+    \endentry
+    \entry{dillamnn_jbw_kleine}{article}{}
+      \name{author}{1}{}{%
+        {{hash=369c9a75c75f58829c0ee8322f997b22}{%
+           family={Dillmann},
+           familyi={D\bibinitperiod},
+           given={August},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{fullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{bibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jahrbücher der Biblischen Wissenschaft}
+      \field{shortjournal}{JBW}
+      \field{title}{Das Buch der Jubiläen oder die kleine Genesis}
+      \true{nocite}
+      \field{pages}{2 (1849): 230\bibrangedash 56\bibrangessep 3 (1850--51): 1\bibrangedash 96}
+      \range{pages}{-1}
     \endentry
     \entry{dillmann1859}{book}{}
       \name{author}{1}{}{%
@@ -199,6 +204,7 @@
       \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
       \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
       \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -295,7 +301,7 @@
     \endentry
     \entry{reed_kister-etal2015}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
+        {{hash=e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}{%
            family={Reed},
            familyi={R\bibinitperiod},
            given={Annette\bibnamedelima Yoshiko},
@@ -329,12 +335,12 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{fullhash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{bibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorbibnamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authornamehash}{48c482d71c19e6e7a63789df170fd6dd}
-      \strng{authorfullhash}{48c482d71c19e6e7a63789df170fd6dd}
+      \strng{namehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{fullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{bibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorbibnamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authornamehash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
+      \strng{authorfullhash}{e15fcb1ccd2b8ab7fc7fcc1d0ec1391f}
       \strng{editorbibnamehash}{f9fc81b311c7f470844d4aa01134b890}
       \strng{editornamehash}{7659cebec338ff56f1eda9b14fa0c717}
       \strng{editorfullhash}{f9fc81b311c7f470844d4aa01134b890}
@@ -355,18 +361,18 @@
     \endentry
     \entry{tisserant_rb1921}{article}{}
       \name{author}{1}{}{%
-        {{hash=318b7b3e5857bfb92b07c8c184ac3e31}{%
+        {{hash=aff8a8154423891d4542d38ccb54d406}{%
            family={Tisserant},
            familyi={T\bibinitperiod},
            given={E.},
            giveni={E\bibinitperiod}}}%
       }
-      \strng{namehash}{318b7b3e5857bfb92b07c8c184ac3e31}
-      \strng{fullhash}{318b7b3e5857bfb92b07c8c184ac3e31}
-      \strng{bibnamehash}{318b7b3e5857bfb92b07c8c184ac3e31}
-      \strng{authorbibnamehash}{318b7b3e5857bfb92b07c8c184ac3e31}
-      \strng{authornamehash}{318b7b3e5857bfb92b07c8c184ac3e31}
-      \strng{authorfullhash}{318b7b3e5857bfb92b07c8c184ac3e31}
+      \strng{namehash}{aff8a8154423891d4542d38ccb54d406}
+      \strng{fullhash}{aff8a8154423891d4542d38ccb54d406}
+      \strng{bibnamehash}{aff8a8154423891d4542d38ccb54d406}
+      \strng{authorbibnamehash}{aff8a8154423891d4542d38ccb54d406}
+      \strng{authornamehash}{aff8a8154423891d4542d38ccb54d406}
+      \strng{authorfullhash}{aff8a8154423891d4542d38ccb54d406}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{labelnamesource}{author}
@@ -382,7 +388,7 @@
     \endentry
     \entry{vanderkam2018}{mvbook}{}
       \name{author}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+        {{hash=b75238948db16c341bbe595515cd14f2}{%
            family={VanderKam},
            familyi={V\bibinitperiod},
            given={James\bibnamedelima C.},
@@ -394,12 +400,13 @@
       \list{publisher}{1}{%
         {Fortress}%
       }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{namehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{fullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{bibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorbibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authornamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorfullhash}{b75238948db16c341bbe595515cd14f2}
+      \field{extraname}{1}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -413,7 +420,7 @@
     \endentry
     \entry{vanderkam1977}{book}{}
       \name{author}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+        {{hash=b75238948db16c341bbe595515cd14f2}{%
            family={VanderKam},
            familyi={V\bibinitperiod},
            given={James\bibnamedelima C.},
@@ -425,12 +432,13 @@
       \list{publisher}{1}{%
         {Scholars Press}%
       }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{namehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{fullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{bibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorbibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authornamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{authorfullhash}{b75238948db16c341bbe595515cd14f2}
+      \field{extraname}{2}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -446,7 +454,7 @@
     \endentry
     \entry{vanderkam1989}{mvbook}{}
       \name{editor}{1}{}{%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+        {{hash=b75238948db16c341bbe595515cd14f2}{%
            family={VanderKam},
            familyi={V\bibinitperiod},
            given={James\bibnamedelima C.},
@@ -458,12 +466,13 @@
       \list{publisher}{1}{%
         {Peeters}%
       }
-      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{editorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{namehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{fullhash}{b75238948db16c341bbe595515cd14f2}
+      \strng{bibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{editorbibnamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{editornamehash}{b75238948db16c341bbe595515cd14f2}
+      \strng{editorfullhash}{b75238948db16c341bbe595515cd14f2}
+      \field{extraname}{3}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{editor}
