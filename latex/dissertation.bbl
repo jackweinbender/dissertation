@@ -71,7 +71,7 @@
       \field{pages}{197\bibrangedash 213}
       \range{pages}{17}
     \endentry
-    \entry{back-kankaanniemi2012}{collection}{}
+    \entry{back-kankaanniemi2012}{collection}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=195378684cb2650557fc659fe3c8f5a8}{%
            family={Back},
@@ -140,7 +140,7 @@
       \field{year}{2006}
       \field{dateera}{ce}
     \endentry
-    \entry{djd_1}{book}{}
+    \entry{djd_1}{book}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=5bc66ad07f37d2ac446dfafb24d91188}{%
            family={Barthélemy},
@@ -879,7 +879,7 @@
       \field{year}{2000}
       \field{dateera}{ce}
     \endentry
-    \entry{charlesworth_OTP}{mvreference}{}
+    \entry{charlesworth_OTP}{mvreference}{skipbib=true}
       \name{editor}{1}{}{%
         {{hash=3186c1ac414a45f0b324544b70169159}{%
            family={Charlesworth},
@@ -1371,7 +1371,7 @@
       \field{pages}{164\bibrangedash 201}
       \range{pages}{38}
     \endentry
-    \entry{falk-etal2010}{collection}{}
+    \entry{falk-etal2010}{collection}{skipbib=true}
       \name{editor}{4}{}{%
         {{hash=f3b8d007dba0169ffe02ffee9f7bfc5c}{%
            family={Falk},
@@ -1908,7 +1908,6 @@
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Calendars}
       \field{title}{Calendars}
       \field{pages}{435\bibrangedash 448}
       \range{pages}{14}
@@ -2680,7 +2679,7 @@
       \field{year}{2010}
       \field{dateera}{ce}
     \endentry
-    \entry{mason-etal2012}{mvcollection}{}
+    \entry{mason-etal2012}{mvcollection}{skipbib=true}
       \name{editor}{4}{}{%
         {{hash=95b45398ec5a525eb255d3cf0a0b5e9d}{%
            family={Mason},
@@ -3442,7 +3441,7 @@
       \field{year}{2011}
       \field{dateera}{ce}
     \endentry
-    \entry{stein-loewe1979}{collection}{}
+    \entry{stein-loewe1979}{collection}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=6b316cfc03f54123806bf80f3da1ade8}{%
            family={Stein},
