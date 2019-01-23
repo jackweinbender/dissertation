@@ -85,7 +85,15 @@
       <file>dissertation.bcf</file>
     </requires>
     <requires type="editable">
-      <file>../bib/bibliography.bib</file>
+      <file>../bib/_xdata_journals.bib</file>
+      <file>../bib/_xdata_publishers.bib</file>
+      <file>../bib/_xdata_series.bib</file>
+      <file>../bib/_collections.bib</file>
+      <file>../bib/_djd.bib</file>
+      <file>../bib/__reference.bib</file>
+      <file>../bib/__tmp.bib</file>
+      <file>../bib/__hacks.bib</file>
+      <file>../bib/_04-jubilees.bib</file>
     </requires>
   </external>
 </requests>
