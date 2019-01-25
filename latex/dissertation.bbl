@@ -140,6 +140,35 @@
       \field{year}{2006}
       \field{dateera}{ce}
     \endentry
+    \entry{barthelemy_rb1952}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5bc66ad07f37d2ac446dfafb24d91188}{%
+           family={Barthélemy},
+           familyi={B\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5bc66ad07f37d2ac446dfafb24d91188}
+      \strng{fullhash}{5bc66ad07f37d2ac446dfafb24d91188}
+      \strng{bibnamehash}{5bc66ad07f37d2ac446dfafb24d91188}
+      \strng{authorbibnamehash}{5bc66ad07f37d2ac446dfafb24d91188}
+      \strng{authornamehash}{5bc66ad07f37d2ac446dfafb24d91188}
+      \strng{authorfullhash}{5bc66ad07f37d2ac446dfafb24d91188}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issue}{2}
+      \field{journaltitle}{Revue biblique}
+      \field{shortjournal}{RB}
+      \field{shorttitle}{Notes en marge}
+      \field{title}{Notes en marge de publications récentes sur les manuscrits de Qumrân}
+      \field{volume}{59}
+      \field{year}{1952}
+      \field{dateera}{ce}
+      \field{pages}{187\bibrangedash 218}
+      \range{pages}{32}
+    \endentry
     \entry{djd_1}{book}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=5bc66ad07f37d2ac446dfafb24d91188}{%
@@ -304,6 +333,39 @@
       \field{dateera}{ce}
       \field{pages}{179\bibrangedash 194}
       \range{pages}{16}
+    \endentry
+    \entry{bendov2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e94a4e6b84d335e6a54ced0335db0e22}{%
+           family={Ben\bibnamedelima Dov},
+           familyi={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{e94a4e6b84d335e6a54ced0335db0e22}
+      \strng{fullhash}{e94a4e6b84d335e6a54ced0335db0e22}
+      \strng{bibnamehash}{e94a4e6b84d335e6a54ced0335db0e22}
+      \strng{authorbibnamehash}{e94a4e6b84d335e6a54ced0335db0e22}
+      \strng{authornamehash}{e94a4e6b84d335e6a54ced0335db0e22}
+      \strng{authorfullhash}{e94a4e6b84d335e6a54ced0335db0e22}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Head of All Years: Astronomy and Calendars at Qumran in Their Ancient Context}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Head of All Years}
+      \field{title}{Head of All Years: Astronomy and Calendars at Qumran in Their Ancient Context}
+      \field{volume}{78}
+      \field{year}{2008}
+      \field{dateera}{ce}
     \endentry
     \entry{benzvi-levin2012}{collection}{skipbib=true}
       \name{editor}{2}{}{%
@@ -1889,6 +1951,32 @@
       \field{title}{Flores Florentino: Dead Sea Scrolls and Other Early Jewish Studies in Honour of Florentino Garcia Martinez}
       \field{year}{2007}
       \field{dateera}{ce}
+    \endentry
+    \entry{horowitz_janes1996}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a0d57f999d16ba3652fe45226f060e4c}{%
+           family={Horowitz},
+           familyi={H\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{fullhash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{bibnamehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{authorbibnamehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{authornamehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{authorfullhash}{a0d57f999d16ba3652fe45226f060e4c}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{360 and 364 Day Year}
+      \field{title}{The 360 and 364 Day Year in Ancient Mesopotamia}
+      \field{volume}{24}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 44}
+      \range{pages}{10}
     \endentry
     \entry{jacobus_brooke-hempell2018}{incollection}{}
       \name{author}{1}{}{%
@@ -4035,6 +4123,37 @@
       \field{pages}{463\bibrangedash 480}
       \range{pages}{18}
     \endentry
+    \entry{wacholder-wacholder_huca1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a63f73e9ab3dd4d45d8eaa4eaae161cf}{%
+           family={Wacholder},
+           familyi={W\bibinitperiod},
+           given={Ben\bibnamedelima Zion},
+           giveni={B\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=ec22e5c5cfe1cad4dd7dba31558bf4ce}{%
+           family={Wacholder},
+           familyi={W\bibinitperiod},
+           given={Sholom},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{fullhash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{bibnamehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{authorbibnamehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{authornamehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{authorfullhash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Patterns of Biblical Dates}
+      \field{title}{Patterns of Biblical Dates and Qumran 's Calendar: The Fallacy of Jaubert's Hypothesis}
+      \field{volume}{66}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 40}
+      \range{pages}{40}
+    \endentry
     \entry{weissenberg-pakkala2011}{collection}{skipbib=true}
       \name{editor}{3}{}{%
         {{hash=d894d8474926232d55967b2bd32a31fa}{%
@@ -4223,6 +4342,49 @@
       \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
       \field{series}{Scriptores Aethiopici}
       \field{shortseries}{SA}
+    \endentry
+    \entry{bendov_steele2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=66095197b2ff17aec5c98ef1f5937a57}{%
+           family={Ben-Dov},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{bookeditor}{1}{}{%
+        {{hash=ab1c50e1575e8759ffd2aa2eb899003c}{%
+           family={Steele},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {Oakville}%
+      }
+      \list{publisher}{1}{%
+        {Oxbow}%
+      }
+      \strng{namehash}{66095197b2ff17aec5c98ef1f5937a57}
+      \strng{fullhash}{66095197b2ff17aec5c98ef1f5937a57}
+      \strng{bibnamehash}{66095197b2ff17aec5c98ef1f5937a57}
+      \strng{authorbibnamehash}{66095197b2ff17aec5c98ef1f5937a57}
+      \strng{authornamehash}{66095197b2ff17aec5c98ef1f5937a57}
+      \strng{authorfullhash}{66095197b2ff17aec5c98ef1f5937a57}
+      \strng{bookeditorbibnamehash}{ab1c50e1575e8759ffd2aa2eb899003c}
+      \strng{bookeditornamehash}{ab1c50e1575e8759ffd2aa2eb899003c}
+      \strng{bookeditorfullhash}{ab1c50e1575e8759ffd2aa2eb899003c}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Calendars and Years II: Astronomy and Time in the Ancient and Medieval World}
+      \field{shortbooktitle}{Calendars and Years II}
+      \field{shorttitle}{364-day Year at Qumran}
+      \field{title}{The 364-day Year at Qumran and in the Pseudepigrapha}
+      \field{year}{2011}
+      \field{pages}{69\bibrangedash 105}
+      \range{pages}{37}
     \endentry
     \entry{ceriani1861}{book}{}
       \name{author}{1}{}{%
@@ -4458,6 +4620,102 @@
       \field{pages}{164\bibrangedash 201}
       \range{pages}{38}
     \endentry
+    \entry{glessmer_flint-vanderkam1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=f02a82c240eaa13dbeea9c9b65514041}{%
+           family={Glessmer},
+           familyi={G\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=4b98b7aa40f16eb8a2921de32ab2fa2f}{%
+           family={Flint},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{f02a82c240eaa13dbeea9c9b65514041}
+      \strng{fullhash}{f02a82c240eaa13dbeea9c9b65514041}
+      \strng{bibnamehash}{f02a82c240eaa13dbeea9c9b65514041}
+      \strng{authorbibnamehash}{f02a82c240eaa13dbeea9c9b65514041}
+      \strng{authornamehash}{f02a82c240eaa13dbeea9c9b65514041}
+      \strng{authorfullhash}{f02a82c240eaa13dbeea9c9b65514041}
+      \strng{bookeditorbibnamehash}{bd7b245e98e86ee015ff40ea96aa9a97}
+      \strng{bookeditornamehash}{bd7b245e98e86ee015ff40ea96aa9a97}
+      \strng{bookeditorfullhash}{bd7b245e98e86ee015ff40ea96aa9a97}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Dead Sea Scrolls after Fifty Years: A Comprehensive Assesment}
+      \field{shortbooktitle}{Dead Sea Scrolls after Fifty Years}
+      \field{shorttitle}{Calendars in the Qumran Scrolls}
+      \field{title}{Calendars in the Qumran Scrolls}
+      \field{volumes}{2}
+      \field{year}{1999}
+      \field{pages}{213\bibrangedash 78}
+      \range{pages}{66}
+    \endentry
+    \entry{horowitz_janes1996}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a0d57f999d16ba3652fe45226f060e4c}{%
+           family={Horowitz},
+           familyi={H\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{fullhash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{bibnamehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{authorbibnamehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{authornamehash}{a0d57f999d16ba3652fe45226f060e4c}
+      \strng{authorfullhash}{a0d57f999d16ba3652fe45226f060e4c}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{360 and 364 Day Year}
+      \field{title}{The 360 and 364 Day Year in Ancient Mesopotamia}
+      \field{volume}{24}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 44}
+      \range{pages}{10}
+    \endentry
+    \entry{jacobus_brooke-hempell2018}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3d7aee04720083bc20fc372993c714b1}{%
+           family={Jacobus},
+           familyi={J\bibinitperiod},
+           given={Helen\bibnamedelima R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d7aee04720083bc20fc372993c714b1}
+      \strng{fullhash}{3d7aee04720083bc20fc372993c714b1}
+      \strng{bibnamehash}{3d7aee04720083bc20fc372993c714b1}
+      \strng{authorbibnamehash}{3d7aee04720083bc20fc372993c714b1}
+      \strng{authornamehash}{3d7aee04720083bc20fc372993c714b1}
+      \strng{authorfullhash}{3d7aee04720083bc20fc372993c714b1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Calendars}
+      \field{pages}{435\bibrangedash 448}
+      \range{pages}{14}
+    \endentry
     \entry{kreps_ch2018}{article}{}
       \name{author}{1}{}{%
         {{hash=46160b6427f4e7bed5d3496212ef06d5}{%
@@ -4668,6 +4926,37 @@
       \field{volumes}{2}
       \field{year}{1989}
       \field{dateera}{ce}
+    \endentry
+    \entry{wacholder-wacholder_huca1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a63f73e9ab3dd4d45d8eaa4eaae161cf}{%
+           family={Wacholder},
+           familyi={W\bibinitperiod},
+           given={Ben\bibnamedelima Zion},
+           giveni={B\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=ec22e5c5cfe1cad4dd7dba31558bf4ce}{%
+           family={Wacholder},
+           familyi={W\bibinitperiod},
+           given={Sholom},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{fullhash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{bibnamehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{authorbibnamehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{authornamehash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \strng{authorfullhash}{84adbe24bb0d203c56d3b01bf1c5cd0a}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Patterns of Biblical Dates}
+      \field{title}{Patterns of Biblical Dates and Qumran 's Calendar: The Fallacy of Jaubert's Hypothesis}
+      \field{volume}{66}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 40}
+      \range{pages}{40}
     \endentry
   \enddatalist
 \endrefsection
