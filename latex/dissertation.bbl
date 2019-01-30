@@ -60,6 +60,105 @@
       \field{pages}{187\bibrangedash 218}
       \range{pages}{32}
     \endentry
+    \entry{baumgarten_tarbiz1962}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
+           family={Baumgarten},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{fullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorbibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authornamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorfullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tarbiz}
+      \field{title}{Hlwḥ šl spr hywblym whmqrʔ}
+      \field{volume}{32}
+      \field{year}{1962}
+      \field{dateera}{ce}
+      \field{pages}{317\bibrangedash 328}
+      \range{pages}{12}
+    \endentry
+    \entry{6c9f012cd6be45ff0e3d12385435aed9}{article}{skipbib=true,skipbiblist=true}
+      \name{author}{1}{}{%
+        {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
+           family={Baumgarten},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{fullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorbibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authornamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorfullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{baumgarten_tarbiz1962}
+      \field{journaltitle}{Tarbiz}
+      \field{title}{Hlwḥ šl spr hywblym whmqrʔ}
+      \field{volume}{32}
+      \field{year}{1962}
+      \field{pages}{317\bibrangedash 328}
+      \range{pages}{12}
+    \endentry
+    \entry{baumgarten_baumgarten1977}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
+           family={Baumgarten},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{bookeditor}{1}{}{%
+        {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
+           family={Baumgarten},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{fullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorbibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authornamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorfullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bookeditorbibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bookeditornamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bookeditorfullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Studies In Qumran Law}
+      \field{relatedtype}{translationof}
+      \field{series}{Studies in Judaism in Late Antiquity}
+      \field{shortbooktitle}{Studies in Qumran Law}
+      \field{shortseries}{SJLA}
+      \field{shorttitle}{Calendar of the Book of Jubilees}
+      \field{title}{The Calendar of the Book of Jubilees and the Bible}
+      \field{volume}{24}
+      \field{year}{1977}
+      \field{related}{6c9f012cd6be45ff0e3d12385435aed9}
+      \field{pages}{101\bibrangedash 114}
+      \range{pages}{14}
+    \endentry
     \entry{bendov_steele2011}{incollection}{}
       \name{author}{1}{}{%
         {{hash=66095197b2ff17aec5c98ef1f5937a57}{%
@@ -680,6 +779,63 @@
       \field{pages}{345\bibrangedash 370}
       \range{pages}{26}
     \endentry
+    \entry{morgenstern_vt1955}{article}{}
+      \name{author}{1}{}{%
+        {{hash=70a0e07c6763ca8003ec76bf67cdb201}{%
+           family={Morgenstern},
+           familyi={M\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{70a0e07c6763ca8003ec76bf67cdb201}
+      \strng{fullhash}{70a0e07c6763ca8003ec76bf67cdb201}
+      \strng{bibnamehash}{70a0e07c6763ca8003ec76bf67cdb201}
+      \strng{authorbibnamehash}{70a0e07c6763ca8003ec76bf67cdb201}
+      \strng{authornamehash}{70a0e07c6763ca8003ec76bf67cdb201}
+      \strng{authorfullhash}{70a0e07c6763ca8003ec76bf67cdb201}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Vetus Testamentum}
+      \field{shortjournal}{VT}
+      \field{title}{The Calendar of the Book of Jubilees, Its Origin and Its Character}
+      \field{volume}{5}
+      \field{year}{1955}
+      \field{dateera}{ce}
+      \field{pages}{34\bibrangedash 76}
+      \range{pages}{43}
+    \endentry
+    \entry{ravid_dsd2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87b79a029e5c84cd6a89f2edabe4304d}{%
+           family={Ravid},
+           familyi={R\bibinitperiod},
+           given={Liora},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{87b79a029e5c84cd6a89f2edabe4304d}
+      \strng{fullhash}{87b79a029e5c84cd6a89f2edabe4304d}
+      \strng{bibnamehash}{87b79a029e5c84cd6a89f2edabe4304d}
+      \strng{authorbibnamehash}{87b79a029e5c84cd6a89f2edabe4304d}
+      \strng{authornamehash}{87b79a029e5c84cd6a89f2edabe4304d}
+      \strng{authorfullhash}{87b79a029e5c84cd6a89f2edabe4304d}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issue}{3}
+      \field{journaltitle}{Dead Sea Discoveries}
+      \field{shortjournal}{DSD}
+      \field{shorttitle}{The Book of Jubilees and Its Calendar}
+      \field{title}{The Book of Jubilees and Its Calendar: A Reexamination}
+      \field{volume}{10}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{pages}{371\bibrangedash 394}
+      \range{pages}{24}
+    \endentry
     \entry{reed_kister-etal2015}{incollection}{}
       \name{author}{1}{}{%
         {{hash=48c482d71c19e6e7a63789df170fd6dd}{%
@@ -864,6 +1020,34 @@
       \field{year}{1989}
       \field{dateera}{ce}
     \endentry
+    \entry{vanderkam_cbq1979}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Catholic Biblical Quarterly}
+      \field{shortjournal}{CBQ}
+      \field{shorttitle}{The Origin, Character, and Early History of the 364-Day Calendar}
+      \field{title}{The Origin, Character, and Early History of the 364-Day Calendar: A Reassesment of Jaubert's Hypothesis}
+      \field{volume}{41}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{pages}{390\bibrangedash 411}
+      \range{pages}{22}
+    \endentry
     \entry{wacholder-wacholder_huca1995}{article}{}
       \name{author}{2}{}{%
         {{hash=a63f73e9ab3dd4d45d8eaa4eaae161cf}{%
@@ -898,6 +1082,7 @@
       \range{pages}{40}
     \endentry
   \enddatalist
+  \missing{vanderkam1999}
 \endrefsection
 \endinput
 
