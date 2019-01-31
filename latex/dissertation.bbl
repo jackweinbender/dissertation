@@ -923,6 +923,39 @@
       \field{pages}{55\bibrangedash 86\bibrangessep 206\bibrangedash 32}
       \range{pages}{59}
     \endentry
+    \entry{vanderkam1998}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Calendars in the Dead Sea Scrolls: Measuring Time}
+      \field{series}{Literature of the Dead Sea Scrolls}
+      \field{shortseries}{LDSS}
+      \field{shorttitle}{Calendars in the Dead Sea Scrolls}
+      \field{title}{Calendars in the Dead Sea Scrolls: Measuring Time}
+      \field{year}{1998}
+      \field{dateera}{ce}
+    \endentry
     \entry{vanderkam2018}{mvbook}{}
       \name{author}{1}{}{%
         {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
@@ -1082,7 +1115,6 @@
       \range{pages}{40}
     \endentry
   \enddatalist
-  \missing{vanderkam1999}
 \endrefsection
 \endinput
 
