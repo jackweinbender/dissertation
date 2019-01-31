@@ -17,6 +17,9 @@ build-tex:
 	@ echo 'Starting xelatex...'
 	@ cd latex && make xelatex
 
+clean:
+	@ cd latex && make clean
+
 biber:
 	@ echo 'Processing .bib files...'
 	@ cd bib && make
