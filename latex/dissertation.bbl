@@ -49,8 +49,8 @@
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issue}{2}
       \field{journaltitle}{Revue biblique}
+      \field{number}{2}
       \field{shortjournal}{RB}
       \field{shorttitle}{Notes en marge}
       \field{title}{Notes en marge de publications récentes sur les manuscrits de Qumrân}
@@ -235,6 +235,39 @@
       \field{dateera}{ce}
       \field{pages}{124\bibrangedash 168}
       \range{pages}{45}
+    \endentry
+    \entry{bergsma2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d4ea124a6a95d6120ddc4fe970125951}{%
+           family={Bergsma},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima Sietze},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{d4ea124a6a95d6120ddc4fe970125951}
+      \strng{fullhash}{d4ea124a6a95d6120ddc4fe970125951}
+      \strng{bibnamehash}{d4ea124a6a95d6120ddc4fe970125951}
+      \strng{authorbibnamehash}{d4ea124a6a95d6120ddc4fe970125951}
+      \strng{authornamehash}{d4ea124a6a95d6120ddc4fe970125951}
+      \strng{authorfullhash}{d4ea124a6a95d6120ddc4fe970125951}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Jubilee from Leviticus to Qumran: A History of Interpretation}
+      \field{number}{115}
+      \field{series}{Supplements to Vetus Testamentum}
+      \field{shortseries}{VTSup}
+      \field{shorttitle}{Jubilee}
+      \field{title}{The Jubilee from Leviticus to Qumran: A History of Interpretation}
+      \field{year}{2007}
+      \field{dateera}{ce}
     \endentry
     \entry{ceriani1861}{book}{}
       \name{author}{1}{}{%
@@ -470,6 +503,39 @@
       \field{pages}{164\bibrangedash 201}
       \range{pages}{38}
     \endentry
+    \entry{fager1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e04e654033cedf81365dd4caa7aa46a}{%
+           family={Fager},
+           familyi={F\bibinitperiod},
+           given={Jeffrey\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {JSOT Press}%
+      }
+      \strng{namehash}{6e04e654033cedf81365dd4caa7aa46a}
+      \strng{fullhash}{6e04e654033cedf81365dd4caa7aa46a}
+      \strng{bibnamehash}{6e04e654033cedf81365dd4caa7aa46a}
+      \strng{authorbibnamehash}{6e04e654033cedf81365dd4caa7aa46a}
+      \strng{authornamehash}{6e04e654033cedf81365dd4caa7aa46a}
+      \strng{authorfullhash}{6e04e654033cedf81365dd4caa7aa46a}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Land Tenure and the Biblical Jubilee: Uncovering Hebrew Ethics through the Sociology of Knowledge}
+      \field{number}{155}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{Land Tenure and the Biblical Jubilee}
+      \field{title}{Land Tenure and the Biblical Jubilee: Uncovering Hebrew Ethics through the Sociology of Knowledge}
+      \field{year}{1993}
+      \field{dateera}{ce}
+    \endentry
     \entry{glessmer_flint-vanderkam1999}{incollection}{}
       \name{author}{1}{}{%
         {{hash=f02a82c240eaa13dbeea9c9b65514041}{%
@@ -670,10 +736,10 @@
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issue}{3}
       \field{journaltitle}{Vetus Testamentum}
+      \field{number}{3}
       \field{shortjournal}{VT}
-      \field{shorttitle}{Le calendrier des Jubilés et de la secte de Qumrân}
+      \field{shorttitle}{Le calendrier des Jubilés}
       \field{title}{Le calendrier des Jubilés et de la secte de Qumrân: Ses origines bibliques}
       \field{volume}{3}
       \field{year}{1953}
@@ -698,10 +764,11 @@
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issue}{1}
+      \field{labeltitlesource}{shorttitle}
       \field{journaltitle}{Vetus Testamentum}
+      \field{number}{1}
       \field{shortjournal}{VT}
+      \field{shorttitle}{Le calendrier des Jubilés}
       \field{title}{Le calendrier des Jubilés et les jour liturgiques de la semaine}
       \field{volume}{7}
       \field{year}{1957}
@@ -779,6 +846,39 @@
       \field{pages}{345\bibrangedash 370}
       \range{pages}{26}
     \endentry
+    \entry{lefebvre2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a4993450d19a197e92e5fb844bfd3fc1}{%
+           family={Lefebvre},
+           familyi={L\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Göttingen}%
+      }
+      \list{publisher}{1}{%
+        {Vandenhoeck \& Ruprecht}%
+      }
+      \strng{namehash}{a4993450d19a197e92e5fb844bfd3fc1}
+      \strng{fullhash}{a4993450d19a197e92e5fb844bfd3fc1}
+      \strng{bibnamehash}{a4993450d19a197e92e5fb844bfd3fc1}
+      \strng{authorbibnamehash}{a4993450d19a197e92e5fb844bfd3fc1}
+      \strng{authornamehash}{a4993450d19a197e92e5fb844bfd3fc1}
+      \strng{authorfullhash}{a4993450d19a197e92e5fb844bfd3fc1}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{le jubilé biblique: Lv 25---exégèse et théologie}
+      \field{number}{194}
+      \field{series}{Orbis biblicus et orientalis}
+      \field{shortseries}{OBO}
+      \field{shorttitle}{Le jubilé biblique}
+      \field{title}{le jubilé biblique: Lv 25---exégèse et théologie}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
     \entry{morgenstern_vt1955}{article}{}
       \name{author}{1}{}{%
         {{hash=70a0e07c6763ca8003ec76bf67cdb201}{%
@@ -797,8 +897,8 @@
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issue}{1}
       \field{journaltitle}{Vetus Testamentum}
+      \field{number}{1}
       \field{shortjournal}{VT}
       \field{title}{The Calendar of the Book of Jubilees, Its Origin and Its Character}
       \field{volume}{5}
@@ -806,6 +906,39 @@
       \field{dateera}{ce}
       \field{pages}{34\bibrangedash 76}
       \range{pages}{43}
+    \endentry
+    \entry{north1954}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4a90dac175dad06978acdd8d0caa443c}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Pontifical Biblical Institute}%
+      }
+      \strng{namehash}{4a90dac175dad06978acdd8d0caa443c}
+      \strng{fullhash}{4a90dac175dad06978acdd8d0caa443c}
+      \strng{bibnamehash}{4a90dac175dad06978acdd8d0caa443c}
+      \strng{authorbibnamehash}{4a90dac175dad06978acdd8d0caa443c}
+      \strng{authornamehash}{4a90dac175dad06978acdd8d0caa443c}
+      \strng{authorfullhash}{4a90dac175dad06978acdd8d0caa443c}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Sociology of the Biblical Jubilee}
+      \field{number}{4}
+      \field{series}{Analecta biblica}
+      \field{shortseries}{AnBib}
+      \field{shorttitle}{Sociology of the Biblical Jubilee}
+      \field{title}{Sociology of the Biblical Jubilee}
+      \field{year}{1954}
+      \field{dateera}{ce}
     \endentry
     \entry{ravid_dsd2003}{article}{}
       \name{author}{1}{}{%
@@ -825,8 +958,8 @@
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{issue}{3}
       \field{journaltitle}{Dead Sea Discoveries}
+      \field{number}{3}
       \field{shortjournal}{DSD}
       \field{shorttitle}{The Book of Jubilees and Its Calendar}
       \field{title}{The Book of Jubilees and Its Calendar: A Reexamination}
@@ -923,6 +1056,36 @@
       \field{pages}{55\bibrangedash 86\bibrangessep 206\bibrangedash 32}
       \range{pages}{59}
     \endentry
+    \entry{vanderkam_jsj1981}{article}{}
+      \name{author}{1}{}{%
+        {{hash=604659beeb6de3bbed7b0e4eca8d839b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           suffix={James},
+           suffixi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{604659beeb6de3bbed7b0e4eca8d839b}
+      \strng{fullhash}{604659beeb6de3bbed7b0e4eca8d839b}
+      \strng{bibnamehash}{604659beeb6de3bbed7b0e4eca8d839b}
+      \strng{authorbibnamehash}{604659beeb6de3bbed7b0e4eca8d839b}
+      \strng{authornamehash}{604659beeb6de3bbed7b0e4eca8d839b}
+      \strng{authorfullhash}{604659beeb6de3bbed7b0e4eca8d839b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal for the Study of Judaism}
+      \field{shortjournal}{JSJ}
+      \field{shorttitle}{2 Maccabees}
+      \field{title}{2 Maccabees 6, 7a and Calendrical Change in Jerusalem}
+      \field{volume}{12}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{pages}{52\bibrangedash 74}
+      \range{pages}{23}
+    \endentry
     \entry{vanderkam1998}{book}{}
       \name{author}{1}{}{%
         {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
@@ -987,6 +1150,51 @@
       \field{volumes}{2}
       \field{year}{2018}
       \field{dateera}{ce}
+    \endentry
+    \entry{vanderkam-b_vanderkam2000}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{fullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bookauthorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bookauthornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \strng{bookauthorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Studies in the Chronology of the Book of Jubilees}
+      \field{number}{62}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortbooktitle}{From Revelation to Canon}
+      \field{shortseries}{JSJSup}
+      \field{shorttitle}{Chronology}
+      \field{title}{Studies in the Chronology of the Book of Jubilees}
+      \field{year}{2000}
+      \field{pages}{522\bibrangedash 544}
+      \range{pages}{23}
     \endentry
     \entry{vanderkam1977}{book}{}
       \name{author}{1}{}{%
@@ -1113,6 +1321,34 @@
       \field{dateera}{ce}
       \field{pages}{1\bibrangedash 40}
       \range{pages}{40}
+    \endentry
+    \entry{wiesenberg_rev-qumran1961}{article}{}
+      \name{author}{1}{}{%
+        {{hash=909a6f55058eada8b08c0e446c080a93}{%
+           family={Wiesenberg},
+           familyi={W\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{909a6f55058eada8b08c0e446c080a93}
+      \strng{fullhash}{909a6f55058eada8b08c0e446c080a93}
+      \strng{bibnamehash}{909a6f55058eada8b08c0e446c080a93}
+      \strng{authorbibnamehash}{909a6f55058eada8b08c0e446c080a93}
+      \strng{authornamehash}{909a6f55058eada8b08c0e446c080a93}
+      \strng{authorfullhash}{909a6f55058eada8b08c0e446c080a93}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue de Qumrân}
+      \field{number}{1}
+      \field{shortjournal}{RdQ}
+      \field{title}{The Jubilee of Jubilees}
+      \field{volume}{3}
+      \field{year}{1961}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 40}
+      \range{pages}{38}
     \endentry
   \enddatalist
 \endrefsection
