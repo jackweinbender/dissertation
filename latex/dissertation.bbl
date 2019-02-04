@@ -362,6 +362,35 @@
       \field{year}{1902}
       \field{dateera}{ce}
     \endentry
+    \entry{davies_cbq1983}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b31eb9decfec179375cb58994828df1e}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b31eb9decfec179375cb58994828df1e}
+      \strng{fullhash}{b31eb9decfec179375cb58994828df1e}
+      \strng{bibnamehash}{b31eb9decfec179375cb58994828df1e}
+      \strng{authorbibnamehash}{b31eb9decfec179375cb58994828df1e}
+      \strng{authornamehash}{b31eb9decfec179375cb58994828df1e}
+      \strng{authorfullhash}{b31eb9decfec179375cb58994828df1e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Catholic Biblical Quarterly}
+      \field{number}{1}
+      \field{shortjournal}{CBQ}
+      \field{shorttitle}{Calendrical Change}
+      \field{title}{Calendrical Change and Qumran Origins: An Assessment of VanderKam's Theory}
+      \field{volume}{45}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{pages}{80\bibrangedash 89}
+      \range{pages}{10}
+    \endentry
     \entry{dillamnn_jbw_kleine}{article}{}
       \name{author}{1}{}{%
         {{hash=369c9a75c75f58829c0ee8322f997b22}{%
@@ -1028,6 +1057,127 @@
       \field{year}{2015}
       \field{pages}{304\bibrangedash 321}
       \range{pages}{18}
+    \endentry
+    \entry{stern2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=798d5fb2581b9e5c9dffbe63d08afb93}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={Sacha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{fullhash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{bibnamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authorbibnamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authornamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authorfullhash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Calendar and Community: A History of the Jewish Calendar, 2nd Century BCE to 10th Century CE}
+      \field{shorttitle}{Calendar and Community}
+      \field{title}{Calendar and Community: A History of the Jewish Calendar, 2nd Century BCE to 10th Century CE}
+      \field{year}{2001}
+      \field{dateera}{ce}
+    \endentry
+    \entry{stern_lim-etal2000}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=798d5fb2581b9e5c9dffbe63d08afb93}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={Sacha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{bookeditor}{1}{}{%
+        {{hash=0a430f0cc638813ae78fdddd62b38daf}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{withbookeditor}{3}{}{%
+        {{hash=583fc0e570019b79c9a3cb6dfdfeefe7}{%
+           family={Auld},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Graeme},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=650d8187295c6d55a9db2ce86377f24e}{%
+           family={Hurtado},
+           familyi={H\bibinitperiod},
+           given={Larry\bibnamedelima W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=516b65edcc861a8780f324585558c2d0}{%
+           family={Jack},
+           familyi={J\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {T \& T Clark}%
+      }
+      \strng{namehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{fullhash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{bibnamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authorbibnamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authornamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authorfullhash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{bookeditorbibnamehash}{0a430f0cc638813ae78fdddd62b38daf}
+      \strng{bookeditornamehash}{0a430f0cc638813ae78fdddd62b38daf}
+      \strng{bookeditorfullhash}{0a430f0cc638813ae78fdddd62b38daf}
+      \strng{withbookeditorbibnamehash}{b53f7ec1269808d643a61e81f4c81804}
+      \strng{withbookeditornamehash}{b53f7ec1269808d643a61e81f4c81804}
+      \strng{withbookeditorfullhash}{b53f7ec1269808d643a61e81f4c81804}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Dead Sea Scrolls in Their Historical Context}
+      \field{shortbooktitle}{Dead Sea Scrolls}
+      \field{shorttitle}{Qumran Calendars: Theory and Practice}
+      \field{title}{Qumran Calendars: Theory and Practice}
+      \field{withbookeditortype}{with}
+      \field{year}{2000}
+      \field{pages}{179\bibrangedash 186}
+      \range{pages}{8}
+    \endentry
+    \entry{stern_zpe2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=798d5fb2581b9e5c9dffbe63d08afb93}{%
+           family={Stern},
+           familyi={S\bibinitperiod},
+           given={Sacha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{fullhash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{bibnamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authorbibnamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authornamehash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \strng{authorfullhash}{798d5fb2581b9e5c9dffbe63d08afb93}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Papyrologie und Epigraphik}
+      \field{shortjournal}{ZPE}
+      \field{title}{The Babylonian Calendar at Elephantine}
+      \field{volume}{130}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{159\bibrangedash 171}
+      \range{pages}{13}
     \endentry
     \entry{tisserant_rb1921}{article}{}
       \name{author}{1}{}{%

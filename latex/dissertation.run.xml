@@ -93,6 +93,9 @@
       <file>../bib/__reference.bib</file>
       <file>../bib/__tmp.bib</file>
       <file>../bib/__hacks.bib</file>
+      <file>../bib/_01-rwb.bib</file>
+      <file>../bib/_02-memory.bib</file>
+      <file>../bib/_03-genesis_apocryphon.bib</file>
       <file>../bib/_04-jubilees.bib</file>
     </requires>
   </external>
