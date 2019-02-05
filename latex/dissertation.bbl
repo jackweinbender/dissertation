@@ -19,6 +19,62 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{brooke_rev-qumran2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b60ebe416aa178d97ddbd43d91944a4f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{fullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{bibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorbibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authornamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorfullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Revue de Qumrân}
+      \field{shortjournal}{RdQ}
+      \field{shorttitle}{Authority and the Authoritativeness}
+      \field{title}{Authority and the Authoritativeness: Some Clues from the Dead Sea Scrolls}
+      \field{volume}{25}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{507\bibrangedash 523}
+      \range{pages}{17}
+    \endentry
+    \entry{debel_jsj2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a87160f0714a0cf62b30c0e396cf2a9}{%
+           family={Debel},
+           familyi={D\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a87160f0714a0cf62b30c0e396cf2a9}
+      \strng{fullhash}{9a87160f0714a0cf62b30c0e396cf2a9}
+      \strng{bibnamehash}{9a87160f0714a0cf62b30c0e396cf2a9}
+      \strng{authorbibnamehash}{9a87160f0714a0cf62b30c0e396cf2a9}
+      \strng{authornamehash}{9a87160f0714a0cf62b30c0e396cf2a9}
+      \strng{authorfullhash}{9a87160f0714a0cf62b30c0e396cf2a9}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal for the Study of Judaism}
+      \field{shortjournal}{JSJ}
+      \field{shorttitle}{Anchoring Revelations}
+      \field{title}{Anchoring Revelations in the Authority of Sinai: A Comparison of the Rewritings of `Scripture' in Jubilees and in the P Stratum of Exodus}
+      \field{volume}{45}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{471\bibrangedash 492}
+      \range{pages}{22}
+    \endentry
     \entry{foucault_ci1982}{article}{}
       \name{author}{1}{}{%
         {{hash=984e5967448051538555a64aac11ed21}{%
