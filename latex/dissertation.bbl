@@ -453,6 +453,34 @@
       \field{pages}{80\bibrangedash 89}
       \range{pages}{10}
     \endentry
+    \entry{dillmann_spaw1883}{article}{}
+      \name{author}{1}{}{%
+        {{hash=369c9a75c75f58829c0ee8322f997b22}{%
+           family={Dillmann},
+           familyi={D\bibinitperiod},
+           given={August},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{fullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{bibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorbibnamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authornamehash}{369c9a75c75f58829c0ee8322f997b22}
+      \strng{authorfullhash}{369c9a75c75f58829c0ee8322f997b22}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften zu Berlin}
+      \field{shortjournal}{SPAW}
+      \field{shorttitle}{Beiträge}
+      \field{title}{Beiträge aus dem Buch der Jubiläen zur Kritik des Pentateuch-Textes}
+      \field{volume}{15}
+      \field{year}{1883}
+      \field{dateera}{ce}
+      \field{pages}{323\bibrangedash 340}
+      \range{pages}{18}
+    \endentry
     \entry{dillamnn_jbw_kleine}{article}{}
       \name{author}{1}{}{%
         {{hash=369c9a75c75f58829c0ee8322f997b22}{%
