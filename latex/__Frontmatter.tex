@@ -16,9 +16,6 @@
 \degree{Doctor of Philosophy}
 \degreeabbr{Ph.D.}
 
-%% Title Page
-\maketitle
-
 
 %% Copyright Page Info
 \copyrightyear{2019}
@@ -35,9 +32,19 @@
 % Signature Page
 \makesignatures
 
+%% Title Page
+\maketitle
+
+\clearpage
+\input{frontmatter/dedication.tex}
+
+\clearpage
+\input{frontmatter/acknowledgments.tex}
+
 \begin{abstract}
-Abstract text
+  \input{frontmatter/abstract.tex}
 \end{abstract}
+
 
 \tableofcontents*
 \begin{SingleSpace}
