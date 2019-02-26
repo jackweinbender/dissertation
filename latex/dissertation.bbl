@@ -19,36 +19,592 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{klein2006}{book}{}
+    \entry{alexander_carson-williamson1988}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=108ebe6627882e2f5c62c8abef1dd2a1}{%
-           family={Klein},
-           familyi={K\bibinitperiod},
-           given={Ralph\bibnamedelima W.},
-           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=1387c030a704502728d55503a0342874}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Philip\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=8cdcf546edd564d3936d0f2daa9a3297}{%
+           family={Carson},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ad4458647dc68b91d6974f0ddfd41b90}{%
+           family={Williamson},
+           familyi={W\bibinitperiod},
+           given={H.\bibnamedelimi G.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Minneapolis, MN}%
+        {Cambridge}%
       }
       \list{publisher}{1}{%
-        {Fortress}%
+        {Cambridge University Press}%
       }
-      \strng{namehash}{108ebe6627882e2f5c62c8abef1dd2a1}
-      \strng{fullhash}{108ebe6627882e2f5c62c8abef1dd2a1}
-      \strng{bibnamehash}{108ebe6627882e2f5c62c8abef1dd2a1}
-      \strng{authorbibnamehash}{108ebe6627882e2f5c62c8abef1dd2a1}
-      \strng{authornamehash}{108ebe6627882e2f5c62c8abef1dd2a1}
-      \strng{authorfullhash}{108ebe6627882e2f5c62c8abef1dd2a1}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \strng{namehash}{1387c030a704502728d55503a0342874}
+      \strng{fullhash}{1387c030a704502728d55503a0342874}
+      \strng{bibnamehash}{1387c030a704502728d55503a0342874}
+      \strng{authorbibnamehash}{1387c030a704502728d55503a0342874}
+      \strng{authornamehash}{1387c030a704502728d55503a0342874}
+      \strng{authorfullhash}{1387c030a704502728d55503a0342874}
+      \strng{bookeditorbibnamehash}{907bf6690d1822397421b89a648c931a}
+      \strng{bookeditornamehash}{907bf6690d1822397421b89a648c931a}
+      \strng{bookeditorfullhash}{907bf6690d1822397421b89a648c931a}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{It is Written---Scripture Citing Scripture: Essays in Honour of Barnabas Lindars, {SSF}}
+      \field{shortbooktitle}{It is Written}
+      \field{title}{Retelling the Old Testament}
+      \field{year}{1988}
+      \field{pages}{99\bibrangedash 121}
+      \range{pages}{23}
+    \endentry
+    \entry{benzvi_st2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0a5c525f7ae0fd75dc5cabf5cd7a0348}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{fullhash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{bibnamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authorbibnamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authornamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authorfullhash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studia Theologica}
+      \field{number}{1}
+      \field{shortjournal}{ST}
+      \field{title}{Chronicles and Social Memory}
+      \field{volume}{71}
+      \field{pages}{69\bibrangedash 90}
+      \range{pages}{22}
+    \endentry
+    \entry{benzvi-a_evans-williams2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0a5c525f7ae0fd75dc5cabf5cd7a0348}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=cbe9d21459d70679f6d57c47ef870d6e}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3502f9f09be7b092d83db14967235494}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Tyler\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
+      }
+      \strng{namehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{fullhash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{bibnamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authorbibnamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authornamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authorfullhash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{bookeditorbibnamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{bookeditornamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{bookeditorfullhash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Chronicling the Chronicler: The Book of Chronicles and Early Second Temple Historiography}
+      \strng{crossref}{evans-williams2013}
+      \field{shortbooktitle}{Chronicling the Chronicler}
+      \field{title}{Reading Chronicles and Reshaping the Memory of Manasseh}
+      \field{year}{2013}
+      \field{pages}{121\bibrangedash 140}
+      \range{pages}{20}
+    \endentry
+    \entry{benzvi-b_evans-williams2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0a5c525f7ae0fd75dc5cabf5cd7a0348}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=cbe9d21459d70679f6d57c47ef870d6e}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3502f9f09be7b092d83db14967235494}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Tyler\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
+      }
+      \strng{namehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{fullhash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{bibnamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authorbibnamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authornamehash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{authorfullhash}{0a5c525f7ae0fd75dc5cabf5cd7a0348}
+      \strng{bookeditorbibnamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{bookeditornamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{bookeditorfullhash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{1 Chronicles: A Commentary}
-      \field{series}{Hermeneia}
-      \field{shorttitle}{1 Chronicles}
-      \field{title}{1 Chronicles: A Commentary}
-      \field{year}{2006}
+      \field{booktitle}{Chronicling the Chronicler: The Book of Chronicles and Early Second Temple Historiography}
+      \strng{crossref}{evans-williams2013}
+      \field{shortbooktitle}{Chronicling the Chronicler}
+      \field{shorttitle}{Toward a Sense of Balance}
+      \field{title}{Toward a Sense of Balance: Remembering the Catastrophe of Monarchic Judah / (Ideological) Israel and Exile through Reading Chronicles in Late Yehud}
+      \field{year}{2013}
+      \field{pages}{247\bibrangedash 265}
+      \range{pages}{19}
+    \endentry
+    \entry{bernstein_textus2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a36b10120f44b9bb2bc6ff3b0826f80e}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Moshe\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{fullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{bibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorbibnamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authornamehash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \strng{authorfullhash}{a36b10120f44b9bb2bc6ff3b0826f80e}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Textus}
+      \field{shortjournal}{Text}
+      \field{shorttitle}{Rewritten {Bible}}
+      \field{title}{Rewritten {Bible}: A Generic Category Which Has Outlived its Usefulness?}
+      \field{volume}{22}
+      \field{year}{2005}
       \field{dateera}{ce}
+      \field{pages}{169\bibrangedash 96}
+      \range{pages}{28}
+    \endentry
+    \entry{blenkinsopp2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66f2e0fa73d16fdf9f6f4aa3945ed619}{%
+           family={Blenkinsopp},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{fullhash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{bibnamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authorbibnamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authornamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authorfullhash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{David Remembered}
+      \field{title}{David Remembered: Kingship and National Identity in Ancient Israel}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{braun1986}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a2ca7c9ba70d8e71d3d3379ff5aa8357}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Roddy},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Waco, TX}%
+      }
+      \list{publisher}{1}{%
+        {Word Books}%
+      }
+      \strng{namehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{fullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{bibnamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorbibnamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authornamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorfullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{14}
+      \field{series}{Word Biblical Commentary}
+      \field{shortseries}{WBC}
+      \field{title}{1 Chronicles}
+      \field{year}{1986}
+      \field{dateera}{ce}
+    \endentry
+    \entry{campbell_zsengeller2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=9f3fed130f75497e1516828970447652}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Jonathan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{bookeditor}{1}{}{%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{9f3fed130f75497e1516828970447652}
+      \strng{fullhash}{9f3fed130f75497e1516828970447652}
+      \strng{bibnamehash}{9f3fed130f75497e1516828970447652}
+      \strng{authorbibnamehash}{9f3fed130f75497e1516828970447652}
+      \strng{authornamehash}{9f3fed130f75497e1516828970447652}
+      \strng{authorfullhash}{9f3fed130f75497e1516828970447652}
+      \strng{bookeditorbibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{bookeditornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{bookeditorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortbooktitle}{Rewritten Bible after Fifty Years}
+      \field{shortseries}{JSJSup}
+      \field{shorttitle}{Rewritten Bible}
+      \field{title}{Rewritten Bible: A Terminological Reassessment}
+      \field{year}{2014}
+      \field{pages}{49\bibrangedash 81}
+      \range{pages}{33}
+    \endentry
+    \entry{coggins1976}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0bcffba5af609b656804bd7f3707ebd1}{%
+           family={Coggins},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{0bcffba5af609b656804bd7f3707ebd1}
+      \strng{fullhash}{0bcffba5af609b656804bd7f3707ebd1}
+      \strng{bibnamehash}{0bcffba5af609b656804bd7f3707ebd1}
+      \strng{authorbibnamehash}{0bcffba5af609b656804bd7f3707ebd1}
+      \strng{authornamehash}{0bcffba5af609b656804bd7f3707ebd1}
+      \strng{authorfullhash}{0bcffba5af609b656804bd7f3707ebd1}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Cambridge Biblical Commentary}
+      \field{shortseries}{CBC}
+      \field{shorttitle}{Chronicles}
+      \field{title}{The First and Second Books of the Chronicles}
+      \field{year}{1976}
+      \field{dateera}{ce}
+    \endentry
+    \entry{davies2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dbbba4597f08f54d3f54cdb27f422a03}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louisville, KY}%
+      }
+      \list{publisher}{1}{%
+        {Westminster John Knox}%
+      }
+      \strng{namehash}{dbbba4597f08f54d3f54cdb27f422a03}
+      \strng{fullhash}{dbbba4597f08f54d3f54cdb27f422a03}
+      \strng{bibnamehash}{dbbba4597f08f54d3f54cdb27f422a03}
+      \strng{authorbibnamehash}{dbbba4597f08f54d3f54cdb27f422a03}
+      \strng{authornamehash}{dbbba4597f08f54d3f54cdb27f422a03}
+      \strng{authorfullhash}{dbbba4597f08f54d3f54cdb27f422a03}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memories of Ancient Israel: An Introduction to Biblical History--Ancient and Modern}
+      \field{shorttitle}{Memories of Ancient Israel}
+      \field{title}{Memories of Ancient Israel: An Introduction to Biblical History--Ancient and Modern}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{evans-williams2013}{collection}{skipbib=true}
+      \name{editor}{2}{}{%
+        {{hash=cbe9d21459d70679f6d57c47ef870d6e}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3502f9f09be7b092d83db14967235494}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Tyler\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
+      }
+      \strng{namehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{fullhash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{bibnamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{editorbibnamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{editornamehash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \strng{editorfullhash}{0f3d45ac3ca1fe4e3d11fcbfbb4899a0}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Chronicling the Chronicler: The Book of Chronicles and Early Second Temple Historiography}
+      \field{shorttitle}{Chronicling the Chronicler}
+      \field{title}{Chronicling the Chronicler: The Book of Chronicles and Early Second Temple Historiography}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{genette1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a7761d3fd65ea36d5c84d114d588896b}{%
+           family={Genette},
+           familyi={G\bibinitperiod},
+           given={Gérard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=3fb0bdf34fac2aeb0a3b1d4b37d0343f}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Channa},
+           giveni={C\bibinitperiod}}}%
+        {{hash=331c17f118bdbe0154399acf7e6f070f}{%
+           family={Doubinsky},
+           familyi={D\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lincoln, NE}%
+      }
+      \list{publisher}{1}{%
+        {University of Nebraska Press}%
+      }
+      \strng{namehash}{a7761d3fd65ea36d5c84d114d588896b}
+      \strng{fullhash}{a7761d3fd65ea36d5c84d114d588896b}
+      \strng{bibnamehash}{a7761d3fd65ea36d5c84d114d588896b}
+      \strng{authorbibnamehash}{a7761d3fd65ea36d5c84d114d588896b}
+      \strng{authornamehash}{a7761d3fd65ea36d5c84d114d588896b}
+      \strng{authorfullhash}{a7761d3fd65ea36d5c84d114d588896b}
+      \strng{translatorbibnamehash}{67aa6f90a583e2c0058fb54d5adb68f0}
+      \strng{translatornamehash}{67aa6f90a583e2c0058fb54d5adb68f0}
+      \strng{translatorfullhash}{67aa6f90a583e2c0058fb54d5adb68f0}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Palimpsests}
+      \field{title}{Palimpsests: Literature in the Second Degree}
+      \field{year}{1997}
+      \field{dateera}{ce}
+    \endentry
+    \entry{hendel2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4698e93d3891c907bb41a359c9570fbd}{%
+           family={Hendel},
+           familyi={H\bibinitperiod},
+           given={Ronald\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{4698e93d3891c907bb41a359c9570fbd}
+      \strng{fullhash}{4698e93d3891c907bb41a359c9570fbd}
+      \strng{bibnamehash}{4698e93d3891c907bb41a359c9570fbd}
+      \strng{authorbibnamehash}{4698e93d3891c907bb41a359c9570fbd}
+      \strng{authornamehash}{4698e93d3891c907bb41a359c9570fbd}
+      \strng{authorfullhash}{4698e93d3891c907bb41a359c9570fbd}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Remembering Abraham: Culture, Memory, and History in the Hebrew Bible}
+      \field{shorttitle}{Remembering Abraham}
+      \field{title}{Remembering Abraham: Culture, Memory, and History in the Hebrew Bible}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+    \entry{japhet1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louisville, KY}%
+      }
+      \list{publisher}{1}{%
+        {Westminster John Knox}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{bibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorbibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \field{extraname}{1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{{I \& II Chronicles}}: A Commentary}
+      \field{series}{Old Testament Library}
+      \field{shortseries}{OTL}
+      \field{shorttitle}{{{I \& II Chronicles}}}
+      \field{title}{{{I \& II Chronicles}}: A Commentary}
+      \field{year}{1993}
+      \field{dateera}{ce}
+    \endentry
+    \entry{7ae4d6d711ef4709fc7a89e59f685966}{book}{skipbib,skipbiblist=false}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{bibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorbibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{clonesourcekey}{japhet1997}
+      \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{edition}{2nd revised ed.}
+      \field{number}{9}
+      \field{series}{Beiträge zur Erforschung des Alten Testaments und des antiken Judentums}
+      \field{shortseries}{BEATAJ}
+      \field{shorttitle}{Ideology of the Book of Chronicles}
+      \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{year}{1997}
+    \endentry
+    \entry{japhet2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=2ca2655e017ef5971a8b43c949b45821}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{bibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorbibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{translatorbibnamehash}{2ca2655e017ef5971a8b43c949b45821}
+      \strng{translatornamehash}{2ca2655e017ef5971a8b43c949b45821}
+      \strng{translatorfullhash}{2ca2655e017ef5971a8b43c949b45821}
+      \field{extraname}{3}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{relatedtype}{reprint}
+      \field{shorttitle}{Ideology of the Book of Chronicles}
+      \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{related}{7ae4d6d711ef4709fc7a89e59f685966}
     \endentry
     \entry{knoppers2003}{book}{}
       \name{author}{1}{}{%
@@ -82,6 +638,284 @@
       \field{title}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
       \field{year}{2003}
       \field{dateera}{ce}
+    \endentry
+    \entry{rogerson2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8169d3a5f1fbdae5133a8d1247ba5589}{%
+           family={Rogerson},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{8169d3a5f1fbdae5133a8d1247ba5589}
+      \strng{fullhash}{8169d3a5f1fbdae5133a8d1247ba5589}
+      \strng{bibnamehash}{8169d3a5f1fbdae5133a8d1247ba5589}
+      \strng{authorbibnamehash}{8169d3a5f1fbdae5133a8d1247ba5589}
+      \strng{authornamehash}{8169d3a5f1fbdae5133a8d1247ba5589}
+      \strng{authorfullhash}{8169d3a5f1fbdae5133a8d1247ba5589}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Theology of the Old Testament}
+      \field{title}{A Theology of the Old Testament: Cultural Memory, Communication, and Being Human}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{smith_cbq2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c22973a06faa8d46cea6ca46e149b61b}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c22973a06faa8d46cea6ca46e149b61b}
+      \strng{fullhash}{c22973a06faa8d46cea6ca46e149b61b}
+      \strng{bibnamehash}{c22973a06faa8d46cea6ca46e149b61b}
+      \strng{authorbibnamehash}{c22973a06faa8d46cea6ca46e149b61b}
+      \strng{authornamehash}{c22973a06faa8d46cea6ca46e149b61b}
+      \strng{authorfullhash}{c22973a06faa8d46cea6ca46e149b61b}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Catholic Biblical Quarterly}
+      \field{number}{4}
+      \field{shortjournal}{CBQ}
+      \field{shorttitle}{Remembering God}
+      \field{title}{Remembering God: Collective Memory in Israelite Religion}
+      \field{volume}{64}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{631\bibrangedash 651}
+      \range{pages}{21}
+    \endentry
+    \entry{wellhausen1957}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
+           family={Wellhausen},
+           familyi={W\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=82db00fa4223fcf81b7ac5ba7bbf33fb}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi Southerland},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1ab2f774f7c4546c7da47fdbb01d6f5b}{%
+           family={Menzies},
+           familyi={M\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Meridian}%
+      }
+      \strng{namehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{fullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{bibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorbibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authornamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorfullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{translatorbibnamehash}{d4e409e216d39c760a5507d96d6807f6}
+      \strng{translatornamehash}{d4e409e216d39c760a5507d96d6807f6}
+      \strng{translatorfullhash}{d4e409e216d39c760a5507d96d6807f6}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Prolegomena to the History of Ancient Israel: With a Reprint of the Article Israel from the Encyclopaedia Britannica}
+      \field{number}{6}
+      \field{relatedtype}{translationof}
+      \field{series}{Meridian Library}
+      \field{shortseries}{ML}
+      \field{shorttitle}{Prolegomena}
+      \field{title}{Prolegomena to the History of Ancient Israel}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \field{related}{544ab0cd36f5ce3c265090f3a787242e}
+    \endentry
+    \entry{544ab0cd36f5ce3c265090f3a787242e}{book}{skipbib,skipbiblist=false}
+      \name{author}{1}{}{%
+        {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
+           family={Wellhausen},
+           familyi={W\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Reimer}%
+      }
+      \strng{namehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{fullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{bibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorbibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authornamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorfullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{wellhausen1883}
+      \field{booktitle}{Prolegomena zur Geschichte Israels}
+      \field{title}{Prolegomena zur Geschichte Israels}
+      \field{year}{1883}
+    \endentry
+    \entry{wright2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=59b4d3f9a712a64352fa2a90db521422}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Jacob\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{59b4d3f9a712a64352fa2a90db521422}
+      \strng{fullhash}{59b4d3f9a712a64352fa2a90db521422}
+      \strng{bibnamehash}{59b4d3f9a712a64352fa2a90db521422}
+      \strng{authorbibnamehash}{59b4d3f9a712a64352fa2a90db521422}
+      \strng{authornamehash}{59b4d3f9a712a64352fa2a90db521422}
+      \strng{authorfullhash}{59b4d3f9a712a64352fa2a90db521422}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{David, King of Israel}
+      \field{title}{David, King of Israel, and Caleb in Biblical Memory}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wright_ulrich-wright1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ce379509c673df775b1ea52f68424eac}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \name{bookeditor}{4}{}{%
+        {{hash=6e2a27a9ffc97440795afa3eb38bd56a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ce379509c673df775b1ea52f68424eac}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6ee062757acb17fe82f1cc88d7459832}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=dbbba4597f08f54d3f54cdb27f422a03}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Philip\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {JSOT Press}%
+      }
+      \strng{namehash}{ce379509c673df775b1ea52f68424eac}
+      \strng{fullhash}{ce379509c673df775b1ea52f68424eac}
+      \strng{bibnamehash}{ce379509c673df775b1ea52f68424eac}
+      \strng{authorbibnamehash}{ce379509c673df775b1ea52f68424eac}
+      \strng{authornamehash}{ce379509c673df775b1ea52f68424eac}
+      \strng{authorfullhash}{ce379509c673df775b1ea52f68424eac}
+      \strng{bookeditorbibnamehash}{b10725e4a89b7fad9e493d55e4acd0e1}
+      \strng{bookeditornamehash}{b930d5413391ffa7613954ab44f38fc8}
+      \strng{bookeditorfullhash}{b10725e4a89b7fad9e493d55e4acd0e1}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Priests, Prophets and Scribes: Essays on the Formation and Heritage of Second Temple Judaism in Honour of Joseph Blenkinsopp}
+      \field{number}{149}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortbooktitle}{Priests, Prophets and Scribes}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{From Center to Periphery}
+      \field{title}{From Center to Periphery: 1 Chronicles 23--27 and the Interpretation of Chronicles in the Nineteenth Century}
+      \field{year}{1992}
+      \field{pages}{20\bibrangedash 42}
+      \range{pages}{23}
+    \endentry
+    \entry{zahn_lim-collins2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=91c1f8256a6a35e2bb748233e7a221bd}{%
+           family={Zahn},
+           familyi={Z\bibinitperiod},
+           given={Molly\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=0da2ccbf3c2743af3c603fe3eebf6b09}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Timothy\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=beb988fc2eff76bad8845ace4b5b3c3c}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{91c1f8256a6a35e2bb748233e7a221bd}
+      \strng{fullhash}{91c1f8256a6a35e2bb748233e7a221bd}
+      \strng{bibnamehash}{91c1f8256a6a35e2bb748233e7a221bd}
+      \strng{authorbibnamehash}{91c1f8256a6a35e2bb748233e7a221bd}
+      \strng{authornamehash}{91c1f8256a6a35e2bb748233e7a221bd}
+      \strng{authorfullhash}{91c1f8256a6a35e2bb748233e7a221bd}
+      \strng{bookeditorbibnamehash}{09a588873662aa00ff1355290ae5724b}
+      \strng{bookeditornamehash}{09a588873662aa00ff1355290ae5724b}
+      \strng{bookeditorfullhash}{09a588873662aa00ff1355290ae5724b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Oxford Handbook of the Dead Sea Scrolls}
+      \field{shortbooktitle}{Oxford Handbook of the Dead Sea Scrolls}
+      \field{title}{Rewritten Scripture}
+      \field{year}{2010}
+      \field{pages}{323\bibrangedash 336}
+      \range{pages}{14}
     \endentry
   \enddatalist
 \endrefsection
