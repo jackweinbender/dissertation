@@ -6,50 +6,50 @@
 
 \documentclass[letterpaper,12pt,oneside]{memoir}
 
-\input{__Preamble.tex}
+\input{__preamble.tex}
 
 %%%%%% DRAFT STYLES %%%%%%
-\renewcommand{\foottextfont}{\setSpacing{2}\normalsize}
+% \renewcommand{\foottextfont}{\setSpacing{2}\normalsize}
 % \renewcommand{\foottextfont}{\setSpacing{1.5}\normalsize}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-\input{__Macros.tex}
+\input{__macros.tex}
 
 \frontmatter
-% \input{__Frontmatter.tex}
+\input{__frontmatter.tex}
 
 \mainmatter
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 1: Rewritten Bible %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \input{_chapter01_rwb.tex}
+\input{_rewritten_bible/__index.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 2: Memory Theory %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \input{_chapter02_memory.tex}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 3: Genesis Apocryphon %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \input{_chapter03_genesis_apocryphon.tex}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 4: Jubilees %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \input{_chapter04_jubilees.tex}
+\input{_memory/__index.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 5: Chronicles %%%
+%%% Chapter 3: Chronicles %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_chapter05_chronicles.tex}
+\input{_chronicles/__index.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Chapter 4: Genesis Apocryphon %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{_gen_apoc/__index.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Chapter 5: Jubilees %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{_jubilees/__index.tex}
 
 %%%%%%%%%%%%%%%%%%%
 %%% Conclusions %%%
 %%%%%%%%%%%%%%%%%%%
-% \input{_conclusion.tex}
+\input{_conclusion/__index.tex}
 
 % \nocite{*}
 \backmatter
@@ -57,7 +57,7 @@
   \printbibliography[heading=bibintoc,section=0]
 \end{SingleSpace}
 
-% \chapter{Vita}
-% \input{frontmatter/vita.tex}
+\chapter{Vita}
+\input{frontmatter/vita.tex}
 
 \end{document}
