@@ -2613,6 +2613,39 @@
       \field{pages}{522\bibrangedash 544}
       \range{pages}{23}
     \endentry
+    \entry{bakhos2006}{collection}{skipbib=true}
+      \name{editor}{1}{}{%
+        {{hash=0ff007eba18328f8b80aba600fce75b7}{%
+           family={Bakhos},
+           familyi={B\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{fullhash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{bibnamehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{editorbibnamehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{editornamehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{editorfullhash}{0ff007eba18328f8b80aba600fce75b7}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Current Trends in the Study of Midrash}
+      \field{number}{106}
+      \field{series}{Supplements to the Journal for the Study of Judaism}
+      \field{shortseries}{JSJSup}
+      \field{title}{Current Trends in the Study of Midrash}
+      \field{year}{2006}
+      \field{dateera}{ce}
+    \endentry
     \entry{hilhorst-puech2007}{collection}{skipbib=true}
       \name{editor}{3}{}{%
         {{hash=25ff9a041862736ecd568281eedc4fd7}{%
@@ -2655,39 +2688,6 @@
       \field{shorttitle}{Flores Florentino}
       \field{title}{Flores Florentino: Dead Sea Scrolls and Other Early Jewish Studies in Honour of Florentino Garcia Martinez}
       \field{year}{2007}
-      \field{dateera}{ce}
-    \endentry
-    \entry{bakhos2006}{collection}{skipbib=true}
-      \name{editor}{1}{}{%
-        {{hash=0ff007eba18328f8b80aba600fce75b7}{%
-           family={Bakhos},
-           familyi={B\bibinitperiod},
-           given={Carol},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{fullhash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{bibnamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editorbibnamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editornamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editorfullhash}{0ff007eba18328f8b80aba600fce75b7}
-      \field{sortinit}{J}
-      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
-      \true{crossrefsource}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Current Trends in the Study of Midrash}
-      \field{number}{106}
-      \field{series}{Supplements to the Journal for the Study of Judaism}
-      \field{shortseries}{JSJSup}
-      \field{title}{Current Trends in the Study of Midrash}
-      \field{year}{2006}
       \field{dateera}{ce}
     \endentry
     \entry{zsengeller2014}{collection}{skipbib=true}
@@ -5043,23 +5043,18 @@
       \field{pages}{195\bibrangedash 211}
       \range{pages}{17}
     \endentry
-    \entry{roitman-etal2011}{collection}{skipbib=true}
-      \name{editor}{3}{}{%
-        {{hash=4031564fe725a97732b90c4349de46b9}{%
-           family={Roitman},
-           familyi={R\bibinitperiod},
-           given={Adolfo\bibnamedelima D.},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
-           family={Schiffman},
-           familyi={S\bibinitperiod},
-           given={Lawrence\bibnamedelima H.},
-           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=cfd0745a391e8eec1d72514093ed11cf}{%
-           family={Tzoref},
-           familyi={T\bibinitperiod},
-           given={Shani},
-           giveni={S\bibinitperiod}}}%
+    \entry{berthelot-etal2010}{collection}{skipbib=true}
+      \name{editor}{2}{}{%
+        {{hash=2eec8a19b4374425b254da5ec6885010}{%
+           family={Berthelot},
+           familyi={B\bibinitperiod},
+           given={Katell},
+           giveni={K\bibinitperiod}}}%
+        {{hash=80eede611be1979bb1817edd8658b980}{%
+           family={Ezra},
+           familyi={E\bibinitperiod},
+           given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leiden}%
@@ -5067,24 +5062,24 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{fullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{bibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
-      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{namehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{fullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{bibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \true{crossrefsource}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
-      \field{number}{93}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
-      \field{shorttitle}{The Dead Sea Scrolls and Contemporary Culture}
-      \field{title}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
-      \field{year}{2011}
+      \field{shorttitle}{Aramaica Qumranica}
+      \field{title}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{year}{2010}
       \field{dateera}{ce}
     \endentry
     \entry{chazon-etal1999}{collection}{skipbib=true}
@@ -5133,18 +5128,23 @@
       \field{year}{1999}
       \field{dateera}{ce}
     \endentry
-    \entry{berthelot-etal2010}{collection}{skipbib=true}
-      \name{editor}{2}{}{%
-        {{hash=2eec8a19b4374425b254da5ec6885010}{%
-           family={Berthelot},
-           familyi={B\bibinitperiod},
-           given={Katell},
-           giveni={K\bibinitperiod}}}%
-        {{hash=80eede611be1979bb1817edd8658b980}{%
-           family={Ezra},
-           familyi={E\bibinitperiod},
-           given={Daniel\bibnamedelimb St{ö}kl\bibnamedelima Ben},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+    \entry{roitman-etal2011}{collection}{skipbib=true}
+      \name{editor}{3}{}{%
+        {{hash=4031564fe725a97732b90c4349de46b9}{%
+           family={Roitman},
+           familyi={R\bibinitperiod},
+           given={Adolfo\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
+           family={Schiffman},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=cfd0745a391e8eec1d72514093ed11cf}{%
+           family={Tzoref},
+           familyi={T\bibinitperiod},
+           given={Shani},
+           giveni={S\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leiden}%
@@ -5152,24 +5152,24 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{fullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{bibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editorbibnamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editornamehash}{b4f70fb4dddf48aa1268c54fc8fedd48}
-      \strng{editorfullhash}{b4f70fb4dddf48aa1268c54fc8fedd48}
+      \strng{namehash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{fullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{bibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{editorbibnamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{editornamehash}{2ce8edf47ab0d8f81a9ae50de4282654}
+      \strng{editorfullhash}{2ce8edf47ab0d8f81a9ae50de4282654}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \true{crossrefsource}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
-      \field{number}{94}
+      \field{booktitle}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
+      \field{number}{93}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
-      \field{shorttitle}{Aramaica Qumranica}
-      \field{title}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
-      \field{year}{2010}
+      \field{shorttitle}{The Dead Sea Scrolls and Contemporary Culture}
+      \field{title}{The Dead Sea Scrolls and Contemporary Culture: Proceedings of the International Conference Held at the Israel Museum, Jerusalem (July 6-8, 2008)}
+      \field{year}{2011}
       \field{dateera}{ce}
     \endentry
     \entry{mason-etal2012}{mvcollection}{skipbib=true}
