@@ -29,12 +29,12 @@ pull: git-pull gs-pull-check gs-pull
 
 git-push:
 	@ echo 'Pushing to GitHub...' && \
-	git push github master && \
+	git push github --all && \
 	echo 'Done.'
 
 git-pull:
 	@ echo 'Pulling from GitHub...' && \
-	git pull github master && \
+	git pull github --all && \
 	echo 'Done.'
 
 gs-push-check:
