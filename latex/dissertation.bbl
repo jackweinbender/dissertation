@@ -316,6 +316,13 @@
            given={James\bibnamedelima V.},
            giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
       \strng{namehash}{bd9b591341ade11cdf4cba27fbb90d76}
       \strng{fullhash}{bd9b591341ade11cdf4cba27fbb90d76}
       \strng{bibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
