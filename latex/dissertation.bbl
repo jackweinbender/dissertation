@@ -45,6 +45,35 @@
       \field{pages}{69\bibrangedash 90}
       \range{pages}{22}
     \endentry
+    \entry{brockmeier_cp2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f05cd79a0d4e9449d9301c51f0bfc93b}{%
+           family={Brockmeier},
+           familyi={B\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{fullhash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{bibnamehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{authorbibnamehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{authornamehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{authorfullhash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issue}{1}
+      \field{journaltitle}{Culture \& Psycology}
+      \field{shortjournal}{CP}
+      \field{shorttitle}{After the Archive}
+      \field{title}{After the Archive: Remapping Memory}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{5\bibrangedash 35}
+      \range{pages}{31}
+    \endentry
     \entry{nora_representations1989}{article}{}
       \name{author}{1}{}{%
         {{hash=0d31905f2879b15061a4d57444cf7370}{%
@@ -99,6 +128,86 @@
       \field{labeltitlesource}{title}
       \field{title}{Les Lieux de mémoire}
       \field{volumes}{7}
+    \endentry
+    \entry{nora_goff-etal1978}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=5ada26d38e8e05bd99d38ae439f5ff7f}{%
+           family={Jacques\bibnamedelimb Le\bibnamedelima Goff},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Roger\bibnamedelima Chartier},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c4494c4d683e01961ae7908073c47263}{%
+           family={Revel},
+           familyi={R\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Retz}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{bibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorbibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{bookeditorbibnamehash}{2f069f6444033fd0d01cb974e7b05dee}
+      \strng{bookeditornamehash}{2f069f6444033fd0d01cb974e7b05dee}
+      \strng{bookeditorfullhash}{2f069f6444033fd0d01cb974e7b05dee}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{La Nouvelle histoire}
+      \field{shortbooktitle}{La Nouvelle histoire}
+      \field{shorttitle}{Mémoire collective}
+      \field{title}{Mémoire collective}
+      \field{year}{1978}
+      \field{pages}{398\bibrangedash 401}
+      \range{pages}{4}
+    \endentry
+    \entry{olick-robbins_ars1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6c922893641f3cdb6e91614f143c83da}{%
+           family={Olick},
+           familyi={O\bibinitperiod},
+           given={Jeffrey\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9f31a6d7beeafeb7d8f7bf217a0118e4}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Joyce},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{fullhash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{bibnamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authorbibnamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authornamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authorfullhash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Annual Review of Sociology}
+      \field{shortjournal}{ARS}
+      \field{shorttitle}{Social Memory Studies}
+      \field{title}{Social Memory Studies: From `Collective Memory' to the Historical Sociology of Mnemonic Practices}
+      \field{volume}{24}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{105\bibrangedash 140}
+      \range{pages}{36}
     \endentry
     \entry{redfield1956}{book}{}
       \name{author}{1}{}{%
@@ -158,9 +267,108 @@
       \field{pages}{245\bibrangedash 254}
       \range{pages}{10}
     \endentry
+    \entry{wertsch_cp2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bd9b591341ade11cdf4cba27fbb90d76}{%
+           family={Wertsch},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{fullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{bibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorbibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authornamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorfullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issue}{1}
+      \field{journaltitle}{Culture \& Psycology}
+      \field{shortjournal}{CP}
+      \field{shorttitle}{eyond the Archival Model of Memory}
+      \field{title}{Beyond the Archival Model of Memory and the Affordances and Constraints of Narratives}
+      \field{volume}{17}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{21\bibrangedash 29}
+      \range{pages}{9}
+    \endentry
+    \entry{wertsch_boyer-wertsch2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bd9b591341ade11cdf4cba27fbb90d76}{%
+           family={Wertsch},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=03160a5e948c51167cff9c2b696f774d}{%
+           family={Boyer},
+           familyi={B\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bd9b591341ade11cdf4cba27fbb90d76}{%
+           family={Wertsch},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{fullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{bibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorbibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authornamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorfullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{bookeditorbibnamehash}{32f58d84a8a36297b3e7b192b19fa7ac}
+      \strng{bookeditornamehash}{32f58d84a8a36297b3e7b192b19fa7ac}
+      \strng{bookeditorfullhash}{32f58d84a8a36297b3e7b192b19fa7ac}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memory in Mind and Culture}
+      \field{shortbooktitle}{Memory in Mind and Culture}
+      \field{shorttitle}{Collective Memory}
+      \field{title}{Collective Memory}
+      \field{year}{2009}
+      \field{pages}{117\bibrangedash 137}
+      \range{pages}{21}
+    \endentry
+    \entry{wilson2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e8b834dd2cd10dcf4c056960ca6617b}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{fullhash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{bibnamehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{authorbibnamehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{authornamehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{authorfullhash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Kingship and Memory in Ancient Judah}
+      \field{shorttitle}{Kingship and Memory}
+      \field{title}{Kingship and Memory in Ancient Judah}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
   \enddatalist
-  \missing{nora_goff-nora1974}
-  \missing{wilson2017}
 \endrefsection
 \endinput
 
