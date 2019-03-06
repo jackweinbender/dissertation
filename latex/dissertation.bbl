@@ -604,7 +604,7 @@
       \field{number}{2}
       \field{shortjournal}{BT}
       \field{shorttitle}{Ethiopian Orthodox Tewahedo Church}
-      \field{title}{The Ethiopian Orthodox Tewahedo Church Canon of the Scriptures: Neither Open nor Closed}
+      \field{title}{The Ethiopian Orthodox Tewahedo Church Canon of the Scriptures: Neither Open Nor Closed}
       \field{volume}{67}
       \field{year}{2016}
       \field{dateera}{ce}
@@ -981,18 +981,18 @@
     \endentry
     \entry{brooke_dsd2010}{article}{}
       \name{author}{1}{}{%
-        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
+        {{hash=b60ebe416aa178d97ddbd43d91944a4f}{%
            family={Brooke},
            familyi={B\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{namehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{fullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{bibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorbibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authornamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorfullhash}{b60ebe416aa178d97ddbd43d91944a4f}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -1151,8 +1151,8 @@
       \field{number}{34}
       \field{series}{Early Judaism and Its Literature}
       \field{shortseries}{EJL}
-      \field{shorttitle}{Subversion of the Apoclypses}
-      \field{title}{The Subversion of the Apoclypses in the Book of Jubilees}
+      \field{shorttitle}{Subversion of the Apocalypses}
+      \field{title}{The Subversion of the Apocalypses in the Book of Jubilees}
       \field{year}{2012}
       \field{dateera}{ce}
     \endentry
@@ -1233,8 +1233,6 @@
       \field{shortseries}{HS}
       \field{type}{Introduction}
       \field{year}{1992}
-      \field{pages}{1\bibrangedash 34}
-      \range{pages}{34}
     \endentry
     \entry{halbwachs1992}{book}{}
       \name{author}{1}{}{%
@@ -1629,6 +1627,8 @@
       \field{shorttitle}{Court Tales in Daniel}
       \field{title}{The Court Tales in Daniel and the Development of Apocalyptic}
       \field{volume}{94}
+      \field{year}{1975}
+      \field{dateera}{ce}
       \field{pages}{218\bibrangedash 234}
       \range{pages}{17}
     \endentry
@@ -1747,18 +1747,18 @@
     \endentry
     \entry{alexander_jjs1982}{article}{}
       \name{author}{1}{}{%
-        {{hash=e811bc72ad698c2ae34d2abf5666b2c3}{%
+        {{hash=f0b087431af559c738d6a64532db984a}{%
            family={Alexander},
            familyi={A\bibinitperiod},
-           given={Philip},
-           giveni={P\bibinitperiod}}}%
+           given={Philip\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \strng{namehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{fullhash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{bibnamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authorbibnamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authornamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authorfullhash}{e811bc72ad698c2ae34d2abf5666b2c3}
+      \strng{namehash}{f0b087431af559c738d6a64532db984a}
+      \strng{fullhash}{f0b087431af559c738d6a64532db984a}
+      \strng{bibnamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authorbibnamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authornamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authorfullhash}{f0b087431af559c738d6a64532db984a}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
@@ -1775,18 +1775,18 @@
     \endentry
     \entry{fraade_jjs1993}{article}{}
       \name{author}{1}{}{%
-        {{hash=f586e05e6afccc50416cc6241e0ba7c2}{%
+        {{hash=1f53abbd5d0748fad884b4e582494770}{%
            family={Fraade},
            familyi={F\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod}}}%
+           given={Steven\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
-      \strng{namehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{fullhash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{bibnamehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{authorbibnamehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{authornamehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{authorfullhash}{f586e05e6afccc50416cc6241e0ba7c2}
+      \strng{namehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{fullhash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{bibnamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authorbibnamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authornamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authorfullhash}{1f53abbd5d0748fad884b4e582494770}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{labelnamesource}{author}
@@ -1851,7 +1851,7 @@
       \field{number}{2}
       \field{shortjournal}{JS}
       \field{shorttitle}{Mapping the Reception}
-      \field{title}{Mapping the Reception, Transmission, and Translation of Scriptural Writings in the EOTC: How and Why Some "Pseudepigraphical" Works Receive `Canonical' Status in the Ethiopian Bible}
+      \field{title}{Mapping the Reception, Transmission, and Translation of Scriptural Writings in the EOTC: How and Why Some `Pseudepigraphical' Works Receive `Canonical' Status in the Ethiopian Bible}
       \field{volume}{22}
       \field{year}{2013}
       \field{dateera}{ce}
@@ -1937,7 +1937,7 @@
       \field{number}{3}
       \field{shortjournal}{JSJ}
       \field{shorttitle}{A Wandering Aramean in Pharaoh's Court}
-      \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19-20 and Jewish Fictional Literature}
+      \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19--20 and Jewish Fictional Literature}
       \field{volume}{49}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -2543,13 +2543,13 @@
       \field{pages}{522\bibrangedash 544}
       \range{pages}{23}
     \endentry
-    \entry{bakhos2006}{collection}{skipbib=true}
+    \entry{zsengeller2014}{collection}{skipbib=true}
       \name{editor}{1}{}{%
-        {{hash=0ff007eba18328f8b80aba600fce75b7}{%
-           family={Bakhos},
-           familyi={B\bibinitperiod},
-           given={Carol},
-           giveni={C\bibinitperiod}}}%
+        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
+           family={Zsengellér},
+           familyi={Z\bibinitperiod},
+           given={József},
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leiden}%
@@ -2557,23 +2557,24 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{fullhash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{bibnamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editorbibnamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editornamehash}{0ff007eba18328f8b80aba600fce75b7}
-      \strng{editorfullhash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{namehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{fullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{bibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorbibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \true{crossrefsource}
       \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Current Trends in the Study of Midrash}
-      \field{number}{106}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{number}{166}
       \field{series}{Supplements to the Journal for the Study of Judaism}
       \field{shortseries}{JSJSup}
-      \field{title}{Current Trends in the Study of Midrash}
-      \field{year}{2006}
+      \field{shorttitle}{Rewritten Bible after Fifty Years}
+      \field{title}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
+      \field{year}{2014}
       \field{dateera}{ce}
     \endentry
     \entry{hilhorst-puech2007}{collection}{skipbib=true}
@@ -2620,13 +2621,13 @@
       \field{year}{2007}
       \field{dateera}{ce}
     \endentry
-    \entry{zsengeller2014}{collection}{skipbib=true}
+    \entry{bakhos2006}{collection}{skipbib=true}
       \name{editor}{1}{}{%
-        {{hash=d14a6fa89f3ac0fe1d14f0b20e73f929}{%
-           family={Zsengellér},
-           familyi={Z\bibinitperiod},
-           given={József},
-           giveni={J\bibinitperiod}}}%
+        {{hash=0ff007eba18328f8b80aba600fce75b7}{%
+           family={Bakhos},
+           familyi={B\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Leiden}%
@@ -2634,24 +2635,23 @@
       \list{publisher}{1}{%
         {Brill}%
       }
-      \strng{namehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
-      \strng{fullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
-      \strng{bibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
-      \strng{editorbibnamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
-      \strng{editornamehash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
-      \strng{editorfullhash}{d14a6fa89f3ac0fe1d14f0b20e73f929}
+      \strng{namehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{fullhash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{bibnamehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{editorbibnamehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{editornamehash}{0ff007eba18328f8b80aba600fce75b7}
+      \strng{editorfullhash}{0ff007eba18328f8b80aba600fce75b7}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \true{crossrefsource}
       \field{labelnamesource}{editor}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
-      \field{number}{166}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Current Trends in the Study of Midrash}
+      \field{number}{106}
       \field{series}{Supplements to the Journal for the Study of Judaism}
       \field{shortseries}{JSJSup}
-      \field{shorttitle}{Rewritten Bible after Fifty Years}
-      \field{title}{Rewritten Bible after Fifty Years: Texts, Terms, or Techniques? A Last Dialogue with Geza Vermes}
-      \field{year}{2014}
+      \field{title}{Current Trends in the Study of Midrash}
+      \field{year}{2006}
       \field{dateera}{ce}
     \endentry
     \entry{allen_jsnt2018}{article}{}
@@ -2851,34 +2851,6 @@
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
       \field{series}{The Library of Second Temple Studies}
       \field{shortseries}{LSTS}
-    \endentry
-    \entry{gevirtz_maarav1992}{article}{}
-      \name{author}{1}{}{%
-        {{hash=192f8761e4da2c28bd3a4476d5430e7c}{%
-           family={Gevirtz},
-           familyi={G\bibinitperiod},
-           given={Marianne\bibnamedelima Luijken},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{fullhash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{bibnamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authorbibnamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authornamehash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \strng{authorfullhash}{192f8761e4da2c28bd3a4476d5430e7c}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{MAARAV: A Journal of Northwest Semitic}
-      \field{shortjournal}{MAARAV}
-      \field{shorttitle}{Abram’s Dream in the Genesis Apocryphon}
-      \field{title}{Abram’s Dream in the Genesis Apocryphon: Its Motifs and Their Function}
-      \field{volume}{8}
-      \field{year}{1992}
-      \field{dateera}{ce}
-      \field{pages}{229\bibrangedash 243}
-      \range{pages}{15}
     \endentry
     \entry{driver1956}{book}{}
       \name{author}{1}{}{%
@@ -3548,11 +3520,13 @@
            familyi={C\bibinitperiod},
            given={John\bibnamedelima J.},
            giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=e0caac4f2c1e7d3726a01dd173c25ca5}{%
+        {{hash=56fd05be280b4ef991d64b362ae88f21}{%
            family={E.},
            familyi={E\bibinitperiod},
-           given={Nickelsburg\bibnamedelimb George\bibnamedelima W.},
-           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           given={George\bibnamedelimb W.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={Nickelsburg},
+           suffixi={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Chico, CA}%
@@ -3566,9 +3540,9 @@
       \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bookeditorbibnamehash}{83aad5a087a8f625dd626d26001993ae}
-      \strng{bookeditornamehash}{83aad5a087a8f625dd626d26001993ae}
-      \strng{bookeditorfullhash}{83aad5a087a8f625dd626d26001993ae}
+      \strng{bookeditorbibnamehash}{34819fe504dab80ec75c8439c55324c0}
+      \strng{bookeditornamehash}{34819fe504dab80ec75c8439c55324c0}
+      \strng{bookeditorfullhash}{34819fe504dab80ec75c8439c55324c0}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -3723,13 +3697,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Studies In Qumran Law}
+      \field{number}{24}
       \field{relatedtype}{translationof}
       \field{series}{Studies in Judaism in Late Antiquity}
       \field{shortbooktitle}{Studies in Qumran Law}
       \field{shortseries}{SJLA}
       \field{shorttitle}{Calendar of the Book of Jubilees}
       \field{title}{The Calendar of the Book of Jubilees and the Bible}
-      \field{volume}{24}
       \field{year}{1977}
       \field{related}{6c9f012cd6be45ff0e3d12385435aed9}
       \field{pages}{101\bibrangedash 114}
@@ -3782,11 +3756,11 @@
            familyi={L\bibinitperiod},
            given={Antti},
            giveni={A\bibinitperiod}}}%
-        {{hash=352e53845ecda75953aec16c0eb69d0e}{%
+        {{hash=67384d45b236ae5a719755665e90480e}{%
            family={Ruiten},
            familyi={R\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod},
+           given={Jacques\bibnamedelimb T.\bibnamedelimi A.\bibnamedelimi G.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
            prefix={van},
            prefixi={v\bibinitperiod}}}%
       }
@@ -3804,9 +3778,9 @@
       \strng{authorbibnamehash}{b4e19c2df425bfae665cc430846afda7}
       \strng{authornamehash}{b4e19c2df425bfae665cc430846afda7}
       \strng{authorfullhash}{b4e19c2df425bfae665cc430846afda7}
-      \strng{bookeditorbibnamehash}{c052dc63ebe75d5867d360149e489f6f}
-      \strng{bookeditornamehash}{c052dc63ebe75d5867d360149e489f6f}
-      \strng{bookeditorfullhash}{c052dc63ebe75d5867d360149e489f6f}
+      \strng{bookeditorbibnamehash}{49b27f7c188ef4e0962e88f77b895cb0}
+      \strng{bookeditornamehash}{49b27f7c188ef4e0962e88f77b895cb0}
+      \strng{bookeditorfullhash}{49b27f7c188ef4e0962e88f77b895cb0}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
@@ -3844,6 +3818,8 @@
       \field{shortjournal}{ST}
       \field{title}{Chronicles and Social Memory}
       \field{volume}{71}
+      \field{year}{2017}
+      \field{dateera}{ce}
       \field{pages}{69\bibrangedash 90}
       \range{pages}{22}
     \endentry
@@ -3890,8 +3866,8 @@
       \field{series}{Studier i exegetik vid judaistik utgivna av Teologiska fakulteten vid Åbo Akademi}
       \field{shortbooktitle}{Voces Clamantium in Deserto}
       \field{shortseries}{STÅA}
-      \field{shorttitle}{Luke --- The Fourth Gospel?}
-      \field{title}{Luke --- The Fourth Gospel? The `Rewritten Bible' Concept as a Way to Understand the Nature of the Later Gospels}
+      \field{shorttitle}{Luke---The Fourth Gospel?}
+      \field{title}{Luke---The Fourth Gospel? The `Rewritten Bible' Concept as a Way to Understand the Nature of the Later Gospels}
       \field{year}{2012}
       \field{pages}{231\bibrangedash 242}
       \range{pages}{12}
@@ -3945,7 +3921,6 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \strng{crossref}{mason-etal2012}
       \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{number}{153}
@@ -4032,7 +4007,7 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \strng{crossref}{berthelot-etal2010}
       \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
@@ -4082,7 +4057,7 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \strng{crossref}{berthelot-etal2010}
       \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
@@ -4235,6 +4210,8 @@
       \field{shortseries}{STDJ}
       \field{shorttitle}{Dead Sea Genesis Apocryphon}
       \field{title}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
+      \field{year}{2009}
+      \field{dateera}{ce}
     \endentry
     \entry{kugel_roitman-etal2011}{incollection}{}
       \name{author}{1}{}{%
@@ -4476,6 +4453,7 @@
       \field{shortseries}{STDJ}
       \field{shorttitle}{Genesis Revealed}
       \field{title}{Genesis Revealed: The Apocalyptic Apocryphon from Qumran Cave 1}
+      \field{year}{2010}
       \field{pages}{205\bibrangedash 221}
       \range{pages}{17}
     \endentry
@@ -4762,7 +4740,6 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \strng{crossref}{mason-etal2012}
       \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{number}{153}
@@ -4771,6 +4748,7 @@
       \field{shortseries}{STDJ}
       \field{shorttitle}{The Genre of the Book of Jubilees}
       \field{title}{The Genre of the Book of Jubilees}
+      \field{volume}{2}
       \field{volumes}{2}
       \field{year}{2012}
       \field{pages}{737\bibrangedash 755}
@@ -4861,59 +4839,13 @@
       \true{crossrefsource}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
       \field{shorttitle}{Aramaica Qumranica}
-      \field{title}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{title}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \field{year}{2010}
-      \field{dateera}{ce}
-    \endentry
-    \entry{chazon-etal1999}{collection}{skipbib=true}
-      \true{moreeditor}
-      \true{morelabelname}
-      \name{editor}{3}{}{%
-        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
-           family={Chazon},
-           familyi={C\bibinitperiod},
-           given={Estelle\bibnamedelima Glickler},
-           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
-           family={Stone},
-           familyi={S\bibinitperiod},
-           given={Michael\bibnamedelima Edward},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=4d2362c7e41c76c67435a9fdadbd52f1}{%
-           family={Pinnick},
-           familyi={P\bibinitperiod},
-           given={Avital},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{fullhash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{bibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
-      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \true{crossrefsource}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
-      \field{number}{31}
-      \field{series}{Studies on the Texts of the Desert of Judah}
-      \field{shortseries}{STDJ}
-      \field{shorttitle}{Pseudepigraphic Perspectives}
-      \field{title}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
-      \field{year}{1999}
       \field{dateera}{ce}
     \endentry
     \entry{roitman-etal2011}{collection}{skipbib=true}
@@ -5000,7 +4932,7 @@
       \true{crossrefsource}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
+      \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{number}{153}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
@@ -5008,6 +4940,52 @@
       \field{title}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{volumes}{2}
       \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{chazon-etal1999}{collection}{skipbib=true}
+      \true{moreeditor}
+      \true{morelabelname}
+      \name{editor}{3}{}{%
+        {{hash=cd7a100e8e8397ad93b169549b4a053f}{%
+           family={Chazon},
+           familyi={C\bibinitperiod},
+           given={Estelle\bibnamedelima Glickler},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=19e99999036f9c8ddf41129fe0326e72}{%
+           family={Stone},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima Edward},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4d2362c7e41c76c67435a9fdadbd52f1}{%
+           family={Pinnick},
+           familyi={P\bibinitperiod},
+           given={Avital},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{fullhash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{bibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{editorbibnamehash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{editornamehash}{319e5f9f30bdd914f53cde5778f7d899}
+      \strng{editorfullhash}{319e5f9f30bdd914f53cde5778f7d899}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
+      \field{number}{31}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Pseudepigraphic Perspectives}
+      \field{title}{Pseudepigraphic Perspectives: The Apocrypha and Pseudepigrapha in Light of the Dead Sea Scrolls: Proceedings of the [Second] International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 12--14 January, 1997}
+      \field{year}{1999}
       \field{dateera}{ce}
     \endentry
     \entry{vermes1961}{book}{}
@@ -5241,12 +5219,17 @@
            given={Devorah},
            giveni={D\bibinitperiod}}}%
       }
-      \name{bookeditor}{2}{}{%
-        {{hash=acc7b6753b979233bd3f01f12ba51fa5}{%
-           family={James\bibnamedelimb C.\bibnamedelimi VanderKam},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={Peter\bibnamedelimb W.\bibnamedelimi Flint},
-           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      \name{bookeditor}{3}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4b98b7aa40f16eb8a2921de32ab2fa2f}{%
+           family={Flint},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
            family={Tov},
            familyi={T\bibinitperiod},
@@ -5265,9 +5248,9 @@
       \strng{authorbibnamehash}{27c4a1b777e0fddd1def6da98d25d913}
       \strng{authornamehash}{27c4a1b777e0fddd1def6da98d25d913}
       \strng{authorfullhash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{bookeditorbibnamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{bookeditornamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{bookeditorfullhash}{59bd841a6764593196f5767bef08085a}
+      \strng{bookeditorbibnamehash}{c5b4826bdcbf650d238590e10bb1d623}
+      \strng{bookeditornamehash}{c5b4826bdcbf650d238590e10bb1d623}
+      \strng{bookeditorfullhash}{c5b4826bdcbf650d238590e10bb1d623}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
@@ -5278,7 +5261,7 @@
       \field{shortbooktitle}{Studies in the Hebrew Bible, Qumran, and the Septuagint}
       \field{shortseries}{VTSup}
       \field{shorttitle}{Two `Scientific' Fictions}
-      \field{title}{Two `Scientific' Fictions: The So-Called Book of Noah and the Alleged Quotation of Jubilees in CD 16:3-4}
+      \field{title}{Two `Scientific' Fictions: The So-Called Book of Noah and the Alleged Quotation of Jubilees in CD 16:3--4}
       \field{year}{2006}
       \field{pages}{230\bibrangedash 249}
       \range{pages}{20}
@@ -5410,7 +5393,7 @@
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Memory in the Bible and Antiquity: The Fifth Durham-Tübingen Research Symposium (Durham, September 2004), September 2004)}
+      \field{booktitle}{Memory in the Bible and Antiquity: The Fifth Durham-Tübingen Research Symposium (Durham, September 2004)}
       \field{number}{212}
       \field{series}{Wissenschaftliche Untersuchungen zum Neuen Testament}
       \field{shortbooktitle}{Memory in the Bible and Antiquity}
@@ -5534,18 +5517,18 @@
     \endentry
     \entry{alexander_jjs1982}{article}{}
       \name{author}{1}{}{%
-        {{hash=e811bc72ad698c2ae34d2abf5666b2c3}{%
+        {{hash=f0b087431af559c738d6a64532db984a}{%
            family={Alexander},
            familyi={A\bibinitperiod},
-           given={Philip},
-           giveni={P\bibinitperiod}}}%
+           given={Philip\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \strng{namehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{fullhash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{bibnamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authorbibnamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authornamehash}{e811bc72ad698c2ae34d2abf5666b2c3}
-      \strng{authorfullhash}{e811bc72ad698c2ae34d2abf5666b2c3}
+      \strng{namehash}{f0b087431af559c738d6a64532db984a}
+      \strng{fullhash}{f0b087431af559c738d6a64532db984a}
+      \strng{bibnamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authorbibnamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authornamehash}{f0b087431af559c738d6a64532db984a}
+      \strng{authorfullhash}{f0b087431af559c738d6a64532db984a}
       \field{sortinit}{A}
       \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
       \field{labelnamesource}{author}
@@ -5702,7 +5685,7 @@
       \field{number}{2}
       \field{shortjournal}{JS}
       \field{shorttitle}{Mapping the Reception}
-      \field{title}{Mapping the Reception, Transmission, and Translation of Scriptural Writings in the EOTC: How and Why Some "Pseudepigraphical" Works Receive `Canonical' Status in the Ethiopian Bible}
+      \field{title}{Mapping the Reception, Transmission, and Translation of Scriptural Writings in the EOTC: How and Why Some `Pseudepigraphical' Works Receive `Canonical' Status in the Ethiopian Bible}
       \field{volume}{22}
       \field{year}{2013}
       \field{dateera}{ce}
@@ -5731,7 +5714,7 @@
       \field{number}{2}
       \field{shortjournal}{BT}
       \field{shorttitle}{Ethiopian Orthodox Tewahedo Church}
-      \field{title}{The Ethiopian Orthodox Tewahedo Church Canon of the Scriptures: Neither Open nor Closed}
+      \field{title}{The Ethiopian Orthodox Tewahedo Church Canon of the Scriptures: Neither Open Nor Closed}
       \field{volume}{67}
       \field{year}{2016}
       \field{dateera}{ce}
@@ -6035,13 +6018,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{Studies In Qumran Law}
+      \field{number}{24}
       \field{relatedtype}{translationof}
       \field{series}{Studies in Judaism in Late Antiquity}
       \field{shortbooktitle}{Studies in Qumran Law}
       \field{shortseries}{SJLA}
       \field{shorttitle}{Calendar of the Book of Jubilees}
       \field{title}{The Calendar of the Book of Jubilees and the Bible}
-      \field{volume}{24}
       \field{year}{1977}
       \field{related}{6c9f012cd6be45ff0e3d12385435aed9}
       \field{pages}{101\bibrangedash 114}
@@ -6096,7 +6079,6 @@
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \strng{crossref}{mason-etal2012}
       \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{number}{153}
@@ -6134,6 +6116,8 @@
       \field{shortjournal}{ST}
       \field{title}{Chronicles and Social Memory}
       \field{volume}{71}
+      \field{year}{2017}
+      \field{dateera}{ce}
       \field{pages}{69\bibrangedash 90}
       \range{pages}{22}
     \endentry
@@ -6342,7 +6326,7 @@
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \strng{crossref}{berthelot-etal2010}
       \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
@@ -6495,12 +6479,12 @@
       \true{crossrefsource}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
       \field{shorttitle}{Aramaica Qumranica}
-      \field{title}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{title}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \field{year}{2010}
       \field{dateera}{ce}
     \endentry
@@ -6756,7 +6740,7 @@
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Memory in the Bible and Antiquity: The Fifth Durham-Tübingen Research Symposium (Durham, September 2004), September 2004)}
+      \field{booktitle}{Memory in the Bible and Antiquity: The Fifth Durham-Tübingen Research Symposium (Durham, September 2004)}
       \field{number}{212}
       \field{series}{Wissenschaftliche Untersuchungen zum Neuen Testament}
       \field{shortbooktitle}{Memory in the Bible and Antiquity}
@@ -6798,18 +6782,18 @@
     \endentry
     \entry{brooke_dsd2010}{article}{}
       \name{author}{1}{}{%
-        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
+        {{hash=b60ebe416aa178d97ddbd43d91944a4f}{%
            family={Brooke},
            familyi={B\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
+      \strng{namehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{fullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{bibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorbibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authornamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorfullhash}{b60ebe416aa178d97ddbd43d91944a4f}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -6824,104 +6808,6 @@
       \field{dateera}{ce}
       \field{pages}{332\bibrangedash 357}
       \range{pages}{26}
-    \endentry
-    \entry{brooke_schiffman-vanderkam2000}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
-           family={Brooke},
-           familyi={B\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
-      }
-      \name{maineditor}{2}{}{%
-        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
-           family={Schiffman},
-           familyi={S\bibinitperiod},
-           given={Lawrence\bibnamedelima H.},
-           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
-           family={VanderKam},
-           familyi={V\bibinitperiod},
-           given={James\bibnamedelima C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \list{location}{2}{%
-        {Oxford}%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{maineditorbibnamehash}{ee1375e01ef9cca2333f9e56d4ca0c34}
-      \strng{maineditornamehash}{ee1375e01ef9cca2333f9e56d4ca0c34}
-      \strng{maineditorfullhash}{ee1375e01ef9cca2333f9e56d4ca0c34}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Encyclopedia of the Dead Sea Scrolls}
-      \field{maintitle}{Encyclopedia of the Dead Sea Scrolls}
-      \field{title}{Rewritten Bible}
-      \field{volume}{2}
-      \field{volumes}{2}
-      \field{year}{2000}
-      \field{pages}{777\bibrangedash 781}
-      \range{pages}{5}
-    \endentry
-    \entry{brooke_herbert-tov2002}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=01001d3b65a0e2c32a9ade006787f59f}{%
-           family={Brooke},
-           familyi={B\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
-      }
-      \name{bookeditor}{2}{}{%
-        {{hash=b57f1e0c5a53e3db75ae1b2536a55da1}{%
-           family={Herbert},
-           familyi={H\bibinitperiod},
-           given={Edward\bibnamedelima D.},
-           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
-           family={Tov},
-           familyi={T\bibinitperiod},
-           given={Emanuel},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{location}{2}{%
-        {London}%
-        {New Castle, DE}%
-      }
-      \list{publisher}{2}{%
-        {British Library}%
-        {Oak Knoll Press}%
-      }
-      \strng{namehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{fullhash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{bibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorbibnamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authornamehash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{authorfullhash}{01001d3b65a0e2c32a9ade006787f59f}
-      \strng{bookeditorbibnamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
-      \strng{bookeditornamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
-      \strng{bookeditorfullhash}{f4e4bb900903eeeb451ddd64a2ccb282}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{The Bible as Book: The Hebrew Bible and the Judaean Desert Discoveries}
-      \field{shortbooktitle}{Bible as Book}
-      \field{shorttitle}{Rewritten Law, Prophets, and Psalms}
-      \field{title}{The Rewritten Law, Prophets, and Psalms: Issues for Understanding the Text of the Bible}
-      \field{year}{2002}
-      \field{pages}{31\bibrangedash 40}
-      \range{pages}{10}
     \endentry
     \entry{brooke_zsengeller2014}{incollection}{}
       \name{author}{1}{}{%
@@ -6967,6 +6853,103 @@
       \field{year}{2014}
       \field{pages}{119\bibrangedash 136}
       \range{pages}{18}
+    \endentry
+    \entry{brooke_schiffman-vanderkam2000}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b60ebe416aa178d97ddbd43d91944a4f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{maineditor}{2}{}{%
+        {{hash=97d511fe698f5e26f80bbad9015077fd}{%
+           family={Schiffman},
+           familyi={S\bibinitperiod},
+           given={Lawrence\bibnamedelima H.},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{fullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{bibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorbibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authornamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorfullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{maineditorbibnamehash}{ee1375e01ef9cca2333f9e56d4ca0c34}
+      \strng{maineditornamehash}{ee1375e01ef9cca2333f9e56d4ca0c34}
+      \strng{maineditorfullhash}{ee1375e01ef9cca2333f9e56d4ca0c34}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Encyclopedia of the Dead Sea Scrolls}
+      \field{title}{Rewritten Bible}
+      \field{volume}{2}
+      \field{volumes}{2}
+      \field{year}{2000}
+      \field{pages}{777\bibrangedash 781}
+      \range{pages}{5}
+    \endentry
+    \entry{brooke_herbert-tov2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b60ebe416aa178d97ddbd43d91944a4f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=b57f1e0c5a53e3db75ae1b2536a55da1}{%
+           family={Herbert},
+           familyi={H\bibinitperiod},
+           given={Edward\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
+           family={Tov},
+           familyi={T\bibinitperiod},
+           given={Emanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {London}%
+        {New Castle, DE}%
+      }
+      \list{publisher}{2}{%
+        {British Library}%
+        {Oak Knoll Press}%
+      }
+      \strng{namehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{fullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{bibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorbibnamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authornamehash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{authorfullhash}{b60ebe416aa178d97ddbd43d91944a4f}
+      \strng{bookeditorbibnamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{bookeditornamehash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \strng{bookeditorfullhash}{f4e4bb900903eeeb451ddd64a2ccb282}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Bible as Book: The Hebrew Bible and the Judaean Desert Discoveries}
+      \field{shortbooktitle}{Bible as Book}
+      \field{shorttitle}{Rewritten Law, Prophets, and Psalms}
+      \field{title}{The Rewritten Law, Prophets, and Psalms: Issues for Understanding the Text of the Bible}
+      \field{year}{2002}
+      \field{pages}{31\bibrangedash 40}
+      \range{pages}{10}
     \endentry
     \entry{burns2016}{book}{}
       \name{author}{1}{}{%
@@ -7369,6 +7352,7 @@
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Semeia}
       \field{shorttitle}{Introduction}
       \field{title}{Introduction: Towards the Morphology of a Genre}
       \field{volume}{14}
@@ -7400,6 +7384,8 @@
       \field{shorttitle}{Court Tales in Daniel}
       \field{title}{The Court Tales in Daniel and the Development of Apocalyptic}
       \field{volume}{94}
+      \field{year}{1975}
+      \field{dateera}{ce}
       \field{pages}{218\bibrangedash 234}
       \range{pages}{17}
     \endentry
@@ -7452,7 +7438,6 @@
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \strng{crossref}{mason-etal2012}
       \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{number}{153}
@@ -7461,6 +7446,7 @@
       \field{shortseries}{STDJ}
       \field{shorttitle}{The Genre of the Book of Jubilees}
       \field{title}{The Genre of the Book of Jubilees}
+      \field{volume}{2}
       \field{volumes}{2}
       \field{year}{2012}
       \field{pages}{737\bibrangedash 755}
@@ -7654,8 +7640,6 @@
       \field{shortseries}{HS}
       \field{type}{Introduction}
       \field{year}{1992}
-      \field{pages}{1\bibrangedash 34}
-      \range{pages}{34}
     \endentry
     \entry{cowley_os1974}{article}{}
       \name{author}{1}{}{%
@@ -7934,7 +7918,7 @@
         {London}%
       }
       \list{publisher}{2}{%
-        {C.G.L. van Maak}%
+        {C. G. L. van Maak}%
         {Williiams \& Norgate}%
       }
       \strng{namehash}{369c9a75c75f58829c0ee8322f997b22}
@@ -7961,12 +7945,17 @@
            given={Devorah},
            giveni={D\bibinitperiod}}}%
       }
-      \name{bookeditor}{2}{}{%
-        {{hash=acc7b6753b979233bd3f01f12ba51fa5}{%
-           family={James\bibnamedelimb C.\bibnamedelimi VanderKam},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim V\bibinitperiod},
-           given={Peter\bibnamedelimb W.\bibnamedelimi Flint},
-           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      \name{bookeditor}{3}{}{%
+        {{hash=ee7dfc0cdc8dbad47a90e8e66c8ee23b}{%
+           family={VanderKam},
+           familyi={V\bibinitperiod},
+           given={James\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4b98b7aa40f16eb8a2921de32ab2fa2f}{%
+           family={Flint},
+           familyi={F\bibinitperiod},
+           given={Peter\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
         {{hash=c21184fd0b0a40e41b03bf5be3440519}{%
            family={Tov},
            familyi={T\bibinitperiod},
@@ -7985,9 +7974,9 @@
       \strng{authorbibnamehash}{27c4a1b777e0fddd1def6da98d25d913}
       \strng{authornamehash}{27c4a1b777e0fddd1def6da98d25d913}
       \strng{authorfullhash}{27c4a1b777e0fddd1def6da98d25d913}
-      \strng{bookeditorbibnamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{bookeditornamehash}{59bd841a6764593196f5767bef08085a}
-      \strng{bookeditorfullhash}{59bd841a6764593196f5767bef08085a}
+      \strng{bookeditorbibnamehash}{c5b4826bdcbf650d238590e10bb1d623}
+      \strng{bookeditornamehash}{c5b4826bdcbf650d238590e10bb1d623}
+      \strng{bookeditorfullhash}{c5b4826bdcbf650d238590e10bb1d623}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{labelnamesource}{author}
@@ -7998,7 +7987,7 @@
       \field{shortbooktitle}{Studies in the Hebrew Bible, Qumran, and the Septuagint}
       \field{shortseries}{VTSup}
       \field{shorttitle}{Two `Scientific' Fictions}
-      \field{title}{Two `Scientific' Fictions: The So-Called Book of Noah and the Alleged Quotation of Jubilees in CD 16:3-4}
+      \field{title}{Two `Scientific' Fictions: The So-Called Book of Noah and the Alleged Quotation of Jubilees in CD 16:3--4}
       \field{year}{2006}
       \field{pages}{230\bibrangedash 249}
       \range{pages}{20}
@@ -8462,34 +8451,6 @@
       \field{year}{2002}
       \field{dateera}{ce}
     \endentry
-    \entry{fraade_jjs1993}{article}{}
-      \name{author}{1}{}{%
-        {{hash=f586e05e6afccc50416cc6241e0ba7c2}{%
-           family={Fraade},
-           familyi={F\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{fullhash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{bibnamehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{authorbibnamehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{authornamehash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \strng{authorfullhash}{f586e05e6afccc50416cc6241e0ba7c2}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Journal of Jewish Studies}
-      \field{shortjournal}{JJS}
-      \field{shorttitle}{Interpretive Authority}
-      \field{title}{Interpretive Authority in the Studying Community at Qumran}
-      \field{volume}{44}
-      \field{year}{1993}
-      \field{dateera}{ce}
-      \field{pages}{46\bibrangedash 69}
-      \range{pages}{24}
-    \endentry
     \entry{fraade_zsengeller2014}{incollection}{}
       \name{author}{1}{}{%
         {{hash=1f53abbd5d0748fad884b4e582494770}{%
@@ -8535,6 +8496,34 @@
       \field{year}{2014}
       \field{pages}{221\bibrangedash 232}
       \range{pages}{12}
+    \endentry
+    \entry{fraade_jjs1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1f53abbd5d0748fad884b4e582494770}{%
+           family={Fraade},
+           familyi={F\bibinitperiod},
+           given={Steven\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{fullhash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{bibnamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authorbibnamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authornamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authorfullhash}{1f53abbd5d0748fad884b4e582494770}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Jewish Studies}
+      \field{shortjournal}{JJS}
+      \field{shorttitle}{Interpretive Authority}
+      \field{title}{Interpretive Authority in the Studying Community at Qumran}
+      \field{volume}{44}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{46\bibrangedash 69}
+      \range{pages}{24}
     \endentry
     \entry{fraade_bakhos2006}{incollection}{}
       \name{author}{1}{}{%
@@ -8816,8 +8805,7 @@
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{MAARAV: A Journal of Northwest Semitic}
-      \field{shortjournal}{MAARAV}
+      \field{journaltitle}{MAARAV}
       \field{shorttitle}{Abram’s Dream in the Genesis Apocryphon}
       \field{title}{Abram’s Dream in the Genesis Apocryphon: Its Motifs and Their Function}
       \field{volume}{8}
@@ -9081,8 +9069,8 @@
       \field{number}{34}
       \field{series}{Early Judaism and Its Literature}
       \field{shortseries}{EJL}
-      \field{shorttitle}{Subversion of the Apoclypses}
-      \field{title}{The Subversion of the Apoclypses in the Book of Jubilees}
+      \field{shorttitle}{Subversion of the Apocalypses}
+      \field{title}{The Subversion of the Apocalypses in the Book of Jubilees}
       \field{year}{2012}
       \field{dateera}{ce}
     \endentry
@@ -9586,7 +9574,7 @@
       \field{number}{3}
       \field{shortjournal}{JSJ}
       \field{shorttitle}{A Wandering Aramean in Pharaoh's Court}
-      \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19-20 and Jewish Fictional Literature}
+      \field{title}{A Wandering Aramean in Pharaoh's Court: The Literary Relationship Between Abram's Sojourn in Egypt in 1QapGen 19--20 and Jewish Fictional Literature}
       \field{volume}{49}
       \field{year}{2018}
       \field{dateera}{ce}
@@ -9829,11 +9817,11 @@
            familyi={L\bibinitperiod},
            given={Antti},
            giveni={A\bibinitperiod}}}%
-        {{hash=352e53845ecda75953aec16c0eb69d0e}{%
+        {{hash=67384d45b236ae5a719755665e90480e}{%
            family={Ruiten},
            familyi={R\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod},
+           given={Jacques\bibnamedelimb T.\bibnamedelimi A.\bibnamedelimi G.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
            prefix={van},
            prefixi={v\bibinitperiod}}}%
       }
@@ -9851,9 +9839,9 @@
       \strng{authorbibnamehash}{b4e19c2df425bfae665cc430846afda7}
       \strng{authornamehash}{b4e19c2df425bfae665cc430846afda7}
       \strng{authorfullhash}{b4e19c2df425bfae665cc430846afda7}
-      \strng{bookeditorbibnamehash}{c052dc63ebe75d5867d360149e489f6f}
-      \strng{bookeditornamehash}{c052dc63ebe75d5867d360149e489f6f}
-      \strng{bookeditorfullhash}{c052dc63ebe75d5867d360149e489f6f}
+      \strng{bookeditorbibnamehash}{49b27f7c188ef4e0962e88f77b895cb0}
+      \strng{bookeditornamehash}{49b27f7c188ef4e0962e88f77b895cb0}
+      \strng{bookeditorfullhash}{49b27f7c188ef4e0962e88f77b895cb0}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{labelnamesource}{author}
@@ -10104,6 +10092,7 @@
       \field{shortseries}{STDJ}
       \field{shorttitle}{Genesis Revealed}
       \field{title}{Genesis Revealed: The Apocalyptic Apocryphon from Qumran Cave 1}
+      \field{year}{2010}
       \field{pages}{205\bibrangedash 221}
       \range{pages}{17}
     \endentry
@@ -10194,6 +10183,8 @@
       \field{shortseries}{STDJ}
       \field{shorttitle}{Dead Sea Genesis Apocryphon}
       \field{title}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
+      \field{year}{2009}
+      \field{dateera}{ce}
     \endentry
     \entry{malan_hts2014}{article}{}
       \name{author}{1}{}{%
@@ -10337,7 +10328,7 @@
       \true{crossrefsource}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
+      \field{maintitle}{A Teacher for All Generations: Essays in Honor of James C. VanderKam}
       \field{number}{153}
       \field{series}{Studies on the Texts of the Desert of Judah}
       \field{shortseries}{STDJ}
@@ -10597,8 +10588,8 @@
       \field{series}{Studier i exegetik vid judaistik utgivna av Teologiska fakulteten vid Åbo Akademi}
       \field{shortbooktitle}{Voces Clamantium in Deserto}
       \field{shortseries}{STÅA}
-      \field{shorttitle}{Luke --- The Fourth Gospel?}
-      \field{title}{Luke --- The Fourth Gospel? The `Rewritten Bible' Concept as a Way to Understand the Nature of the Later Gospels}
+      \field{shorttitle}{Luke---The Fourth Gospel?}
+      \field{title}{Luke---The Fourth Gospel? The `Rewritten Bible' Concept as a Way to Understand the Nature of the Later Gospels}
       \field{year}{2012}
       \field{pages}{231\bibrangedash 242}
       \range{pages}{12}
@@ -10764,11 +10755,11 @@
     \endentry
     \entry{nickelsburg2005}{book}{}
       \name{author}{1}{}{%
-        {{hash=9674cac54757a54a62d9092f4240ef99}{%
+        {{hash=ebd9c2d4467832e01063474554c1785d}{%
            family={Nickelsburg},
            familyi={N\bibinitperiod},
-           given={George},
-           giveni={G\bibinitperiod}}}%
+           given={George\bibnamedelimb W.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Minneapolis, MN}%
@@ -10776,12 +10767,12 @@
       \list{publisher}{1}{%
         {Fortress}%
       }
-      \strng{namehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{fullhash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{bibnamehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{authorbibnamehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{authornamehash}{9674cac54757a54a62d9092f4240ef99}
-      \strng{authorfullhash}{9674cac54757a54a62d9092f4240ef99}
+      \strng{namehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{fullhash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{bibnamehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{authorbibnamehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{authornamehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{authorfullhash}{ebd9c2d4467832e01063474554c1785d}
       \field{sortinit}{N}
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
@@ -10918,8 +10909,12 @@
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
+      \field{endyear}{1992}
       \field{title}{Les Lieux de mémoire}
       \field{volumes}{7}
+      \field{year}{1984}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
     \endentry
     \entry{25fe911b53d41e2425092925a0ccc44a}{mvbook}{skipbib=true,skipbiblist=true}
       \name{editor}{1}{}{%
@@ -10946,8 +10941,10 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{clonesourcekey}{nora1984}
+      \field{endyear}{1992}
       \field{title}{Les Lieux de mémoire}
       \field{volumes}{7}
+      \field{year}{1984}
     \endentry
     \entry{nora_goff-etal1978}{incollection}{}
       \name{author}{1}{}{%
@@ -11040,11 +11037,15 @@
       \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
+      \field{endyear}{1998}
       \field{relatedtype}{translationof}
       \field{series}{European Perspectives}
       \field{shorttitle}{Realms of Memory}
       \field{title}{Realms of Memory: Rethinking the French Past}
       \field{volumes}{3}
+      \field{year}{1996}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
       \field{related}{25fe911b53d41e2425092925a0ccc44a}
     \endentry
     \entry{north1954}{book}{}
@@ -12279,7 +12280,7 @@
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June -- 2 July 2008}
+      \field{booktitle}{Aramaica Qumranica: Proceedings of the Conference on the Aramaic Texts from Qumran in Aix-En-Provence 30 June--2 July 2008}
       \strng{crossref}{berthelot-etal2010}
       \field{number}{94}
       \field{series}{Studies on the Texts of the Desert of Judah}
@@ -13184,11 +13185,13 @@
            familyi={C\bibinitperiod},
            given={John\bibnamedelima J.},
            giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=e0caac4f2c1e7d3726a01dd173c25ca5}{%
+        {{hash=56fd05be280b4ef991d64b362ae88f21}{%
            family={E.},
            familyi={E\bibinitperiod},
-           given={Nickelsburg\bibnamedelimb George\bibnamedelima W.},
-           giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           given={George\bibnamedelimb W.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={Nickelsburg},
+           suffixi={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Chico, CA}%
@@ -13202,9 +13205,9 @@
       \strng{authorbibnamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authornamehash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
       \strng{authorfullhash}{ee7dfc0cdc8dbad47a90e8e66c8ee23b}
-      \strng{bookeditorbibnamehash}{83aad5a087a8f625dd626d26001993ae}
-      \strng{bookeditornamehash}{83aad5a087a8f625dd626d26001993ae}
-      \strng{bookeditorfullhash}{83aad5a087a8f625dd626d26001993ae}
+      \strng{bookeditorbibnamehash}{34819fe504dab80ec75c8439c55324c0}
+      \strng{bookeditornamehash}{34819fe504dab80ec75c8439c55324c0}
+      \strng{bookeditorfullhash}{34819fe504dab80ec75c8439c55324c0}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
       \field{labelnamesource}{author}
