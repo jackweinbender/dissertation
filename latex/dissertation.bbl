@@ -1,0 +1,1061 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{auld1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=583fc0e570019b79c9a3cb6dfdfeefe7}{%
+           family={Auld},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Graeme},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {T \& T Clark}%
+      }
+      \strng{namehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{fullhash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{bibnamehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{authorbibnamehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{authornamehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{authorfullhash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Kings Without Privilege}
+      \field{title}{Kings Without Privilege: David and Moses in the Story of the Bible's Kings}
+      \field{year}{1994}
+      \field{dateera}{ce}
+    \endentry
+    \entry{auld_graham-mckenzie1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=583fc0e570019b79c9a3cb6dfdfeefe7}{%
+           family={Auld},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Graeme},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=f3270f0a0768246ba1f6554905596ac4}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi Patrick},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {Sheffield Academic}%
+      }
+      \strng{namehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{fullhash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{bibnamehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{authorbibnamehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{authornamehash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{authorfullhash}{583fc0e570019b79c9a3cb6dfdfeefe7}
+      \strng{bookeditorbibnamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{bookeditornamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{bookeditorfullhash}{81c0566f39226e79331bb2d4cf2849d3}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Chronicler As Author: Studies in Text and Texture}
+      \strng{crossref}{graham-mckenzie1999}
+      \field{number}{263}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortbooktitle}{Chronicler As Author}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{What was the Main Source?}
+      \field{title}{What was the Main Source of the Book of Chronicles?}
+      \field{year}{1999}
+      \field{pages}{91\bibrangedash 99}
+      \range{pages}{9}
+    \endentry
+    \entry{benzvi_st2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
+           family={Ben\bibnamedelima Zvi},
+           familyi={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{fullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{bibnamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authorbibnamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authornamehash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \strng{authorfullhash}{e0cfb7ecc10d60126d0f7ba012cea484}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studia Theologica}
+      \field{number}{1}
+      \field{shortjournal}{ST}
+      \field{title}{Chronicles and Social Memory}
+      \field{volume}{71}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{69\bibrangedash 90}
+      \range{pages}{22}
+    \endentry
+    \entry{biran-naveh_iej1993}{article}{}
+      \name{author}{2}{}{%
+        {{hash=67a15fb34fe65e97c1b1c74a538f58d4}{%
+           family={Biran},
+           familyi={B\bibinitperiod},
+           given={Avraham},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cd00c7461fb2ad5a11a5a11f1cd9e460}{%
+           family={Naveh},
+           familyi={N\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{024435289ead79501f4685586238501b}
+      \strng{fullhash}{024435289ead79501f4685586238501b}
+      \strng{bibnamehash}{024435289ead79501f4685586238501b}
+      \strng{authorbibnamehash}{024435289ead79501f4685586238501b}
+      \strng{authornamehash}{024435289ead79501f4685586238501b}
+      \strng{authorfullhash}{024435289ead79501f4685586238501b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Israel Exploration Journal}
+      \field{shortjournal}{IEJ}
+      \field{title}{An Aramaic Stele Fragment from Tel Dan}
+      \field{volume}{43}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{81\bibrangedash 93}
+      \range{pages}{13}
+    \endentry
+    \entry{biran-naveh_iej1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=67a15fb34fe65e97c1b1c74a538f58d4}{%
+           family={Biran},
+           familyi={B\bibinitperiod},
+           given={Avraham},
+           giveni={A\bibinitperiod}}}%
+        {{hash=cd00c7461fb2ad5a11a5a11f1cd9e460}{%
+           family={Naveh},
+           familyi={N\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{024435289ead79501f4685586238501b}
+      \strng{fullhash}{024435289ead79501f4685586238501b}
+      \strng{bibnamehash}{024435289ead79501f4685586238501b}
+      \strng{authorbibnamehash}{024435289ead79501f4685586238501b}
+      \strng{authornamehash}{024435289ead79501f4685586238501b}
+      \strng{authorfullhash}{024435289ead79501f4685586238501b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Israel Exploration Journal}
+      \field{shortjournal}{IEJ}
+      \field{shorttitle}{The Tel Dan Inscription}
+      \field{title}{The Tel Dan Inscription: A New Fragment}
+      \field{volume}{45}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+    \endentry
+    \entry{brockmeier_cp2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f05cd79a0d4e9449d9301c51f0bfc93b}{%
+           family={Brockmeier},
+           familyi={B\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{fullhash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{bibnamehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{authorbibnamehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{authornamehash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \strng{authorfullhash}{f05cd79a0d4e9449d9301c51f0bfc93b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Culture \& Psycology}
+      \field{number}{1}
+      \field{shortjournal}{CP}
+      \field{shorttitle}{After the Archive}
+      \field{title}{After the Archive: Remapping Memory}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{5\bibrangedash 35}
+      \range{pages}{31}
+    \endentry
+    \entry{carr2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6a965f8bac453393f915919f8c9bdb6b}{%
+           family={Carr},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6a965f8bac453393f915919f8c9bdb6b}
+      \strng{fullhash}{6a965f8bac453393f915919f8c9bdb6b}
+      \strng{bibnamehash}{6a965f8bac453393f915919f8c9bdb6b}
+      \strng{authorbibnamehash}{6a965f8bac453393f915919f8c9bdb6b}
+      \strng{authornamehash}{6a965f8bac453393f915919f8c9bdb6b}
+      \strng{authorfullhash}{6a965f8bac453393f915919f8c9bdb6b}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Formation of the Hebrew Bible}
+      \field{title}{The Formation of the Hebrew Bible: A New Construction}
+      \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{graham-mckenzie1999}{collection}{skipbib=true}
+      \name{editor}{2}{}{%
+        {{hash=f3270f0a0768246ba1f6554905596ac4}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi Patrick},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {Sheffield Academic}%
+      }
+      \strng{namehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{fullhash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{bibnamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{editorbibnamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{editornamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{editorfullhash}{81c0566f39226e79331bb2d4cf2849d3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Chronicler As Author: Studies in Text and Texture}
+      \field{number}{263}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{Chronicler As Author}
+      \field{title}{The Chronicler As Author: Studies in Text and Texture}
+      \field{year}{1999}
+      \field{dateera}{ce}
+    \endentry
+    \entry{halbwachs1992}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f0d72d6c7032c8accb806b99a1556e87}{%
+           family={Halbwachs},
+           familyi={H\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=95fbb1616bef2797b55c2433f9e2d259}{%
+           family={Coser},
+           familyi={C\bibinitperiod},
+           given={Lewis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{fullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{bibnamehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authorbibnamehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authornamehash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{authorfullhash}{f0d72d6c7032c8accb806b99a1556e87}
+      \strng{translatorbibnamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{translatornamehash}{95fbb1616bef2797b55c2433f9e2d259}
+      \strng{translatorfullhash}{95fbb1616bef2797b55c2433f9e2d259}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{On Collective Memory}
+      \field{series}{The Heritage of Sociology}
+      \field{shortseries}{HS}
+      \field{title}{On Collective Memory}
+      \field{year}{1992}
+      \field{dateera}{ce}
+    \endentry
+    \entry{halpern2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e0e2115d563796d51c269bf942be29e}{%
+           family={Halpern},
+           familyi={H\bibinitperiod},
+           given={Baruch},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{6e0e2115d563796d51c269bf942be29e}
+      \strng{fullhash}{6e0e2115d563796d51c269bf942be29e}
+      \strng{bibnamehash}{6e0e2115d563796d51c269bf942be29e}
+      \strng{authorbibnamehash}{6e0e2115d563796d51c269bf942be29e}
+      \strng{authornamehash}{6e0e2115d563796d51c269bf942be29e}
+      \strng{authorfullhash}{6e0e2115d563796d51c269bf942be29e}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{David's Secret Demons}
+      \field{title}{David's Secret Demons: Messiah, Murderer, Traitor, King}
+      \field{year}{2001}
+      \field{dateera}{ce}
+    \endentry
+    \entry{klein2006}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d846f87c8e136023ecd9e2c6b1f49299}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Ralph\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{d846f87c8e136023ecd9e2c6b1f49299}
+      \strng{fullhash}{d846f87c8e136023ecd9e2c6b1f49299}
+      \strng{bibnamehash}{d846f87c8e136023ecd9e2c6b1f49299}
+      \strng{authorbibnamehash}{d846f87c8e136023ecd9e2c6b1f49299}
+      \strng{authornamehash}{d846f87c8e136023ecd9e2c6b1f49299}
+      \strng{authorfullhash}{d846f87c8e136023ecd9e2c6b1f49299}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{1 Chronicles: A Commentary}
+      \field{series}{Hermeneia}
+      \field{shorttitle}{1 Chronicles}
+      \field{title}{1 Chronicles: A Commentary}
+      \field{year}{2006}
+      \field{dateera}{ce}
+    \endentry
+    \entry{knapp2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=07bb097b3eb3734536a8f7c71e5ae244}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
+      \list{publisher}{1}{%
+        {Society of Biblical Literature}%
+      }
+      \strng{namehash}{07bb097b3eb3734536a8f7c71e5ae244}
+      \strng{fullhash}{07bb097b3eb3734536a8f7c71e5ae244}
+      \strng{bibnamehash}{07bb097b3eb3734536a8f7c71e5ae244}
+      \strng{authorbibnamehash}{07bb097b3eb3734536a8f7c71e5ae244}
+      \strng{authornamehash}{07bb097b3eb3734536a8f7c71e5ae244}
+      \strng{authorfullhash}{07bb097b3eb3734536a8f7c71e5ae244}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{4}
+      \field{series}{Writings from the Ancient World Supplement Series}
+      \field{shortseries}{WAWSup}
+      \field{shorttitle}{Royal Apologetic}
+      \field{title}{Royal Apologetic in the Ancient Near East}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{knoppers2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dcfb6f7607fb286d1582ba00748d536b}{%
+           family={Knoppers},
+           familyi={K\bibinitperiod},
+           given={Gary\bibnamedelima N.},
+           giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{fullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{bibnamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorbibnamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authornamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorfullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
+      \field{number}{12}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{1 {{Chronicles}} 1--9}
+      \field{title}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lemaire_bar1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a46cd42b0f1c350c589f30698cfbf0a9}{%
+           family={Lemaire},
+           familyi={L\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{fullhash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{bibnamehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{authorbibnamehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{authornamehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{authorfullhash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Biblical Archaeology Review}
+      \field{shortjournal}{BAR}
+      \field{shorttitle}{`House of David' Restored}
+      \field{title}{`House of David' Restored in Moabite Inscription}
+      \field{volume}{20}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{30\bibrangedash 37}
+      \range{pages}{8}
+    \endentry
+    \entry{lemaire_sel1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a46cd42b0f1c350c589f30698cfbf0a9}{%
+           family={Lemaire},
+           familyi={L\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{fullhash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{bibnamehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{authorbibnamehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{authornamehash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \strng{authorfullhash}{a46cd42b0f1c350c589f30698cfbf0a9}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Studi Epigrafici e Linguistici sul Vicino Oriente Antico}
+      \field{shortjournal}{SEL}
+      \field{shorttitle}{La dynastie davidique}
+      \field{title}{La dynastie davidique (BYT DWD) dans deux inscriptions ouestsémitiques du IXe s. av. J.-C.}
+      \field{volume}{11}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{17\bibrangedash 19}
+      \range{pages}{3}
+    \endentry
+    \entry{mccarter_interpretation1981}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6d4e4cc6c63766da94c734f3becfc514}{%
+           family={McCarter},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi Kyle},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{fullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{bibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorbibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authornamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorfullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Interpretation}
+      \field{number}{4}
+      \field{shortjournal}{Int}
+      \field{shorttitle}{Plots True or False}
+      \field{title}{`Plots, True or False': The Succession Narrative as Court Apologetic}
+      \field{volume}{35}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{pages}{355\bibrangedash 367}
+      \range{pages}{13}
+    \endentry
+    \entry{mccarter1980}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d4e4cc6c63766da94c734f3becfc514}{%
+           family={McCarter},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi Kyle},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{fullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{bibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorbibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authornamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorfullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{I Samuel: A New Translation with Translation, Notes, and Commentary}
+      \field{number}{8}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{I Samuel}
+      \field{title}{I Samuel: A New Translation with Translation, Notes, and Commentary}
+      \field{year}{1980}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mccarter_jbl1980}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6d4e4cc6c63766da94c734f3becfc514}{%
+           family={McCarter},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi Kyle},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{fullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{bibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorbibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authornamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorfullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{number}{4}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{The Apology of David}
+      \field{title}{The Apology of David}
+      \field{volume}{99}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{pages}{489\bibrangedash 504}
+      \range{pages}{16}
+    \endentry
+    \entry{mckenzie1985}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c3e5388febfa57118efe4e989ddb3d5f}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{c3e5388febfa57118efe4e989ddb3d5f}
+      \strng{fullhash}{c3e5388febfa57118efe4e989ddb3d5f}
+      \strng{bibnamehash}{c3e5388febfa57118efe4e989ddb3d5f}
+      \strng{authorbibnamehash}{c3e5388febfa57118efe4e989ddb3d5f}
+      \strng{authornamehash}{c3e5388febfa57118efe4e989ddb3d5f}
+      \strng{authorfullhash}{c3e5388febfa57118efe4e989ddb3d5f}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{3}
+      \field{series}{Harvard Semitic Monographs}
+      \field{shortseries}{HSM}
+      \field{title}{The Chronicler's Use of the Deuteronomistic History}
+      \field{year}{1985}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mckenzie_graham-mckenzie1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=f3270f0a0768246ba1f6554905596ac4}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi Patrick},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {Sheffield Academic}%
+      }
+      \strng{namehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{fullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{bibnamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorbibnamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authornamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorfullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{bookeditorbibnamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{bookeditornamehash}{81c0566f39226e79331bb2d4cf2849d3}
+      \strng{bookeditorfullhash}{81c0566f39226e79331bb2d4cf2849d3}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Chronicler As Author: Studies in Text and Texture}
+      \strng{crossref}{graham-mckenzie1999}
+      \field{number}{263}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortbooktitle}{Chronicler As Author}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{Chronicler as Redactor}
+      \field{title}{The Chronicler as Redactor}
+      \field{year}{1999}
+      \field{pages}{70\bibrangedash 90}
+      \range{pages}{21}
+    \endentry
+    \entry{nora_representations1989}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{bibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorbibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issuetitle}{Special Issue: Memory and Counter-Memory}
+      \field{journaltitle}{Representations}
+      \field{shorttitle}{Between Memory and History}
+      \field{title}{Between Memory and History: Les Lieux de Mémoire}
+      \field{volume}{26}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 24}
+      \range{pages}{18}
+    \endentry
+    \entry{nora1984}{mvbook}{}
+      \name{editor}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{bibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{editorbibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{editornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{editorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{endyear}{1992}
+      \field{title}{Les Lieux de mémoire}
+      \field{volumes}{7}
+      \field{year}{1984}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+    \entry{nora_goff-etal1978}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0d31905f2879b15061a4d57444cf7370}{%
+           family={Nora},
+           familyi={N\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=5ada26d38e8e05bd99d38ae439f5ff7f}{%
+           family={Jacques\bibnamedelimb Le\bibnamedelima Goff},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Roger\bibnamedelima Chartier},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c4494c4d683e01961ae7908073c47263}{%
+           family={Revel},
+           familyi={R\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Retz}%
+      }
+      \strng{namehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{fullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{bibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorbibnamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authornamehash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{authorfullhash}{0d31905f2879b15061a4d57444cf7370}
+      \strng{bookeditorbibnamehash}{2f069f6444033fd0d01cb974e7b05dee}
+      \strng{bookeditornamehash}{2f069f6444033fd0d01cb974e7b05dee}
+      \strng{bookeditorfullhash}{2f069f6444033fd0d01cb974e7b05dee}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{La Nouvelle histoire}
+      \field{shortbooktitle}{La Nouvelle histoire}
+      \field{shorttitle}{Mémoire collective}
+      \field{title}{Mémoire collective}
+      \field{year}{1978}
+      \field{pages}{398\bibrangedash 401}
+      \range{pages}{4}
+    \endentry
+    \entry{olick-robbins_ars1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6c922893641f3cdb6e91614f143c83da}{%
+           family={Olick},
+           familyi={O\bibinitperiod},
+           given={Jeffrey\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9f31a6d7beeafeb7d8f7bf217a0118e4}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Joyce},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{fullhash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{bibnamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authorbibnamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authornamehash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \strng{authorfullhash}{bc7e43c0b9812fb1bddb779f64e3c7fe}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Annual Review of Sociology}
+      \field{shortjournal}{ARS}
+      \field{shorttitle}{Social Memory Studies}
+      \field{title}{Social Memory Studies: From `Collective Memory' to the Historical Sociology of Mnemonic Practices}
+      \field{volume}{24}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{105\bibrangedash 140}
+      \range{pages}{36}
+    \endentry
+    \entry{person2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3445ad70b72c1603c1952250039bad83}{%
+           family={Person},
+           familyi={P\bibinitperiod},
+           given={Raymond\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
+      \list{publisher}{1}{%
+        {Society of Biblical Literature}%
+      }
+      \strng{namehash}{3445ad70b72c1603c1952250039bad83}
+      \strng{fullhash}{3445ad70b72c1603c1952250039bad83}
+      \strng{bibnamehash}{3445ad70b72c1603c1952250039bad83}
+      \strng{authorbibnamehash}{3445ad70b72c1603c1952250039bad83}
+      \strng{authornamehash}{3445ad70b72c1603c1952250039bad83}
+      \strng{authorfullhash}{3445ad70b72c1603c1952250039bad83}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{6}
+      \field{series}{Ancient Israel and Its Literature}
+      \field{shortseries}{AIL}
+      \field{shorttitle}{Deuteronomic History}
+      \field{title}{The Deuteronomic History and the Book of Chronicles: Scribal Works in an Oral World}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{redfield1956}{book}{}
+      \name{author}{1}{}{%
+        {{hash=72ade632cac8a768ea2aaf4dad342370}{%
+           family={Redfield},
+           familyi={R\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{72ade632cac8a768ea2aaf4dad342370}
+      \strng{fullhash}{72ade632cac8a768ea2aaf4dad342370}
+      \strng{bibnamehash}{72ade632cac8a768ea2aaf4dad342370}
+      \strng{authorbibnamehash}{72ade632cac8a768ea2aaf4dad342370}
+      \strng{authornamehash}{72ade632cac8a768ea2aaf4dad342370}
+      \strng{authorfullhash}{72ade632cac8a768ea2aaf4dad342370}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Peasant Society and Culture}
+      \field{shorttitle}{Peasant Society}
+      \field{title}{Peasant Society and Culture}
+      \field{year}{1956}
+      \field{dateera}{ce}
+    \endentry
+    \entry{szpociński_teksty-drugie2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0aeecb924d6fffae109b4e31706a7f90}{%
+           family={Szpociński},
+           familyi={S\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0aeecb924d6fffae109b4e31706a7f90}
+      \strng{fullhash}{0aeecb924d6fffae109b4e31706a7f90}
+      \strng{bibnamehash}{0aeecb924d6fffae109b4e31706a7f90}
+      \strng{authorbibnamehash}{0aeecb924d6fffae109b4e31706a7f90}
+      \strng{authornamehash}{0aeecb924d6fffae109b4e31706a7f90}
+      \strng{authorfullhash}{0aeecb924d6fffae109b4e31706a7f90}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issuetitle}{Special Issue English Edition: Place and Memory}
+      \field{journaltitle}{Teksty Drugie}
+      \field{shortjournal}{TD}
+      \field{title}{Sites and Non-Sites of Memory}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{245\bibrangedash 254}
+      \range{pages}{10}
+    \endentry
+    \entry{wertsch_cp2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bd9b591341ade11cdf4cba27fbb90d76}{%
+           family={Wertsch},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{fullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{bibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorbibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authornamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorfullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Culture \& Psycology}
+      \field{number}{1}
+      \field{shortjournal}{CP}
+      \field{shorttitle}{Beyond the Archival Model of Memory}
+      \field{title}{Beyond the Archival Model of Memory and the Affordances and Constraints of Narratives}
+      \field{volume}{17}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{21\bibrangedash 29}
+      \range{pages}{9}
+    \endentry
+    \entry{wertsch_boyer-wertsch2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bd9b591341ade11cdf4cba27fbb90d76}{%
+           family={Wertsch},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=03160a5e948c51167cff9c2b696f774d}{%
+           family={Boyer},
+           familyi={B\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bd9b591341ade11cdf4cba27fbb90d76}{%
+           family={Wertsch},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{fullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{bibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorbibnamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authornamehash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{authorfullhash}{bd9b591341ade11cdf4cba27fbb90d76}
+      \strng{bookeditorbibnamehash}{32f58d84a8a36297b3e7b192b19fa7ac}
+      \strng{bookeditornamehash}{32f58d84a8a36297b3e7b192b19fa7ac}
+      \strng{bookeditorfullhash}{32f58d84a8a36297b3e7b192b19fa7ac}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Memory in Mind and Culture}
+      \field{shortbooktitle}{Memory in Mind and Culture}
+      \field{shorttitle}{Collective Memory}
+      \field{title}{Collective Memory}
+      \field{year}{2009}
+      \field{pages}{117\bibrangedash 137}
+      \range{pages}{21}
+    \endentry
+    \entry{dewette1806}{mvbook}{}
+      \name{author}{1}{}{%
+        {{hash=43d53fb28a33bbbb7f2a7f4d2121c9f6}{%
+           family={Wette},
+           familyi={W\bibinitperiod},
+           given={Wilhelm\bibnamedelimb Martin\bibnamedelima Leberecht},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Halle}%
+      }
+      \list{publisher}{1}{%
+        {Schimmelpfennig}%
+      }
+      \strng{namehash}{43d53fb28a33bbbb7f2a7f4d2121c9f6}
+      \strng{fullhash}{43d53fb28a33bbbb7f2a7f4d2121c9f6}
+      \strng{bibnamehash}{43d53fb28a33bbbb7f2a7f4d2121c9f6}
+      \strng{authorbibnamehash}{43d53fb28a33bbbb7f2a7f4d2121c9f6}
+      \strng{authornamehash}{43d53fb28a33bbbb7f2a7f4d2121c9f6}
+      \strng{authorfullhash}{43d53fb28a33bbbb7f2a7f4d2121c9f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{1807}
+      \field{title}{Beiträge zur Einleitung in das Alte Testament}
+      \field{volumes}{2}
+      \field{year}{1806}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wilson2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6e8b834dd2cd10dcf4c056960ca6617b}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{fullhash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{bibnamehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{authorbibnamehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{authornamehash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \strng{authorfullhash}{6e8b834dd2cd10dcf4c056960ca6617b}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Kingship and Memory in Ancient Judah}
+      \field{shorttitle}{Kingship and Memory}
+      \field{title}{Kingship and Memory in Ancient Judah}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
