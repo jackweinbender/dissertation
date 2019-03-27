@@ -425,6 +425,34 @@
       \field{pages}{737\bibrangedash 755}
       \range{pages}{19}
     \endentry
+    \entry{crawford2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00bea775372d5a7c5f20ff0f1d1dff7f}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Sidnie\bibnamedelima White},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Eerdmans}%
+      }
+      \strng{namehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{fullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{bibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authorbibnamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authornamehash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \strng{authorfullhash}{00bea775372d5a7c5f20ff0f1d1dff7f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rewriting Scripture in {Second Temple} Times}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
     \entry{davies_cbq1983}{article}{}
       \name{author}{1}{}{%
         {{hash=b31eb9decfec179375cb58994828df1e}{%
@@ -1362,6 +1390,35 @@
       \field{year}{2003}
       \field{dateera}{ce}
     \endentry
+    \entry{nickelsburg2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ebd9c2d4467832e01063474554c1785d}{%
+           family={Nickelsburg},
+           familyi={N\bibinitperiod},
+           given={George\bibnamedelimb W.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{fullhash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{bibnamehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{authorbibnamehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{authornamehash}{ebd9c2d4467832e01063474554c1785d}
+      \strng{authorfullhash}{ebd9c2d4467832e01063474554c1785d}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Jewish Literature between the Bible and the Mishnah}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
     \entry{north1954}{book}{}
       \name{author}{1}{}{%
         {{hash=4a90dac175dad06978acdd8d0caa443c}{%
@@ -1483,6 +1540,31 @@
       \field{year}{2015}
       \field{pages}{304\bibrangedash 321}
       \range{pages}{18}
+    \endentry
+    \entry{reeves_revq1986}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d2fb289b0f742372564f076a5859540}{%
+           family={Reeves},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d2fb289b0f742372564f076a5859540}
+      \strng{fullhash}{0d2fb289b0f742372564f076a5859540}
+      \strng{bibnamehash}{0d2fb289b0f742372564f076a5859540}
+      \strng{authorbibnamehash}{0d2fb289b0f742372564f076a5859540}
+      \strng{authornamehash}{0d2fb289b0f742372564f076a5859540}
+      \strng{authorfullhash}{0d2fb289b0f742372564f076a5859540}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Does Noah Offer in 1QapGen X, 15}
+      \field{volume}{12}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{pages}{415\bibrangedash 419}
+      \range{pages}{5}
     \endentry
     \entry{stern2001}{book}{}
       \name{author}{1}{}{%
