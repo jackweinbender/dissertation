@@ -243,6 +243,37 @@
       \field{year}{2007}
       \field{dateera}{ce}
     \endentry
+    \entry{blenkinsopp1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=66f2e0fa73d16fdf9f6f4aa3945ed619}{%
+           family={Blenkinsopp},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Westminster}%
+      }
+      \strng{namehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{fullhash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{bibnamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authorbibnamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authornamehash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \strng{authorfullhash}{66f2e0fa73d16fdf9f6f4aa3945ed619}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Old Testament Library}
+      \field{shortseries}{OTL}
+      \field{shorttitle}{Ezra--Nehemiah}
+      \field{title}{Ezra--Nehemiah: A Commentary}
+      \field{year}{1988}
+      \field{dateera}{ce}
+    \endentry
     \entry{ceriani1861}{book}{}
       \name{author}{1}{}{%
         {{hash=a84c114f7f2a253d979dee6388505e3e}{%
@@ -810,6 +841,61 @@
       \field{dateera}{ce}
       \field{pages}{46\bibrangedash 69}
       \range{pages}{24}
+    \endentry
+    \entry{fraade_goldstein-etal2017}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=1f53abbd5d0748fad884b4e582494770}{%
+           family={Fraade},
+           familyi={F\bibinitperiod},
+           given={Steven\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{bookeditor}{3}{}{%
+        {{hash=dd92c05a5cbda3e99782cd541d9b110c}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Binyamin\bibnamedelima Y.},
+           giveni={B\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=7b4894413e19569f0347b96f47ae1f8d}{%
+           family={Segal},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b60ebe416aa178d97ddbd43d91944a4f}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{fullhash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{bibnamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authorbibnamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authornamehash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{authorfullhash}{1f53abbd5d0748fad884b4e582494770}
+      \strng{bookeditorbibnamehash}{6a20c8d4106366b9f432e0ce459abb1b}
+      \strng{bookeditornamehash}{6a20c8d4106366b9f432e0ce459abb1b}
+      \strng{bookeditorfullhash}{6a20c8d4106366b9f432e0ce459abb1b}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Hā-ʾîsh Mōshe: Studies in Scriptural Interpretation in the Dead Sea Scrolls and Related Literature in Honor of Moshe J. Bernstein}
+      \field{number}{122}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortbooktitle}{Hā-ʾîsh Mōshe}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{The Temple Scroll as Rewritten Bible: When Genres Blend}
+      \field{title}{The Temple Scroll as Rewritten Bible: When Genres Blend}
+      \field{year}{2017}
+      \field{pages}{136\bibrangedash 154}
+      \range{pages}{19}
     \endentry
     \entry{martinez_najman-tigchelaar2012}{incollection}{}
       \name{author}{1}{}{%
