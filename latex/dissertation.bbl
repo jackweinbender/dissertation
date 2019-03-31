@@ -60,32 +60,6 @@
       \field{pages}{187\bibrangedash 218}
       \range{pages}{32}
     \endentry
-    \entry{6c9f012cd6be45ff0e3d12385435aed9}{article}{skipbib,skipbiblist=false}
-      \name{author}{1}{}{%
-        {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
-           family={Baumgarten},
-           familyi={B\bibinitperiod},
-           given={Joseph\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
-      \strng{fullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
-      \strng{bibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
-      \strng{authorbibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
-      \strng{authornamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
-      \strng{authorfullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{clonesourcekey}{baumgarten_tarbiz1962}
-      \field{journaltitle}{Tarbiz}
-      \field{title}{Hlwḥ šl spr hywblym whmqrʔ}
-      \field{volume}{32}
-      \field{year}{1962}
-      \field{pages}{317\bibrangedash 328}
-      \range{pages}{12}
-    \endentry
     \entry{baumgarten_baumgarten1977}{incollection}{}
       \name{author}{1}{}{%
         {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
@@ -132,6 +106,32 @@
       \field{related}{6c9f012cd6be45ff0e3d12385435aed9}
       \field{pages}{101\bibrangedash 114}
       \range{pages}{14}
+    \endentry
+    \entry{6c9f012cd6be45ff0e3d12385435aed9}{article}{skipbib,skipbiblist=false}
+      \name{author}{1}{}{%
+        {{hash=cf8f85e3d0cb9f95d23b31c51879cddb}{%
+           family={Baumgarten},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{fullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{bibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorbibnamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authornamehash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \strng{authorfullhash}{cf8f85e3d0cb9f95d23b31c51879cddb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{baumgarten_tarbiz1962}
+      \field{journaltitle}{Tarbiz}
+      \field{title}{\hebrew{הלוח שׁל ספר היובלים והמקרא}}
+      \field{volume}{32}
+      \field{year}{1962}
+      \field{pages}{317\bibrangedash 328}
+      \range{pages}{12}
     \endentry
     \entry{bendov_steele2011}{incollection}{}
       \name{author}{1}{}{%
@@ -1324,6 +1324,115 @@
       \field{dateera}{ce}
       \field{related}{c8975311d62723bbd5d5d4184be44a14}
     \endentry
+    \entry{kaplan_jaj2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bacfdfdfed5cd8756d17a269328e2622}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{fullhash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{bibnamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authorbibnamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authornamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authorfullhash}{bacfdfdfed5cd8756d17a269328e2622}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Ancient Judaism}
+      \field{pubstate}{forthcoming}
+      \field{shortjournal}{JAJ}
+      \field{shorttitle}{Chronography of Daniel 9 and Jubilees}
+      \field{title}{The Chronography of Daniel 9 and Jubilees in the Shadow of the Seleucid Era}
+    \endentry
+    \entry{kaplan_cbq2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bacfdfdfed5cd8756d17a269328e2622}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{fullhash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{bibnamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authorbibnamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authornamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authorfullhash}{bacfdfdfed5cd8756d17a269328e2622}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Catholic Biblical Quarterly}
+      \field{shortjournal}{CBQ}
+      \field{shorttitle}{The Credibility Liberty}
+      \field{title}{The Credibility Liberty: the Plausibility of the Jubilee Legislation of Leviticus 25 in Ancient Israel and Judah}
+      \field{volume}{81}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{183\bibrangedash 203}
+      \range{pages}{21}
+    \endentry
+    \entry{kaplan_biblica2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bacfdfdfed5cd8756d17a269328e2622}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{fullhash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{bibnamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authorbibnamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authornamehash}{bacfdfdfed5cd8756d17a269328e2622}
+      \strng{authorfullhash}{bacfdfdfed5cd8756d17a269328e2622}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issue}{1}
+      \field{shorttitle}{\hebrew{יובל}}
+      \field{title}{\hebrew{יובל}: A New Proposal}
+      \field{volume}{99}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{109\bibrangedash 116}
+      \range{pages}{8}
+    \endentry
+    \entry{kosmin2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9c3e67eb481f7a2b425fc8167e38b2dd}{%
+           family={Kosmin},
+           familyi={K\bibinitperiod},
+           given={Paul\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{9c3e67eb481f7a2b425fc8167e38b2dd}
+      \strng{fullhash}{9c3e67eb481f7a2b425fc8167e38b2dd}
+      \strng{bibnamehash}{9c3e67eb481f7a2b425fc8167e38b2dd}
+      \strng{authorbibnamehash}{9c3e67eb481f7a2b425fc8167e38b2dd}
+      \strng{authornamehash}{9c3e67eb481f7a2b425fc8167e38b2dd}
+      \strng{authorfullhash}{9c3e67eb481f7a2b425fc8167e38b2dd}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Time and Its Adversaries in the Seleucid Empire}
+      \field{shorttitle}{Time and Its Adversaries}
+      \field{title}{Time and Its Adversaries in the Seleucid Empire}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
     \entry{kreps_ch2018}{article}{}
       \name{author}{1}{}{%
         {{hash=46160b6427f4e7bed5d3496212ef06d5}{%
@@ -1384,6 +1493,39 @@
       \field{shorttitle}{Le jubilé biblique}
       \field{title}{Le jubilé biblique: Lv 25---exégèse et théologie}
       \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+    \entry{machiela2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=550a8e473778e572e78d0abe2dffc7d6}{%
+           family={Machiela},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{fullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{bibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorbibnamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authornamehash}{550a8e473778e572e78d0abe2dffc7d6}
+      \strng{authorfullhash}{550a8e473778e572e78d0abe2dffc7d6}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
+      \field{number}{79}
+      \field{series}{Studies on the Texts of the Desert of Judah}
+      \field{shortseries}{STDJ}
+      \field{shorttitle}{Dead Sea Genesis Apocryphon}
+      \field{title}{The Dead Sea Genesis Apocryphon: A New Text and Translation with Introduction and Special Treatment of Columns 13--17}
+      \field{year}{2009}
       \field{dateera}{ce}
     \endentry
     \entry{morgenstern_vt1955}{article}{}
@@ -2175,6 +2317,85 @@
       \field{dateera}{ce}
       \field{pages}{1\bibrangedash 40}
       \range{pages}{40}
+    \endentry
+    \entry{wellhausen1957}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
+           family={Wellhausen},
+           familyi={W\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=fa8521caf45aaa02d8b80243bb895368}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi Southerland},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1ab2f774f7c4546c7da47fdbb01d6f5b}{%
+           family={Menzies},
+           familyi={M\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Meridian}%
+      }
+      \strng{namehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{fullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{bibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorbibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authornamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorfullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{translatorbibnamehash}{699afb8db2838c37cd74ebc46449a07c}
+      \strng{translatornamehash}{699afb8db2838c37cd74ebc46449a07c}
+      \strng{translatorfullhash}{699afb8db2838c37cd74ebc46449a07c}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Prolegomena to the History of Ancient Israel: With a Reprint of the Article Israel from the Encyclopaedia Britannica}
+      \field{number}{6}
+      \field{relatedtype}{translationof}
+      \field{series}{Meridian Library}
+      \field{shortseries}{ML}
+      \field{shorttitle}{Prolegomena}
+      \field{title}{Prolegomena to the History of Ancient Israel}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \field{related}{544ab0cd36f5ce3c265090f3a787242e}
+    \endentry
+    \entry{544ab0cd36f5ce3c265090f3a787242e}{book}{skipbib,skipbiblist=false}
+      \name{author}{1}{}{%
+        {{hash=d8eba5a4ed8bd39c3e72fdf7b6f97d58}{%
+           family={Wellhausen},
+           familyi={W\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Reimer}%
+      }
+      \strng{namehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{fullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{bibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorbibnamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authornamehash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \strng{authorfullhash}{d8eba5a4ed8bd39c3e72fdf7b6f97d58}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{wellhausen1883}
+      \field{booktitle}{Prolegomena zur Geschichte Israels}
+      \field{title}{Prolegomena zur Geschichte Israels}
+      \field{year}{1883}
     \endentry
     \entry{wiesenberg_rev-qumran1961}{article}{}
       \name{author}{1}{}{%
