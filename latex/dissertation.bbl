@@ -1395,6 +1395,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issue}{1}
+      \field{journaltitle}{Biblica}
       \field{shorttitle}{\hebrew{יובל}}
       \field{title}{\hebrew{יובל}: A New Proposal}
       \field{volume}{99}
@@ -1787,6 +1788,8 @@
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue de Qumrân}
+      \field{shortjournal}{RdQ}
       \field{title}{What Does Noah Offer in 1QapGen X, 15}
       \field{volume}{12}
       \field{year}{1986}
