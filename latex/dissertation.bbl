@@ -251,6 +251,51 @@
       \field{year}{2011}
       \field{dateera}{ce}
     \endentry
+    \entry{frohlich_frohlich2019}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7322eab5da5b41ec9bd069e9f8f0441f}{%
+           family={Fröhlich},
+           familyi={F\bibinitperiod},
+           given={Ida},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{bookeditor}{1}{}{%
+        {{hash=7322eab5da5b41ec9bd069e9f8f0441f}{%
+           family={Fröhlich},
+           familyi={F\bibinitperiod},
+           given={Ida},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leuven}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{fullhash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bibnamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{authorbibnamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{authornamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{authorfullhash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bookeditorbibnamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bookeditornamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bookeditorfullhash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{David in Cultural Memory}
+      \field{number}{93}
+      \field{series}{Contributions to Biblical Exegesis \& Theology}
+      \field{shortbooktitle}{David in Cultural Memory}
+      \field{shortseries}{CBET}
+      \field{shorttitle}{Changing Faces of David}
+      \field{title}{The Changing Faces of David in Biblical Historiography. Narrative Patterns in Historiography, Positive and Negative}
+      \field{year}{2019}
+      \field{pages}{65\bibrangedash 88}
+      \range{pages}{24}
+    \endentry
     \entry{graham-mckenzie1999}{collection}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=f3270f0a0768246ba1f6554905596ac4}{%
