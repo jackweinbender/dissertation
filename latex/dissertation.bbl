@@ -251,6 +251,40 @@
       \field{year}{2011}
       \field{dateera}{ce}
     \endentry
+    \entry{frohlich2019}{collection}{skipbib=true}
+      \name{editor}{1}{}{%
+        {{hash=7322eab5da5b41ec9bd069e9f8f0441f}{%
+           family={Fröhlich},
+           familyi={F\bibinitperiod},
+           given={Ida},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leuven}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{fullhash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bibnamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{editorbibnamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{editornamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{editorfullhash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{David in Cultural Memory}
+      \field{number}{93}
+      \field{series}{Contributions to Biblical Exegesis \& Theology}
+      \field{shortseries}{CBET}
+      \field{shorttitle}{David in Cultural Memory}
+      \field{title}{David in Cultural Memory}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
     \entry{frohlich_frohlich2019}{incollection}{}
       \name{author}{1}{}{%
         {{hash=7322eab5da5b41ec9bd069e9f8f0441f}{%
@@ -286,6 +320,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{booktitle}{David in Cultural Memory}
+      \strng{crossref}{frohlich2019}
       \field{number}{93}
       \field{series}{Contributions to Biblical Exegesis \& Theology}
       \field{shortbooktitle}{David in Cultural Memory}
@@ -405,6 +440,159 @@
       \field{year}{2001}
       \field{dateera}{ce}
     \endentry
+    \entry{japhet1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louisville, KY}%
+      }
+      \list{publisher}{1}{%
+        {Westminster John Knox}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{bibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorbibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{{I \& II Chronicles}}: A Commentary}
+      \field{series}{Old Testament Library}
+      \field{shortseries}{OTL}
+      \field{shorttitle}{{{I \& II Chronicles}}}
+      \field{title}{{{I \& II Chronicles}}: A Commentary}
+      \field{year}{1993}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bcfbbe6ad6596a43126bff58ba7c83df}{book}{skipbib,skipbiblist=false}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=2ca2655e017ef5971a8b43c949b45821}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{bibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorbibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{translatorbibnamehash}{2ca2655e017ef5971a8b43c949b45821}
+      \strng{translatornamehash}{2ca2655e017ef5971a8b43c949b45821}
+      \strng{translatorfullhash}{2ca2655e017ef5971a8b43c949b45821}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{clonesourcekey}{japhet1989}
+      \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{number}{9}
+      \field{series}{Beiträge zur Erforschung des Alten Testaments und des antiken Judentums}
+      \field{shortseries}{BEATAJ}
+      \field{shorttitle}{Ideology of the Book of Chronicles}
+      \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{year}{1989}
+    \endentry
+    \entry{japhet2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=61d56852d13ffddb0231380d57c5ca1f}{%
+           family={Japhet},
+           familyi={J\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Winona Lake, IN}%
+      }
+      \list{publisher}{1}{%
+        {Eisenbrauns}%
+      }
+      \strng{namehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{fullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{bibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorbibnamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authornamehash}{61d56852d13ffddb0231380d57c5ca1f}
+      \strng{authorfullhash}{61d56852d13ffddb0231380d57c5ca1f}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{relatedtype}{reprint}
+      \field{shorttitle}{Ideology of the Book of Chronicles}
+      \field{title}{The Ideology of the Book of Chronicles and Its Place in Biblical Thought}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{related}{bcfbbe6ad6596a43126bff58ba7c83df}
+    \endentry
+    \entry{jarick_frohlich2019}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0203fb196a6f3e8b3e2f1b7906316e74}{%
+           family={Jarick},
+           familyi={J\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{bookeditor}{1}{}{%
+        {{hash=7322eab5da5b41ec9bd069e9f8f0441f}{%
+           family={Fröhlich},
+           familyi={F\bibinitperiod},
+           given={Ida},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leuven}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{0203fb196a6f3e8b3e2f1b7906316e74}
+      \strng{fullhash}{0203fb196a6f3e8b3e2f1b7906316e74}
+      \strng{bibnamehash}{0203fb196a6f3e8b3e2f1b7906316e74}
+      \strng{authorbibnamehash}{0203fb196a6f3e8b3e2f1b7906316e74}
+      \strng{authornamehash}{0203fb196a6f3e8b3e2f1b7906316e74}
+      \strng{authorfullhash}{0203fb196a6f3e8b3e2f1b7906316e74}
+      \strng{bookeditorbibnamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bookeditornamehash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \strng{bookeditorfullhash}{7322eab5da5b41ec9bd069e9f8f0441f}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{David in Cultural Memory}
+      \strng{crossref}{frohlich2019}
+      \field{number}{93}
+      \field{series}{Contributions to Biblical Exegesis \& Theology}
+      \field{shortbooktitle}{David in Cultural Memory}
+      \field{shortseries}{CBET}
+      \field{shorttitle}{Seven Things}
+      \field{title}{Seven Things that the Chronicler Wants You to Remember about King David}
+      \field{year}{2019}
+      \field{pages}{115\bibrangedash 130}
+      \range{pages}{16}
+    \endentry
     \entry{klein2006}{book}{}
       \name{author}{1}{}{%
         {{hash=d846f87c8e136023ecd9e2c6b1f49299}{%
@@ -500,6 +688,34 @@
       \field{title}{1 {{Chronicles}} 1--9: A New Translation with Introduction and Commentary}
       \field{year}{2003}
       \field{dateera}{ce}
+    \endentry
+    \entry{knoppers_biblica1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dcfb6f7607fb286d1582ba00748d536b}{%
+           family={Knoppers},
+           familyi={K\bibinitperiod},
+           given={Gary\bibnamedelima N.},
+           giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{fullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{bibnamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorbibnamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authornamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorfullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Biblica}
+      \field{number}{4}
+      \field{shorttitle}{Images of David in Early Judaism}
+      \field{title}{Images of David in Early Judaism: David as Repentant Sinner in Chronicles}
+      \field{volume}{76}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{449\bibrangedash 470}
+      \range{pages}{22}
     \endentry
     \entry{lemaire_bar1994}{article}{}
       \name{author}{1}{}{%
