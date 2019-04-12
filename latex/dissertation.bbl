@@ -251,6 +251,56 @@
       \field{year}{2011}
       \field{dateera}{ce}
     \endentry
+    \entry{edelman_dearman-graham2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d54437ce76c7ebc98a9abefaf05f63fe}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=3ad6e93d6a7f528f2fac4f576ae39846}{%
+           family={Dearman},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi Andrew},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f3270f0a0768246ba1f6554905596ac4}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi Patrick},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {Sheffield Academic}%
+      }
+      \strng{namehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{fullhash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{bibnamehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{authorbibnamehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{authornamehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{authorfullhash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{bookeditorbibnamehash}{d4653551e269d6c8b15988104a36f31e}
+      \strng{bookeditornamehash}{d4653551e269d6c8b15988104a36f31e}
+      \strng{bookeditorfullhash}{d4653551e269d6c8b15988104a36f31e}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Land That I Will Show You: Essays on the History and Archaeology of the Ancient near East in Honor of J. Maxwell Miller}
+      \field{number}{343}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortbooktitle}{The Land That I Will Show You}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{Saulide--Davidic Rivaly}
+      \field{title}{Did Saulide--Davidic Rivaly Resurface in Early Persian Yehud?}
+      \field{year}{2002}
+      \field{pages}{69\bibrangedash 91}
+      \range{pages}{23}
+    \endentry
     \entry{frohlich2019}{collection}{skipbib=true}
       \name{editor}{1}{}{%
         {{hash=7322eab5da5b41ec9bd069e9f8f0441f}{%
@@ -689,6 +739,39 @@
       \field{year}{2003}
       \field{dateera}{ce}
     \endentry
+    \entry{knoppers2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dcfb6f7607fb286d1582ba00748d536b}{%
+           family={Knoppers},
+           familyi={K\bibinitperiod},
+           given={Gary\bibnamedelima N.},
+           giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{fullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{bibnamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorbibnamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authornamehash}{dcfb6f7607fb286d1582ba00748d536b}
+      \strng{authorfullhash}{dcfb6f7607fb286d1582ba00748d536b}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{1 Chronicles 10--29: A New Translation with Introduction and Commentary}
+      \field{number}{13}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{1 Chronicles 10--29}
+      \field{title}{1 Chronicles 10--29: A New Translation with Introduction and Commentary}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
     \entry{knoppers_biblica1995}{article}{}
       \name{author}{1}{}{%
         {{hash=dcfb6f7607fb286d1582ba00748d536b}{%
@@ -833,6 +916,39 @@
       \field{shorttitle}{I Samuel}
       \field{title}{I Samuel: A New Translation with Translation, Notes, and Commentary}
       \field{year}{1980}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mccarter1984}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6d4e4cc6c63766da94c734f3becfc514}{%
+           family={McCarter},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi Kyle},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{fullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{bibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorbibnamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authornamehash}{6d4e4cc6c63766da94c734f3becfc514}
+      \strng{authorfullhash}{6d4e4cc6c63766da94c734f3becfc514}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{{II Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{number}{9}
+      \field{series}{The Anchor Bible}
+      \field{shortseries}{AB}
+      \field{shorttitle}{{II Samuel}}
+      \field{title}{{II Samuel}: A New Translation with Translation, Notes, and Commentary}
+      \field{year}{1984}
       \field{dateera}{ce}
     \endentry
     \entry{mccarter_jbl1980}{article}{}
