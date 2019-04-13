@@ -24,38 +24,63 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 1: Rewritten Bible %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_rewritten_bible/__index.tex}
-
+\begin{refsection}
+  \input{_rewritten_bible/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 2: Memory Theory %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_memory/__index.tex}
-
+\begin{refsection}
+  \input{_memory/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 3: Chronicles %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_chronicles/__index.tex}
-
+\begin{refsection}
+  \input{_chronicles/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 4: Genesis Apocryphon %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_gen_apoc/__index.tex}
-
+\begin{refsection}
+  \input{_gen_apoc/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 5: Jubilees %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_jubilees/__index.tex}
-
+\begin{refsection}
+  \input{_jubilees/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 %%%%%%%%%%%%%%%%%%%
 %%% Conclusions %%%
 %%%%%%%%%%%%%%%%%%%
-\input{_conclusion/__index.tex}
+\begin{refsection}
+  \input{_conclusion/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 
-\nocite{*}
-\backmatter
-\begin{SingleSpace}
-  \printbibliography[heading=bibintoc]
-\end{SingleSpace}
+% \nocite{*}
+% \backmatter
+% \begin{SingleSpace}
+%   \printbibliography[heading=bibintoc]
+% \end{SingleSpace}
 
 \chapter{Vita}
 \input{frontmatter/vita.tex}
