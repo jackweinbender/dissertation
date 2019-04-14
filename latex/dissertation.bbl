@@ -9488,6 +9488,36 @@
       \field{pages}{415\bibrangedash 419}
       \range{pages}{5}
     \endentry
+    \entry{ronsch1874}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d36b030f8342f470f7be26b73061511f}{%
+           family={Rönsch},
+           familyi={R\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Fue}%
+      }
+      \strng{namehash}{d36b030f8342f470f7be26b73061511f}
+      \strng{fullhash}{d36b030f8342f470f7be26b73061511f}
+      \strng{bibnamehash}{d36b030f8342f470f7be26b73061511f}
+      \strng{authorbibnamehash}{d36b030f8342f470f7be26b73061511f}
+      \strng{authornamehash}{d36b030f8342f470f7be26b73061511f}
+      \strng{authorfullhash}{d36b030f8342f470f7be26b73061511f}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Das Buch der Jubiläen oder dies Leine Genesis}
+      \field{shorttitle}{Das Buch der Jubiläen}
+      \field{title}{Das Buch der Jubiläen oder dies Leine Genesis}
+      \field{year}{1874}
+      \field{dateera}{ce}
+    \endentry
     \entry{stern2001}{book}{}
       \name{author}{1}{}{%
         {{hash=798d5fb2581b9e5c9dffbe63d08afb93}{%
