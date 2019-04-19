@@ -1403,6 +1403,39 @@
       \field{year}{1956}
       \field{dateera}{ce}
     \endentry
+    \entry{rudolph1955}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f4ad4cbb52bfd890b73837825475b47f}{%
+           family={Rudolph},
+           familyi={R\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tübingen}%
+      }
+      \list{publisher}{1}{%
+        {Mohr Siebeck}%
+      }
+      \strng{namehash}{f4ad4cbb52bfd890b73837825475b47f}
+      \strng{fullhash}{f4ad4cbb52bfd890b73837825475b47f}
+      \strng{bibnamehash}{f4ad4cbb52bfd890b73837825475b47f}
+      \strng{authorbibnamehash}{f4ad4cbb52bfd890b73837825475b47f}
+      \strng{authornamehash}{f4ad4cbb52bfd890b73837825475b47f}
+      \strng{authorfullhash}{f4ad4cbb52bfd890b73837825475b47f}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Chronikbücher}
+      \field{number}{21}
+      \field{series}{Handbuch zum Alten Testament}
+      \field{shortseries}{HAT}
+      \field{shorttitle}{Chronikbücher}
+      \field{title}{Chronikbücher}
+      \field{year}{1955}
+      \field{dateera}{ce}
+    \endentry
     \entry{szpociński_teksty-drugie2016}{article}{}
       \name{author}{1}{}{%
         {{hash=0aeecb924d6fffae109b4e31706a7f90}{%
