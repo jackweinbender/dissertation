@@ -192,6 +192,35 @@
       \field{pages}{1\bibrangedash 18}
       \range{pages}{18}
     \endentry
+    \entry{braun_jbl1976}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a2ca7c9ba70d8e71d3d3379ff5aa8357}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Roddy},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{fullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{bibnamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorbibnamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authornamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorfullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{number}{4}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{Solomon, the Chosen Temple Builder}
+      \field{title}{Solomon, the Chosen Temple Builder: The Significance of 1 Chronicles 22, 28, and 29 for the Theology of Chronicles}
+      \field{volume}{95}
+      \field{year}{1976}
+      \field{dateera}{ce}
+      \field{pages}{581\bibrangedash 590}
+      \range{pages}{10}
+    \endentry
     \entry{brockmeier_cp2010}{article}{}
       \name{author}{1}{}{%
         {{hash=f05cd79a0d4e9449d9301c51f0bfc93b}{%
@@ -250,6 +279,34 @@
       \field{title}{The Formation of the Hebrew Bible: A New Construction}
       \field{year}{2011}
       \field{dateera}{ce}
+    \endentry
+    \entry{dirksen_jsot1996}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2588b1ad071efdadbf403de8c0554fd2}{%
+           family={Dirksen},
+           familyi={D\bibinitperiod},
+           given={Piet\bibnamedelima B.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{2588b1ad071efdadbf403de8c0554fd2}
+      \strng{fullhash}{2588b1ad071efdadbf403de8c0554fd2}
+      \strng{bibnamehash}{2588b1ad071efdadbf403de8c0554fd2}
+      \strng{authorbibnamehash}{2588b1ad071efdadbf403de8c0554fd2}
+      \strng{authornamehash}{2588b1ad071efdadbf403de8c0554fd2}
+      \strng{authorfullhash}{2588b1ad071efdadbf403de8c0554fd2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal for the Study of the Old Testament}
+      \field{shortjournal}{JSOT}
+      \field{shorttitle}{Why Was David Disqualified as Temple Builder?}
+      \field{title}{Why Was David Disqualified as Temple Builder? The Meaning of 1 Chronicles 22:8}
+      \field{volume}{70}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{51\bibrangedash 56}
+      \range{pages}{6}
     \endentry
     \entry{edelman_dearman-graham2002}{incollection}{}
       \name{author}{1}{}{%
@@ -642,6 +699,34 @@
       \field{year}{2019}
       \field{pages}{115\bibrangedash 130}
       \range{pages}{16}
+    \endentry
+    \entry{kelly_jsot1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=589aa6efee2f485d9cf2204436dcfed2}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Brian\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{589aa6efee2f485d9cf2204436dcfed2}
+      \strng{fullhash}{589aa6efee2f485d9cf2204436dcfed2}
+      \strng{bibnamehash}{589aa6efee2f485d9cf2204436dcfed2}
+      \strng{authorbibnamehash}{589aa6efee2f485d9cf2204436dcfed2}
+      \strng{authornamehash}{589aa6efee2f485d9cf2204436dcfed2}
+      \strng{authorfullhash}{589aa6efee2f485d9cf2204436dcfed2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal for the Study of the Old Testament}
+      \field{shortjournal}{JSOT}
+      \field{shorttitle}{David's Disqualification}
+      \field{title}{David's Disqualification in 1 Chronicles 22:8: A Response to Piet B. Dirksen}
+      \field{volume}{80}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{pages}{51\bibrangedash 56}
+      \range{pages}{6}
     \endentry
     \entry{klein2006}{book}{}
       \name{author}{1}{}{%
@@ -1060,6 +1145,61 @@
       \field{title}{The Chronicler as Redactor}
       \field{year}{1999}
       \field{pages}{70\bibrangedash 90}
+      \range{pages}{21}
+    \endentry
+    \entry{mckenzie_graham-etal1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \name{bookeditor}{3}{}{%
+        {{hash=f3270f0a0768246ba1f6554905596ac4}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi Patrick},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=972746bf17a259d535329b201573e1b5}{%
+           family={Marrs},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {Sheffield Academic}%
+      }
+      \strng{namehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{fullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{bibnamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorbibnamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authornamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorfullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{bookeditorbibnamehash}{1b244a9c2ed35d1b831f7bafbd6aef21}
+      \strng{bookeditornamehash}{1b244a9c2ed35d1b831f7bafbd6aef21}
+      \strng{bookeditorfullhash}{1b244a9c2ed35d1b831f7bafbd6aef21}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Worship and the Hebrew Bible: Essays in Honor of John T. Willis}
+      \field{number}{284}
+      \field{series}{Journal for the Study of the Old Testament Supplement Series}
+      \field{shortbooktitle}{Worship and the Hebrew Bible}
+      \field{shortseries}{JSOTSup}
+      \field{shorttitle}{Why Didn't David Build the Temple?}
+      \field{title}{Why Didn't David Build the Temple? The History of a Biblical Tradition}
+      \field{year}{1999}
+      \field{pages}{204\bibrangedash 224}
       \range{pages}{21}
     \endentry
     \entry{nora_representations1989}{article}{}
