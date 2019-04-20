@@ -34,7 +34,7 @@ git-push:
 
 git-pull:
 	@ echo 'Pulling from GitHub...' && \
-	git pull github --all && \
+	git pull github && \
 	echo 'Done.'
 
 gs-push-check:

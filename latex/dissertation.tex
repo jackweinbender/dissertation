@@ -34,8 +34,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 3: Chronicles %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\input{_chronicles/__index.tex}
-
+\begin{refsection}
+  \input{_chronicles/__index.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Chapter 4: Genesis Apocryphon %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -52,10 +56,10 @@
 % \input{_conclusion/__index.tex}
 
 % \nocite{*}
-\backmatter
-\begin{SingleSpace}
-  \printbibliography[heading=bibintoc]
-\end{SingleSpace}
+% \backmatter
+% \begin{SingleSpace}
+%   \printbibliography[heading=bibintoc]
+% \end{SingleSpace}
 
 % \chapter{Vita}
 % \input{frontmatter/vita.tex}
