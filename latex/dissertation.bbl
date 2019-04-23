@@ -308,6 +308,53 @@
       \field{pages}{51\bibrangedash 56}
       \range{pages}{6}
     \endentry
+    \entry{edelman_barton-stavrakopoulou2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d54437ce76c7ebc98a9abefaf05f63fe}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=9064c33a46b8c08931d97773f58ea191}{%
+           family={Barton},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e010815a06da28218185185be1ca72c}{%
+           family={Stavrakopoulou},
+           familyi={S\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {T \& T Clark}%
+      }
+      \strng{namehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{fullhash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{bibnamehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{authorbibnamehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{authornamehash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{authorfullhash}{d54437ce76c7ebc98a9abefaf05f63fe}
+      \strng{bookeditorbibnamehash}{819a47569ec2b2bf78c34568b2eb3006}
+      \strng{bookeditornamehash}{819a47569ec2b2bf78c34568b2eb3006}
+      \strng{bookeditorfullhash}{819a47569ec2b2bf78c34568b2eb3006}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Religious Diversity in Ancient Israel and Judah}
+      \field{shortbooktitle}{Religious Diversity}
+      \field{shorttitle}{Cultic Sites and Complexes}
+      \field{title}{Cultic Sites and Complexes beyond the Jerusalem Temple}
+      \field{year}{2010}
+      \field{pages}{82\bibrangedash 103}
+      \range{pages}{22}
+    \endentry
     \entry{edelman_dearman-graham2002}{incollection}{}
       \name{author}{1}{}{%
         {{hash=d54437ce76c7ebc98a9abefaf05f63fe}{%
@@ -1639,6 +1686,7 @@
       \field{dateera}{ce}
     \endentry
   \enddatalist
+  \missing{romer2016}
 \endrefsection
 \endinput
 
