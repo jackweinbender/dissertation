@@ -99,6 +99,34 @@
       \field{pages}{91\bibrangedash 99}
       \range{pages}{9}
     \endentry
+    \entry{barabasi_science2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=15bacd7ddfc866c5dd96976d4b0244d5}{%
+           family={Barabási},
+           familyi={B\bibinitperiod},
+           given={Albert-László},
+           giveni={A\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{fullhash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{bibnamehash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{authorbibnamehash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{authornamehash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \strng{authorfullhash}{15bacd7ddfc866c5dd96976d4b0244d5}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Science}
+      \field{number}{5939}
+      \field{shorttitle}{Scale-Free Networks}
+      \field{title}{Scale-Free Networks: A Decade and Beyond}
+      \field{volume}{325}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{412\bibrangedash 413}
+      \range{pages}{2}
+    \endentry
     \entry{benzvi_st2017}{article}{}
       \name{author}{1}{}{%
         {{hash=e0cfb7ecc10d60126d0f7ba012cea484}{%
@@ -462,6 +490,36 @@
       \field{year}{2002}
       \field{pages}{69\bibrangedash 91}
       \range{pages}{23}
+    \endentry
+    \entry{linton2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a66cf6300b0c87bf52fec522cc3d3874}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={Linton\bibnamedelima C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC}%
+      }
+      \list{publisher}{1}{%
+        {Empirical}%
+      }
+      \strng{namehash}{a66cf6300b0c87bf52fec522cc3d3874}
+      \strng{fullhash}{a66cf6300b0c87bf52fec522cc3d3874}
+      \strng{bibnamehash}{a66cf6300b0c87bf52fec522cc3d3874}
+      \strng{authorbibnamehash}{a66cf6300b0c87bf52fec522cc3d3874}
+      \strng{authornamehash}{a66cf6300b0c87bf52fec522cc3d3874}
+      \strng{authorfullhash}{a66cf6300b0c87bf52fec522cc3d3874}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{The Development of Social Network Analysis: A Study in the Sociology of Science}
+      \field{shorttitle}{Development of Social Network Analysis}
+      \field{title}{The Development of Social Network Analysis: A Study in the Sociology of Science}
+      \field{year}{2004}
+      \field{dateera}{ce}
     \endentry
     \entry{d56ab88c6e163b45511d357134d35dfa}{article}{skipbib,skipbiblist=false}
       \name{author}{1}{}{%
@@ -1456,6 +1514,37 @@
       \field{shortseries}{HSM}
       \field{title}{The Chronicler's Use of the Deuteronomistic History}
       \field{year}{1985}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mckenzie2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3771cef825d899ee9f40c37c7b4bf3d5}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{fullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{bibnamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorbibnamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authornamehash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \strng{authorfullhash}{3771cef825d899ee9f40c37c7b4bf3d5}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{King David: A Biography}
+      \field{shorttitle}{King David}
+      \field{title}{King David: A Biography}
+      \field{year}{2000}
       \field{dateera}{ce}
     \endentry
     \entry{mckenzie_graham-mckenzie1999}{incollection}{}
