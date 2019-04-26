@@ -998,6 +998,34 @@
       \field{pages}{115\bibrangedash 130}
       \range{pages}{16}
     \endentry
+    \entry{kalimi_htr1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f4ca7d378eae34aa42487ab118044fb1}{%
+           family={Kalimi},
+           familyi={K\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{fullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{bibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorbibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authornamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorfullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Harvard Theological Review}
+      \field{shortjournal}{HTR}
+      \field{shorttitle}{Land of Moriah}
+      \field{title}{The Land of Moriah, Mount Moriah, and the Site of Solomon's Temple in Biblical Historiography}
+      \field{volume}{83}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{345\bibrangedash 362}
+      \range{pages}{18}
+    \endentry
     \entry{kapelrud_orientalia1963}{article}{}
       \name{author}{1}{}{%
         {{hash=8f293a3d902e8748fe2513dd821bcab5}{%
@@ -2084,6 +2112,38 @@
       \field{dateera}{ce}
       \field{pages}{245\bibrangedash 254}
       \range{pages}{10}
+    \endentry
+    \entry{vermes1961}{book}{}
+      \name{author}{1}{}{%
+        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
+           family={Vermes},
+           familyi={V\bibinitperiod},
+           given={Geza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{fullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{bibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorbibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authornamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorfullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{4}
+      \field{series}{Studia Post-Biblica}
+      \field{shortseries}{StPB}
+      \field{shorttitle}{Scripture and Tradition}
+      \field{title}{Scripture and Tradition in Judaism: Haggadic Studies}
+      \field{year}{1961}
+      \field{dateera}{ce}
     \endentry
     \entry{wertsch_cp2011}{article}{}
       \name{author}{1}{}{%
