@@ -278,6 +278,37 @@
       \field{pages}{409\bibrangedash 421}
       \range{pages}{13}
     \endentry
+    \entry{braun1986}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a2ca7c9ba70d8e71d3d3379ff5aa8357}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Roddy},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Waco, TX}%
+      }
+      \list{publisher}{1}{%
+        {Word Books}%
+      }
+      \strng{namehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{fullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{bibnamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorbibnamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authornamehash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \strng{authorfullhash}{a2ca7c9ba70d8e71d3d3379ff5aa8357}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{14}
+      \field{series}{Word Biblical Commentary}
+      \field{shortseries}{WBC}
+      \field{title}{1 Chronicles}
+      \field{year}{1986}
+      \field{dateera}{ce}
+    \endentry
     \entry{braun_jbl1976}{article}{}
       \name{author}{1}{}{%
         {{hash=a2ca7c9ba70d8e71d3d3379ff5aa8357}{%
@@ -364,6 +395,38 @@
       \field{shorttitle}{Formation of the Hebrew Bible}
       \field{title}{The Formation of the Hebrew Bible: A New Construction}
       \field{year}{2011}
+      \field{dateera}{ce}
+    \endentry
+    \entry{coggins1976}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1509c9678d42a9e078b9ba01e4d6494e}{%
+           family={Coggins},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge}%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{fullhash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{bibnamehash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{authorbibnamehash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{authornamehash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \strng{authorfullhash}{1509c9678d42a9e078b9ba01e4d6494e}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Cambridge Biblical Commentary}
+      \field{shortseries}{CBC}
+      \field{shorttitle}{Chronicles}
+      \field{title}{The First and Second Books of the Chronicles}
+      \field{year}{1976}
       \field{dateera}{ce}
     \endentry
     \entry{dirksen_jsot1996}{article}{}
@@ -736,6 +799,56 @@
       \field{pages}{65\bibrangedash 88}
       \range{pages}{24}
     \endentry
+    \entry{gkc}{book}{skipbib=true}
+      \name{author}{1}{}{%
+        {{hash=19d16d8c869dc84f3203cf8ee40c7550}{%
+           family={Gesenius},
+           familyi={G\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5150a29fe0cfb0ff191b72a98cbbe021}{%
+           family={Kautzsch},
+           familyi={K\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=77ef7a416af973075d85f6ae500e19c0}{%
+           family={Cowley},
+           familyi={C\bibinitperiod},
+           given={Arther\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon}%
+      }
+      \strng{namehash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{fullhash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{bibnamehash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{authorbibnamehash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{authornamehash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{authorfullhash}{19d16d8c869dc84f3203cf8ee40c7550}
+      \strng{editorbibnamehash}{5150a29fe0cfb0ff191b72a98cbbe021}
+      \strng{editornamehash}{5150a29fe0cfb0ff191b72a98cbbe021}
+      \strng{editorfullhash}{5150a29fe0cfb0ff191b72a98cbbe021}
+      \strng{translatorbibnamehash}{77ef7a416af973075d85f6ae500e19c0}
+      \strng{translatornamehash}{77ef7a416af973075d85f6ae500e19c0}
+      \strng{translatorfullhash}{77ef7a416af973075d85f6ae500e19c0}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{shorthand}{GKC}
+      \field{title}{Gesenius' Hebrew Grammar}
+      \field{year}{1910}
+      \field{dateera}{ce}
+    \endentry
     \entry{graham-mckenzie1999}{collection}{skipbib=true}
       \name{editor}{2}{}{%
         {{hash=f3270f0a0768246ba1f6554905596ac4}{%
@@ -997,34 +1110,6 @@
       \field{year}{2019}
       \field{pages}{115\bibrangedash 130}
       \range{pages}{16}
-    \endentry
-    \entry{kalimi_htr1990}{article}{}
-      \name{author}{1}{}{%
-        {{hash=f4ca7d378eae34aa42487ab118044fb1}{%
-           family={Kalimi},
-           familyi={K\bibinitperiod},
-           given={Isaac},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{f4ca7d378eae34aa42487ab118044fb1}
-      \strng{fullhash}{f4ca7d378eae34aa42487ab118044fb1}
-      \strng{bibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
-      \strng{authorbibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
-      \strng{authornamehash}{f4ca7d378eae34aa42487ab118044fb1}
-      \strng{authorfullhash}{f4ca7d378eae34aa42487ab118044fb1}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Harvard Theological Review}
-      \field{shortjournal}{HTR}
-      \field{shorttitle}{Land of Moriah}
-      \field{title}{The Land of Moriah, Mount Moriah, and the Site of Solomon's Temple in Biblical Historiography}
-      \field{volume}{83}
-      \field{year}{1990}
-      \field{dateera}{ce}
-      \field{pages}{345\bibrangedash 362}
-      \range{pages}{18}
     \endentry
     \entry{kapelrud_orientalia1963}{article}{}
       \name{author}{1}{}{%
@@ -1981,6 +2066,55 @@
       \field{year}{1956}
       \field{dateera}{ce}
     \endentry
+    \entry{rollston_keith-stuckenbruck2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3a12d615bea1ba333df729026dd51949}{%
+           family={Rollston},
+           familyi={R\bibinitperiod},
+           given={Christopher\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=0f5ce36c7213955f70ffae5e335afa08}{%
+           family={Keith},
+           familyi={K\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ca786cad5aaef3caf357c9f32e9d90f8}{%
+           family={Stuckenbruck},
+           familyi={S\bibinitperiod},
+           given={Loren\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tübingen}%
+      }
+      \list{publisher}{1}{%
+        {Mohr Siebeck}%
+      }
+      \strng{namehash}{3a12d615bea1ba333df729026dd51949}
+      \strng{fullhash}{3a12d615bea1ba333df729026dd51949}
+      \strng{bibnamehash}{3a12d615bea1ba333df729026dd51949}
+      \strng{authorbibnamehash}{3a12d615bea1ba333df729026dd51949}
+      \strng{authornamehash}{3a12d615bea1ba333df729026dd51949}
+      \strng{authorfullhash}{3a12d615bea1ba333df729026dd51949}
+      \strng{bookeditorbibnamehash}{39ea7ae8a509b666e9abeb5cff3c10c8}
+      \strng{bookeditornamehash}{39ea7ae8a509b666e9abeb5cff3c10c8}
+      \strng{bookeditorfullhash}{39ea7ae8a509b666e9abeb5cff3c10c8}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Evil in Second Temple Judaism and Early Christianity}
+      \field{series}{Wissenschaftliche Untersuchungen zum Neuen Testament. 2. Reihe}
+      \field{shortbooktitle}{Evil in Second Temple Judaism and Early Christianity}
+      \field{shortseries}{WUNT II}
+      \field{shorttitle}{Ur-History of the New Testament Devil}
+      \field{title}{An Ur-History of the New Testament Devil: The Celestial שׂטן (śaṭan) in Zechariah and Job}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
     \entry{romer2015}{book}{}
       \name{author}{1}{}{%
         {{hash=40ca965c688a52473ff229ef08e71cfa}{%
@@ -2085,6 +2219,34 @@
       \field{year}{2002}
       \field{dateera}{ce}
     \endentry
+    \entry{stokes_jbl2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=37cd1fe3dc9351a37aaec179632c5ef2}{%
+           family={Stokes},
+           familyi={S\bibinitperiod},
+           given={Ryan\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{37cd1fe3dc9351a37aaec179632c5ef2}
+      \strng{fullhash}{37cd1fe3dc9351a37aaec179632c5ef2}
+      \strng{bibnamehash}{37cd1fe3dc9351a37aaec179632c5ef2}
+      \strng{authorbibnamehash}{37cd1fe3dc9351a37aaec179632c5ef2}
+      \strng{authornamehash}{37cd1fe3dc9351a37aaec179632c5ef2}
+      \strng{authorfullhash}{37cd1fe3dc9351a37aaec179632c5ef2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Biblical Literature}
+      \field{shortjournal}{JBL}
+      \field{shorttitle}{Devil Made David Do It...Or Did He?}
+      \field{title}{The Devil Made David Do It...Or Did He? The Nature, Identity, and Literary Origins of the Satan in 1 Chronicles 21:1}
+      \field{volume}{128}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{91\bibrangedash 106}
+      \range{pages}{16}
+    \endentry
     \entry{szpociński_teksty-drugie2016}{article}{}
       \name{author}{1}{}{%
         {{hash=0aeecb924d6fffae109b4e31706a7f90}{%
@@ -2112,38 +2274,6 @@
       \field{dateera}{ce}
       \field{pages}{245\bibrangedash 254}
       \range{pages}{10}
-    \endentry
-    \entry{vermes1961}{book}{}
-      \name{author}{1}{}{%
-        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
-           family={Vermes},
-           familyi={V\bibinitperiod},
-           given={Geza},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill}%
-      }
-      \strng{namehash}{da53fdb32c6874537b17e8fd3085e2e4}
-      \strng{fullhash}{da53fdb32c6874537b17e8fd3085e2e4}
-      \strng{bibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
-      \strng{authorbibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
-      \strng{authornamehash}{da53fdb32c6874537b17e8fd3085e2e4}
-      \strng{authorfullhash}{da53fdb32c6874537b17e8fd3085e2e4}
-      \field{sortinit}{V}
-      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{number}{4}
-      \field{series}{Studia Post-Biblica}
-      \field{shortseries}{StPB}
-      \field{shorttitle}{Scripture and Tradition}
-      \field{title}{Scripture and Tradition in Judaism: Haggadic Studies}
-      \field{year}{1961}
-      \field{dateera}{ce}
     \endentry
     \entry{wertsch_cp2011}{article}{}
       \name{author}{1}{}{%
