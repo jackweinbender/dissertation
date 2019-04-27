@@ -19,6 +19,56 @@
 
 \refsection{1}
   \datalist[entry]{nty/global//global/global}
+    \entry{amit_brenner-polak2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=fa1490c3a404cf2348dc6fec0bacd97b}{%
+           family={Amit},
+           familyi={A\bibinitperiod},
+           given={Yairah},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \name{bookeditor}{2}{}{%
+        {{hash=018ab6092a4cae939c7149847065cea1}{%
+           family={Brenner},
+           familyi={B\bibinitperiod},
+           given={Athalya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dbe9fae9a3aaefa69e08e18e0e381c38}{%
+           family={Polak},
+           familyi={P\bibinitperiod},
+           given={Frank\bibnamedelima H.},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {Sheffield Phoenix}%
+      }
+      \strng{namehash}{fa1490c3a404cf2348dc6fec0bacd97b}
+      \strng{fullhash}{fa1490c3a404cf2348dc6fec0bacd97b}
+      \strng{bibnamehash}{fa1490c3a404cf2348dc6fec0bacd97b}
+      \strng{authorbibnamehash}{fa1490c3a404cf2348dc6fec0bacd97b}
+      \strng{authornamehash}{fa1490c3a404cf2348dc6fec0bacd97b}
+      \strng{authorfullhash}{fa1490c3a404cf2348dc6fec0bacd97b}
+      \strng{bookeditorbibnamehash}{376e7a525e253df0f3de37df2724d682}
+      \strng{bookeditornamehash}{376e7a525e253df0f3de37df2724d682}
+      \strng{bookeditorfullhash}{376e7a525e253df0f3de37df2724d682}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Performing Memory in Biblical Narrative and Beyond}
+      \field{number}{25}
+      \field{series}{Bible in the Modern World}
+      \field{shortbooktitle}{Performing Memory}
+      \field{shortseries}{BMW}
+      \field{shorttitle}{Araunah's Threshing Floor}
+      \field{title}{Araunah's Threshing Floor: A Lesson in Shaping Historical Memory}
+      \field{year}{2009}
+      \field{pages}{13\bibrangedash 23}
+      \range{pages}{11}
+    \endentry
     \entry{auld1994}{book}{}
       \name{author}{1}{}{%
         {{hash=583fc0e570019b79c9a3cb6dfdfeefe7}{%
@@ -1110,6 +1160,62 @@
       \field{year}{2019}
       \field{pages}{115\bibrangedash 130}
       \range{pages}{16}
+    \endentry
+    \entry{kalimi_jnes2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f4ca7d378eae34aa42487ab118044fb1}{%
+           family={Kalimi},
+           familyi={K\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{fullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{bibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorbibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authornamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorfullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Near Eastern Studies}
+      \field{shortjournal}{JNES}
+      \field{shorttitle}{Placing the Chronicler}
+      \field{title}{Placing the Chronicler in His Own Historical Context: A Closer Examination}
+      \field{volume}{68}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{179\bibrangedash 192}
+      \range{pages}{14}
+    \endentry
+    \entry{kalimi_htr1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f4ca7d378eae34aa42487ab118044fb1}{%
+           family={Kalimi},
+           familyi={K\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{fullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{bibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorbibnamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authornamehash}{f4ca7d378eae34aa42487ab118044fb1}
+      \strng{authorfullhash}{f4ca7d378eae34aa42487ab118044fb1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Harvard Theological Review}
+      \field{shortjournal}{HTR}
+      \field{shorttitle}{Land of Moriah}
+      \field{title}{The Land of Moriah, Mount Moriah, and the Site of Solomon's Temple in Biblical Historiography}
+      \field{volume}{83}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{345\bibrangedash 362}
+      \range{pages}{18}
     \endentry
     \entry{kapelrud_orientalia1963}{article}{}
       \name{author}{1}{}{%
@@ -2274,6 +2380,68 @@
       \field{dateera}{ce}
       \field{pages}{245\bibrangedash 254}
       \range{pages}{10}
+    \endentry
+    \entry{vermes1961}{book}{}
+      \name{author}{1}{}{%
+        {{hash=da53fdb32c6874537b17e8fd3085e2e4}{%
+           family={Vermes},
+           familyi={V\bibinitperiod},
+           given={Geza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{fullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{bibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorbibnamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authornamehash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \strng{authorfullhash}{da53fdb32c6874537b17e8fd3085e2e4}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{4}
+      \field{series}{Studia Post-Biblica}
+      \field{shortseries}{StPB}
+      \field{shorttitle}{Scripture and Tradition}
+      \field{title}{Scripture and Tradition in Judaism: Haggadic Studies}
+      \field{year}{1961}
+      \field{dateera}{ce}
+    \endentry
+    \entry{waters2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=447a3419d42cb9c995d9114a3fb62efd}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={Jaime\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN}%
+      }
+      \list{publisher}{1}{%
+        {Fortress}%
+      }
+      \strng{namehash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{fullhash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{bibnamehash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{authorbibnamehash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{authornamehash}{447a3419d42cb9c995d9114a3fb62efd}
+      \strng{authorfullhash}{447a3419d42cb9c995d9114a3fb62efd}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Threshing Floors in Ancient Israel: Their Ritual and Symbolic Significance}
+      \field{shorttitle}{Threshing Floors in Ancient Israel}
+      \field{title}{Threshing Floors in Ancient Israel: Their Ritual and Symbolic Significance}
+      \field{year}{2015}
+      \field{dateera}{ce}
     \endentry
     \entry{wertsch_cp2011}{article}{}
       \name{author}{1}{}{%
