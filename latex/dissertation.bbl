@@ -6012,38 +6012,6 @@
       \field{pages}{489\bibrangedash 504}
       \range{pages}{16}
     \endentry
-    \entry{mckenzie1985}{book}{}
-      \name{author}{1}{}{%
-        {{hash=c3e5388febfa57118efe4e989ddb3d5f}{%
-           family={McKenzie},
-           familyi={M\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge, MA}%
-      }
-      \list{publisher}{1}{%
-        {Harvard University Press}%
-      }
-      \strng{namehash}{c3e5388febfa57118efe4e989ddb3d5f}
-      \strng{fullhash}{c3e5388febfa57118efe4e989ddb3d5f}
-      \strng{bibnamehash}{c3e5388febfa57118efe4e989ddb3d5f}
-      \strng{authorbibnamehash}{c3e5388febfa57118efe4e989ddb3d5f}
-      \strng{authornamehash}{c3e5388febfa57118efe4e989ddb3d5f}
-      \strng{authorfullhash}{c3e5388febfa57118efe4e989ddb3d5f}
-      \field{extraname}{1}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{number}{3}
-      \field{series}{Harvard Semitic Monographs}
-      \field{shortseries}{HSM}
-      \field{title}{The Chronicler's Use of the Deuteronomistic History}
-      \field{year}{1985}
-      \field{dateera}{ce}
-    \endentry
     \entry{mckenzie2000}{book}{}
       \name{author}{1}{}{%
         {{hash=2ace0a38beaff73942d4beaeffad25a9}{%
@@ -6065,7 +6033,7 @@
       \strng{authorbibnamehash}{2ace0a38beaff73942d4beaeffad25a9}
       \strng{authornamehash}{2ace0a38beaff73942d4beaeffad25a9}
       \strng{authorfullhash}{2ace0a38beaff73942d4beaeffad25a9}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -6111,7 +6079,7 @@
       \strng{bookeditorbibnamehash}{46b53121feafae75b0a38c4c9639e04d}
       \strng{bookeditornamehash}{46b53121feafae75b0a38c4c9639e04d}
       \strng{bookeditorfullhash}{46b53121feafae75b0a38c4c9639e04d}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
       \field{labelnamesource}{author}
@@ -6127,6 +6095,38 @@
       \field{year}{1999}
       \field{pages}{70\bibrangedash 90}
       \range{pages}{21}
+    \endentry
+    \entry{mckenzie1985}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2ace0a38beaff73942d4beaeffad25a9}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{2ace0a38beaff73942d4beaeffad25a9}
+      \strng{fullhash}{2ace0a38beaff73942d4beaeffad25a9}
+      \strng{bibnamehash}{2ace0a38beaff73942d4beaeffad25a9}
+      \strng{authorbibnamehash}{2ace0a38beaff73942d4beaeffad25a9}
+      \strng{authornamehash}{2ace0a38beaff73942d4beaeffad25a9}
+      \strng{authorfullhash}{2ace0a38beaff73942d4beaeffad25a9}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{3}
+      \field{series}{Harvard Semitic Monographs}
+      \field{shortseries}{HSM}
+      \field{title}{The Chronicler's Use of the Deuteronomistic History}
+      \field{year}{1985}
+      \field{dateera}{ce}
     \endentry
     \entry{mckenzie_graham-etal1999}{incollection}{}
       \name{author}{1}{}{%
