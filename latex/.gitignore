@@ -2,5 +2,6 @@
 *.fls
 *.fdb_latexmk
 *.xdv
+*.run.xml
 *.bbl
 *.pdf
