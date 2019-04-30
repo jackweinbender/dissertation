@@ -1,7 +1,5 @@
-*.log
-*.fls
-*.fdb_latexmk
-*.xdv
-*.run.xml
-*.bbl
-*.pdf
+# All build files
+dissertation.*
+
+# Keep
+!*.tex
