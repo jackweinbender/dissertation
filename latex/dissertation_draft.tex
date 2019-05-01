@@ -1,0 +1,108 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !TEX spellcheck = en-US
+% !BIB program = biber
+
+
+\documentclass[letterpaper,12pt,oneside]{memoir}
+
+% Pandoc polyfill (Required)
+\usepackage{pandoc-polyfill}
+\usepackage{xspace}
+\usepackage{utexas-dissertation-frontmatter}
+\usepackage{utexas-dissertation-toc}
+\usepackage{utexas-dissertation-page}
+% Footnote fix for BIDI
+\PassOptionsToPackage{extrafootnotefeatures}{bidi}
+\usepackage{utexas-dissertation-typography}
+\usepackage{utexas-dissertation-headings}
+\usepackage{utexas-dissertation-footnotes}
+
+% Bibliographic Styles
+\usepackage[
+  style=sbl,
+  indexing=cite,
+  backend=biber,
+  ibidtracker=true,
+  idemtracker=false,
+  pagetracker=true,
+  sblfootnotes=true]{biblatex}
+
+  % @xdata
+  \addbibresource{../bib/_xdata_journals.bib}
+  \addbibresource{../bib/_xdata_publishers.bib}
+  \addbibresource{../bib/_xdata_series.bib}
+
+  % Collections and Shorthands
+  \addbibresource{../bib/_collections.bib}
+  \addbibresource{../bib/_djd.bib}
+  \addbibresource{../bib/__reference.bib}
+  \addbibresource{../bib/__hacks.bib}
+
+  % Chapters
+  \addbibresource{../bib/_01-rwb.bib}
+  \addbibresource{../bib/_02-memory.bib}
+  \addbibresource{../bib/_03-genesis_apocryphon.bib}
+  \addbibresource{../bib/_04-jubilees.bib}
+  \addbibresource{../bib/_05-chronicles.bib}
+
+\renewcommand{\foottextfont}{\setSpacing{1.5}\normalsize}
+
+\begin{document}
+
+\input{__macros.tex}
+
+\frontmatter
+\mainmatter
+
+% Rewritten Bible
+\begin{refsection}
+  \input{_01_rewritten_bible.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
+
+% Memory
+\begin{refsection}
+  \input{_02_memory.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
+
+% Chronicles
+\begin{refsection}
+  \input{_03_chronicles.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
+
+% Genesis Apocryphon
+\begin{refsection}
+  \input{_04_genesis_apocryphon.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
+
+% Jubilees
+\begin{refsection}
+  \input{_05_jubilees.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
+
+% Conclusion
+\begin{refsection}
+  \input{_06_conclusion.tex}
+  \begin{SingleSpace}
+    \printbibliography
+  \end{SingleSpace}
+\end{refsection}
+
+\backmatter
+
+\end{document}

@@ -1,5 +1,5 @@
 # All build files
-dissertation.*
+dissertation*
 
 # Keep
 !*.tex
