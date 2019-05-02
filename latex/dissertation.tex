@@ -6,85 +6,71 @@
 
 \documentclass[letterpaper,12pt,oneside]{memoir}
 
-\input{__preamble.tex}
+% Pandoc polyfill (Required)
+\usepackage{pandoc-polyfill}
+\usepackage{xspace}
+\usepackage{utexas-dissertation-frontmatter}
+\usepackage{utexas-dissertation-toc}
+\usepackage{utexas-dissertation-page}
+% Footnote fix for BIDI
+\PassOptionsToPackage{extrafootnotefeatures}{bidi}
+\usepackage{utexas-dissertation-typography}
+\usepackage{utexas-dissertation-headings}
+\usepackage{utexas-dissertation-footnotes}
 
-%%%%%% DRAFT STYLES %%%%%%
-% \renewcommand{\foottextfont}{\setSpacing{2}\normalsize}
+% Bibliographic Styles
+\usepackage[
+  style=sbl,
+  indexing=cite,
+  backend=biber,
+  ibidtracker=true,
+  idemtracker=false,
+  pagetracker=true,
+  sblfootnotes=true]{biblatex}
+
+  % @xdata
+  \addbibresource{../bib/_xdata_journals.bib}
+  \addbibresource{../bib/_xdata_publishers.bib}
+  \addbibresource{../bib/_xdata_series.bib}
+
+  % Collections and Shorthands
+  \addbibresource{../bib/_collections.bib}
+  \addbibresource{../bib/_djd.bib}
+  \addbibresource{../bib/__reference.bib}
+  \addbibresource{../bib/__hacks.bib}
+
+  % Chapters
+  \addbibresource{../bib/_01-rwb.bib}
+  \addbibresource{../bib/_02-memory.bib}
+  \addbibresource{../bib/_03-genesis_apocryphon.bib}
+  \addbibresource{../bib/_04-jubilees.bib}
+  \addbibresource{../bib/_05-chronicles.bib}
+
 \renewcommand{\foottextfont}{\setSpacing{1.5}\normalsize}
-%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
+
 \input{__macros.tex}
 
 \frontmatter
-\input{__frontmatter.tex}
+\input{_00_frontmatter.tex}
 
 \mainmatter
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 1: Rewritten Bible %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{refsection}
-  \input{_rewritten_bible/__index.tex}
-  \begin{SingleSpace}
-    \printbibliography
-  \end{SingleSpace}
-\end{refsection}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 2: Memory Theory %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{refsection}
-  \input{_memory/__index.tex}
-  \begin{SingleSpace}
-    \printbibliography
-  \end{SingleSpace}
-\end{refsection}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 3: Chronicles %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{refsection}
-  \input{_chronicles/__index.tex}
-  \begin{SingleSpace}
-    \printbibliography
-  \end{SingleSpace}
-\end{refsection}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 4: Genesis Apocryphon %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{refsection}
-  \input{_gen_apoc/__index.tex}
-  \begin{SingleSpace}
-    \printbibliography
-  \end{SingleSpace}
-\end{refsection}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Chapter 5: Jubilees %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{refsection}
-  \input{_jubilees/__index.tex}
-  \begin{SingleSpace}
-    \printbibliography
-  \end{SingleSpace}
-\end{refsection}
-%%%%%%%%%%%%%%%%%%%
-%%% Conclusions %%%
-%%%%%%%%%%%%%%%%%%%
-\begin{refsection}
-  \input{_conclusion/__index.tex}
-  \begin{SingleSpace}
-    \printbibliography
-  \end{SingleSpace}
-\end{refsection}
+\input{_01_rewritten_bible.tex}
+\input{_02_memory.tex}
+\input{_03_chronicles.tex}
+\input{_04_genesis_apocryphon.tex}
+\input{_05_jubilees.tex}
+\input{_06_conclusion.tex}
 
-% \nocite{*}
 \backmatter
 
-% Don't need full bib with chapter bibliographies
-% \begin{SingleSpace}
-%   \printbibliography[heading=bibintoc]
-% \end{SingleSpace}
+\begin{SingleSpace}
+  \printbibliography[heading=bibintoc]
+\end{SingleSpace}
 
 \chapter{Vita}
-\input{frontmatter/vita.tex}
+\input{_09_vita.tex}
 
 \end{document}
