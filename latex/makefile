@@ -1,4 +1,4 @@
-title = dissertation_draft
+title = dissertation
 
 default: full-build clean
 
