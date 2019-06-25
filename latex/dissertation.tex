@@ -48,6 +48,13 @@
 
 \renewcommand{\foottextfont}{\setSpacing{1.5}\normalsize}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% For deciding if all items have been cited
+% \DeclareBibliographyCategory{cited}
+% \AtEveryCitekey{\addtocategory{cited}{\thefield{entrykey}}}
+% \nocite{*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{document}
 
 \input{__macros.tex}
@@ -69,6 +76,10 @@
 
 \begin{SingleSpace}
   \printbibliography[heading=bibintoc]
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  % \printbibliography[heading=bibintoc,category=cited]
+  % \printbibliography[title={Not Cited},notcategory=cited]
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{SingleSpace}
 
 \chapter{Vita}
